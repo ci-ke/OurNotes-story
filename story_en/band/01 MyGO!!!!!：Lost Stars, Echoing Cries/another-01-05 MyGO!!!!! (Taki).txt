@@ -43,9 +43,9 @@ Taki: (It looked fun... I guess. Like they were free from something. Like nothin
 Taki: (And if I join a band, maybe I won't be compared to my sister anymore...)
 (Message) Sakiko: I have some ideas for the other members as well! I would very much like for us all to meet. Is there a day that works for you?
 (Background change)
-Taki: ...
-Taki: I remember how I felt... half "Why me...?" and half "If I play in a band, maybe..."
-Taki: After that... so many things happened.
+(Taki): ...
+(Taki): I remember how I felt... half "Why me...?" and half "If I play in a band, maybe..."
+(Taki): After that... so many things happened.
 (Background change)
 Taki: They were all such weirdos.
 Taki: I'd never been in a band before, so there was a lot I didn't know.

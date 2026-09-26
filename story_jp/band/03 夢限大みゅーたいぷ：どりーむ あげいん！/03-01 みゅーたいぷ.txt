@@ -139,21 +139,21 @@
 あられ: ねえねえ、おしゃべりって歌になるんだよ！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000196/data/adv_still_anime_000196/adv_still_anime_000196.webp)
 あられ: ぼくの歌で、みんなが喜んでくれたら――
-ビオラ: うるさっ！
+(ビオラ): うるさっ！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000194/data/adv_still_anime_000194/adv_still_anime_000194.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000195/data/adv_still_anime_000195/adv_still_anime_000195.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000196/data/adv_still_anime_000196/adv_still_anime_000196.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000197/data/adv_still_anime_000197/adv_still_anime_000197.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000198/data/adv_still_anime_000198/adv_still_anime_000198.webp)
-A: 人の言うこと全然聞かないらしい
-B: 自分の意見ごり押しで追い出されたって
-ビオラ: 少しは私の話も聞いてほしいな～
+(A): 人の言うこと全然聞かないらしい
+(B): 自分の意見ごり押しで追い出されたって
+(ビオラ): 少しは私の話も聞いてほしいな～
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000199/data/adv_still_anime_000199/adv_still_anime_000199.webp)
-B: 自分のことばっか、自業自得
-ビオラ: ちょっと黙っててくれる？
+(B): 自分のことばっか、自業自得
+(ビオラ): ちょっと黙っててくれる？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000200/data/adv_still_anime_000200/adv_still_anime_000200.webp)
-Ａ: 結局垢消しして逃亡か～
-Ｂ: 来世では幸せにね
+(Ａ): 結局垢消しして逃亡か～
+(Ｂ): 来世では幸せにね
 : 夢はパワー！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000197/data/adv_still_anime_000197/adv_still_anime_000197.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000198/data/adv_still_anime_000198/adv_still_anime_000198.webp)

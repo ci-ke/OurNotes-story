@@ -155,11 +155,11 @@
 ドロリス: ちがう
 モーティス: 死をあげる
 ドロリス: いらないっ！　愛でも恐れでも死でも悲しみでもなく！ 忘却だけが僕をこの苦しみから救ってくれる！
-オブリビオニス: ——本当に？
+??? (オブリビオニス): ——本当に？
 ドロリス: ？　この声……
-オブリビオニス: 忘却だけがこの地にきた理由？
+??? (オブリビオニス): 忘却だけがこの地にきた理由？
 ドロリス: まただ！　いつも聞こえてくるこの声
-オブリビオニス: ドロリス、お前の本当の願いは？
+??? (オブリビオニス): ドロリス、お前の本当の願いは？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp)
 ドロリス: ……っ！
@@ -174,11 +174,11 @@
 オブリビオニス: 幾度繰り返すのです？ 幾度忘却を与えても、あなたは楽園に戻ってくる
 ドロリス: 何を言って……ここに来たのは今日が初めてで……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000172/data/adv_still_anime_000172/adv_still_anime_000172.webp)
-ドロリス: 本当に？
+??? (ドロリス): 本当に？
 ドロリス: ！？
-ドロリス: 思い出せ、ドロリス。何度この地を訪れた
+??? (ドロリス): 思い出せ、ドロリス。何度この地を訪れた
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp)
-ドロリス: なぜオブリビオニスの名を知っている？ なぜお前は忘却を求める？
+??? (ドロリス): なぜオブリビオニスの名を知っている？ なぜお前は忘却を求める？
 ドロリス: ……ただ、会いたくて……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp)
 オブリビオニス: あなたはわたくしの騎士ではない

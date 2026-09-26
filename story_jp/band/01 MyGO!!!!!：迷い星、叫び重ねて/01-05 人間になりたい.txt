@@ -40,7 +40,7 @@
 燈: 人間になりたい
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
 燈: 祥ちゃんと出会ったのはそんな時だった——
-祥子: ダメですわ！！
+??? (祥子): ダメですわ！！
 (Background change)
 燈: う……
 祥子: いたた……大丈夫ですの？

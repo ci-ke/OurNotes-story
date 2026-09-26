@@ -72,7 +72,7 @@ Arale: Wait up! I'm coming~!
 Ritsu: !
 Arale: Sorry! A teacher held me up.
 Ritsu: Arale-cha...
-Viola: No fair, Ritsu~ Going behind my back like this.
+??? (Viola): No fair, Ritsu~ Going behind my back like this.
 Ritsu: ...!
 Ritsu: Wh-Why...?
 Viola: Huh? You're not happy to see me, Ritsu? That hurts my feelings~
@@ -234,7 +234,7 @@ Ritsu: Huh...?
 Ritsu: W-Where is that coming from...?!
 Ritsu: !
 (Message) Viola: The answer is...
-Viola: The answer is—
+??? (Viola): The answer is—
 Viola: "A model student would never do that."♡
 (Background change)
 Viola: Ritsuu~?

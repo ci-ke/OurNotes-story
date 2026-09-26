@@ -134,7 +134,7 @@ Mahoro: Oh... So, that's why we're "millsage"...? The French word for "thousand,
 Kanata: Corsage, a flower for celebration. millsage.
 Kanata: It's happiness I wanna share, more than we could ever hold in both hands.
 Mahoro: ...!
-Mahoro: Back then, my heart felt like it might overflow.
+(Mahoro): Back then, my heart felt like it might overflow.
 Kanata: Hey, Mahoro. Truth is, I...
 Kanata: I wanna enter Comet Rising.
 Mahoro: Huh...?
@@ -146,13 +146,13 @@ Kanata: I did!
 Kanata: Honestly, this is what made me wanna start a band in the first place.
 Kanata: How cool is that?!  The open-air stage, Mahoro! Suzuya Music Hall! The holy ground for bands!
 Kanata: Let's enter the next Comet Rising! Let's make our music ring out at Suzuya!
-Mahoro: I had let myself be content with what we already had.
+(Mahoro): I had let myself be content with what we already had.
 Mahoro: Huh~? Kanata, you really do spring things on people~ I think it's still a little early for us.
 Kanata: No way! millsage can do it! Today's school festival convinced me!
 Kanata: Suzuya Music Hall, huh? Not bad. That's a pretty good goal!
 Mahoro: But... You just said you were happy, Kanata. Then isn't it okay for things to stay the way they are?
 Kanata: Dreams gotta be big!
-Mahoro: I was afraid of flying higher than where we were.
+(Mahoro): I was afraid of flying higher than where we were.
 Mahoro: Then... next time! It doesn't have to be this one. Maybe the one after?
 Kanata: Uh...
 Mahoro: Yeah! Let's do that! By then, I'm sure we'll be even better and totally ready!
@@ -161,8 +161,8 @@ Kanata: Hmm... I guess so.
 Kanata: If that's what you think, Mahoro, then let's do that!
 Mahoro: Right, right! That's better.
 (Background change)
-Mahoro: I had no idea.
-Mahoro: That Kanata did not have much time left.
+(Mahoro): I had no idea.
+(Mahoro): That Kanata did not have much time left.
 (Background change)
 Mahoro: (Kanata's dream never came true...)
 Mahoro: (Because I never tried hard enough.)

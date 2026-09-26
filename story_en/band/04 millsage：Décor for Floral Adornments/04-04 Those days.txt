@@ -60,13 +60,13 @@ Hotaru: Mahoro-san...?
 Mahoro: Hotaru-chan, will you hear me out?
 Mahoro: About us, and Kanata... about everything millsage has been through. And about where we go from here.
 (Background change)
-Mahoro: Ever since we were little, it had always been the three of us: Kanata, Nagi-chan, and me.
-Mahoro: Kanata, always charging headfirst into everything with everything she had.
-Mahoro: Me, getting swept along in her wake and trying to keep up. Nagi-chan, somehow always going along with us in the end.
-Mahoro: I used to think... we were the ultimate trio of childhood friends.
-Mahoro: Most of the time, Kanata was so energetic, over-the-top, and foul-mouthed that you'd never believe she was sick...
-Mahoro: But sometimes, she'd be in the hospital for long stretches.
-Mahoro: In our third year of middle school, she was in the hospital for a really long time... I was so worried back then...
+(Mahoro): Ever since we were little, it had always been the three of us: Kanata, Nagi-chan, and me.
+(Mahoro): Kanata, always charging headfirst into everything with everything she had.
+(Mahoro): Me, getting swept along in her wake and trying to keep up. Nagi-chan, somehow always going along with us in the end.
+(Mahoro): I used to think... we were the ultimate trio of childhood friends.
+(Mahoro): Most of the time, Kanata was so energetic, over-the-top, and foul-mouthed that you'd never believe she was sick...
+(Mahoro): But sometimes, she'd be in the hospital for long stretches.
+(Mahoro): In our third year of middle school, she was in the hospital for a really long time... I was so worried back then...
 (Background change)
 
 [Two Years Ago]
@@ -138,13 +138,13 @@ Nagi: Yeah. My older sister used to practice basketball here... But nobody uses 
 Kanata: Nice! Practice space problem solved!
 Nagi: Happy to be of service.
 Mahoro: Ahaha. So... that leaves one more problem we need to solve, right?
-Natsume: What are you guys up to...?
+??? (Natsume): What are you guys up to...?
 Kanata: So? Feel like joining our band now?
-Natsume: Like hell I do! You dragged me all the way here by force!
+??? (Natsume): Like hell I do! You dragged me all the way here by force!
 Kanata: I mean, come on~ You were just up on the roof playing guitar all by yourself~
 Kanata: So obviously I had to invite you!
 Nagi: Kanata... You're skipping way too many steps.
-Natsume: What is her deal?! No matter how many times I told her to let go, she wouldn't listen! I'm going home.
+??? (Natsume): What is her deal?! No matter how many times I told her to let go, she wouldn't listen! I'm going home.
 Mahoro: I-I'm so sorry! Kanata caused you a lot of trouble...
 Mahoro: Um, your name is...
 Natsume: Natsume Izawa...
@@ -174,11 +174,11 @@ Mahoro: N-Nagi-chan, is this really okay...? Doesn't this feel kind of like a sh
 Nagi: It'll turn out however it turns out. This is Kanata we're talking about.
 Natsume: If by some miracle you manage to impress me, I might even consider joining your band.
 Natsume: Still, it's not like a genius guitarist like me could ever lose to some amateur like you.
-Mahoro: And after that jam-session showdown, there were four of us.
-Mahoro: From there, we practiced and practiced, and our first live was a huge success.
+(Mahoro): And after that jam-session showdown, there were four of us.
+(Mahoro): From there, we practiced and practiced, and our first live was a huge success.
 (Background change)
-Mahoro: Our first time playing at a live house, our first cheers, our first applause... Every bit of it made my heart race...
-Mahoro: I felt light and floaty, like something was gently tickling my heart.
+(Mahoro): Our first time playing at a live house, our first cheers, our first applause... Every bit of it made my heart race...
+(Mahoro): I felt light and floaty, like something was gently tickling my heart.
 (Background change)
 Kanata: Ready...
 Everyone: Cheeeers!!
@@ -227,4 +227,4 @@ Natsume & Mahoro: Whaaaat!?
 Nagi: She didn't even hesitate...
 Kanata: What? It's fine, isn't it? She seems pretty interesting!
 Houka: Thank you so much...! I promise I'll do my very best♡
-Mahoro: And that was how our band officially began as a five-piece.
+(Mahoro): And that was how our band officially began as a five-piece.

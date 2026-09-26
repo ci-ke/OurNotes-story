@@ -155,11 +155,11 @@ Timoris: How about fear?
 Doloris: It's not.
 Mortis: I offer death.
 Doloris: I don't need any of that! Not love, not fear, not death, not sorrow! Only forgetting can save me from this torment!
-Oblivionis: Really?
+??? (Oblivionis): Really?
 Doloris: ? This voice...
-Oblivionis: Is forgetting the only reason you came to this land?
+??? (Oblivionis): Is forgetting the only reason you came to this land?
 Doloris: It's happening again! This voice I always hear!
-Oblivionis: Doloris, your true wish is...
+??? (Oblivionis): Doloris, your true wish is...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp)
 Doloris: ...!
@@ -174,11 +174,11 @@ Doloris: Wait! Let me be your knight too! Grant me the blessing of forgetfulness
 Oblivionis: How many times must I tell you? No matter how many times I grant you forgetfulness, you always return to paradise.
 Doloris: What are you saying...? Today is the first time I've come here...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000172/data/adv_still_anime_000172/adv_still_anime_000172.webp)
-Doloris: Really?
+??? (Doloris): Really?
 Doloris: !?
-Doloris: Remember, Doloris. How many times have you visited this land?
+??? (Doloris): Remember, Doloris. How many times have you visited this land?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp)
-Doloris: Why do you know the name of Oblivionis? Why do you seek forgetfulness?
+??? (Doloris): Why do you know the name of Oblivionis? Why do you seek forgetfulness?
 Doloris: I just want to see her...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp)
 Oblivionis: You are no knight of mine.

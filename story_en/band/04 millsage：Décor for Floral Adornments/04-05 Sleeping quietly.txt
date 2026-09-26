@@ -3,8 +3,8 @@
 —Let's make this a night no one ever forgets!
 
 (Background change)
-Mahoro: After that, our noisy, chaotic days went on.
-Mahoro: Then summer came.
+(Mahoro): After that, our noisy, chaotic days went on.
+(Mahoro): Then summer came.
 (Background change)
 Kanata: I'm telling you, this phrase is way better! It'll get the crowd fired up at lives!
 Natsume: I don't care about getting the crowd fired up. I care about the song's artistry.
@@ -24,7 +24,7 @@ Houka: No...
 Houka: I think this hot-blooded side of Kanata-san is ever so lovely too♡
 Mahoro & Nagi: Ahaha... Aha...
 (Background change)
-Mahoro: Autumn came, and then winter.
+(Mahoro): Autumn came, and then winter.
 (Background change)
 Kanata: ...
 Natsume: What are we gonna do now...!? It's not even morning anymore—it's already noon!
@@ -52,8 +52,8 @@ Kanata: millsage
 Nagi: So... what's the meaning behind this "real" band name?
 Kanata: Yeah, so this is...
 (Background change)
-Mahoro: We laughed, had fun, and played lots of lives. They were special, yet ordinary days.
-Mahoro: The seasons kept turning. Before we knew it, we were in high school, and it had been a little over one year since we formed the band.
+(Mahoro): We laughed, had fun, and played lots of lives. They were special, yet ordinary days.
+(Mahoro): The seasons kept turning. Before we knew it, we were in high school, and it had been a little over one year since we formed the band.
 (Background change)
 Mahoro: Hotaru Shiomi-chan?
 Kanata: Yeah. I met her recently. She's seriously amazing on piano, y'know.
@@ -68,7 +68,7 @@ Natsume: Who knows? Maybe that's all she's actually got.
 Kanata: Nah, I can tell. Hotaru's the real deal when it comes to music.
 Kanata: I mean, she's my apprentice, after all.
 (Background change)
-Mahoro: Then came September of last year.
+(Mahoro): Then came September of last year.
 (Background change)
 
 [Minase Girls' Academy - Cultural Festival Stage]
@@ -106,10 +106,10 @@ Kanata: On drums, Houka Izumi!
 Kanata: And last but not least! On keyboard and vocals, Kanata Sawami!
 Kanata: Together, the five of us are millsage! Now let's get the music started!
 Kanata: Let's make this a night no one ever forgets!
-Mahoro: That was the last time... the five of us ever played live together.
-Mahoro: And then, just a few weeks later...
-Mahoro: On a clear autumn day,
-Mahoro: Kanata quietly passed away.
+(Mahoro): That was the last time... the five of us ever played live together.
+(Mahoro): And then, just a few weeks later...
+(Mahoro): On a clear autumn day,
+(Mahoro): Kanata quietly passed away.
 (Background change)
 Mahoro: ...
 Natsume: Why...? Why...!?

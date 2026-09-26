@@ -28,7 +28,7 @@
 
 にゃむ: ……
 (Background change)
-ネット記事: 人気ガールズバンドAve Mujicaが電撃解散！ 解散の理由について所属事務所はコメントを発表
+(ネット記事): 人気ガールズバンドAve Mujicaが電撃解散！ 解散の理由について所属事務所はコメントを発表
 アカウントA: 結局一曲も演奏しないで解散発表したってマジ？ エグすぎ
 アカウントB: 有給取って新幹線取ってホテル取って中止は泣く。 立ち直れん
 アカウントC: 解散つらいけど、睦ちゃん最後までヤバかった〜！ すごい叫んでたけど、大丈夫なのかな……？
@@ -70,7 +70,7 @@
 
 初華: ただいま〜。さきちゃん、プリン買ってきたよ。 さきちゃん……？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp)
-祥子: 初華へ　 　今までありがとう
+(祥子): 初華へ　 　今までありがとう
 初華: ……！！
 (Background change)
 (Background change)

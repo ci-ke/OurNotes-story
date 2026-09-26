@@ -155,11 +155,11 @@ Timoris：恐惧呢？
 Doloris：不是的
 Mortis：予你死亡
 Doloris：我不需要！爱不行，恐惧不行，死亡不行，悲伤也不行！ 唯有忘却，能够救赎我于这份痛苦之中！
-Oblivionis：——真的吗？
+？？？（Oblivionis）：——真的吗？
 Doloris：？这个声音……
-Oblivionis：唯有忘却，是你来此的理由吗？
+？？？（Oblivionis）：唯有忘却，是你来此的理由吗？
 Doloris：又来了！我总能听见这个声音
-Oblivionis：Doloris，你真正的愿望是？
+？？？（Oblivionis）：Doloris，你真正的愿望是？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp）
 Doloris：……！
@@ -174,11 +174,11 @@ Doloris：等等！让我也成为你的骑士吧！赐予我忘却的福音—�
 Oblivionis：你要重复多少次？ 无论我赐你忘却多少次，你都会回到乐园来
 Doloris：你在说什么……我今天是第一次来到这里……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000172/data/adv_still_anime_000172/adv_still_anime_000172.webp）
-Doloris：真的吗？
+？？？（Doloris）：真的吗？
 Doloris：！？
-Doloris：回想起来，Doloris。你来过这里多少次
+？？？（Doloris）：回想起来，Doloris。你来过这里多少次
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp）
-Doloris：为什么你知道Oblivionis的名字？ 为什么你会渴求忘却？
+？？？（Doloris）：为什么你知道Oblivionis的名字？ 为什么你会渴求忘却？
 Doloris：……我只是，想见到她……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp）
 Oblivionis：你并非我的骑士

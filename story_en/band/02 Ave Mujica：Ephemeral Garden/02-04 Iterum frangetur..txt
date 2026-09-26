@@ -174,8 +174,8 @@ Mutsumi: ...
 
 Sakiko: ...
 (Background change)
-Online Article: Ave Mujica Nationwide Tour First Day: A Huge Success! Praise for Mortis (Mutsumi Wakaba)'s Performance
-Online Article: The motionless Mortis looked just like a real "doll."
+(Online Article): Ave Mujica Nationwide Tour First Day: A Huge Success! Praise for Mortis (Mutsumi Wakaba)'s Performance
+(Online Article): The motionless Mortis looked just like a real "doll."
 Comment A: Mutsumi-chan's performance was amazing! I absolutely want to see it live on the nationwide tour!!
 (Background change)
 Sakiko: ...
@@ -248,7 +248,7 @@ Mortis: You don't want the band to fall apart, right? But if this continues, Mut
 Mortis: When you're feeling troubled, speak up! I'm so worried about Mutsumi-chan.
 Mutsumi: ...
 (Background change)
-Umiri: Wakaba-san, Wakaba-san.
+??? (Umiri): Wakaba-san, Wakaba-san.
 (Background change)
 Mutsumi: !
 Umiri: Wakaba-san, Are you listening?

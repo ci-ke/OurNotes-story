@@ -79,28 +79,28 @@ Kanata & Hotaru: "But I don't want to be a curse on them."
 (Background change)
 Hotaru: Haa... Haa... Haa...
 (Background change)
-Kanata: "I saw a news story about the annual suicide statistics and things like that."
-Kanata: "Life isn't fair at all. Nothing at all is equal."
-Kanata: "Hey, please, someone."
-Kanata: "I promise I won't waste it. I'll do anything."
-Kanata: "I'm begging you."
-Kanata: "Give that life to me."
+(Kanata): "I saw a news story about the annual suicide statistics and things like that."
+(Kanata): "Life isn't fair at all. Nothing at all is equal."
+(Kanata): "Hey, please, someone."
+(Kanata): "I promise I won't waste it. I'll do anything."
+(Kanata): "I'm begging you."
+(Kanata): "Give that life to me."
 (Background change)
 Hotaru: ...
 (Background change)
-Kanata: "10/9"...
-Kanata: "My story. A life with me at the center."
-Kanata: "But even if I'm gone, the world will keep turning." "Everyone's stories will go on."
+(Kanata): "10/9"...
+(Kanata): "My story. A life with me at the center."
+(Kanata): "But even if I'm gone, the world will keep turning." "Everyone's stories will go on."
 (Background change)
-Kanata: "millsage. Will it end? Will it go on?"
-Kanata: "Ah, but I hate it. The thought of someone other than me at the center."
-Kanata: "It makes me sick."
+(Kanata): "millsage. Will it end? Will it go on?"
+(Kanata): "Ah, but I hate it. The thought of someone other than me at the center."
+(Kanata): "It makes me sick."
 (Background change)
 Hotaru: ...!
 (Background change)
-Kanata: "millsage. My happiness."
-Kanata: "At least millsage..."
-Kanata: "Burn it along with my coffin."
+(Kanata): "millsage. My happiness."
+(Kanata): "At least millsage..."
+(Kanata): "Burn it along with my coffin."
 (Background change)
 Hotaru: ...
 Hotaru: Ah... Aah...

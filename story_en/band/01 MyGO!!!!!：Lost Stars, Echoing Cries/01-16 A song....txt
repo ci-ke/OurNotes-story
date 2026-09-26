@@ -152,37 +152,37 @@ Tomori: "My mouth grows empty. I thirst for words."
 (Background change)
 Tomori: "What should I do...?"
 (Background change)
-Uika: That's dangerous!
+??? (Uika): That's dangerous!
 Tomori: ...?
-Uika: There're stairs ahead. If you space out, you might miss a step.
+??? (Uika): There're stairs ahead. If you space out, you might miss a step.
 Tomori: Ah...
-Uika: Are you all right?
+??? (Uika): Are you all right?
 Tomori: What...?
-Uika: It looked to me like you were about to cry.
+??? (Uika): It looked to me like you were about to cry.
 Tomori: ...
-Uika: Even in the city, you can see the North Star.
-Uika: I thought I wouldn't be able to see the stars in Tokyo, so I was surprised the first time I spotted it.
+??? (Uika): Even in the city, you can see the North Star.
+??? (Uika): I thought I wouldn't be able to see the stars in Tokyo, so I was surprised the first time I spotted it.
 (Background change)
 Tomori: That's the Ursa Major.
 Tomori: The North Star is in Ursa Minor... It's there.
-Uika: You found it quickly.
+??? (Uika): You found it quickly.
 (Background change)
 Tomori: Oh, I have a constellation book with me now.
-Uika: Will you show me?
+??? (Uika): Will you show me?
 Tomori: Here...
-Uika: ? Something fell out of your bag.
-Uika: This is a notebook...?
+??? (Uika): ? Something fell out of your bag.
+??? (Uika): This is a notebook...?
 Tomori: What's wrong?
-Uika: Sorry. I accidentally saw a bit of your notebook.
-Uika: "Because I couldn't say anything. Once again... I couldn't become human."
+??? (Uika): Sorry. I accidentally saw a bit of your notebook.
+??? (Uika): "Because I couldn't say anything. Once again... I couldn't become human."
 Tomori: ...
-Uika: This is like a song.
+??? (Uika): This is like a song.
 Tomori: What...?
-Uika: When you sing, it feels like it reaches people, right? Even things you have a hard time saying... more than words, the feeling gets through.
+??? (Uika): When you sing, it feels like it reaches people, right? Even things you have a hard time saying... more than words, the feeling gets through.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000056/data/adv_still_anime_000056/adv_still_anime_000056.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000057/data/adv_still_anime_000057/adv_still_anime_000057.webp)
 Tomori: ...
-Uika: Well then, I'm leaving now. I hope your feelings get through.
+??? (Uika): Well then, I'm leaving now. I hope your feelings get through.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp)
 (Caption): Tiny me Always a mess People's voices are too far to hear I don't understand the feelings of those nearby I am not human The world is so far away from me Going round and round a lonely planet Even if I stretched as tall as I could I couldn't become human [I couldn't reach] The warm spring spots were erased by the summer sun Those days were crushed against the asphalt Dried up like a lizard I want to stay as a pill bug hiding under a rock I don't want anyone to find me anymore
 Tomori: A song...
