@@ -25,7 +25,7 @@
 愛音: え、そよさんと会ったの？ ちょっと、呼んでよ！？
 燈: そよちゃん、なんて……
 立希: ……あいつは……
-燈: ！
+燈 & 愛音 & 立希: ！
 海鈴: お待たせしました。 お取り込み中なら、出直しましょうか？
 立希: ……必要ない。話はもう終わり
 愛音: ちょっと、待ってよ……！
@@ -60,7 +60,7 @@
 愛音: 何それ、じゃありっきーが勝手に新しい人連れてきたの？ おかしくない？　ちゃんとそよさんに――
 立希: あいつは新しいバンドなんかやるつもりなかった！
 立希: 全部、CRYCHICを復活させるためにやってたんだよ！
-燈: ……！ ……
+燈 & 愛音: ……！ ……
 立希: あいつ、お前も楽奈もいらないって…… 燈と私を繋ぎ止めるために利用したんだよ！
 愛音: …………っ
 (Background change)
@@ -88,7 +88,7 @@
 愛音: 私、いらないんでしょ
 燈: ！　愛音ちゃん……
 愛音: 燈ちゃんは、そよさんとCRYCHICやりなよ
-燈: …………
+燈 & 立希: …………
 燈: もう、やだ……
 (Background change)
 燈: バンドなんて、やりたくなかった……
@@ -184,11 +184,11 @@
 燈: …………
 初華: それじゃ、もう行くね。 気持ち、伝わるといいね
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp)
+(Caption): ちっぽけな僕 いつもぐちゃぐちゃ ひとのこえは遠くて聞こえない ちかくのひとの気持ちもわからない 僕はにんげんじゃありません 僕には世界がとおくて、 ひとりぼっちの星をぐるぐるぐるぐる 精一杯背伸びしたって 人間になれなかった 春の陽だまりは、夏の日差しにかき消されて あの日々はアスファルトにつぶれた トカゲのように 干からびてしまった 石の下に隠れたダンゴムシのままでいたい もうだれにも見つけてほしくない
 燈: うた……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp)
+(Caption): たいせつなひとに伝えた 言葉にならない声を うた 詩
 燈: これはうただ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp)
 (Background change)
 
 [羽丘女子学園 1-A教室]

@@ -53,20 +53,17 @@
 愛音: この学校の中心にいるのは、 自分なんじゃないかって気がしたんだよね
 愛音: けど、実際はうまくいきすぎてるだけで、 自分が見えてなかったんだと思う
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000042/data/adv_still_anime_000042/adv_still_anime_000042.webp)
+(Caption): 出発便ご案内 出発（北口）
 愛音: 英語が得意だったから、 留学しちゃえって勢いで日本を飛び出したけど、 想像してたのと全然違ってさ
 愛音: イギリスでも中学の時みたいに、 学校の中心にいる子になれると思ってたんだけど……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000042/data/adv_still_anime_000042/adv_still_anime_000042.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000001/data/adv_still_anime_000001/adv_still_anime_000001.webp)
 愛音: 実際には自己紹介からつまずいちゃってさ。 思ってることの半分も話せなくって……
 愛音: それに、みんな意識が高くて、 将来のビジョンがあって、そのために留学してて……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000001/data/adv_still_anime_000001/adv_still_anime_000001.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000043/data/adv_still_anime_000043/adv_still_anime_000043.webp)
 愛音: よくわかんない自信と勢いだけで 留学した自分がすごく場違いだった
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000043/data/adv_still_anime_000043/adv_still_anime_000043.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000044/data/adv_still_anime_000044/adv_still_anime_000044.webp)
 愛音: 結局、学校の中心どころか、仲間にも入れなくて。 日本に戻ってきたんだ
 燈: …………
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000044/data/adv_still_anime_000044/adv_still_anime_000044.webp)
 愛音: さっき会ったの、中学の友達でね。 制服着てたから、留学失敗したのバレちった
 愛音: 逃げてばっかの人生だよ。 やり直そうと思ったけど……私、もう終わったな
 燈: 終わってない……！
@@ -77,8 +74,8 @@
 愛音: えっ、ちょっと……どこ行くの？
 燈: これ
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000045/data/adv_still_anime_000045/adv_still_anime_000045.webp)
+(Caption): 逃げてない 逃げ道？ 逃げ 迷子…
 愛音: 『逃げてもいい』『迷子』……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000045/data/adv_still_anime_000045/adv_still_anime_000045.webp)
 燈: ……愛音ちゃんは進んでる。 行き止まりになっても、ちゃんと道を探して…… 進もうとして……
 燈: 私のことも、引っ張って……バンドができて。 進んでも、終わりじゃないんだって……
 燈: 私も…… 私も……迷ってても、進みたい……
@@ -90,14 +87,13 @@
 (Background change)
 立希: …………
 そよ: ……どこまで、行っちゃったんだろうね
-そよ: ……あ
-愛音: …………
+そよ & 立希: ……あ
+愛音 & 燈: …………
 燈: あの……
 燈: ……！
 愛音: 私たち……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000006/data/adv_still_charaillust_000006/adv_still_charaillust_000006.webp)
 愛音: ライブする！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000006/data/adv_still_charaillust_000006/adv_still_charaillust_000006.webp)
 (Background change)
 
 [RiNG スタジオ]
@@ -125,7 +121,7 @@
 そよ: ふふ、燈ちゃんの新曲なんて、 初ライブにちょうどいいじゃない
 そよ: ……ねえ、立希ちゃん。 これは、燈ちゃんが書いてくれた、新しい私たちの歌なんだよ？
 立希: ……わかった。曲は私が書く
-そよ: えっ？ え？
+そよ & 燈 & 愛音: えっ？ え？
 そよ: 立希ちゃん、作曲もできるの？
 立希: まだ勉強中だけど、 燈が書いてきたんだから、私がやる
 (Background change)
@@ -159,7 +155,7 @@
 立希: サボった
 そよ: えっ？
 立希: ……曲、作ってきた
-燈: えっ！
+燈 & 愛音: えっ！
 そよ: もう！？ 立希ちゃんすごい！
 愛音: マジ？
 立希: スマホに入れてきたから、聴いて。 ……いい？
@@ -173,19 +169,19 @@
 燈: うん……がんばる
 立希: ……！　そっか…… 気に入ってくれてよかった
 立希: じゃ、グループに楽譜送るから、 さっそく練習――
-立希: ……っ？
+立希 & そよ & 燈 & 愛音: ……っ？
 楽奈: ……いた
 立希: あ、野良猫！ 何しに来たの……！？
 楽奈: バンドやる
 立希: お前のパートないけど
 楽奈: いい、やる
-立希: ……！
+立希 & そよ & 燈 & 愛音: ……！
 立希: マジか……
 そよ: ちょっと楽譜を見ただけで、 こんなアレンジできちゃうんだ……
 愛音: うぅ……やっぱりこの子、ギターうまい……
 楽奈: 弾けた。バンドやろ
 愛音: で、でも、この子のパートはないんでしょ？ りっきーだって、曲作り終わったばっかで……
 立希: いや……今の入れて作り直す
-そよ: えっ！？
+そよ & 愛音: えっ！？
 立希: 野良猫…… 明日からの練習、毎日来て
 楽奈: ……

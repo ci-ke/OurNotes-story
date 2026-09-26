@@ -6,10 +6,8 @@ Some people in the real world can't be saved by light!!
 Arale: (Miyako-san might be like the old me.)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000195/data/adv_still_anime_000195/adv_still_anime_000195.webp)
 Arale: (I met Viola, and I felt like things were going well... And then suddenly I was treated like the bad guy.)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000195/data/adv_still_anime_000195/adv_still_anime_000195.webp)
 Arale: (Everything stopped making sense.)
 Arale: (So, probably...)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000195/data/adv_still_anime_000195/adv_still_anime_000195.webp)
 (Background change)
 Miyako: She truly understands me, she's the best fan ever!
 (Background change)
@@ -31,8 +29,10 @@ Arale: And Miyako-san the God!
 (Background change)
 Arale: Umm... We're the best!
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_ichibannohikari_yumemita_08/adv_movie_ichibannohikari_yumemita_08/adv_movie_ichibannohikari_yumemita_08.mp4)
+(Caption): 夢みた8話　『一番のひかり』演奏シーン
 (Background change)
-Nonoka: <size=175%>Nice~~!
+Nonoka: Nice~~!
 Nonoka: Arale-chan's lyrics are great too~
 Arale: Hehehe, thanks.
 Arale: But personally, I feel like I'd like to stabilize the last part a little more, you know!
@@ -50,20 +50,20 @@ Miyako: ...
 Yuno: Can I have a moment?
 Miyako: !! Wh-What is it...?
 Yuno: I think we could add a little more to the interlude. Now that we have two guitarists, it'll get buried in the mix if we leave it as is.
-Miyako: <size=75%>Oh, that's what you meant...
+Miyako: Oh, that's what you meant...
 Yuno: ?
 Miyako: No, never mind. I'll think about it.
 Yuno: Mm, thanks.
-Nonoka: <size=150%>Yuuuuuuuunoooooooooo chaaaaaan!!!
-Yuno: <size=150%>Wa!
+Nonoka: Yuuuuuuuunoooooooooo chaaaaaan!!!
+Yuno: Wa!
 Nonoka: What about Nono-chan~?
 Yuno: Ahh... Even for a lead part, it was way too wild.
 Nonoka: Hehe. My inner animal came out.
 Yuno: Listen more to the rhythm guitarist.
 Nonoka: Hmm, that's tough. 'Cause Nono-chan's been playing it solo up till now~
 Ritsu: If you ask, I'll practice with you anytime.
-Nonoka: <size=150%>Ricchaaaaaaaaaaaan!!
-Ritsu: <size=150%>Ugh!
+Nonoka: Ricchaaaaaaaaaaaan!!
+Ritsu: Ugh!
 Yuno: That sounds good.
 Yuno: The way everything gradually locks into place is the real thrill of being in a band.
 Nonoka: ...
@@ -89,7 +89,6 @@ Miyako: No... Dwelling on "what ifs" is just making excuses. That was my own dec
 Miyako: They're just playing nice without getting to the core! They should just say, "It's all Miyako Fuji's fault!"
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000250/data/adv_still_anime_000250/adv_still_anime_000250.webp)
 Miyako: And Arale-san is totally different in person compared to her videos...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000250/data/adv_still_anime_000250/adv_still_anime_000250.webp)
 (Background change)
 Miyako: Viola-san...
 (Background change)
@@ -147,15 +146,15 @@ Nonoka: ...
 Miyako: Your position is not there, you know.
 Nonoka: I am a guitarist.
 Nonoka: So...
-Nonoka: <size=175%>I will express it through sounds!
+Nonoka: I will express it through sounds!
 Arale: Su... Su-su-su-su-su...!
-Arale: <size=150%>Super Recovery...!
+Arale: Super Recovery...!
 Nonoka: How's it...?
 Arale: Even if you ask me...
 Nonoka: I name it... "The Song of Giving Hanamaru"!
 Nonoka: It's a song that goes, "Nobody is wrong, and everyone is already amazing just for being alive!"
 Nonoka: So, Miyako-chan, don't worry about the bad stuff. Let's have fun playing in the band!
-Ritsu: ...
+Ritsu & Arale & Nonoka: ...
 Miyako: Are you serious...?
 Nonoka: Huh?
 Miyako: So I'm not wrong, even though I'm the one who caused all this online backlash and is currently causing everyone so much trouble?
@@ -170,18 +169,18 @@ Miyako: Am I the bad guy just because I won't go along with your cheerfulness!?
 Miyako: In reality, there are people who can't be saved by light!!
 Nonoka: !
 Miyako: You say all the right things, but I hate myself for not being that kind of decent person, so much that I can't help but take it out on others...
-Miyako: <size=150%>Someone like me...
+Miyako: Someone like me...
 Nonoka: Miyako-cha...
 Miyako: I know!! I know you didn't mean any harm! And I'm the one who's wrong!
 Miyako: So please, never speak to me again...!
-Miyako: <size=150%>I! I really hate you!!
-Ritsu: ...
+Miyako: I! I really hate you!!
+Ritsu & Arale: ...
 Arale: Ah, Yuno-san-chan—
 Yuno: I'm quitting the band.
-Ritsu: Huh?
+Ritsu & Arale: Huh?
 Ritsu: Yuno-sa...
 Arale: Huh...
-Arale: <size=175%>Huh~~~~~~~~!!!?????
+Arale: Huh~~~~~~~~!!!?????
 Nonoka: ...?
 Arale: D-D-Didn't Yuno-san-chan say she's quitting the band!??
 Ritsu: Y-Yeah...!
@@ -192,19 +191,19 @@ Ritsu: Then, I'll call Ms. Manager...
 Arale: Umm... Waaah! Please answer the phone~!!
 Ritsu: ...
 (Background change)
-(message) Arale: Yuno-san-chaaaaaaaaaaaaaaaaaaaaaaaaan!
-(message) Arale: You said you're quitting the band. Did you mean MewType!?
+(Message) Arale: Yuno-san-chaaaaaaaaaaaaaaaaaaaaaaaaan!
+(Message) Arale: You said you're quitting the band. Did you mean MewType!?
 Yuno: ...
 Yuno: *Sigh*...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000251/data/adv_still_anime_000251/adv_still_anime_000251.webp)
+(Caption): Lyrics: koharu Composition: Yuno Sengoku
 Yuno: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000251/data/adv_still_anime_000251/adv_still_anime_000251.webp)
 Yuno: Why...
 (Background change)
 
 [The Next Day]
 
-Arale: <size=175%>Yuno-san-chaaaaaaaaaaaaaaaaan!!!!
+Arale: Yuno-san-chaaaaaaaaaaaaaaaaan!!!!
 Arale: Where did you go~!?
 Ritsu: I can't contact her since yesterday...
 Nonoka: Umm. What's going on...?
@@ -214,7 +213,7 @@ Arale: Ms. Manager! Y-Y-Y-Y-Y-Y-Yuno-chan-chan-san...! She's q-q-q-quitting MewT
 Manager: I've heard what happened. It's about Sengoku-san, right?
 Arale: Mmh, mmh, mmh!
 Manager: Umm, but she'll probably come back in a couple of days.
-Ritsu: What? Huh?
+Ritsu & Arale: What? Huh?
 (Background change)
 Manager: Sengoku-san has always been like that.
 Manager: Rather than provoking her unnecessarily right now, I think it's better to just stay calm and wait.
@@ -224,18 +223,18 @@ Arale: I-I'll stay too, no rush...
 Manager: So that's how it is! So everyone, let's change our mindset...
 Arale: ...
 Manager: I know it's not that simple... But there is some good news, too.
-Manager: <size=150%>Guess what!
-Manager: <size=150%>MewType's very first tie-up has been confirmed!
+Manager: Guess what!
+Manager: MewType's very first tie-up has been confirmed!
 Manager: It's the ending theme song for the currently streaming program "Sakidori Culture!" for June!
 Arale: Ending...
 Manager: We've only done one live show, but thanks to the online backlash, we've got a ton of followers.
 Manager: That's real buzzworthiness!
 Manager: Let's turn them into real fans! That's the spirit we need!
-Ritsu: ...
-Manager: <size=150%>Let's do this!
-Ritsu: Oh...
-Manager: <size=175%>Let's do this!!!!!!!
-Ritsu: <size=175%>Oh, yeah!
+Ritsu & Arale & Nonoka: ...
+Manager: Let's do this!
+Ritsu & Arale & Nonoka: Oh...
+Manager: Let's do this!!!!!!!
+Ritsu & Arale & Nonoka: Oh, yeah!
 Nonoka: ...
 Miyako: Uh, um...
 Nonoka: !
@@ -249,15 +248,15 @@ Nonoka: ...
 (Background change)
 Nonoka: Is Nono-chan shiny? Or smooth...?
 Nonoka: I wonder what kind of flowers are blooming in the flower field...?
-(message) Nonoka: Is Nono-chan shiny?
-(message) Nonoka: Or smooth...?
-(message) Nonoka: I wonder what kind of flowers are blooming in the flower field...?
+(Message) Nonoka: Is Nono-chan shiny?
+(Message) Nonoka: Or smooth...?
+(Message) Nonoka: I wonder what kind of flowers are blooming in the flower field...?
 Nonoka: ...
 (Background change)
 Miyako: So please, never speak to me again...!
-Miyako: <size=150%>I! I really hate you!!
+Miyako: I! I really hate you!!
 (Background change)
-(message) Nonoka: Is hate the farthest thing from love...?
+(Message) Nonoka: Is hate the farthest thing from love...?
 Nonoka: Yuno-chan...
 Nonoka: !
 Nonoka: The tie-up details from Ms. Manager...
@@ -265,12 +264,14 @@ Nonoka: Mm! Lyrics: koharu...
 Nonoka: The former bandmate of Yuno-chan...?
 Nonoka: I wonder why Yuno-chan quit the band...
 (Background change)
-(message) Manager: If the band activities are really tough for you, from the company's side, we're fine with you focusing on providing songs.
-(message) Manager: Just rest your mind for now. I've sent you the lyrics data.
+(Message) Manager: If the band activities are really tough for you, from the company's side, we're fine with you focusing on providing songs.
+(Message) Manager: Just rest your mind for now. I've sent you the lyrics data.
 Yuno: (I won't be in a band anymore. So I must write songs as my job...)
 Yuno: (Lyrics...)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000252/data/adv_still_anime_000252/adv_still_anime_000252.webp)
+(Caption): koharu The Image we envisioned that day Is a blend of our own unique colors
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000253/data/adv_still_anime_000253/adv_still_anime_000253.webp)
+(Caption): nothing but fascinating dreams
 Yuno: (Dreams...)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000252/data/adv_still_anime_000252/adv_still_anime_000252.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000253/data/adv_still_anime_000253/adv_still_anime_000253.webp)
@@ -316,11 +317,11 @@ Arale: Not at all...
 Miyako: ...
 Arale: Not a bit... Ugh...
 Miyako: It's my fault.
-Arale: <size=150%>Huh!??
+Arale: Huh!??
 Miyako: In this situation, anything could become fuel for the backlash.
 Miyako: If I hadn't suggested the live show, MewType wouldn't have gotten flamed, and the feud rumors—
 Arale: No! The backlash isn't your fault, Miyako-san! For me, it's absolutely not your fault at all!
-Miyako: <size=175%>!
+Miyako: !
 (Background change)
 Arale: And I'd say it's the worst, too.
 (Background change)
@@ -335,7 +336,7 @@ Arale: You think so too, right?
 (Background change)
 Miyako: ...
 Ritsu: Arale-chan is right, Miyako-san, it's not your fault—
-Miyako: <size=150%>Please stop!
+Miyako: Please stop!
 Ritsu: !
 Miyako: P-Please don't try to force everything through to suit your own convenience!
 Miyako: And yet you completely avoid the important issue, just glossing over it to keep the peace! It's lukewarm and incredibly uncomfortable!

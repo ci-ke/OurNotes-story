@@ -20,7 +20,6 @@
 
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000020/data/adv_still_charaillust_000020/adv_still_charaillust_000020.webp)
 立希: …………はぁ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000020/data/adv_still_charaillust_000020/adv_still_charaillust_000020.webp)
 (Background change)
 祥子: どうしましたの？
 立希: ……
@@ -116,9 +115,9 @@
 燈: あの、私も。 私も何か……
 そよ: ……手伝えることあるかな？ みんなでやればできるんじゃない？
 立希: ……私じゃ、頼りないってこと？
-そよ: え……？
+そよ & 燈: え……？
 そよ: そんなこと、言ってない――
 立希: 私は、祥子みたいにはできないんだよ！！
-燈: ……！？
+燈 & 愛音: ……！？
 そよ: 立希ちゃん……
 立希: …………

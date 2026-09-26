@@ -2,37 +2,39 @@
 
 ぼくの歌で、みんなが喜んでくれたら――
 
-arale: 〜〜〜〜〜っ！！
-nonoka: スイ～
-nonoka: ふわ〜
-nonoka: ん〜〜？
-nonoka: マネージャーさん遅いね～
-manager: お待たせぇ！
-arale: ぴゃぁああぁぁ！
-arale: はじめましてっ
-arale: 神田白八馬アカデミー1年B組入学予定仲町あられです！
-arale: 本日は所属クリエイターの親睦会という名の顔合わせ会ということで
-arale: オヨビダテいただき誠に光栄のいたりでございまして
-arale: いろいろとご迷惑をお掛けすることもあるかと思いますが
-arale: 何卒よろしくお願いいたしまままままままま
-yuno: バグ？
-manager: 仲町さん落ち着いて
-nonoka: しんこきゅ～
-manager: そうね、深呼吸しましょう
-everyone: ふぅ～、はぁ～
-yuno: なんで？
-manager: うん、イイネ～。ヨッ、みゅーたいぷ！
-arale: みゅ？
-yuno: 何それ？
-manager: あ、スマン。こっちが先だった
-manager: 今日からあなたたちはみゅーたいぷ！
-yuno: は？
-arale: みゅ～？　たいぷ、とは？
-nonoka: 新しいゆ～ま？
-manager: なわけ！　グループ名に決まってるでしょ！
-arale: ぐる……？
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_formation_mewtype_yumemita_01/adv_movie_formation_mewtype_yumemita_01/adv_movie_formation_mewtype_yumemita_01.mp4)
+(Caption): 夢みた1話　みゅーたいぷ結成シーン
+(Subtitle) arale: 〜〜〜〜〜っ！！
+(Subtitle) nonoka: スイ～
+(Subtitle) nonoka: ふわ〜
+(Subtitle) nonoka: ん〜〜？
+(Subtitle) nonoka: マネージャーさん遅いね～
+(Subtitle) manager: お待たせぇ！
+(Subtitle) arale: ぴゃぁああぁぁ！
+(Subtitle) arale: はじめましてっ
+(Subtitle) arale: 神田白八馬アカデミー1年B組入学予定仲町あられです！
+(Subtitle) arale: 本日は所属クリエイターの親睦会という名の顔合わせ会ということで
+(Subtitle) arale: オヨビダテいただき誠に光栄のいたりでございまして
+(Subtitle) arale: いろいろとご迷惑をお掛けすることもあるかと思いますが
+(Subtitle) arale: 何卒よろしくお願いいたしまままままままま
+(Subtitle) yuno: バグ？
+(Subtitle) manager: 仲町さん落ち着いて
+(Subtitle) nonoka: しんこきゅ～
+(Subtitle) manager: そうね、深呼吸しましょう
+(Subtitle) everyone: ふぅ～、はぁ～
+(Subtitle) yuno: なんで？
+(Subtitle) manager: うん、イイネ～。ヨッ、みゅーたいぷ！
+(Subtitle) arale: みゅ？
+(Subtitle) yuno: 何それ？
+(Subtitle) manager: あ、スマン。こっちが先だった
+(Subtitle) manager: 今日からあなたたちはみゅーたいぷ！
+(Subtitle) yuno: は？
+(Subtitle) arale: みゅ～？　たいぷ、とは？
+(Subtitle) nonoka: 新しいゆ～ま？
+(Subtitle) manager: なわけ！　グループ名に決まってるでしょ！
+(Subtitle) arale: ぐる……？
 (Background change)
-あられ: <size=150%>えぇ〜〜〜〜〜〜〜っ！？！？
+あられ: えぇ〜〜〜〜〜〜〜っ！？！？
 マネージャー: 仲町あられ！
 あられ: ！
 マネージャー: 宮永ののか！
@@ -40,7 +42,7 @@ arale: ぐる……？
 マネージャー: 千石ユノ！
 ユノ: ……
 マネージャー: 藤都子！
-都子: <size=150%>わ゛！？</size>　たしも！？　ですか！！？
+都子: わ゛！？　たしも！？　ですか！！？
 マネージャー: そう！　みんな揃って～…… みゅーたいぷ！
 あられ: ぴぇえええ～～～～～～～～～っ！！？？？
 ののか: 楽しみだね～
@@ -49,7 +51,7 @@ arale: ぐる……？
 マネージャー: いーえっ！　契約書に書いてある！ 応接室で赤線引っ張りながら説明した記憶あるよ！
 ユノ: ……ああ
 都子: あの時は……徹夜続きで意識が……
-マネージャー: <size=150%>契約…… </size> <size=200%>なめんな～～～～～～っ！！ </size>
+マネージャー: 契約……  なめんな～～～～～～っ！！ 
 あられ: あ、あの～……
 マネージャー: ん？
 あられ: わたし、グループは…… う゛っ、いろいろっ
@@ -58,27 +60,26 @@ arale: ぐる……？
 マネージャー: あぁ、安心して！
 マネージャー: 『グループ』じゃなくて『バ・ン・ド』だから 大丈夫！
 あられ: あっ、バンドか～。だったら～……
-あられ: って、 <size=150%>ちが～～～～～～～うんですよ！ </size>
+あられ: って、 ちが～～～～～～～うんですよ！ 
 マネージャー: うん、だからグループとは違うでしょって
 あられ: いやっ、違くなくて～～～～！ バンドでもグループで活動するのは同じじゃないですかっ！
 ユノ: その子に同感
 都子: ……
 ユノ: バンドとかもういいんだけど、 あたしたちがやらなくてももうたくさんあるでしょ
-都子: うんうんうんうんうんうんうんっ
+都子 & あられ: うんうんうんうんうんうんうんっ
 ユノ: なに、こわっ
 マネージャー: は～、やれやれ。自分たちの価値わかってないわ～。 このメンツでバンド組むって勝ち確なんだけど？
 (Background change)
 マネージャー: 藤さん以外は個人チャンネルでそこそこ視聴者持ってるし、 宮永さんは弾いてみたで億バズ
-あられ: <size=150%>億！！！？？
+あられ: 億！！！？？
 ののか: はりゃ？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000191/data/adv_still_anime_000191/adv_still_anime_000191.webp)
 ののか: うーさーぎーおーいし かーのーやーまー♪
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000191/data/adv_still_anime_000191/adv_still_anime_000191.webp)
 あられ: わはっ！　うさイーターちゃんだ～～
 ユノ: これ宮永さんなの？
 ののか: ののちゃん５歳！
-あられ: <size=150%>え゛！！？
+あられ: え゛！！？
 あられ: わ～～っ！　全人類が１再生はした『うさイーターちゃん』！ 生きるネットミームにお会いできるなんて！ すごぅい！！
 ののか: え～
 ののか: あられちゃんも動画上げてるよね？
@@ -105,31 +106,29 @@ arale: ぐる……？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000192/data/adv_still_anime_000192/adv_still_anime_000192.webp)
 マネージャー: 合同練習はこのスケジュールの通り！ 空いてるところで個人練もよろしくね！
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000192/data/adv_still_anime_000192/adv_still_anime_000192.webp)
 あられ: ……
 ののか: ののちゃんギタ～
 都子: キー……ボード……
 マネージャー: 個人チャンネルの動画投稿で繋いでいる間に バンド練習がんばってもらって、それからライブだね
-都子: <size=150%>ライブ！？？？！！？
+都子 & あられ: ライブ！？？？！！？
 マネージャー: １曲はオリジナルやりたいから、 曲作りも同時並行でがんばろう！
 あられ: わわわわわたし顔出しは――
 マネージャー: 作曲は千石さん、作詞は仲町さんかな。 じゃあこれからがんばろー！
-あられ: <size=200%>むむむりりりりりりりりりりりイ！！！！
+あられ: むむむりりりりりりりりりりりイ！！！！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000193/data/adv_still_anime_000193/adv_still_anime_000193.webp)
 (Background change)
 
 [仲町家 あられの部屋]
 
 あられ: ――……
-あられ: <size=80%>バンド……ライブ……
-あられ: <size=150%>どっちもムリムリだよ～～～～！！
+あられ: バンド……ライブ……
+あられ: どっちもムリムリだよ～～～～！！
 あられ: 人前に立つのもムリだし、 顔出しはもっとムリぃいいい～～～～！！！
 あられ: 歌うだけだと思ったのに～～～～～～っ
 あられ: うう、明日から高校始まるのに 気が重いなぁ……！
 あられ: はぁ～……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000294/data/adv_still_anime_000294/adv_still_anime_000294.webp)
 あられ: ……あ！　もしかして……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000294/data/adv_still_anime_000294/adv_still_anime_000294.webp)
 あられ: 歌わなかったらバンドしなくていい！？
 あられ: そしたらライブも！　顔出しもしなくてすむのでは！ 天才かも～～～～！！
 あられ: ふっふっふ！ しばらく歌うのやーめっ！

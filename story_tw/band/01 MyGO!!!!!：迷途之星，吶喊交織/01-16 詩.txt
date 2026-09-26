@@ -25,7 +25,7 @@
 愛音：咦？妳見到爽世同學了嗎？ 怎麼不找我們去！？
 燈：小爽怎麼說……
 立希：……那傢伙……
-燈：！
+燈 & 愛音 & 立希：！
 海鈴：讓妳們久等了。 正在忙的話，需要我待會再過來嗎？
 立希：……不需要，已經說完了。
 愛音：等一下啦……！
@@ -60,7 +60,7 @@
 愛音：這算什麼？所以Rikki是擅自拉新人進來的嗎？ 這樣太奇怪了吧？應該和爽世同學好好地──
 立希：那傢伙根本就沒打算組新的樂團！
 立希：她所做的一切，都是為了讓CRYCHIC復活！
-燈：『……！』 『……』
+燈 & 愛音：『……！』 『……』
 立希：那傢伙說不需要妳和樂奈…… 她為了留住燈和我利用了妳們！
 愛音：…………
 （背景切换）
@@ -88,7 +88,7 @@
 愛音：樂團不需要我了吧。
 燈：！ 愛音……
 愛音：小燈就和爽世同學一起組CRYCHIC吧。
-燈：……
+燈 & 立希：……
 燈：我受夠了……
 （背景切换）
 燈：所以我才不想組什麼樂團的……
@@ -184,11 +184,11 @@
 燈：……
 初華：那麼我要走了。 希望妳能傳達出去。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp）
+（说明）：微不足道的我 腦袋裡總是亂糟糟的 旁人的聲音好遙遠 我聽不見 身邊之人的心情 我也不明白 我根本就不是人類 對我來說 這個世界遙不可及 只能在孤零零的星球上轉呀轉 轉呀轉 就算我用盡全力踮起腳尖 終究無法成為人類 春天的向陽處 被夏天的陽光徹底抹除 過去的那些日子 被壓扁在柏油路上 就像蜥蜴一樣 徹底乾涸枯竭 好想就這麼當一隻躲在石頭底下的鼠婦蟲 再也不希望被任何人找到了
 燈：詩……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp）
+（说明）：歌 詩
 燈：這是一首詩。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp）
 （背景切换）
 
 【羽丘女子學園 1-A教室】

@@ -39,19 +39,19 @@
 蕾叶: そう！　さっきステージで会った２人だよ！
 蕾叶: ドーンと立ってるのはドラムのチェリ。 私と同じ羽丘に通う１年生！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000001/data/adv_still_charaillust_000001/adv_still_charaillust_000001.webp)
+(Caption): 梅里ちえり 身長はまだ伸びると信じている ラジオ体操は第2まで完璧
 ちえり: チェリじゃありません、ち・え・りです！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000001/data/adv_still_charaillust_000001/adv_still_charaillust_000001.webp)
 蕾叶: 控えめなお迎えをしてくれてるのはベースの蓬咲！ 唯一の大学生で、北海道から来たんだよ
 蓬咲: …………っ
 蕾叶: ほら蓬咲、じこしょーかい！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000002/data/adv_still_charaillust_000002/adv_still_charaillust_000002.webp)
+(Caption): 矢倉蓬咲 ネガティブ特化の語彙力 じゃがいもは食べれるがポテサラは嫌い
 蓬咲: ……〜〜〜っ、や！！ 矢倉蓬咲！！　１８歳！！　自主休学中、です！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000002/data/adv_still_charaillust_000002/adv_still_charaillust_000002.webp)
 蕾叶: あはははっ、急におっきな声！ 蓬咲はほんと面白いな〜！
 蓬咲: ううっ……また笑われた〜……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000003/data/adv_still_charaillust_000003/adv_still_charaillust_000003.webp)
+(Caption): 須賀蕾叶 特技の書道は祖母仕込み 最近やってみたいこと「コイン精米」
 蕾叶: んで、私はギターボーカルの須賀蕾叶！ ギター同士、よろしくねっ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000003/data/adv_still_charaillust_000003/adv_still_charaillust_000003.webp)
 蕾叶: チェリ、蓬咲。こちら馬橋心玖ちゃん！ 今日から私たちと一緒に暮らす、新しい『ファミリー』だよ！
 心玖: …………
 心玖: （嘘……嘘でしょ……こんなの、聞いてない）
@@ -71,9 +71,9 @@
 ちえり: き、昨日はちょっとご飯食べすぎちゃっただけです！ 今日は負けませんっ！！
 蕾叶: なにを〜？
 蓬咲: すぅぅ〜〜〜……はぁぁ〜〜〜……
-蓬咲: <size=80%>大丈夫、私だってやればできる……！ だってさっき『鬼しぐ』でイメトレしたもん……！</size>
-蓬咲: <size=80%>新入りさんに話しかけて 今日こそ漢気溢れるつよつよ人間に生まれ変わるんだ……！</size>
-蓬咲: <size=200%>みみみみ心玖さ〜〜〜ん！！！</size>
+蓬咲: 大丈夫、私だってやればできる……！ だってさっき『鬼しぐ』でイメトレしたもん……！
+蓬咲: 新入りさんに話しかけて 今日こそ漢気溢れるつよつよ人間に生まれ変わるんだ……！
+蓬咲: みみみみ心玖さ〜〜〜ん！！！
 心玖: えっ！？　な、なんですか……
 蓬咲: ぎゃーーーっ！！ 目が、目が合っちゃった〜〜〜！！
 蓬咲: あなたのようなキラキラ女子に話しかけてすみませんっ！ こんな底辺人間は見ないでくださ〜〜い！！

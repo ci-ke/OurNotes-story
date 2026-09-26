@@ -74,7 +74,6 @@ Yuno: There's no way I'd send an email if I didn't have a reason, so do I really
 Yuno: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 Yuno: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 : I wonder if we can meet.
 (Background change)
 Yuno: Phew...
@@ -120,7 +119,7 @@ Kaede: Huh~
 Yuina: Interesting.
 Koharu: How about this? This one!
 Yuno: It sounds like a construction site...
-Koharu: Ahahahahahahaha!!
+Koharu & Yuina & Kaede: Ahahahahahahaha!!
 Koharu: The days we had. So happy, dazzling, and unforgettable.
 Koharu: I promise we won't make any noise!
 Teacher: That's not the issue. You need to submit a classroom usage request—
@@ -136,14 +135,14 @@ Koharu: If Yuno can do it, then maybe we can too.
 (Background change)
 Scout: Then, if you want to hear the details, please feel free to contact me using the contact info on my business card.
 Yuno: Sorry to keep you waiting.
-Koharu: Congratulations~!!
+Koharu & Yuina & Kaede: Congratulations~!!
 Koharu: A composition request! You're a professional now!
 Yuina: You can make a living with music now!
 Kaede: Dreams really come true!
 Yuno: ? We should make it come true, right?
-Koharu: ?
+Koharu & Yuina & Kaede: ?
 Yuno: The dreams we've made come true—this is just the beginning. There will be even more to come.
-Koharu: ...
+Koharu & Yuina & Kaede: ...
 Koharu: I felt that if Yuno could lead the way ahead, we could keep chasing our dreams forever.
 Yuno: ! Pack up!
 Koharu: Ah, she ran away!
@@ -167,10 +166,8 @@ Koharu: Believing in someone else's dream can be the first step toward your own 
 Yuno: (I thought... everyone was moving forward happily, and I was the only one left behind...)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp)
 Yuno: (In those lyrics...)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp)
 Yuno: (I was there too...)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp)
 Yuno: ...
 Koharu: I mean, my work is tough too. But when I see you doing so well, it makes me think I can't lose, and I can keep going.
 Koharu: And because I worked hard, my dream of making a song with you came true too, Yuno.
@@ -203,7 +200,6 @@ Koharu: Understood!
 Yuno: (So the disbandment wasn't an ending, but a positive new start.)
 Yuno: ...
 Yuno: Oh, I think I've got something.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000030/data/adv_still_charaillust_000030/adv_still_charaillust_000030.webp)
 (Background change)
 Arale: Thanks for coming all the way to my home.
 Ritsu: Not at all. I wanted to visit this area again. It's been a while.
@@ -221,7 +217,7 @@ Ritsu: Back in elementary school, I always thought Arale-chan's comments on Magi
 Ritsu: The set of watching Magilulu on Sunday, and then hearing you talk about it on Monday was my favorite, Arale-chan.
 Arale: Huh~
 Arale: ! It's Raki-chan. Hello.
-Raki: <size=150%>"It's terrible!"</size>
+Raki: "It's terrible!"
 Arale: Huh? What's wrong?
 Ritsu: ...
 Bota: "Umm, there's a video online of Arale-chan and Yako-sensei fighting."
@@ -235,7 +231,7 @@ Miyako: "That's enough!"
 Arale: "What...!"
 Miyako: "We're the ones who decided to do the live show, aren't we!"
 (Background change)
-Ritsu: ...
+Ritsu & Arale: ...
 Bota: "I didn't think it could be true, but I figured I should let you know..."
 Arale: Yeah... Thank you.
 Ritsu: Viola did this.

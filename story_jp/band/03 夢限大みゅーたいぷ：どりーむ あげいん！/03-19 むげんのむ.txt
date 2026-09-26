@@ -8,8 +8,8 @@
 あられ: ……………ちらっ
 あられ: えっ！？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp)
+(Caption): 歌美@utaskyat 私は中2から高2まで「歌美」名義でネット活動をしていました。 高1で「ららららがーるず」を作り、歌が上手な女の子たちと一緒に動画投稿や配信活動をしていました。 事務所所属やオリジナル曲発表など、活動は順調でしたが、私は高2でグループを脱退しました。 その時の事情と、その後グループで起きた出来事について、今お話しします。 今も頑張っている仲間の助けになればと思います。 あの時のことは謝っても許されないかも知れないけど、ずっとずっと応援しています。
 あられ: 歌美さん……！？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp)
 (Background change)
 ビオラ: えれあちゃ～ん、 ここの歌い方なんだけど
 あられ: 聴いた！　すっごくいいと思う！
@@ -50,7 +50,7 @@
 ビオラ: 行けないよ？
 ビオラ: 私と、 あなたたちじゃあ、行けない
 ポポ: ……
-ベル: <size=130%>えええええ！？！？！？</size>
+ベル: えええええ！？！？！？
 ポポ: うるさい。 なに
 ベル: けけけけ契約解除……！
 ポポ: は？　なんであたしたちが……
@@ -73,7 +73,6 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp)
 ビオラ: ♪
 ビオラ: キラキラ♡
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp)
 (Background change)
 (Background change)
 (Background change)
@@ -89,15 +88,12 @@
 通行人F: フェアリィブゥケのビオラ、顔面優勝
 ビオラ: 花火の、最後の輝きみたい
 ビオラ: 一瞬だけ、みんなの目を奪って、 それで終わり
-(Background change)
 ビオラ: 私、輝きになりたかった
 ビオラ: みんなを笑顔にして、 落ち込んでる人も元気が出ちゃうような！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp)
 ビオラ: キラキラ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp)
 ビオラ: チカチカ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp)
 (Background change)
 ビオラ: 輝こうと努力すればするほど、偽物になった！
 ビオラ: 偽物の優しさ、偽物の歌、偽物の笑顔
@@ -130,7 +126,7 @@
 ユノ: 緊張したらまず深呼吸。 脳に酸素入れて、呼吸を整えるのが一番――
 ののか: お客さんいーーっっぱいいる！
 あられ: ～～～～～～～～～！！！！
-律: <size=130%>あられちゃん！</size>
+律: あられちゃん！
 ユノ: ……
 ののか: お？
 律: ユ、ユノさん！　呼吸していない場合は！？
@@ -140,11 +136,11 @@
 律: ！！　あられちゃん！　ケーキ！ がんばろう！
 あられ: あう～～
 ののか: 箱おーぷん～！
-あられ: おお～……
+あられ & ののか & 律: おお～……
 ユノ: 全部種類が違う……
 都子: こういう時は
 ののか: せーのっ
-一同: <size=130%>△※×☆＊＠！</size>
+一同: △※×☆＊＠！
 ののか: バラバラ～
 都子: ちょうどいいですね
 あられ: わ～い……
@@ -160,7 +156,7 @@
 ののか: あられちゃんきんちょー？
 ユノ: 深呼吸
 あられ: すぅうーーーーーーーーーーー……ハァ
-都子: <size=130%>破ァ！！！！！！</size>
+都子: 破ァ！！！！！！
 あられ: っ！！？？？？
 都子: 緊張ほぐれましたか？
 あられ: ぎゃっ、逆にドキドキ増してます！
@@ -197,7 +193,6 @@
 律: ――できたよ
 あられ: ……
 あられ: ありがとう
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000026/data/adv_still_charaillust_000026/adv_still_charaillust_000026.webp)
 (Background change)
 律: いいの？
 あられ: ……うん
@@ -205,7 +200,7 @@
 ユノ: まあ、Ｖフロで見慣れてるし
 ののか: う～～～～～～
 あられ: ？
-ののか: <size=130%>みゅ～たいぷ、バージョンアップ！</size>
+ののか: みゅ～たいぷ、バージョンアップ！
 あられ: わあ！
 あられ: ……今いくつでしたっけ？
 都子: 4.0 では？
@@ -219,9 +214,9 @@
 律: いいですね、バージョン無限
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp)
+(Caption): みゅーたいぷver.∞ （無限？無限大？）
 都子: こうですかね
 あられ: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp)
 (Background change)
 あられ: 『夢』にしようよ
 律: 夢……？
@@ -271,8 +266,10 @@ A子: がんばって
 ののか: いこ～！
 都子: ……
 (Background change)
-律: ……
+律 & あられ: ……
 あられ: 行こう
 (Background change)
 あられ: こんにちは！ ぼくたち、『夢限大みゅーたいぷ』です！
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1.mp4)
+(Caption): 夢みた13話　『In My Words』ライブシーン

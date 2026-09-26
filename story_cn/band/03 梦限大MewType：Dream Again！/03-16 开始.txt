@@ -74,7 +74,6 @@
 由乃：…………
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp）
 由乃：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp）
 ：能见面吗
 （背景切换）
 由乃：呼————
@@ -120,7 +119,7 @@
 柚衣奈：有意思
 小春：这个呢？这个、这个
 由乃：……像施工现场
-小春：啊哈哈哈哈哈哈！！
+小春 & 柚衣奈 & 枫：啊哈哈哈哈哈哈！！
 小春：——我们的快乐、耀眼、 无法忘怀的时光
 小春：我们绝对不会吵的！
 老师：不是吵不吵的问题，教室使用的申请——
@@ -136,14 +135,14 @@
 （背景切换）
 星探：——那么，如果想了解详情，随时可以按名片上的联系方式联系我
 由乃：抱歉，让你们久等了
-小春：恭喜～！！
+小春 & 柚衣奈 & 枫：恭喜～！！
 小春：作曲委托，这不就是专业了吗！
 柚衣奈：已经可以靠音乐吃饭了呀
 枫：梦想真的会实现啊
 由乃：？我们不是正在实现吗？
-小春：？
+小春 & 柚衣奈 & 枫：？
 由乃：我们要实现的梦想可不止这些。 以后会越来越多
-小春：………
+小春 & 柚衣奈 & 枫：………
 小春：——只要由乃跑在前面， 我就觉得能一直追着梦想跑下去
 由乃：！撤退！
 小春：啊，跑了！
@@ -167,10 +166,8 @@
 由乃：（我以为……大家都开心地向前走， 只有我被留在了原地……）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp）
 由乃：（原来那首歌词里……）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp）
 由乃：（也包括了我啊……）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp）
 由乃：…………
 小春：我也是啊，虽然工作很辛苦， 但看到由乃那么活跃，就会觉得不能输，然后继续努力
 小春：因为努力了，和你一起作曲的梦想也实现了
@@ -203,7 +200,6 @@
 由乃：（解散不是结束，而是积极的开始吧）
 由乃：……
 由乃：啊，好像能写出来
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000030/data/adv_still_charaillust_000030/adv_still_charaillust_000030.webp）
 （背景切换）
 阿拉蕾：谢谢你特意到家里来～
 律：不用。因为好久没来这附近了，想过来一趟
@@ -221,7 +217,7 @@
 律：周日看《魔法露露》， 周一听小阿拉蕾聊观后感，这一套组合是我当时很期待的事
 阿拉蕾：诶——
 阿拉蕾：！ 是Raki。喂喂
-Raki：<size=150%>『出大事了！』</size>
+Raki：『出大事了！』
 阿拉蕾：诶，怎么了？
 律：……
 波塔：『那个，网上传了一段小阿拉蕾和夜子老师 在吵架的视频』
@@ -235,7 +231,7 @@ Raki：『就连我们这些知道你们关系好的人， 看着都觉得有点
 阿拉蕾：『什么……！』
 都子：『决定办演出的不就是我们自己吗！』
 （背景切换）
-律：……
+律 & 阿拉蕾：……
 波塔：『虽然觉得难以置信， 但想着还是应该跟你说一声……』
 阿拉蕾：……嗯，谢谢
 律：是薇欧拉

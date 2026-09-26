@@ -75,7 +75,6 @@ Nyamu: Ehh...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000023/data/adv_still_charaillust_000023/adv_still_charaillust_000023.webp)
 Umiri: I knew that you'd be at the agency.
 Nyamu: Hey, what are you doing?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000023/data/adv_still_charaillust_000023/adv_still_charaillust_000023.webp)
 Umiri: I missed you.
 Nyamu: That's definitely a lie.
 Nyamu: Ah. Isn't this the Nyamuchi's selection?
@@ -106,7 +105,7 @@ Umiri: Gulp... gulp...
 Nyamu: You'll get hiccups if you drink that too fast.
 Umiri: Ugh... Ugh...
 Nyamu: Are you okay? Can you handle it?
-Umiri: <size=175%>~~~~~! Phew!
+Umiri: ~~~~~! Phew!
 Umiri: Haa... Haa... An old wound of mine hurts.
 Nyamu: Ah? Just from a mere glass of ginger soda?
 Umiri: I can't face it without drinking. I've got a past that still cuts deep.
@@ -175,9 +174,10 @@ Mortis: ...!
 (Background change)
 (Background change)
 Uika: ...
-(message) Umiri: Would you like to play as Ave Mujica?
+(Message) Umiri: Would you like to play as Ave Mujica?
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp)
+(Caption): Post 8 Likes Sneaking into Rikki's drum set! The members look completely different from this angle😆 I can't make eye contact with anyone💦 #MyGO #ANON #Drum
 (Background change)
 Uika: ...
 Storyteller: No matter how much you try to beautify it, you can never become real.

@@ -8,21 +8,21 @@
 
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000003/data/adv_still_charaillust_000003/adv_still_charaillust_000003.webp)
+(Caption): 須賀蕾叶 特技の書道は祖母仕込み 最近やってみたいこと「コイン精米」
 蕾叶: みんなー、アイス持ってきたよ〜！ どれがいい〜？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000003/data/adv_still_charaillust_000003/adv_still_charaillust_000003.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000041/data/adv_still_charaillust_000041/adv_still_charaillust_000041.webp)
+(Caption): 梅里ちえり 身長はまだ伸びると信じている ラジオ体操は第2まで完璧
 ちえり: ちえりはオレンジ１本です！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000041/data/adv_still_charaillust_000041/adv_still_charaillust_000041.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000042/data/adv_still_charaillust_000042/adv_still_charaillust_000042.webp)
+(Caption): 矢倉蓬咲 ネガティブ特化の語彙力 じゃがいもは食べれるがポテサラは嫌い
 蓬咲: 私はメロンで……！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000042/data/adv_still_charaillust_000042/adv_still_charaillust_000042.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000004/data/adv_still_charaillust_000004/adv_still_charaillust_000004.webp)
+(Caption): 四宮寧月 社交界スマイルは4歳で習得 最近覚えたこと「賞味期限と消費期限」
 寧月: 心玖はどれにするのだ？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000004/data/adv_still_charaillust_000004/adv_still_charaillust_000004.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000005/data/adv_still_charaillust_000005/adv_still_charaillust_000005.webp)
+(Caption): 馬橋心玖 好きな香りはサボン系 耳を触る癖を直したい
 心玖: 寧月、先に選んでいいよ
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000005/data/adv_still_charaillust_000005/adv_still_charaillust_000005.webp)
 蕾叶: ……よし、割れた！ はいチェリ、オレンジ
 ちえり: な……なんで勝手に半分こするんですか〜〜！！
 蕾叶: この前１人で１本食べたでしょ〜！ 今日は誰かとポッキンしないといけませ〜ん
@@ -44,7 +44,7 @@
 心玖: （――あの傍迷惑なファミリー再会ライブの後、 いろんなことがあった）
 (Background change)
 蕾叶: ばーちゃんたち〜！ おかえりなさ――
-蕾叶の祖母: <size=200%>この、大バカ者！！！</size>
+蕾叶の祖母: この、大バカ者！！！
 蕾叶の祖母: ファミリーを取り戻すためでも 人様のライブをブチ壊すなんてダメに決まってるだろ！！
 蕾叶: うわあああっ、ごめんなさ〜〜い！
 祖母のバンドメンバーA: でもよくやったな〜、蕾叶！

@@ -47,7 +47,6 @@
 灯：创可贴……你想用哪一个？
 爱音：诶？好厉害，这些全都是创可贴！？
 灯：……嗯
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000003/data/adv_still_anime_000003/adv_still_anime_000003.webp）
 爱音：我可以用吗？
 灯：……嗯
 爱音：诶——不好意思——每个图案都很可爱呢～ 啊，我喜欢这个企鹅图案的
@@ -55,7 +54,6 @@
 灯：……！ 这是帽带企鹅！
 爱音：诶？帽带？
 灯：它脸上有像是帽带一样的黑色条纹吧？ 它是阿德利企鹅属，巴布亚企鹅也是这个属的。 我还有其他企鹅系列的创可贴——
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000016/data/adv_still_charaillust_000016/adv_still_charaillust_000016.webp）
 爱音：高、高松同学也喜欢企鹅吗？
 灯：诶？我觉得……它们……很可爱……
 爱音：怎么讲得这么没信心呢？
@@ -80,15 +78,15 @@
 爱音：（真是的——她又开始失落了—— 不要动不动就失落嘛……嗯？）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000004/data/adv_still_anime_000004/adv_still_anime_000004.webp）
+（说明）：原速笔记本 学习笔记本 年级 班 姓名 高松灯
 爱音：这本笔记本是高松同学的吗？ 原来高松同学也写日志啊，我能看看吗？
 灯：啊，那是……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000004/data/adv_still_anime_000004/adv_still_anime_000004.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000005/data/adv_still_anime_000005/adv_still_anime_000005.webp）
+（说明）：春日影
 爱音：高松同学，你明明在玩乐队嘛！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000005/data/adv_still_anime_000005/adv_still_anime_000005.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000006/data/adv_still_anime_000006/adv_still_anime_000006.webp）
+（说明）：春日影 内心满是憔悴 眼神颤抖不止 我在这世界孤独一人 这不断凋零的春季每年都
 爱音：这首叫『春日影』的歌我没听过——
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000006/data/adv_still_anime_000006/adv_still_anime_000006.webp）
 （背景切换）
 爱音：……
 灯：我已经……不玩乐队了
@@ -148,7 +146,7 @@
 灯：谢谢你邀请我组乐队…… 不过……对不起
 爱音：……小灯——
 立希：——灯！
-灯：！？
+灯 & 爱音：！？
 立希：灯，你没事吧！？
 立希：……你谁啊？找灯有什么事吗？
 爱音：有什么事…… 这个人是谁？小灯你认识她吗？

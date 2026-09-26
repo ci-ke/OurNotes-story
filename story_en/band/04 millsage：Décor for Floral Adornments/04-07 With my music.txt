@@ -107,13 +107,13 @@ Natsume: (I haven't touched my guitar at all lately.)
 Natsume: (Every time I so much as touch music, my chest starts to hurt.)
 Natsume: (Maybe I should just... leave things as they are.)
 Natsume: ...? From Houka?
-(message) Houka: Hey, hope you’re doing well.
-(message) Houka: We had a rather unusual guest at our live the other day.
-(message) Houka: Hotaru Shiomi-san.
-(message) Houka: The girl Kanata-san mentioned before, if I recall correctly.
-(message) Houka: Apparently she's really good at piano🎹
+(Message) Houka: Hey, hope you’re doing well.
+(Message) Houka: We had a rather unusual guest at our live the other day.
+(Message) Houka: Hotaru Shiomi-san.
+(Message) Houka: The girl Kanata-san mentioned before, if I recall correctly.
+(Message) Houka: Apparently she's really good at piano🎹
 Natsume: ...?
 Natsume: What is this supposed to be? Some kind of report? This has nothing to do with me...
 Natsume: I don't get it. Whatever. I'm ignoring this...
-(message) Houka: I am thinking of having Shiomi-san join millsage.
+(Message) Houka: I am thinking of having Shiomi-san join millsage.
 Natsume: What...?

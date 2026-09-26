@@ -30,8 +30,8 @@ Anon: You dropped your notebook...
 Tomori: ......
 Anon: Hm?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000036/data/adv_still_anime_000036/adv_still_anime_000036.webp)
+(Caption): Haruhikage
 Anon: (This is the lyrics she showed me before, "Haruhikage"...)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000036/data/adv_still_anime_000036/adv_still_anime_000036.webp)
 Anon: Tomori-chan... If there's something you're thinking about, saying it out loud is the best thing to do.
 Tomori: ......
 (Background change)
@@ -52,7 +52,7 @@ Sakiko: It had nothing to do with that. Now, please don't involve yourself with 
 Soyo: Saki-chan...!
 Soyo: ......
 Soyo: ...? Anon-chan...?
-(message) Anon: Soyo-san, where are you? Can you come to RiNG?
+(Message) Anon: Soyo-san, where are you? Can you come to RiNG?
 Soyo: ......
 (Background change)
 
@@ -66,7 +66,7 @@ Anon: But if we don't work this out, Tomori-chan won't ever be able to be in a b
 Taki: Huh? Tomori?
 Tomori: Ah...
 Anon: Okay, talk it out! Hey, Soyo-san, you sit down, too.
-Soyo: What?
+Soyo & Taki: What?
 Soyo: Hold on a minute... Anon-chan, did you bring Tomori-chan here for us?
 Anon: Yeah, you should really talk it through.
 Soyo: I see. Thank you, Anon-chan.
@@ -97,7 +97,7 @@ Taki: !? Wha...!?
 Soyo: No, it isn't. After all, Taki-chan really loves you, Tomori-chan.
 Taki: ...
 Soyo: Hey, you think we can start over again?
-Tomori: What...?
+Tomori & Taki: What...?
 Soyo: With the band. Me and Tomori-chan and Taki-chan.
 Soyo: We misunderstood each other and missed our chance to connect. But now, we finally understand. And yet, it's just too sad if we end up going our separate ways like this...
 Soyo: Let's try it again, together!
@@ -107,13 +107,13 @@ Soyo: If we do that, I'm sure we'll be all right...
 Taki: Tomori...
 Tomori: ......
 Anon: Um... What about me?
-Soyo: What? Huh?
+Soyo & Taki: What? Huh?
 Tomori: Yeah. You too, Anon-chan. Let's do it...
 Tomori: Our whole lives.
 Taki: What...?
 Soyo: Our whole lives...?
 Tomori: Yeah...  I just don't want to go through that again... Losing the band...
-Soyo: ......
+Soyo & Taki: ......
 Taki: I swear. If it's with you, Tomori-chan, I wouldn't mind doing it all my life.
 Soyo: I swear, too.
 Tomori: Yeah.

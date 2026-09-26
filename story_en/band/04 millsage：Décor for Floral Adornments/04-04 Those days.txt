@@ -10,7 +10,7 @@ Hotaru: ...
 Hotaru: W-Wait, please. Um... what?
 Hotaru: No... I can't believe this...
 Hotaru: But... Kanata-san was so full of life. Whenever I saw her, she always seemed so happy...!
-Nagi: ...
+Nagi & Houka: ...
 Mahoro: Yeah... We felt the same way.
 Mahoro: Kanata had a condition she was born with. She'd been in and out of the hospital since she was little.
 Mahoro: But after we formed the band... Once we started high school, she said she'd be okay...
@@ -42,7 +42,7 @@ Hotaru: Ugh... waaaaaah...!
 Hotaru: *Sniff*... I-I'm sorry... for breaking down like this.
 Mahoro: No, it's okay. Here, tissues. Use these.
 Hotaru: Thank you... *Sniff*...
-Nagi: ...
+Nagi & Houka & Mahoro: ...
 Nagi: We've heard a lot about you. From Kanata.
 Houka: Yes. She spoke very highly of your piano playing.
 Mahoro: She would get all smug and say, "Hotaru makes seriously amazing music. She is my prized apprentice."
@@ -52,7 +52,7 @@ Hotaru: She said all of you were the best... that all of you were her treasure.
 Mahoro: ...!
 Hotaru: So that's why... you're still going, right?
 Hotaru: Even after Kanata-san... left us. You are still here, as a band...
-Nagi: ...
+Nagi & Houka & Mahoro: ...
 Nagi: Mahoro. Should I say it?
 Mahoro: No... I will. I'll explain it myself, all the way through.
 Mahoro: I owe you the truth, Hotaru-chan. You were Kanata's apprentice, after all.
@@ -89,7 +89,7 @@ Nagi: This one's kind of on you, Kanata.
 Mahoro: You were in the hospital longer than usual, and you told us not to visit! I thought... maybe...! I was worried about you!
 Kanata: C'mon... I said I was sorry...!
 Kanata: The doctor said after this hospital stay, I'm all good. Cured for real, y'know?
-Mahoro: What!?
+Mahoro & Nagi: What!?
 Mahoro: Really?
 Kanata: For real. So don't be too mad, okay...?
 Mahoro: ~~~! Fine, you're forgiven!
@@ -108,7 +108,7 @@ Kanata: Yes, I love you!
 Nagi: Huh. I was right.
 Kanata: A band! Let's start one! The three of us!
 (Background change)
-Nagi: Huh...?
+Nagi & Mahoro: Huh...?
 (Background change)
 Mahoro: A b-b-b-band?! I don't know how to play any instruments!
 Nagi: Same here.
@@ -221,9 +221,9 @@ Houka: Yes... And on that note, there is a favor I would very much like to ask o
 Kanata: Yeah, yeah, go ahead. Autograph, handshake, whatever you want.
 Nagi: Getting cocky...
 Houka: Would you please... allow me to join your band, Kanata-san?
-Natsume: Huh...
+Natsume & Mahoro: Huh...
 Kanata: Sure!
-Natsume: <size=150%>Whaaaat!?
+Natsume & Mahoro: Whaaaat!?
 Nagi: She didn't even hesitate...
 Kanata: What? It's fine, isn't it? She seems pretty interesting!
 Houka: Thank you so much...! I promise I'll do my very best♡

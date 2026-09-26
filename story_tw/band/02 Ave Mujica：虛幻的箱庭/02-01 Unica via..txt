@@ -17,6 +17,8 @@ Oblivionis：被黑影吞噬的月亮重燃生機， 可憐的人偶再次被賦
 Doloris：……！
 Oblivionis：就讓我們開始吧。今夜的假面舞會！
 （背景切换）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4）
+（说明）：KiLLKIss　ライブシーン
 
 【演出結束後】
 
@@ -59,7 +61,7 @@ Oblivionis：就讓我們開始吧。今夜的假面舞會！
 初華：才剛出道就變得這麼受歡迎， 小祥果然很厲害呢。
 祥子：這全是託初華的福。
 祥子：作為Ave Mujica的主唱，我認為沒有人比妳更適合了。
-祥子：妳真的什麼都不打算問嗎？ ……<ruby=・>當</ruby><ruby=・>時</ruby>二話不說就答應了我。
+祥子：妳真的什麼都不打算問嗎？ ……當時二話不說就答應了我。
 初華：嗯。
 祥子：妳一定是會被慫恿買水晶的那種人吧。
 初華：啊，好過分喔～
@@ -95,14 +97,11 @@ Oblivionis：就讓我們開始吧。今夜的假面舞會！
 祥子：……！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
 祥子：睦，她們是誰？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
 睦：她們是月之森第一個組樂團的高中部學姐。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
 祥子：樂團…… 睦，我們也來組樂團吧。
 睦：咦？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp）
 祥子：就是樂團啊！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp）
@@ -114,9 +113,8 @@ Oblivionis：就讓我們開始吧。今夜的假面舞會！
 祥子：？ ……那個人，身體探出橋邊那麼多要做什麼……？
 燈：……啊。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp）
-祥子：<size=175%>！！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp）
-祥子：<size=175%>不可以！！
+祥子：！！
+祥子：不可以！！
 燈：唔……
 祥子：好痛……妳不要緊吧？
 祥子：我為撞倒妳的事向妳道歉…… 但是妳不能想不開啊！
@@ -124,7 +122,7 @@ Oblivionis：就讓我們開始吧。今夜的假面舞會！
 祥子：妳剛才打算尋短對不對！？
 燈：不是…… 手上的花被風吹走……我只是把手伸向花……
 祥子：花……？
-祥子：<size=125%>花跟生命哪個比較重要！？
+祥子：花跟生命哪個比較重要！？
 祥子：啊，不對…… 花也是有生命的……
 燈：因為是凋落的花，所以應該已經死掉了。
 祥子：死！？咦！？
@@ -135,7 +133,6 @@ Oblivionis：就讓我們開始吧。今夜的假面舞會！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp）
 祥子：當我在她房間發現那些歌詞筆記本時， 內心真的激動不已。
 祥子：……直到現在我都還相信著， 這場相遇是命運的安排。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp）
 （背景切换）
 祥子：──♪
 燈：……
@@ -158,7 +155,7 @@ Oblivionis：就讓我們開始吧。今夜的假面舞會！
 燈：這是我第一次寫歌詞。
 祥子：……我看得出來。這是……
 祥子：……唔……
-燈：<size=200%>！
+燈 & 立希 & 爽世 & 睦：！
 爽世：妳沒事吧，小祥？
 祥子：《春日影》……是關於我們的歌吧。
 祥子：我會寫出一首配得上燈的歌詞的曲子。
@@ -237,7 +234,7 @@ CRYCHIC：呼……呼……
 祥子：我今天是來講一件事的。
 祥子：我要退出CRYCHIC。
 立希：……！
-爽世：咦？
+爽世 & 燈：咦？
 立希：這樣太不負責了吧？
 燈：可是，要是小祥退出的話──
 祥子：不要講這種撒嬌的話了！ 尤其燈妳才是最該多練習的人， 但妳到剛才都在做什麼？
@@ -249,7 +246,7 @@ CRYCHIC：呼……呼……
 祥子：我傷害了大家。 所以……現在感受到的心痛，是我應得的懲罰。
 （背景切换）
 （背景切换）
-祥子：<size=175%>哇啊啊啊啊啊啊啊……
+祥子：哇啊啊啊啊啊啊啊……
 （背景切换）
 （背景切换）
 祥子：（我現在只剩下Ave Mujica了。）

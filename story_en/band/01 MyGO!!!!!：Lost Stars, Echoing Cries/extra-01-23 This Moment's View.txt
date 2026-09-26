@@ -65,57 +65,51 @@ Rāna: Is it over?
 Anon: No, it's too early to give up! There has to be somewhere! Somewhere that's open!
 Tomori: ......
 (Background change)
-tomori: 
-soyo: And after all that... we couldn't find anywhere, so now we're at a regular family restaurant. Huh.
-taki: Isn't this fine? Anon is the only one who wanted a fancy restaurant anyway.
-anon: Sorry, Tomorin. This was supposed to be our special anniversary party...
-anon: But now it's just a regular family restaurant... Aren't you disappointed?
-tomori: 
-tomori: 
-tomori: Ah... the shape of the ribbon...!
-soyo: Tomori-chan...?
-tomori: Ah!
-tomori: 
-anon: Tomorin?
-tomori: Um, sorry.
-anon: It's totally fine~
-rana: I'm hungry.
-anon: Yeah~ Maybe we should order some food too. We got free refills, right? I'll go grab some drinks first!
-soyo: Oh, I'll go too.
-rana: Mm.
-soyo: Thank you, Rāna-chan.
-anon: Soyorin's coming with me, so maybe we should just grab drinks for everyone. What do you guys want?
-soyo: We're ordering food anyway, so water should be fine for now.
-anon: Oh, true. Tomorin always gets water anyway.
-tomori: 
-anon: I can carry three.
-soyo: Are you sure you won't drop them?
-anon: I play guitar, so I can handle it.
-soyo: What are you talking about?
-rana: Rikki, parfait and soba.
-taki: I'll pass it to you after this, so choose it yourself.
-rana: I don't know how.
-taki: Oh geez... Come over here.
-rana: Mm.
-taki: Tap this tab, and it'll show rice dishes and noodles. Zaru soba is... here. This one. One serving?
-rana: Mm.
-taki: Then enter the number of servings here... and tap this button to order.
-rana: 
-tonori: 
-rana: What about the parfait?
-taki: Huh, you're ordering that now...?
-rana: Yeah.
-taki: Well, fine. I showed you how to do it, so next time do it yourself.
-rana: Hmm.
-anon: I brought the drinks. Water was fine for everyone, right?
-rana: I want tea.
-anon: I knew you'd say that! So I brought tea for you too!
-taki: Aren't you spoiling her?
-anon: No way, I'm just being considerate.
-soyo: Here you go, Tomori-chan.
-tomori: Thank you...
-tomori: 
-tomori: (It looks similar... but it's different.)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4)
+(Caption): MyGOエクストラ　ファミレス（3話）
+(Subtitle) soyo: And after all that... we couldn't find anywhere, so now we're at a regular family restaurant. Huh.
+(Subtitle) taki: Isn't this fine? Anon is the only one who wanted a fancy restaurant anyway.
+(Subtitle) anon: Sorry, Tomorin. This was supposed to be our special anniversary party...
+(Subtitle) anon: But now it's just a regular family restaurant... Aren't you disappointed?
+(Subtitle) tomori: Ah... the shape of the ribbon...!
+(Subtitle) soyo: Tomori-chan...?
+(Subtitle) tomori: Ah!
+(Subtitle) anon: Tomorin?
+(Subtitle) tomori: Um, sorry.
+(Subtitle) anon: It's totally fine~
+(Subtitle) rana: I'm hungry.
+(Subtitle) anon: Yeah~ Maybe we should order some food too. We got free refills, right? I'll go grab some drinks first!
+(Subtitle) soyo: Oh, I'll go too.
+(Subtitle) rana: Mm.
+(Subtitle) soyo: Thank you, Rāna-chan.
+(Subtitle) anon: Soyorin's coming with me, so maybe we should just grab drinks for everyone. What do you guys want?
+(Subtitle) soyo: We're ordering food anyway, so water should be fine for now.
+(Subtitle) anon: Oh, true. Tomorin always gets water anyway.
+(Subtitle) anon: I can carry three.
+(Subtitle) soyo: Are you sure you won't drop them?
+(Subtitle) anon: I play guitar, so I can handle it.
+(Subtitle) soyo: What are you talking about?
+(Subtitle) rana: Rikki, parfait and soba.
+(Subtitle) taki: I'll pass it to you after this, so choose it yourself.
+(Subtitle) rana: I don't know how.
+(Subtitle) taki: Oh geez... Come over here.
+(Subtitle) rana: Mm.
+(Subtitle) taki: Tap this tab, and it'll show rice dishes and noodles. Zaru soba is... here. This one. One serving?
+(Subtitle) rana: Mm.
+(Subtitle) taki: Then enter the number of servings here... and tap this button to order.
+(Subtitle) rana: What about the parfait?
+(Subtitle) taki: Huh, you're ordering that now...?
+(Subtitle) rana: Yeah.
+(Subtitle) taki: Well, fine. I showed you how to do it, so next time do it yourself.
+(Subtitle) rana: Hmm.
+(Subtitle) anon: I brought the drinks. Water was fine for everyone, right?
+(Subtitle) rana: I want tea.
+(Subtitle) anon: I knew you'd say that! So I brought tea for you too!
+(Subtitle) taki: Aren't you spoiling her?
+(Subtitle) anon: No way, I'm just being considerate.
+(Subtitle) soyo: Here you go, Tomori-chan.
+(Subtitle) tomori: Thank you...
+(Subtitle) tomori: (It looks similar... but it's different.)
 (Background change)
 Anon: Oh, Tomorin. Did you finish the spot-the-difference game?
 Tomori: Huh...? Yeah.
@@ -147,13 +141,11 @@ Anon: We can party a little too, can't we~?
 Tomori: ......
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
 Tomori: Mistakes... or not mistakes...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 Tomori: I still don't really know...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 Tomori: But I want to keep moving forward like this...
 Tomori: Because that's all I can do.
-Anon: ......
+Anon & Soyo & Taki & Rāna: ......
 Tomori: Let's do all of it.
 Tomori: The parties, and the band. Together.
 Tomori: Forever... all of us...!

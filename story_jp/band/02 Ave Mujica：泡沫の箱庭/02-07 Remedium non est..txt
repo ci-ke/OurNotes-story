@@ -5,10 +5,10 @@
 (Background change)
 そよ: （睦ちゃん……学校にも来ないし、 どうしてるんだろう……）
 (Background change)
-: <align="center">Ave Mujica　モ<color=#000000><mark=#C0C0C080>ーティス
-: <align="center">モーティス<color=#000000><mark=#C0C0C080>　睦ちゃん
-: <align="center">モーティス<color=#000000><mark=#C0C0C080>　死亡
-: <align="center">モーティス<color=#000000><mark=#C0C0C080>　消えた
+: Ave Mujica　モーティス
+: モーティス　睦ちゃん
+: モーティス　死亡
+: モーティス　消えた
 (Background change)
 そよ: っ……！
 そよ: （……睦ちゃんに……会いに行かなくちゃ……）
@@ -30,8 +30,8 @@
 [高松家 燈の部屋]
 
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000119/data/adv_still_anime_000119/adv_still_anime_000119.webp)
+(Caption): 幸せ 祥ちゃん
 燈: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000119/data/adv_still_anime_000119/adv_still_anime_000119.webp)
 (Background change)
 燈: えっと……
 祥子: これはギターパートなので睦が弾きますわ。 次はキーボードなのでわたくしが
@@ -57,11 +57,13 @@
 
 祥子: （！　……またですの！？）
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000120/data/adv_still_anime_000120/adv_still_anime_000120.webp)
+(Caption): 祥ちゃんは 幸せ？
 祥子: ……っ
 愛音: ——それでね、ともりん
 愛音: え。なに、今の音
 燈: ……？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000121/data/adv_still_anime_000121/adv_still_anime_000121.webp)
+(Caption): 祥ちゃんは 幸せ？ もうやめて
 燈: ！　 待って、祥ちゃん！　祥ちゃん！
 愛音: ちょっと、どういうこと？
 (Background change)
@@ -80,7 +82,7 @@
 愛音: ……まかせて。 私中学３年間、クラスでアンカーだったから！
 (Background change)
 祥子: ……出してちょうだい
-愛音: <size=150%>すみません、ちょっと待ってください！
+愛音: すみません、ちょっと待ってください！
 執事: 恐れ入りますが——
 愛音: 私、友達ですっ
 祥子: ……
@@ -96,7 +98,7 @@
 愛音: わっ、この部屋ビリヤードある！　ヤバくない？
 祥子: ……燈、話があって来たのでしょう？
 燈: ……っ
-燈: <size=150%>さきちゃん……っ！　バンドやろうっ！
+燈: さきちゃん……っ！　バンドやろうっ！
 愛音: えっ……
 祥子: （……わたくしは何を期待していたというの。 こうなることはわかっていたはず。 なのに、おとなしく連れて来たりして——）
 祥子: （本当に、本当に……自分が嫌になりますわ）
@@ -112,6 +114,7 @@
 愛音: ……行こ、ともりん
 祥子: ……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000122/data/adv_still_anime_000122/adv_still_anime_000122.webp)
+(Caption): 祥ちゃんは つたわらないものに かたちをくれた あの日祥ちゃんに 会えたこと なくしたくない 祥ちゃんに 届きたくて届かない 祥ちゃんにみえている幸せを 一緒に見たくて 教えてほしくて 帰り道にいつも あの日にかえりたい 一緒に歩きたい
 祥子: ……
 祥子: （期待して拒絶して、それでも尚—— 燈の言葉は捨てられないでいる。 わたくしはどこまでも……愚かですわ）
 (Background change)
@@ -135,7 +138,7 @@
 燈: えっ
 立希: ……首突っ込んで燈が傷つくのいやだから
 燈: あっ……
-愛音: <size=175%>っ！？
+愛音 & 立希 & 燈: っ！？
 楽奈: バンドしよ
 愛音: ちょっと〜、そよりんまだだよ
 立希: そのうち来るでしょ
@@ -155,19 +158,17 @@
 モーティス: もしもし、お医者さんですか？ はい………はい、睦ちゃんが起きないんです
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
 モーティス: はい、はい……ずっと寝たままなんです
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
 そよ: 睦ちゃん？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp)
-そよ: <size=175%>！？
+そよ: ！？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp)
 モーティス: ……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp)
 そよ: ひっ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000128/data/adv_still_anime_000128/adv_still_anime_000128.webp)
 モーティス: そよちゃん…… そよちゃん、睦ちゃんを起こして……

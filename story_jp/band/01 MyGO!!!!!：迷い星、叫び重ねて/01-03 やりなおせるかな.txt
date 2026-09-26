@@ -159,8 +159,8 @@
 そよ: ……そっか、燈ちゃん断ったんだ～。 繊細な子だからな～
 愛音: ……？
 (Background change)
-(message) 愛音: 今日はありがと～ サポートでも全然オッケーだし、 一緒にバンドやれるの、めっちゃ嬉しい！
-(message) 愛音: これからもよろしくね😊
+(Message) 愛音: 今日はありがと～ サポートでも全然オッケーだし、 一緒にバンドやれるの、めっちゃ嬉しい！
+(Message) 愛音: これからもよろしくね😊
 愛音: よかった～……バンドできるかも
 愛音: ……これでやりなおせるかな
 愛音: …………
@@ -178,6 +178,4 @@
 そよ: ……後でいいかな
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000008/data/adv_still_anime_000008/adv_still_anime_000008.webp)
 そよ: …………
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000008/data/adv_still_anime_000008/adv_still_anime_000008.webp)
 (Background change)
-:

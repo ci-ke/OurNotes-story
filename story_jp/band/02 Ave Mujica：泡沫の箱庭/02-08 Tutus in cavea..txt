@@ -30,7 +30,7 @@
 モーティス: 電話しなくちゃ！
 モーティス: もしもしお医者さんですか？ もしもし聞こえますか？
 そよ: （……このままで、いいわけない。でもどうすれば……）
-(message) 愛音: そよりん、大丈夫？　明日は来れそう？
+(Message) 愛音: そよりん、大丈夫？　明日は来れそう？
 そよ: ……
 モーティス: もしもし、聞こえますか。お医者さんですよね。 もしもし、もしもし！
 そよ: ……はい、どうしましたか？
@@ -136,8 +136,7 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
 楽奈: ——♪
 モーティス: わぁ……！
-睦: <size=200%><cspace=0.25em><voffset=0.25em>歌<voffset=0em>っ<voffset=0.25em>て</voffset>る
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
+睦: 歌ってる
 楽奈: ん
 モーティス: ……っ！　睦ちゃん？
 一同: ？
@@ -167,11 +166,11 @@
 モーティス: え
 睦: 任せてって言ったのに。あんなのひどい
 睦: 祥は？　祥はどこ？
-モーティス: <size=175%>〜〜っ！
+モーティス: 〜〜っ！
 睦: モーティス？　祥に会わせて
 (Background change)
-モーティス: <size=175%>だめっ！
-一同: <size=175%>！？
+モーティス: だめっ！
+一同: ！？
 モーティス: 睦ちゃんはなんにもわかってない！
 立希: なに、どういうこと？
 愛音: 行っちゃった。でもいま『睦ちゃん』って……

@@ -6,7 +6,7 @@ Isn't it kind of infuriating to convince yourself of that?
 
 [One Hour Later]
 
-Raika: <size=150%>Everyone, good morning...!! Breakfast is ready~~~!!</size>
+Raika: Everyone, good morning...!! Breakfast is ready~~~!!
 (Background change)
 Raika: Today we've got clay pot rice! And I cooked it perfectly—
 Chieri: Raika! What happened to the spare toothpaste?
@@ -32,7 +32,7 @@ Chieri: Miku! Are you going to school without brushing your teeth!?
 Miku: I used my own toothpaste~
 Chieri: What!! Please lend it to Chieri!
 Raika: And breakfast! Let's all eat together~!
-Chieri: Miku~~~!
+Chieri & Raika: Miku~~~!
 Miku: (Ahhhhh!! Come on!! So much stress!!!)
 Miku: I really have to go now. Sorry~ See you.
 Raika: Ah... She's gone.
@@ -169,7 +169,7 @@ Yomogi: That's it, that's how people change...!!
 Raika: Miku~ Yomogi~ Please send flyers over there—
 Yomogi: I promise you, Miku-san!!
 (Background change)
-Yomogi: <size=120%>One day, I'll show you a stronger version of me!!</size>
+Yomogi: One day, I'll show you a stronger version of me!!
 (Background change)
 Miku: Uh, well...
 Raika: What happened, Yomogi~~~!! That was really cool!

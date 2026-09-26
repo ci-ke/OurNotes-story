@@ -20,10 +20,9 @@
 （背景切换）
 若麦：我订过什么东西吗？来了～
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp）
+（说明）：返回 录像 缩放 音量 菜单 主页
 若麦：哇啊……这不是海子吗。 居然跑到家里来，真是麻烦。无视无视……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp）
-若麦：<size=175%>搞毛线啊！！！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp）
+若麦：搞毛线啊！！！
 （背景切换）
 海铃：只有这一块弄得很漂亮啊
 若麦：啊啊？找我什么事？
@@ -37,9 +36,9 @@
 若麦：……唉～海子，我还是信不过你
 海铃：！
 若麦：我可是有工作的。 胜算不够的话，我不可能参加
-若麦：<size=150%>因为我不是你这种受虐狂啊！
+若麦：因为我不是你这种受虐狂啊！
 海铃：啊，不要那么用力推我
-若麦：<size=175%>行了～快回去！
+若麦：行了～快回去！
 若麦：……
 （背景切换）
 Mortis：——♪
@@ -75,7 +74,7 @@ Mortis：……呼……呼……
 场内广播：金牛座流星雨的辐射点分为南北两处——
 （背景切换）
 初华：……啊
-灯：……！
+灯 & 睦：……！
 初华：小睦……？你们两个为什么……
 睦：灯，我们走吧
 初华：等等！你们两个要组CRYCHIC吗？
@@ -90,48 +89,48 @@ Mortis：她刚才，说什么……？
 灯：我还不知道……该怎么办…… CRYCHIC的事
 灯：所以……这个给你
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp）
+（说明）：阳光普照的世界 闪闪发光 如此耀眼 太过广阔的蔚蓝 那绝对无法找到之人 一定就在某处绽放 可是 可是，蜷缩成小小一团 不愿去看是因为
 初华：这是……
 灯：你说过……用歌声就能传达
 初华：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp）
 初华：（这歌词……这歌词让小祥她……）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp）
 睦：祥也一样。遇见灯的歌词之后， 祥才组建了CRYCHIC
 睦：CRYCHIC成为了祥珍视的乐队， 让她一直无法忘怀
 （背景切换）
 睦：但是，她想要忘记，所以才有了Mujica……
 （背景切换）
-初华：<size=175%>……！！
+初华：……！！
 （背景切换）
 祥子：让我忘记一切吧……
 （背景切换）
 初华：这么说…………那是………
 初华：这首歌不对。这不是CRYCHIC的歌。 是小灯现在的乐队MyGO!!!!!的歌才对
 睦：初华，你闭嘴。 灯，我们组CRYCHIC吧。这样祥也会更幸福
-睦：<size=150%>所以！再一次——
-初华：<size=175%>！！
+睦：所以！再一次——
+初华：！！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp）
-初华：<size=175%>不准从我身边抢走小祥！
-初华：<size=175%>！！
-灯：？
+初华：不准从我身边抢走小祥！
+初华：！！
+灯 & 睦：？
 初华：……抱歉……我先走了……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp）
 睦：求你了，灯。再组一次CRYCHIC……！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp）
-mutsumi：我的……
-mortis：！还给我……！
-mutsumi：不都说了吗，祥愿意为我组CRYCHIC！
-mortis：不要不要，我要组Ave Mujica！
-mortis：我都练了这么久的吉他——！
-mutsumi：够了！不准抢走我的角色！
-mortis：啊……
-mortis：诶……
-mutsumi_many：噢噢～～～！
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09.mp4）
+（说明）：睦　モーティス突き落としシーン
+（字幕）mutsumi：我的……
+（字幕）mortis：！还给我……！
+（字幕）mutsumi：不都说了吗，祥愿意为我组CRYCHIC！
+（字幕）mortis：不要不要，我要组Ave Mujica！
+（字幕）mortis：我都练了这么久的吉他——！
+（字幕）mutsumi：够了！不准抢走我的角色！
+（字幕）mortis：啊……
+（字幕）mortis：诶……
+（字幕）mutsumi_many：噢噢～～～！
 灯：……小睦………？
 Mortis：哈！哈啊……哈啊……！
 灯：……啊
@@ -184,9 +183,8 @@ Mortis：呜……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp）
 （背景切换）
 Mortis：不要不要，我不想消失！我绝对不要消失！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp）
-『睦』：<size=175%>不准抢走我的角色！
+『睦』：不准抢走我的角色！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp）
 Mortis：……！ 要是小睦不在，我来演她的角色就行了
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp）

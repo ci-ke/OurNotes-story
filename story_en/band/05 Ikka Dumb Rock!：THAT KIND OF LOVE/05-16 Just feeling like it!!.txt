@@ -21,7 +21,7 @@ Raika: Huh, it's not cooked...! I forgot to turn it on again...!?
 Raika: *Sigh*... How many times have I done this now...
 Shizuku: Should we microwave the frozen rice?
 Raika: Yeah...
-Raika: Ah...
+Raika & Shizuku: Ah...
 Chieri: You're finally up! Now, stop spacing out and get ready for the meal!
 Raika: About that... The rice isn't cooked, and there's no frozen rice left either.
 Chieri: *Sigh*... Seriously...
@@ -35,7 +35,7 @@ Yomogi: *Sniff*... Ugh...
 Shizuku: ...Cherie, sorry, but today too—
 Chieri: Today, you want Chieri to drag spaced-out Raika to and from school again...?
 Chieri: Aaaargh!!! Cut it out already!!
-Raika: !
+Raika & Yomogi & Shizuku: !
 Chieri: How long are you all going to keep moping before you're satisfied!?
 Chieri: And Yomogi keeps lying on the floor all gloomy!
 Yomogi: Ugh... I'm sorry for being a weak human who only generates an unpleasant aura...
@@ -50,7 +50,7 @@ Raika: Cherie... Sorry.
 Chieri: And Raika just keeps apologizing over and over and it's infuriating!! What is with you!?
 Raika: I wonder if everything I did for "family" was all wrong.
 Raika: That's why Miku...
-Chieri: ...
+Chieri & Yomogi: ...
 Shizuku: I'll borrow this shared computer.
 Raika: Wait... Shizuku, you know how to use it...!?
 Yomogi: When you were using my computer, you couldn't operate it at all...
@@ -59,7 +59,7 @@ Raika: Oh... Ohh...! It's so cool...!!
 Chieri: Hehe, this is a song that can make Chieri stand out...!!
 Yomogi: Dazzling and strong...! It might be a bit too soon for me right now...
 Shizuku: This song was written by Miku.
-Chieri: ...!!
+Chieri & Raika & Yomogi: ...!!
 Raika: Miku wrote this!? Wh-Why did you have this, Shizuku...?
 Shizuku: Sorry for keeping it secret until now. It was given to me the day before Miku left.
 Shizuku: Actually, I had intended to hand it over after understanding Miku's words...
@@ -88,7 +88,7 @@ Shizuku: Each part is written to bring out everyone's own strengths.
 Shizuku: For Yomogi, a bassline that makes the bouncy rhythm work. For Cherie, a phrase that makes the drums stand out.
 Shizuku: For me, parts to fill in what was reduced, and phrases that make me stand out. And for Raika, a guitar part and melody that are fun to sing and play.
 Shizuku: Without respect and love for family, it couldn't be made like this.
-Raika: ...!
+Raika & Yomogi & Chieri: ...!
 Shizuku: Did Miku really leave because she hated family?
 Raika: But...
 Raika: I always say "Because we're family," and involve everyone...
@@ -115,7 +115,7 @@ Raika: Yeah. She wrote a song this amazing, and yet...
 Shizuku: What shall we do?
 Raika: Let's all go see Miku together, one more time!
 Raika: Let's hear from Miku herself what she was really thinking.
-Chieri: ...!
+Chieri & Yomogi & Shizuku: ...!
 Yomogi: That said... we don't even know where Miku-san is, do we?
 Chieri: If that's the case, then there's only one thing to do!
 (Background change)
@@ -126,13 +126,10 @@ Miku: *Sigh*... I'm tired... The lesson was too long...
 Miku: (It's quiet. I can even hear my ears ringing.)
 Miku: Right, my smartphone...
 Miku: Huh...!? What's with this number of notifications...!
-(message) 🏠Raika🍚: 
-(message) 🏠Raika🍚: Mi~~ku~~~!! Answer the phone~~~!!
-(message) Chieri Umezato👑Union Leader: 
-(message) yomogi: I'm so sorry for bothering you with all these messages...😭😭😭 But I just wanted to talk to you one more time...!
-(message) 🏠Raika🍚: Hey, Miku! Where are you?
-(message) Chieri Umezato👑Union Leader: 
-(message) Chieri Umezato👑Union Leader: How dare you ignore Chieri! A subordinate of Chieri's should answer when she calls!😡😡⚡️⚡️
+(Message) 🏠Raika🍚: Mi~~ku~~~!! Answer the phone~~~!!
+(Message) yomogi: I'm so sorry for bothering you with all these messages...😭😭😭 But I just wanted to talk to you one more time...!
+(Message) 🏠Raika🍚: Hey, Miku! Where are you?
+(Message) Chieri Umezato👑Union Leader: How dare you ignore Chieri! A subordinate of Chieri's should answer when she calls!😡😡⚡️⚡️
 Miku: (Those idiots...! Why are they still bothering with me...!)
 Miku: (Just deal with your own problem already. What did you think I wrote that song for...)
 Miku: Oh... I forgot to block them...

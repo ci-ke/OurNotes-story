@@ -14,7 +14,6 @@ Miyako: Huh...?
 Miyako: Candy...?
 Nonoka: Miyako-chan!
 Miyako: !?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000213/data/adv_still_anime_000213/adv_still_anime_000213.webp)
 Nonoka: Three-second rule!
 Miyako: Huh...?
 Nonoka: Timer starts now!
@@ -39,7 +38,7 @@ Arale: Ms. Manager told me...
 Miyako: W-Wait! That sticker in your phone case!
 Miyako: The Yodoshima Big Electronics exclusive sticker! I nearly died lining up after an all-nighter, only for them to run out right before my turn...!
 Arale: Yako-sensei, that's the legendary Toshima Spa Highland exclusive sticker! Every guest was meant to get one, until anti-scalper measures made it ultra-rare!
-Arale: ...
+Arale & Miyako: ...
 Arale: (I-I want to talk to her...! About Magilulu...!)
 Nonoka: Arale-chan! You've got this!
 Arale: R-Right!
@@ -153,7 +152,7 @@ Nonoka: A red bean bun shop~!
 Arale: Not just that! I've got tons of clear files too!
 Nonoka: A red bean bun and clear file shop!
 Arale: That's right! There's a convenience store promo right now: buy any two eligible items, and choose any Magilulu clear file you want!
-Arale: And get <size=200%><r=・ ・></size>this</r>! One of the hot snacks is a recreation of the High-Power Meat... Oh!!
+Arale: And get this! One of the hot snacks is a recreation of the High-Power Meat... Oh!!
 Nonoka: ?
 Arale: Um... Nono-chan-san, do you like red bean buns...?
 Nonoka: I looove them~~!
@@ -168,7 +167,7 @@ Miyako: I'm fine, thank you.
 Arale: Ooh~
 Miyako: (Guess I'm living on frozen bread till next week...!)
 (Background change)
-Miyako: Let's dig in~! Let's eat.
+Miyako & Arale & Nonoka: Let's dig in~! Let's eat.
 Arale: Nom!
 Nonoka: *Munch*... *Munch*... So yummy!
 Arale: ♡
@@ -180,22 +179,28 @@ Miyako: She wrote it for someone else...
 Nonoka: Have either of you ever met Yuno-chan in person?
 Arale: No, I haven't.
 Nonoka: Me neither...
-Miyako: ?
+Miyako & Arale: ?
 Nonoka: Nono-chan loves Yuno-chan, so I've sent her loooots of messages!
 Arale: Like what?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000216/data/adv_still_anime_000216/adv_still_anime_000216.webp)
+(Caption): Matching bedhead!
 Nonoka: A pineapple...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000217/data/adv_still_anime_000217/adv_still_anime_000217.webp)
+(Caption): Pigeon Man!
 Nonoka: A pigeon... And then~
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000218/data/adv_still_anime_000218/adv_still_anime_000218.webp)
+(Caption): A swamp~!
 Nonoka: A swamp!!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000216/data/adv_still_anime_000216/adv_still_anime_000216.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000217/data/adv_still_anime_000217/adv_still_anime_000217.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000218/data/adv_still_anime_000218/adv_still_anime_000218.webp)
 Nonoka: And she replies almost instantly every time!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000219/data/adv_still_anime_000219/adv_still_anime_000219.webp)
+(Caption): When your bedhead is really bad, it can actually look like a pineapple. Getting startled or laughing when you look in the mirror in the morning might just be one of the fun (?) parts of having bedhead.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000220/data/adv_still_anime_000220/adv_still_anime_000220.webp)
+(Caption): Pigeons really are cute when they fly. If you look closely, they're actually very adorable birds. There's something so healing about their plump bodies and smooth flight.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000221/data/adv_still_anime_000221/adv_still_anime_000221.webp)
+(Caption): It's a bit worrying if your bathwater turns the color of a swamp. Causes for cloudy or discolored bathwater can include water quality issues, bath salts, bacterial growth, or leftover soap and shampoo.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000219/data/adv_still_anime_000219/adv_still_anime_000219.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000220/data/adv_still_anime_000220/adv_still_anime_000220.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000221/data/adv_still_anime_000221/adv_still_anime_000221.webp)
@@ -216,19 +221,16 @@ Yuno: Am I coming down with a cold...?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000222/data/adv_still_anime_000222/adv_still_anime_000222.webp)
 Arale: *Staaaaare*...
 Nonoka: Hmm, I see~
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000222/data/adv_still_anime_000222/adv_still_anime_000222.webp)
 Yuno: ...
 Arale: Nono-Holmes-san! She really does look human to me!
 Yuno: You're in the way...
 Nonoka: Now, now. Take a look at this.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000223/data/adv_still_anime_000223/adv_still_anime_000223.webp)
 Yuno: What's this...?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000223/data/adv_still_anime_000223/adv_still_anime_000223.webp)
 Nonoka: Select all images with traffic lights.
 Yuno: Huh...?
 (Background change)
 Nonoka: Select all images with traffic lights.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000223/data/adv_still_anime_000223/adv_still_anime_000223.webp)
 Yuno: ...
 Nonoka: Finally, select all the Mokeeme aliens.
 Yuno: Moke... what?
@@ -237,7 +239,7 @@ Nonoka: So she really is a robot...
 Miyako: N-No way...
 Miyako: (If Sengoku-san really is an AI... then maybe it won't be long before there's an AI that can draw manga too...!)
 Miyako: (It could analyze trends and churn out whatever sells, never sleep... and even talk, sing, and dance... I-If that happened...!)
-Miyako: <size=200%>Humanity's doomed! We're all gonna be joblessssss!?</size>
+Miyako: Humanity's doomed! We're all gonna be joblessssss!?
 Arale: Nono-chan-san! Miyako-san's in trouble!
 Nonoka: Hmm!
 Nonoka: Dark-circle check starts now!
@@ -257,25 +259,24 @@ Ritsu: "Please play Roselia's Determination Symphony!"...
 Ritsu: Sorry, but the setlist had to be cleared in advance, so I can't change it now.
 Ritsu: "Even just the chorus"... I'm afraid I can't do that either...
 Ritsu: ?
-(message) Viola: You've already accepted their tip, so you should play it for them.
+(Message) Viola: You've already accepted their tip, so you should play it for them.
 Ritsu: ...!
-(message) Viola: Ms. Manager isn't watching the stream anyway.
-(message) Viola: Keeping the fans happy is important ❤️
+(Message) Viola: Ms. Manager isn't watching the stream anyway.
+(Message) Viola: Keeping the fans happy is important ❤️
 Ritsu: All right... Just a little, then...
-(message) Viola: Good girl♪
+(Message) Viola: Good girl♪
 (Background change)
 Yuno: ...
 Yuno: !
 Yuno: Another one...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000224/data/adv_still_anime_000224/adv_still_anime_000224.webp)
 Yuno: *Sigh*...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000224/data/adv_still_anime_000224/adv_still_anime_000224.webp)
 Yuno: I'll let the AI handle this one, too.
 Yuno: Copy, paste... Done.
 Yuno: All right, back to work...
 Yuno: Huh...? I'm not getting any sound.
 Yuno: Power? Connections? Still nothing after reconnecting... Why now, of all times?!
-Yuno: Gaaaaah... Fine!! <size=150%>I'll swap out every cable!!!</size> The spares should be in the drawer...
+Yuno: Gaaaaah... Fine!! I'll swap out every cable!!! The spares should be in the drawer...
 Yuno: Nothing... O-Okay, online stores...
 Yuno: They won't arrive until after the deadline...
 Yuno: Gaaah... That shop might already be open...
@@ -285,8 +286,8 @@ Yuno: No choice... Guess I'm going to Akiba.
 [Akihabara Station]
 
 Ritsu: ...?
-(message) Viola: Let's go over yesterday's stream, okay?
-(message) Viola: I'll be waiting for you at school~!
+(Message) Viola: Let's go over yesterday's stream, okay?
+(Message) Viola: I'll be waiting for you at school~!
 Ritsu: ...
 Ritsu: !
 Ritsu: (Arale-chan...)
@@ -354,5 +355,4 @@ Yuno: Anyway, eat that meat and cheer up. See ya.
 Ritsu: Thank you... Um...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000225/data/adv_still_anime_000225/adv_still_anime_000225.webp)
 Ritsu: Miss Bone-In-Meat...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000225/data/adv_still_anime_000225/adv_still_anime_000225.webp)
 Yuno: Eat up...

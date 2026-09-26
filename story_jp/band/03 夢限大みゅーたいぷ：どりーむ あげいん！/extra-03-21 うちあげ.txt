@@ -2,38 +2,38 @@
 
 打ち上げをやりましょう！
 
-arale: ……うんっ！
-ritsu: あられちゃん
-ritsu: りっちゃん、おはよ――
-ritsu: なあぁああ～～～～～～～～っ！？？？
-ritsu: なななななななななにが起きたんですか！？？
-ritsu: あられちゃん、上！
-nonoka: ――まるくんが1051匹～、まるくんが1052匹～
-yuno: ――違う、またさっきと同じコード…… この４小節、ハマらない…… 永遠にハマらない……
-miyako: スゥー……ハァー……スゥー……
-nonoka: りっちゃん、あられちゃん、いらっしゃいませー！
-arale: あの、この状況は……？
-nonoka: よくぞ聞いてくれました！ 実はユノちゃんも都子ちゃんも ばったんばったんなのですっ
-arale: ばったんばったん？
-ritsu: 全国ツアーの作業ですね
-nonoka: せ～～～いか～～～～い！
-nonoka: ユノちゃんは新曲の作曲、 都子ちゃんは描かなきゃいけないイラストが た～～～～～～～～っくさんあって～……
-ritsu: だから寝られるときに寝てほしいと、 羊の代わりにまるくんを数えてたんですね
-arale: そうなの！？
-nonoka: またまたせいか～～～いっ！
-arale: えええっ！？？
-yuno: はぁ……もうダメ…………
-arale: ユ、ユノさんちゃーーーーーんっ！！
-arale: ユノさんちゃん！　ユノさんちゃんっ！！
-yuno: 
-arale: し、ししししししし死ーーーーーーーーーっ！！？？？
-ritsu: 都子さんは……
-nonoka: んー、ビッグベア〜だけどなんだか幸せそう！
-ritsu: 
-ritsu: わかりました
-arale: りっちゃん？
-ritsu: 打ち上げをやりましょう！
-everyone: …………え？
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_yumemita_exstory_01_01/adv_movie_yumemita_exstory_01_01/adv_movie_yumemita_exstory_01_01.mp4)
+(Caption): ゆめみたエクストラ　打ち上げ開催決定（1話）
+(Subtitle) arale: ……うんっ！
+(Subtitle) ritsu: あられちゃん
+(Subtitle) ritsu: りっちゃん、おはよ――
+(Subtitle) ritsu: なあぁああ～～～～～～～～っ！？？？
+(Subtitle) ritsu: なななななななななにが起きたんですか！？？
+(Subtitle) ritsu: あられちゃん、上！
+(Subtitle) nonoka: ――まるくんが1051匹～、まるくんが1052匹～
+(Subtitle) yuno: ――違う、またさっきと同じコード…… この４小節、ハマらない…… 永遠にハマらない……
+(Subtitle) miyako: スゥー……ハァー……スゥー……
+(Subtitle) nonoka: りっちゃん、あられちゃん、いらっしゃいませー！
+(Subtitle) arale: あの、この状況は……？
+(Subtitle) nonoka: よくぞ聞いてくれました！ 実はユノちゃんも都子ちゃんも ばったんばったんなのですっ
+(Subtitle) arale: ばったんばったん？
+(Subtitle) ritsu: 全国ツアーの作業ですね
+(Subtitle) nonoka: せ～～～いか～～～～い！
+(Subtitle) nonoka: ユノちゃんは新曲の作曲、 都子ちゃんは描かなきゃいけないイラストが た～～～～～～～～っくさんあって～……
+(Subtitle) ritsu: だから寝られるときに寝てほしいと、 羊の代わりにまるくんを数えてたんですね
+(Subtitle) arale: そうなの！？
+(Subtitle) nonoka: またまたせいか～～～いっ！
+(Subtitle) arale: えええっ！？？
+(Subtitle) yuno: はぁ……もうダメ…………
+(Subtitle) arale: ユ、ユノさんちゃーーーーーんっ！！
+(Subtitle) arale: ユノさんちゃん！　ユノさんちゃんっ！！
+(Subtitle) arale: し、ししししししし死ーーーーーーーーーっ！！？？？
+(Subtitle) ritsu: 都子さんは……
+(Subtitle) nonoka: んー、ビッグベア〜だけどなんだか幸せそう！
+(Subtitle) ritsu: わかりました
+(Subtitle) arale: りっちゃん？
+(Subtitle) ritsu: 打ち上げをやりましょう！
+(Subtitle) everyone: …………え？
 (Background change)
 
 [数日後]
@@ -76,4 +76,4 @@ everyone: …………え？
 律: サプライズみたいな雰囲気でした
 ののか: わ〜〜〜そうだった！ お口チャック！
 律: ふふ…… それじゃあ、そろそろ水族館に向かいましょうか
-ののか: む～っ！ お～！
+ののか & あられ: む～っ！ お～！

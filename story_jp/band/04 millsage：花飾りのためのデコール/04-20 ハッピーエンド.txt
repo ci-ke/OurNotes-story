@@ -74,8 +74,8 @@
 蛍: 『ここで終わり？』
 蛍: 『ぶちまけたい　死にたくない　怖い 叫びたい』
 蛍: これ……
-奏多: 『あいつらに言いたい　伝えたい たすけてって　ねえなんでわたしだけって』
-奏多: 『でも　呪いになりたくない』
+奏多 & 蛍: 『あいつらに言いたい　伝えたい たすけてって　ねえなんでわたしだけって』
+奏多 & 蛍: 『でも　呪いになりたくない』
 (Background change)
 蛍: はぁ……はぁ……はぁっ
 (Background change)
@@ -185,7 +185,6 @@
 蛍: （今度こそ、ちゃんと叶えてみせます）
 観客たち: わああああ！
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000012/data/adv_still_charaillust_000012/adv_still_charaillust_000012.webp)
 蛍: （喉と指。歌と鍵盤）
 蛍: （それだけ持って、この場所で）
 蛍: （光ってみせます。みんなの幸せのためだけに）

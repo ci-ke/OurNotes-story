@@ -75,27 +75,27 @@ Anon: ......
 
 [Nagasaki's Home - Soyo's Room]
 
-(message) Soyo: Could we at least meet so that I can apologize?
-(message) Soyo: I was surprised, too. I didn't know things would turn out like that...
-(message) Soyo: So please let me explain properly.
-(message) Soyo: We'd finished our set and then they suddenly started playing it.
-(message) Soyo: I'm sorry I couldn't stop them...
-(message) Soyo: Saki-chan, you're angry, aren't you...
-(message) Soyo: I think it's natural to get angry.
-(message) Soyo: But I want you to believe me. We really weren't supposed to play "Haruhikage."
-(message) Soyo: I'm really sorry.
-(message) Soyo: We won't play it without permission anymore.
-(message) Soyo: I'll make the other girls promise not to play it again.
-(message) Soyo: So can't we just talk a little?
+(Message) Soyo: Could we at least meet so that I can apologize?
+(Message) Soyo: I was surprised, too. I didn't know things would turn out like that...
+(Message) Soyo: So please let me explain properly.
+(Message) Soyo: We'd finished our set and then they suddenly started playing it.
+(Message) Soyo: I'm sorry I couldn't stop them...
+(Message) Soyo: Saki-chan, you're angry, aren't you...
+(Message) Soyo: I think it's natural to get angry.
+(Message) Soyo: But I want you to believe me. We really weren't supposed to play "Haruhikage."
+(Message) Soyo: I'm really sorry.
+(Message) Soyo: We won't play it without permission anymore.
+(Message) Soyo: I'll make the other girls promise not to play it again.
+(Message) Soyo: So can't we just talk a little?
 Soyo: ......
 Soyo: ...!!
-(message) Anon: Soyo-san, are you feeling unwell? Are you okay?
+(Message) Anon: Soyo-san, are you feeling unwell? Are you okay?
 Soyo: ......
 Soyo: (It's not showing as read...)
 Soyo: ......
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000046/data/adv_still_anime_000046/adv_still_anime_000046.webp)
+(Caption): messages blocked how to check All  Images  Books  Videos  Shopping  News How to check if you've been blocked on social media 4 ways to find out if you've been blocked without them knowing!
 Soyo: ...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000046/data/adv_still_anime_000046/adv_still_anime_000046.webp)
 Soyo: ......
 (Background change)
 
@@ -169,7 +169,7 @@ Sakiko: ......
 Soyo: Saki-chan. Thank you for seeing me today.
 Soyo: Don't be angry with Mutsumi-chan. I said I wanted to see you and forced her to help me.
 Soyo: Because I sent many messages, but there was no reply...
-Sakiko: ......
+Sakiko & Mutsumi: ......
 Soyo: I'm sorry about that day's live show... I just really needed to meet with you and apologize...
 Soyo: We really weren't planning to play Haruhikage!
 Soyo: That day, we were only going to play one song... I didn't want to play it, either!
@@ -211,13 +211,10 @@ Soyo: ...! Wait......! Please, don't go...!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 Soyo: You have it wrong! I really care about everyone... I love them!
 Soyo: No... Please...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 Soyo: Saki-chan, without you and the others, I...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 Sakiko: Let go.
 Soyo: What can I do to make you come back!? If it's in my power, I'll do anything...!
 Sakiko: ...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 Sakiko: What sort of resolve do you have as you say that?
 Soyo: What...?
 Sakiko: You're just a student. Can you truly take responsibility for someone else's life?

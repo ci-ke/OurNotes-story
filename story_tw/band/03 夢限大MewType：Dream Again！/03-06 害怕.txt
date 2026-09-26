@@ -44,7 +44,7 @@ Viola：花語是「精神之美」…… 很適合律這個模範生吧～？
 律：！ 那我就叫Clematis！
 Viola：很高興妳喜歡♡
 （背景切换）
-律：<size=150%>我是Clematis，請多指教！
+律：我是Clematis，請多指教！
 律：好痛……
 阿拉蕾：律……！
 Viola：Clematis，妳還好吧～？
@@ -81,7 +81,6 @@ Viola：……
 歌美：今天有件事要通知大家。
 歌美：本人歌美， 決定退出「La La La La Girls」。
 歌美：真的很感謝 一直以來支持著我的粉絲。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000297/data/adv_still_anime_000297/adv_still_anime_000297.webp）
 （背景切换）
 律：怎麼會……
 阿拉蕾：為為為……為什麼……
@@ -107,8 +106,8 @@ Viola：要確實把粉絲放在心上喔♡
 阿拉蕾：就是說啊～！
 律：……！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp）
+（说明）：Clematis也太沒特色了吧？
 律：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp）
 Viola：小蕾～ 跟妳說了很多次，這樣我很為難的吧？
 阿拉蕾：？ 啊，妳說上次拍的影片！
 Viola：小艾蕾雅，妳會健身嗎～？
@@ -166,7 +165,7 @@ Viola：下次的翻唱系列就唱《獅子舞》嘛。
 A子：那樣的確比較好。
 Viola：會嗎～？ A子和Clematis也贊成我的做法吧？
 Viola：……
-A子：……
+A子 & 律：……
 A子：啊～嗯，我投Viola一票……
 律：……
 Viola：太好了！
@@ -176,17 +175,16 @@ Viola：太好了！
 （消息）律：我想跟妳聊聊有關Viola的事。
 律：……該找她商量嗎……
 律：？
-（消息）Viola：這妳看了嗎？ <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
+（消息）Viola：這妳看了嗎？ http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... 
 律：……？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp）
 Viola：下次的翻唱系列就唱《獅子舞》嘛。
 阿拉蕾：所～以～說～比起《獅子舞》， 應該先唱《Robo之家》才對吧！
 A子：啊──嗯。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp）
 律：這是什麼……！？
 （背景切换）
 律：小蕾！
-Viola：……
+Viola & A子：……
 Viola：是誰上傳了這麼過分的影片……
 Viola：目前正在跟剪輯師那邊進行確認。 因為內容包含了尚未發布的影片……
 Viola：可是，因為大量的惡意洗版，還有不斷打來 經紀公司詢問的電話……好像已經要應付不過來了。
@@ -198,11 +196,11 @@ Viola：妳看這個……
 阿拉蕾：「比起《獅子舞》，應該先唱《Robo之家》才對吧！」
 阿拉蕾：這是什麼？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp）
+（说明）：留言 其他人都在講，但沒想到性格真的這麼差勁 根本就是個超級大毒瘤，快點退出啦 感覺她在學校也會被大家討厭，我也不是很清楚就是了 太扯了，根本就是垃圾
 阿拉蕾：「對吧！？妳們也是這麼想的吧！？」
 A子：「啊～嗯。」
 律：「……」
 阿拉蕾：咦？這是什麼……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp）
 阿拉蕾：可是！影片是假的啊！ 只要我們呼籲網友小心奇怪的影片……
 阿拉蕾：大家只是沒弄清楚──
 工作人員A：非常抱歉！

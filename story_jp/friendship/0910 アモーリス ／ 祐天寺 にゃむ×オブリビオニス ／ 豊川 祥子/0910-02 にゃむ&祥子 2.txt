@@ -13,7 +13,6 @@
 祥子: （似てる。お母様の形見の……）
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 祥子: （豊川の家に置いてきてしまった、あの子。 大丈夫かしら……）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 にゃむ: うわっ、なにこれ人形？
 祥子: ！？
 にゃむ: こんだけ人形が並んでると圧あんね～
@@ -38,7 +37,7 @@
 祥子: ……何がおかしいんですの？
 にゃむ: あははっ、いやいや……だってさ
 にゃむ: それって一緒じゃん——Ave Mujicaと
-祥子: <size=175%>！
+祥子: ！
 にゃむ: そっかそっか、サキコのルーツってそこからなんだ
 にゃむ: サキコは昔っから『お人形さん遊び』が大好きなんだね。 かわいいとこあるじゃん？
 祥子: 言葉がすぎますわよ

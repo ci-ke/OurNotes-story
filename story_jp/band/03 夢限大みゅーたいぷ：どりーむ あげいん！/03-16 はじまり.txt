@@ -74,7 +74,6 @@
 ユノ: …………
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 ユノ: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 : 会えるかな
 (Background change)
 ユノ: ふーー……
@@ -120,7 +119,7 @@
 ユイナ: おもしろ
 コハル: これは？　これこれ
 ユノ: ……工事現場みたい
-コハル: あはははははははっ！！
+コハル & ユイナ & カエデ: あはははははははっ！！
 コハル: ――わたしたちの、楽しくて、まぶしくて、 忘れられない日々
 コハル: 絶対うるさくしませんから！
 先生: そういう問題ではなくて、教室使用の申請を――
@@ -136,14 +135,14 @@
 (Background change)
 スカウト: ――では、詳しい話を聞きたくなったら いつでも名刺に書いてある連絡先にご連絡ください
 ユノ: 待たせてごめん
-コハル: おめでと～！！
+コハル & ユイナ & カエデ: おめでと～！！
 コハル: 作曲依頼ってプロじゃん！
 ユイナ: もう音楽で食べていけるって
 カエデ: 夢って叶うんだなぁ
 ユノ: ？　叶えてるでしょ？
-コハル: ？
+コハル & ユイナ & カエデ: ？
 ユノ: あたしたちが叶えた夢、こんなもんじゃない。 ずっと増え続けるから
-コハル: ………
+コハル & ユイナ & カエデ: ………
 コハル: ――ユノが先を走ってくれるなら、 ずっと夢を追い続けられる気がした
 ユノ: ！　撤収！
 コハル: あっ、逃げた！
@@ -167,10 +166,8 @@
 ユノ: （あたしは……みんな楽しく前に進んで 自分だけ取り残されてると思って……）
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp)
 ユノ: （あの歌詞の中に）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp)
 ユノ: （あたしもいたんだ……）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp)
 ユノ: …………
 コハル: わたしだってさ、仕事大変だけど ユノの活躍見ると負けられないってがんばれるし
 コハル: 頑張ったから、ユノと一緒に楽曲作るって夢も叶ったし
@@ -203,7 +200,6 @@
 ユノ: （解散は終わりじゃなくて、前向きな始まり、か）
 ユノ: ……
 ユノ: あ、なんかできそう
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000030/data/adv_still_charaillust_000030/adv_still_charaillust_000030.webp)
 (Background change)
 あられ: わざわざ家まで来てくれてありがとー
 律: ううん。このへん久しぶりに来たかったから
@@ -221,7 +217,7 @@
 律: 日曜にマジるる観て、 月曜にあられちゃんのお話聞くのがセットで楽しみだったんだ
 あられ: えー
 あられ: ！　らきちゃんだ。もしもし
-らき: <size=150%>『大変だよ！』</size>
+らき: 『大変だよ！』
 あられ: えっ、どうしたの？
 律: ……
 ぼた: 『あのね、あられちゃんと夜子先生が ケンカしてる動画がネットに上がってて』
@@ -235,7 +231,7 @@
 あられ: 『なっ……！』
 都子: 『ライブをやると決めたのは私たちじゃないですか！』
 (Background change)
-律: ……
+律 & あられ: ……
 ぼた: 『まさかとは思ったけど、 知らせた方が良いと思って……』
 あられ: ……うん、ありがとう
 律: ビオラだ

@@ -7,6 +7,7 @@
 (Background change)
 祥子: ……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp)
+(Caption): 石の下の僕にも 温かい光を とどけてくれた まぶしくて 向き合えなかった 祥ちゃんは つたわらないものに かたちをくれた 祥ちゃんに 届きたくて届かない
 (Background change)
 祥子: ただの学生でしかないあなたに、 他人の人生を抱えきれますの？
 祥子: 出来もしないことを口になさらないで
@@ -23,8 +24,8 @@
 (Background change)
 祥子: ……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp)
+(Caption): きっとまた 間違えてしまった でも正解なんて 知らないから ずっと探してる
 祥子: （己の言葉と行動に、責任を果たさねば——）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp)
 (Background change)
 
@@ -58,7 +59,7 @@
 にゃむ: はいっ！　失礼します！
 (Background change)
 祥子: 揃いましたわね。 集まっていただいたのは、他でもありません
-祥子: <size=150%>Ave Mujicaを復活いたします
+祥子: Ave Mujicaを復活いたします
 祥子: あなたがたの人生、しかと受け取りました。 今後何があろうと脱退は認めません
 モーティス: ……
 にゃむ: ……？
@@ -70,7 +71,7 @@
 モーティス: ……
 祥子: 八幡さん、来週にもライブをしたいのでスケジュール調整を
 海鈴: 承知しました
-祥子: <size=150%>Ave Mujica、復活マスカレードですわ
+祥子: Ave Mujica、復活マスカレードですわ
 (Background change)
 
 [本番当日]
@@ -79,7 +80,7 @@
 
 [RiNG 楽屋]
 
-初華: <size=150%>あーあーあーあーあー……あー
+初華: あーあーあーあーあー……あー
 初華: さきちゃん！
 祥子: おかまいなく。わたくし着替えますから
 初華: ……ありがとう
@@ -125,8 +126,12 @@
 (Background change)
 モーティス: （まだ……まだ、間に合うんなら）
 モーティス: （神様。睦ちゃんに会えるなら、なんでもあげる。 私、もうそれだけだよ）
-doloris: 運命の歯車は再び、動き出す
-doloris: ようこそ、AveMujicaの世界へ
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4)
+(Caption): Imprisoned XII　ライブシーン
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4)
+(Caption): Crucifix X　ライブシーン
+(Subtitle) doloris: 運命の歯車は再び、動き出す
+(Subtitle) doloris: ようこそ、AveMujicaの世界へ
 
 [終演後]
 

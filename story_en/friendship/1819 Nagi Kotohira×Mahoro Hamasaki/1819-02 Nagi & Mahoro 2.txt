@@ -13,8 +13,8 @@ Nagi: ! That's... serious.
 Mahoro: Yeah... This one's seriously going to be something...!
 Nagi: Oh my... I'm trembling. Truly fearsome—
 Nagi: The Hamasaki Family Curry Night...!
-Nagi: ...
-Nagi: Ahaha. Hehe.
+Nagi & Mahoro: ...
+Nagi & Mahoro: Ahaha. Hehe.
 Nagi: What was that weird little moment just now?
 Mahoro: No idea. What was that?
 Mahoro: Anyway, I'll count you in, Nagi-chan. I'll let Mom know.
@@ -45,4 +45,4 @@ Nagi: Haha. First, you need to get through tonight's dinner.
 Mahoro: Oh, right... I'll message you again later, okay?
 Nagi: Yeah, sounds good.
 (Background change)
-Nagi: Bye. Bye-bye!
+Nagi & Mahoro: Bye. Bye-bye!

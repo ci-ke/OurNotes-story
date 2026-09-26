@@ -48,7 +48,7 @@ Taki: But... after hearing your song, I do understand.
 Tomori: Taki-chan...
 Tomori: Thank you... for coming.
 Taki: Tomori...
-Taki: ...!
+Taki & Tomori: ...!
 Tomori: Mutsumi-chan...
 Mutsumi: What will you do about Soyo?
 Taki: How do you even know about it?
@@ -144,9 +144,11 @@ Soyo: Hey... Hey! Let go!
 Tomori: ...!
 Soyo: Don't get the wrong idea...! I came to end things!
 (Background change)
-soyo: Ah...!
-rana: Hehe.
-soyo: Wait...!
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10.mp4)
+(Caption): 詩超絆　ライブシーン
+(Subtitle) soyo: Ah...!
+(Subtitle) rana: Hehe.
+(Subtitle) soyo: Wait...!
 (Background change)
 Tomori: Haa... Haa...
 Anon: Thank you!
@@ -160,7 +162,7 @@ Tomori: ...
 Taki: Tomori! Are you all right...?
 Tomori: After the live show... I feel exhausted...
 Soyo: I came here to put an end to all of this.
-Taki: ...!
+Taki & Tomori: ...!
 Soyo: So... Why? I just don't know anymore...!
 Soyo: I used all of you!
 Tomori: Even so... we do this our whole lives...

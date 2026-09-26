@@ -9,16 +9,18 @@ Nonoka: Yaaay~!
 Arale: That was "In my Words." Thank you for listening.
 Arale: For the next song, I'd be happy if I could sing with everyone.
 (Background change)
-arale: Love is Energy!
-arale: When all of that mixes, I can chat with you through my songs!
-viola: She really did, didn't she?
-viola: That's why I can't stand her.
-viola: Arale-chan.
-arale: Let's sing!
-arale: That was Mugendai MewType!
-arale: Getting to chat with everyone was an absolute blast!
-arale: Ready, set~!
-Mugendai_Mewtype: Thank youuuuuuu!!!
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4)
+(Caption): 夢みた13話　『愛は衝動』ライブシーン
+(Subtitle) arale: Love is Energy!
+(Subtitle) arale: When all of that mixes, I can chat with you through my songs!
+(Subtitle) viola: She really did, didn't she?
+(Subtitle) viola: That's why I can't stand her.
+(Subtitle) viola: Arale-chan.
+(Subtitle) arale: Let's sing!
+(Subtitle) arale: That was Mugendai MewType!
+(Subtitle) arale: Getting to chat with everyone was an absolute blast!
+(Subtitle) arale: Ready, set~!
+(Subtitle) Mugendai_Mewtype: Thank youuuuuuu!!!
 (Background change)
 Viola: Hey, Arale-chan. After school tomorrow, wanna go to karaoke together?
 Arale: Oh! Of course! I'm going!
@@ -52,7 +54,7 @@ Arale: Wow~~~
 Yuno: ...
 Arale: I can chat with everyone through songs!
 Manager: We've also received a new tie-up offer.
-Mugendai MewType: <size=130%>Huh!?</size>
+Mugendai MewType: Huh!?
 Miyako: We'll have to practice really hard.
 Arale: Training camp!
 Nonoka: Training camp puff puff~
@@ -60,7 +62,7 @@ Yuno: I'll pass.
 Miyako: Me too. I have a deadline.
 Nonoka: They ran away!
 Miyako: Hmph, I'm just going to face reality.
-Arale: <size=130%>I will~~! Chat with everyone through my sooongs!!</size>
+Arale: I will~~! Chat with everyone through my sooongs!!
 Yuno: Don't suddenly yell—
 Ritsu: I will! Eat my way across the entire country!!
 Nonoka: Nono-chan will be Big Nono-chan 47!
@@ -79,11 +81,12 @@ Nonoka: !!
 Nonoka: Miyako-chaaaaaan!
 Maru-kun: Stop it!
 Nonoka: Grawr...
-Arale: !
+Arale & Nonoka & Miyako & Yuno: !
 (Background change)
 Ritsu: Well then! Everyone together—
 Arale: Mugendai~~~~~~~~~
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp)
 Mugendai MewType: MewType~~!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp)
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3.mp4)
+(Caption): 夢みた13話　完！

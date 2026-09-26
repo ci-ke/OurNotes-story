@@ -3,7 +3,6 @@
 (So the rainbow was the color of my desires.)
 
 (Background change)
-Natsume: 
 Hotaru: Haa... Haa...
 Hotaru: (Huh?)
 Hotaru: (In the end, I... made it all the way to the finish...)
@@ -61,27 +60,25 @@ Houka: Which means you, yourself, are what one would call an accomplice.
 Nagi: ...!
 Natsume: I said that's enough! Both of you, be quiet!
 (Background change)
-: 
-: (Huh?)
-: (I was supposed to bring everyone happiness, wasn't I?)
-: (How did it end up like this—)
-: Encore! Encore!
-: Huh...?
-: 
-: Wha—? You're kidding, right? Today's live is a band battle event!?
-: It seems... the audience was quite pleased.
-: No... this is impossible...!
-: 
-: The vocalist—!! You were the best!!!
-: This millsage revival is way too dramatic!! That vocal was way too passionate!!
-: 
-: Haha... I knew it.
-: Huh?
-: They're calling for you, vocalist.
-: Mahoro...!
-: Wait! Please wait!!
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_encore_millsage_17/adv_movie_encore_millsage_17/adv_movie_encore_millsage_17.mp4)
+(Caption): millsageバンスト1章　初ライブ後のアンコール（17話）
+(Subtitle): (Huh?)
+(Subtitle): (I was supposed to bring everyone happiness, wasn't I?)
+(Subtitle): (How did it end up like this—)
+(Subtitle): Encore! Encore!
+(Subtitle): Huh...?
+(Subtitle): Wha—? You're kidding, right? Today's live is a band battle event!?
+(Subtitle): It seems... the audience was quite pleased.
+(Subtitle): No... this is impossible...!
+(Subtitle): The vocalist—!! You were the best!!!
+(Subtitle): This millsage revival is way too dramatic!! That vocal was way too passionate!!
+(Subtitle): Haha... I knew it.
+(Subtitle): Huh?
+(Subtitle): They're calling for you, vocalist.
+(Subtitle): Mahoro...!
+(Subtitle): Wait! Please wait!!
 (Background change)
-Nagi: ...
+Nagi & Houka: ...
 Natsume: Hey, what are you two just standing there for! We're going after her!
 Houka: That's not really my role, is it?
 Houka: Since I already seem to be the bad guy here.

@@ -6,7 +6,7 @@
 睦：（不能失败……不许退缩—— 哈啊……哈啊……）
 Amoris：快还给我，快把我的完美容颜还给我！ 还我可爱的大眼睛，还我弧线优美的嘴唇……！
 （背景切换）
-睦：<size=175%>……！
+睦：……！
 睦：（……已经开始了？究竟是何时？）
 Amoris：这根本不是真正的我！
 Oblivionis：Amoris，这正是你所期望的
@@ -20,7 +20,6 @@ Oblivionis：一旦毁伤， 你就只能以这张面孔活下去……
 睦：……！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp）
 『睦』们：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp）
 （背景切换）
 睦：已经……无路可逃了……
 Oblivionis：如果即便如此，你也要寻求慰藉……
@@ -41,7 +40,7 @@ Oblivionis：——就把一切献给Ave Mujica
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp）
 （背景切换）
 祥子：……！
-海铃：……
+海铃 & 初华：……
 若麦：（………好厉害）
 
 【演出结束后】
@@ -57,7 +56,7 @@ Oblivionis：——就把一切献给Ave Mujica
 海铃：完成度根本不像是即兴发挥……
 祥子：总算是说服了工作人员。 为什么要做那种事？
 睦：……吉他，弹错了
-若麦：<size=175%>！？
+若麦 & 初华 & 祥子：！？
 若麦：你的意思是，那不是刻意安排，也不是即兴发挥？
 初华：原来小睦也会在正式演出时犯错啊……？
 海铃：所以，你甚至没有尝试蒙混过关，而是直接僵住了吗？
@@ -71,7 +70,6 @@ Oblivionis：——就把一切献给Ave Mujica
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp）
 睦：……
 Mortis：……小睦？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000089/data/adv_still_anime_000089/adv_still_anime_000089.webp）
 Mortis：又失眠了吗？
@@ -81,14 +79,16 @@ Mortis：又失眠了吗？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000090/data/adv_still_anime_000090/adv_still_anime_000090.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp）
+（说明）：Mortis电视真人秀
 Mortis：小睦！欢迎你今天来到我的节目！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp）
+（说明）：Mortis电视真人秀
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp）
 睦：啊……！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp）
+（说明）：今天的嘉宾 小睦
 小熊：她好可爱！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp）
 小猫：和妈妈一模一样！
 企鹅：她会不会像南小姐那样，成为优秀的女演员呢？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp）
@@ -98,6 +98,7 @@ Mortis：『像妈妈那样，是什么意思？』
 睦：（该怎么回答才好？我不知道）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp）
+（说明）：今天的嘉宾 小睦
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000096/data/adv_still_anime_000096/adv_still_anime_000096.webp）
 （背景切换）
@@ -111,10 +112,8 @@ Mortis：『就像这样，小睦一直以来都不太会说话』
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000098/data/adv_still_anime_000098/adv_still_anime_000098.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp）
 南：没错，小睦真的很可爱～ 而且她很有天赋。这可不是因为我有滤镜哦
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp）
 睦：……就算被夸奖， 夸的也全都是南和阿隆的东西
 Mortis：『从来就没有什么，是属于小睦自己的』
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000100/data/adv_still_anime_000100/adv_still_anime_000100.webp）
 吉他：～～♪
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp）
@@ -124,7 +123,6 @@ Mortis：『那把吉他，看起来很愉快地歌唱着』
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp）
 睦：啊……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000103/data/adv_still_anime_000103/adv_still_anime_000103.webp）
 Mortis：『每天都弹很久吉他，一直在一起』
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000104/data/adv_still_anime_000104/adv_still_anime_000104.webp）
@@ -136,7 +134,8 @@ Mortis：『小睦终于获得了 属于小睦自己的东西』
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000105/data/adv_still_anime_000105/adv_still_anime_000105.webp）
 睦：……我，做不到……
 （背景切换）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000105/data/adv_still_anime_000105/adv_still_anime_000105.webp）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4）
+（说明）：春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
 Mortis：『但是神明非常坏心眼。 没有给予她让吉他歌唱的天赋』
 吉他：好羡慕啊。小灯的歌声真好听！ 小立希的鼓点好帅气！
 睦：！
@@ -149,11 +148,10 @@ Mortis：『但是神明非常坏心眼。 没有给予她让吉他歌唱的天�
 （背景切换）
 祥子：我要，退出CRYCHIC
 （背景切换）
-祥子：<size=175%>哇啊啊啊啊……
+祥子：哇啊啊啊啊……
 睦：！！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000106/data/adv_still_anime_000106/adv_still_anime_000106.webp）
 睦：不对……我不是这个意思……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000106/data/adv_still_anime_000106/adv_still_anime_000106.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp）
 睦：我没法觉得开心是因为……我…… 弹得太差了……
 睦：因为我没法让它歌唱……
@@ -161,7 +159,6 @@ Mortis：『但是神明非常坏心眼。 没有给予她让吉他歌唱的天�
 Mortis：『睦，枯立在原地』
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp）
 睦：是我……毁了CRYCHIC
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp）
 Mortis：『绝望地，蹲下身来——』
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000108/data/adv_still_anime_000108/adv_still_anime_000108.webp）
@@ -177,8 +174,8 @@ Mortis：『绝望地，蹲下身来——』
 
 祥子：……
 （背景切换）
-网络新闻：<align="center">Ave Mujica全国巡演首日大获成功！ Mortis（若叶睦）的表演广受称赞
-网络新闻：<align="center">僵坐不动的Mortis犹如真正的 『人偶』一般
+网络新闻：Ave Mujica全国巡演首日大获成功！ Mortis（若叶睦）的表演广受称赞
+网络新闻：僵坐不动的Mortis犹如真正的 『人偶』一般
 评论A：小睦的表演太精彩了！ 全国巡演时绝对要去现场看！！
 （背景切换）
 祥子：……
@@ -356,7 +353,7 @@ Mortis：……难受的时候要说哦，我很担心你
 睦：……
 祥子：为什么不直接拒绝？ 比起表演，你不是更想弹吉他吗？ 可你却——
 睦：因为我要是说话了，肯定又会失败的……
-祥子：<size=175%>不要撒娇了！！
+祥子：不要撒娇了！！
 睦：！
 祥子：现在是说这种话的时候吗？ 再这样下去，Mujica就要面目全非了
 睦：祥——
@@ -386,11 +383,13 @@ Mortis：……难受的时候要说哦，我很担心你
 （背景切换）
 睦：（因为我的错——又要）
 （背景切换）
-mortis：很难受吧
-mortis：很痛苦吧
-mortis：只有我，愿意帮小睦说话
-mutsumi：Mortis……
-mutsumi：诶……？
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03.mp4）
+（说明）：モーティスウォルドルフ人形捕食シーン
+（字幕）mortis：很难受吧
+（字幕）mortis：很痛苦吧
+（字幕）mortis：只有我，愿意帮小睦说话
+（字幕）mutsumi：Mortis……
+（字幕）mutsumi：诶……？
 （背景切换）
 工作人员A：广告环节结束！正式演出前5秒、4、3——
 Mortis：——每次苏醒皆是重生。 不再苏醒便是，永恒的死亡

@@ -17,13 +17,10 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000037/data/adv_still_anime_000037/adv_still_anime_000037.webp)
 燈: ……？
 立希: ……は？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000037/data/adv_still_anime_000037/adv_still_anime_000037.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000038/data/adv_still_anime_000038/adv_still_anime_000038.webp)
 愛音: トライアングルもいいよね～！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000038/data/adv_still_anime_000038/adv_still_anime_000038.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000039/data/adv_still_anime_000039/adv_still_anime_000039.webp)
 愛音: カスタネットもありかも！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000039/data/adv_still_anime_000039/adv_still_anime_000039.webp)
 愛音: 燈ちゃん、好きなの選んでいいよ！
 燈: ……全部、がんばる
 立希: ちょっ……燈！？
@@ -112,7 +109,7 @@
 愛音: で、でも曲は？ 演奏できる曲、ひとつもないよ？
 そよ: うーん……とりあえず、できそうな曲探してみようか？ 他のバンドのカバーとか――
 立希: 『春日影』でいいじゃん
-燈: ……！
+燈 & そよ & 愛音: ……！
 そよ: でも、あの曲は……
 立希: ……何？　あいつに遠慮してんの？
 そよ: …………
@@ -122,7 +119,7 @@
 そよ: ……愛音ちゃんもこう言ってるし。 みんながやりやすい曲を探そうよ
 立希: 『春日影』の楽譜は持ってきてる。 練習始めるから、早く準備して
 そよ: ちょっと、立希ちゃん……
-燈: ……？
+燈 & そよ & 立希 & 愛音: ……？
 楽奈: アンプどこ？
 立希: ……は？ いきなり何言ってんの……？
 愛音: え……待って、なんでギターの準備始めてるの！？ 誰か、この子練習に呼んだ？
@@ -132,7 +129,7 @@
 楽奈: ギター弾く
 立希: な……それ私の楽譜……！
 楽奈: …………
-燈: ……！？
+燈 & そよ & 立希 & 愛音: ……！？
 愛音: （この子のギター、すごい……）
 (Background change)
 

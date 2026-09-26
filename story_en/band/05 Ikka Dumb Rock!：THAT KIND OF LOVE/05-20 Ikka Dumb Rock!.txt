@@ -8,21 +8,21 @@ So, do you have anything you cherish?
 
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000003/data/adv_still_charaillust_000003/adv_still_charaillust_000003.webp)
+(Caption): Raika Suga Learned her special skill, calligraphy, from her grandmother Something she wants to try recently: "Coin-operated rice milling"
 Raika: Everyone, I brought ice cream~! Which one do you want?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000003/data/adv_still_charaillust_000003/adv_still_charaillust_000003.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000041/data/adv_still_charaillust_000041/adv_still_charaillust_000041.webp)
+(Caption): Chieri Umezato Believes she can still grow taller Perfected Radio Taiso up to the second routine
 Chieri: Chieri wants the whole orange one!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000041/data/adv_still_charaillust_000041/adv_still_charaillust_000041.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000042/data/adv_still_charaillust_000042/adv_still_charaillust_000042.webp)
+(Caption): Yomogi Yakura Vocabulary specialized in negativity Can eat potatoes but hates potato salad
 Yomogi: I'll have melon...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000042/data/adv_still_charaillust_000042/adv_still_charaillust_000042.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000004/data/adv_still_charaillust_000004/adv_still_charaillust_000004.webp)
+(Caption): Shizuku Shinomiya Mastered her high-society smile at age 4 Something she learned recently: "The difference between best-before and expiration dates"
 Shizuku: Miku, which one do you pick?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000004/data/adv_still_charaillust_000004/adv_still_charaillust_000004.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000005/data/adv_still_charaillust_000005/adv_still_charaillust_000005.webp)
+(Caption): Miku Mahashi Favorite scent is savon Wants to stop her habit of touching her ears
 Miku: Shizuku, you choose first.
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000005/data/adv_still_charaillust_000005/adv_still_charaillust_000005.webp)
 Raika: Okay, it's broken! Here, Cherie, orange.
 Chieri: Wh-Why did you break it in half without asking~~!!
 Raika: Last time, you ate a whole one by yourself~! So today, you must share it with someone!
@@ -44,7 +44,7 @@ Miku: *Sigh*...
 Miku: (After that troublesome family reunion live, so many things happened.)
 (Background change)
 Raika: Granny and others, welcome—
-Raika's Grandmother: <size=200%>You complete idiot!!!</size>
+Raika's Grandmother: You complete idiot!!!
 Raika's Grandmother: Even if it's to get our family back, wrecking someone else's live is just wrong!!
 Raika: Uwaaah, I'm sorry~~!
 Grandmother's Band Member A: But you did a great job, Raika!

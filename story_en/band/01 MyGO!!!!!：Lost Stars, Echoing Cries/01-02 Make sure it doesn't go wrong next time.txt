@@ -47,7 +47,6 @@ Anon: Oh, there you are. I was so surprised that you suddenly started running...
 Tomori: Bandages... which would you like?
 Anon: Huh? Wow. They're all bandages!?
 Tomori: Yeah.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000003/data/adv_still_anime_000003/adv_still_anime_000003.webp)
 Anon: I can really use one?
 Tomori: Yeah.
 Anon: Really? Sorry. All of them have cute patterns~ Oh, I like this penguin one.
@@ -55,7 +54,6 @@ Anon: Really? Sorry. All of them have cute patterns~ Oh, I like this penguin one
 Tomori: ...! It's a bearded penguin!
 Anon: What? Moustache?
 Tomori: It has a moustache on its head here, see? It's in the same genus as the Adélie penguin and the gentoo penguin. There's more in the penguin series of bandages—
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000016/data/adv_still_charaillust_000016/adv_still_charaillust_000016.webp)
 Anon: Takamatsu-san, do you like penguins?
 Tomori: What? I do think... they're cute...
 Anon: Why do you sound so unsure?
@@ -80,15 +78,15 @@ Tomori: Ah... okay, I see...
 Anon: (Mmm, and she's depressed again. Don't get depressed so quickly... Hm?)
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000004/data/adv_still_anime_000004/adv_still_anime_000004.webp)
+(Caption): A Tempo Notebook Study Notebook Year  Class Name  Tomori Takamatsu
 Anon: Oh, is this your notebook, Takamatsu-san? You keep a diary too?  Can I read it?
 Tomori: Ah, that is...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000004/data/adv_still_anime_000004/adv_still_anime_000004.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000005/data/adv_still_anime_000005/adv_still_anime_000005.webp)
+(Caption): Haruhikage
 Anon: Takamatsu-san, you are in a band!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000005/data/adv_still_anime_000005/adv_still_anime_000005.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000006/data/adv_still_anime_000006/adv_still_anime_000006.webp)
+(Caption): Haruhikage A heart grown numb with cold a trembling gaze In all the world, I was alone All I knew of spring was falling petals, and every year
 Anon: "Haruhikage." I don't know that song.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000006/data/adv_still_anime_000006/adv_still_anime_000006.webp)
 (Background change)
 Anon: ...
 Tomori: I'm not... in a band anymore.
@@ -148,7 +146,7 @@ Tomori: It's fine... I'm the one who said something weird.
 Tomori: Thank you for inviting me to join your band... But... I'm sorry.
 Anon: Tomori-chan...
 Taki: Tomori!
-Tomori: !?
+Tomori & Anon: !?
 Taki: Tomori, are you okay!?
 Taki: Who are you? What do you want with Tomori?
 Anon: W-What...? Who's this? Tomori-chan, do you know her?

@@ -17,16 +17,18 @@
 阿拉蕾：呜～～呃～～
 律：小阿拉蕾……
 阿拉蕾：～～～～～～～～
-阿拉蕾：<size=175%>好！
+阿拉蕾：好！
 阿拉蕾：我想要多聊聊天！ 想要更多地了解大家！
 （背景切换）
 阿拉蕾：因为，小由乃同学喜欢的东西、 可能会去的地方，我完全都不知道
 （背景切换）
 阿拉蕾：所以说……
 （背景切换）
-arale・ritsu：身体塑形·充能～～～～～～变身！
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09.mp4）
+（说明）：夢みた9話　マジるる変身イメージシーン
+（字幕）arale・ritsu：身体塑形·充能～～～～～～变身！
 （背景切换）
-阿拉蕾：<size=150%>我们是能变身的！
+阿拉蕾：我们是能变身的！
 律：是啊
 律：……我们MewType 一定能够改变
 阿拉蕾：嗯！
@@ -34,7 +36,7 @@ arale・ritsu：身体塑形·充能～～～～～～变身！
 蓓儿：希望大家能对我们抱有梦想…… 我们也怀着这样的想法在努力
 波波：永远不会醒的梦……
 波波：……之类的
-蓓儿：<size=175%>啊哈哈哈哈哈！！
+蓓儿 & 波波：啊哈哈哈哈哈！！
 波波：真是太难绷了
 薇欧拉：……
 薇欧拉：（私信……？）
@@ -58,7 +60,7 @@ arale・ritsu：身体塑形·充能～～～～～～变身！
 【次日】
 
 野乃花：『我现在只能跟叹气对话了』
-律：诶？
+律 & 阿拉蕾：诶？
 野乃花：『心的归宿，只有疼痛才会知晓吧』
 阿拉蕾：那个，你从刚才开始一直在做什么……
 野乃花：这是小由乃心灵的诗歌哦
@@ -81,8 +83,8 @@ arale・ritsu：身体塑形·充能～～～～～～变身！
 野乃花：嗯——
 野乃花：嗯——？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000255/data/adv_still_anime_000255/adv_still_anime_000255.webp）
+（说明）：小号yuno 想消失 我可以消失吗 小号yuno 现在 是不是觉得我很可怜？ 你答对了
 野乃花：…………
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000255/data/adv_still_anime_000255/adv_still_anime_000255.webp）
 野乃花：下潜得越来越深了～
 （背景切换）
 律：由乃同学，到底会在哪里呢……
@@ -95,7 +97,7 @@ arale・ritsu：身体塑形·充能～～～～～～变身！
 律：……难道说， 你是要去见薇欧拉吗……？
 都子：！
 律：不……不行……！ 这……
-都子：<size=150%>……！
+都子：……！
 律：啊，等一下！ ……！
 阿拉蕾：『小律？』
 律：我刚才找到都子同学了
@@ -111,8 +113,8 @@ arale・ritsu：身体塑形·充能～～～～～～变身！
 路人A：是妖精花束！
 都子：？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000256/data/adv_still_anime_000256/adv_still_anime_000256.webp）
+（说明）：妖精花束
 都子：啊……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000256/data/adv_still_anime_000256/adv_still_anime_000256.webp）
 都子：（好想见你……）
 都子：（好想见你，薇欧拉同学……）
 薇欧拉：都子同学
@@ -134,8 +136,8 @@ arale・ritsu：身体塑形·充能～～～～～～变身！
 薇欧拉：好可怕啊
 都子：诶
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000257/data/adv_still_anime_000257/adv_still_anime_000257.webp）
+（说明）：薇欧拉 恋人 薇欧拉 家 薇欧拉 独居 薇欧拉 喜欢的食物 薇欧拉 可爱 薇欧拉 关系好 薇欧拉 学校
 都子：（难、难道她察觉到了……）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000257/data/adv_still_anime_000257/adv_still_anime_000257.webp）
 薇欧拉：因为在网上，别人都在随心所欲地造我的谣。 所以我很害怕，不知道都子同学会怎么看我……
 都子：！说什么呢！虽然晚了点， 但薇欧拉同学的视频，我全都看过了！
 都子：每一部都太精彩了！那才是真正的娱乐精神！ 那才是真正的专业人士！！
@@ -154,13 +156,11 @@ arale・ritsu：身体塑形·充能～～～～～～变身！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000258/data/adv_still_anime_000258/adv_still_anime_000258.webp）
 薇欧拉：为什么呢？
 都子：阿拉蕾同学给人的压迫感太强了！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000258/data/adv_still_anime_000258/adv_still_anime_000258.webp）
 都子：我明白她充满热情， 做什么事都全力以赴……
 都子：可是！她压迫感太强了， 让人害怕，完全不考虑周围的人！
 都子：她根本不管别人怎么想， 就只顾着自己在那儿喋喋不休地说个不停，然后一个人自我满足！
 都子：阿拉蕾同学太任性了，太自以为是了！ 说到底，阿拉蕾同学她——
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000258/data/adv_still_anime_000258/adv_still_anime_000258.webp）
-都子：<size=175%>阿拉蕾同学她——
+都子：阿拉蕾同学她——
 薇欧拉：……
 （背景切换）
 都子：……啊！？
@@ -182,6 +182,6 @@ arale・ritsu：身体塑形·充能～～～～～～变身！
 律：我没自信能用话说清楚。 但是，我想好好传达给都子同学
 律：请看，这是我整理的——
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp）
+（说明）：薇欧拉 ～受害者的心理过程与摆脱法～
 律：『薇欧拉～受害者的心理过程与摆脱法～』！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp）
 都子：…………？

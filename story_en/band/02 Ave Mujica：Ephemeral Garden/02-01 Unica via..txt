@@ -17,6 +17,8 @@ Oblivionis: The moon swallowed by shadows comes back to life, and the poor doll 
 Doloris: ...!
 Oblivionis: Now, let's begin... tonight's masquerade!
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4)
+(Caption): KiLLKIss　ライブシーン
 
 [After the Performance]
 
@@ -59,7 +61,7 @@ Sakiko: That's right. I am entrusted with your lives.
 Uika: I can't believe how popular we've become upon debut. Saki-chan really is amazing!
 Sakiko: It's all thanks to you, Uika.
 Sakiko: I couldn't have asked for a better frontwoman for Ave Mujica.
-Sakiko: Was it okay? <ruby=・>At </ruby><ruby=・>that </ruby><ruby=・>time</ruby>, you didn't even ask anything.
+Sakiko: Was it okay? At that time, you didn't even ask anything.
 Uika: Yes.
 Sakiko: Uika, you're surely the type to get talked into buying crystals.
 Uika: That was mean~
@@ -95,14 +97,11 @@ Sakiko: Okay...
 Sakiko: ...!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 Sakiko: Mutsumi, who are those people?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 Mutsumi: They are seniors who formed a band for the first time in Tsukinomori.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 Sakiko: Band... Mutsumi! We should start a band too!
 Mutsumi: Eh?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
 Sakiko: A band!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
@@ -114,9 +113,8 @@ Tomori: ...
 Sakiko: ...?  What's that girl doing, leaning so far over the bridge...?
 Tomori: Ah...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
-Sakiko: <size=175%>!!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
-Sakiko: <size=175%>No, don't!!
+Sakiko: !!
+Sakiko: No, don't!!
 Tomori: Ugh...
 Sakiko: Ouch... Are you all right?
 Sakiko: I'm sorry for pushing you... But you mustn't die!
@@ -124,7 +122,7 @@ Tomori: What...?
 Sakiko: You were trying to die, weren't you!?
 Tomori: N-No... The wind took the flower I was holding... I just reached out my hand...
 Sakiko: Flower...?
-Sakiko: <size=125%>Which is more important, a flower or your life!?
+Sakiko: Which is more important, a flower or your life!?
 Sakiko: Oh, wait... Flowers have life too, don't they...?
 Tomori: It was a falling flower, so I think it was already dead.
 Sakiko: Dead!? What!?
@@ -135,7 +133,6 @@ Sakiko: She stopped me as I was about to leave, and invited me to her home to te
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
 Sakiko: When I found the songwriting notebook in her room, my heart truly raced with excitement.
 Sakiko: I still believe that our encounter at that time was destiny...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
 (Background change)
 Sakiko: —♪
 Tomori: ...
@@ -158,7 +155,7 @@ Sakiko: What is this...?
 Tomori: This is the first time I've written lyrics.
 Sakiko: I understand. This is...
 Sakiko: ......
-Tomori: <size=200%>!
+Tomori & Taki & Soyo & Mutsumi: !
 Soyo: Saki-chan, are you okay?
 Sakiko: "Haruhikage" is... our song, isn't it?
 Sakiko: I will write music worthy of Tomori's lyrics.
@@ -173,9 +170,9 @@ Taki: I'm blocking them.
 Soyo: Taki-chan, it's better to mute than to block.
 Sakiko: (What happened to father?)
 (Background change)
-(message) Sakiko: Father, have you arrived?
-(message) Kiyotsugu Togawa: We can't live together anymore.
-(message) Kiyotsugu Togawa: Sakiko... please be happy.
+(Message) Sakiko: Father, have you arrived?
+(Message) Kiyotsugu Togawa: We can't live together anymore.
+(Message) Kiyotsugu Togawa: Sakiko... please be happy.
 (Background change)
 Sakiko: What...?
 Mutsumi: ...?
@@ -219,17 +216,17 @@ Sakiko: I don't want to... cause any trouble or worry for the members. I absolut
 Sakiko: I have to make this work. I have to... I have to—!
 (Background change)
 Sakiko: I finished earlier than expected. I can still make it to practice.
-(message) Soyo: Can you come today?
-(message) Sakiko: My sincere apologies. I will make it on...
+(Message) Soyo: Can you come today?
+(Message) Sakiko: My sincere apologies. I will make it on...
 Sakiko: ? Who could that be...?
 Sakiko: Yes... this is Togawa. What...?
 (Background change)
 Sakiko: Why do you need alcohol...?
 Kiyotsugu: Sakiko... I'll do my best...
 Sakiko: Father...
-(message) Soyo: Everyone's waiting.
-(message) Soyo: What's wrong?
-(message) Soyo: If something's wrong, I'll listen.
+(Message) Soyo: Everyone's waiting.
+(Message) Soyo: What's wrong?
+(Message) Soyo: If something's wrong, I'll listen.
 Sakiko: ...
 Sakiko: (I can't... take anymore...)
 (Background change)
@@ -237,7 +234,7 @@ Sakiko: (I can't... take anymore...)
 Sakiko: I came today because I have something to say.
 Sakiko: I am quitting CRYCHIC.
 Taki: ...!
-Soyo: Eh?
+Soyo & Tomori: Eh?
 Taki: Seriously, isn't that a bit irresponsible?
 Tomori: But Saki-chan, if you're not here...
 Sakiko: Could you please not talk like a spoiled child? Tomori, you need to practice more than anyone else. What have you been doing all this time?
@@ -249,7 +246,7 @@ Sakiko: If only I could have told them the truth. If only I could have told them
 Sakiko: I hurt everyone. So... this pain in my chest is my punishment.
 (Background change)
 (Background change)
-Sakiko: <size=175%>Waaaaahhh...
+Sakiko: Waaaaahhh...
 (Background change)
 (Background change)
 Sakiko: (All I have left is, Ave Mujica.)

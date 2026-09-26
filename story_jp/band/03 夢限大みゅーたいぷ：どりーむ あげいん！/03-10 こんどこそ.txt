@@ -2,9 +2,13 @@
 
 ぼくも、夢、ずっとあって…… そしたら、ライブができた！　だから……
 
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mewtype_ver2.0_live_yumemita_07/adv_movie_mewtype_ver2.0_live_yumemita_07/adv_movie_mewtype_ver2.0_live_yumemita_07.mp4)
+(Caption): 夢みた7話　『Tear Jerker』『Face The Next』ライブシーン
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mewtype_ver2.0_live_yumemita_07/adv_movie_mewtype_ver2.0_live_yumemita_07/adv_movie_mewtype_ver2.0_live_yumemita_07.mp4)
+(Caption): 夢みた7話　『Tear Jerker』『Face The Next』ライブシーン
 (Background change)
 あられ: お……
-あられ: <size=150%>終わった～～～～～～～！！
+あられ: 終わった～～～～～～～！！
 ののか: わ～！
 都子: フ～……
 マネージャー: みんな、おつかれさま
@@ -20,7 +24,7 @@
 マネージャー: 峰月さんも加わって、これからは みゅーたいぷバージョン2.0 って感じで 心新たにやっていきましょう！
 一同: はいっ
 マネージャー: じゃ、今日は解散！　みんなゆっくり体を休めて！
-律: おつかれさまでした！
+律 & あられ & 都子: おつかれさまでした！
 ののか: おつかれなさいませ～
 ユノ: おつかれさま
 ののか: ……なんだろ、なんでしょう
@@ -52,12 +56,11 @@
 律: こんな気持ち、いつぶりだろうって……
 あられ: りっちゃん……
 律: 前向きな気持ちでステージに立てたのも、 みなさんのおかげです。これから、よろしくお願いしま…
-律: <size=200%>す！？？？？？？？
+律: す！？？？？？？？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000243/data/adv_still_anime_000243/adv_still_anime_000243.webp)
 (Background change)
-あられ: <size=150%>うぇ！？　りっちゃん！！！？？？
+あられ: うぇ！？　りっちゃん！！！？？？
 ユノ: なに、急に打ちあがったけどバグ……！？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000243/data/adv_still_anime_000243/adv_still_anime_000243.webp)
 ののか: おぉ～……
 都子: キラキラ……
 ののか: あ！　ライブの打ち上げしよ～
@@ -67,7 +70,6 @@
 あられ: りっちゃんなに食べたーい！？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000244/data/adv_still_anime_000244/adv_still_anime_000244.webp)
 律: １０ポンド！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000244/data/adv_still_anime_000244/adv_still_anime_000244.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000245/data/adv_still_anime_000245/adv_still_anime_000245.webp)
 律: ミディアムウェルダン！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000246/data/adv_still_anime_000246/adv_still_anime_000246.webp)
@@ -81,15 +83,14 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000247/data/adv_still_anime_000247/adv_still_anime_000247.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000248/data/adv_still_anime_000248/adv_still_anime_000248.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000299/data/adv_still_anime_000299/adv_still_anime_000299.webp)
-あられ: <size=150%>りっちゃぁああ～～～～～～～～っ！！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000299/data/adv_still_anime_000299/adv_still_anime_000299.webp)
+あられ: りっちゃぁああ～～～～～～～～っ！！！
 都子: アラザン……
 (Background change)
 あられ: おっはよ～！
 らき: ！
 ぼた: おはよ～
 あられ: ……っ
-らき: ？
+らき & ぼた: ？
 あられ: あのさ～、そのさ～、えっとさ～…… 昨日はいかがお過ごしで？
 あられ: その～、１８時頃はなにかしたり……
 らき: ！　ライブ！　観たよ！
@@ -104,12 +105,12 @@
 あられ: ！！　そ、それ……
 らき: え？ ああ、チュパカブサチュレーション、第一巻だよ
 あられ: ちゅぱ……かぶ………………
-あられ: <size=150%>一巻ーーーーーーーーーーーーーーーーーーーッッ！！！！！
+あられ: 一巻ーーーーーーーーーーーーーーーーーーーッッ！！！！！
 あられ: ラララライブでいっぱいいっぱいで……！！
 ぼた: 予約済みなんでしょ？
 あられ: 当たり前だのチュパサチュだ！ でもでも、発売日に取りに行かないなんて、 ファンとしては大失格……
 らき: その様子じゃ、今日の小テストも忘れてそうだね
-あられ: <size=150%>ぴぎゃ！！？</size>　いとをかし、うやうやうやや～！
+あられ: ぴぎゃ！！？　いとをかし、うやうやうやや～！
 らき: ……なんか元気そう？
 ぼた: まさか気付いてないとか？
 らき: う～ん
@@ -161,7 +162,7 @@
 律: （今度こそ、あられちゃんのことを守ると決めた。 そのために、私ができること――）
 (Background change)
 都子: 『チュパサチュ』１８話原稿をお送りいたします。 ご査収のほど、よろしくお願いいたし……
-都子: <size=150%>ます！
+都子: ます！
 都子: しゃあー！　オラァ！！　見たか二日前納品じゃ！ これが富士見夜子の本気やでこるあ！！
 都子: お仕事終わりの日常ポスト！
 都子: なんだろう、モチベーションが途切れない…… それどころかどんどん湧いてくる……！

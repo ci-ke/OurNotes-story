@@ -8,8 +8,8 @@
 阿拉蕾：（…………偷看）
 阿拉蕾：咦！？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp）
+（说明）：歌美@utaskyat 從國二到高二這段期間，我曾以「歌美」的名義在網路上活動。 高一時我創立了「La La La La Girls」，和一群很會唱歌的女孩子們共同創作影片、進行直播活動。 後來我們加入經紀公司也推出了原創歌曲，發展一帆風順，但我在高二時退出了團體。 關於當時的內情，以及團體在那之後發生的種種事情，我想在今天向大家說明。 希望能為至今仍在努力奮鬥的夥伴們盡一份心力。 就算為當時的事情道歉或許也得不到原諒，但我會一直一直替妳們加油的。
 阿拉蕾：歌美姐……！？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp）
 （背景切换）
 Viola：小艾蕾雅～ 妳聽看看這邊的唱法。
 阿拉蕾：我聽了！我覺得超棒的！
@@ -50,7 +50,7 @@ Popo：唉……要不是爆出這個爭議， 妖精花束明明還能爬得更
 Viola：爬不上去的。
 Viola：只靠我和妳們， 是爬不上去的。
 Popo：……
-Bell：<size=130%>咦咦咦咦咦！？！？！？</size>
+Bell：咦咦咦咦咦！？！？！？
 Popo：吵死了， 怎麼了？
 Bell：解、解、解約……！
 Popo：啊？為什麼是我們被解約……
@@ -73,7 +73,6 @@ Viola：謝謝妳。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp）
 Viola：♪
 Viola：閃閃發光♡
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp）
 （背景切换）
 （背景切换）
 （背景切换）
@@ -89,15 +88,12 @@ Viola：閃閃發光♡
 行人F：妖精花束的Viola超漂亮的。
 Viola：就像煙火綻放的最後一道光芒。
 Viola：只在那一剎那奪走所有人的目光， 然後就消逝了。
-（背景切换）
 Viola：我一直想成為那道光芒。
 Viola：成為能讓所有人露出笑容， 難過的人看了之後也會恢復精神的光芒！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp）
 Viola：閃閃發光。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp）
 Viola：亮得刺眼。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp）
 （背景切换）
 Viola：可是我越努力想讓自己發光，就變得越來越虛假！
 Viola：虛假的溫柔、虛假的歌聲、虛假的笑容。
@@ -130,7 +126,7 @@ Viola：當然可以！
 由乃：緊張的時候，要先深呼吸。 讓氧氣進入腦袋，調整好呼吸才是最有效的──
 野乃花：觀眾超～～多的！
 阿拉蕾：～～～～～～～～～！！！！
-律：<size=130%>小蕾！</size>
+律：小蕾！
 由乃：……
 野乃花：哦？
 律：由、由乃同學！如果她沒有呼吸的話，該怎麼辦！？
@@ -140,11 +136,11 @@ Viola：當然可以！
 律：！！ 小蕾！是蛋糕喔！振作起來！
 阿拉蕾：啊唔～～
 野乃花：開箱～！
-阿拉蕾：哦哦……
+阿拉蕾 & 野乃花 & 律：哦哦……
 由乃：每一個口味都不同……
 都子：這種時候就要……
 野乃花：預備～
-全員：<size=130%>△※×☆＊＠！</size>
+全員：△※×☆＊＠！
 野乃花：大家都選不同的～
 都子：這樣正好。
 阿拉蕾：哇……
@@ -160,7 +156,7 @@ Viola：當然可以！
 野乃花：小蕾很緊張嗎？
 由乃：快深呼吸。
 阿拉蕾：吸──────────呼……
-都子：<size=130%>破！！！！！！</size>
+都子：破！！！！！！
 阿拉蕾：！！？？？？
 都子：有比較不緊張了嗎？
 阿拉蕾：心、心臟反而跳得更快了！
@@ -197,7 +193,6 @@ Viola：當然可以！
 律：──綁好了。
 阿拉蕾：……
 阿拉蕾：謝謝。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000026/data/adv_still_charaillust_000026/adv_still_charaillust_000026.webp）
 （背景切换）
 律：沒關係嗎？
 阿拉蕾：……嗯。
@@ -205,7 +200,7 @@ Viola：當然可以！
 由乃：反正也在虛擬空間上看習慣了。
 野乃花：唔～～～～～～
 阿拉蕾：？
-野乃花：<size=130%>MewType版本升級！</size>
+野乃花：MewType版本升級！
 阿拉蕾：哇！
 阿拉蕾：……目前到第幾版了？
 都子：應該是4.0吧？
@@ -219,9 +214,9 @@ Viola：當然可以！
 律：版本無限，真是好點子。
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp）
+（说明）：MewType ver.∞ （無限？無限大？）
 都子：像這樣嗎？
 阿拉蕾：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp）
 （背景切换）
 阿拉蕾：改成「夢」吧。
 律：夢……？
@@ -271,8 +266,10 @@ A子：演出加油。
 野乃花：上台吧～！
 都子：……
 （背景切换）
-律：……
+律 & 阿拉蕾：……
 阿拉蕾：走吧。
 （背景切换）
 阿拉蕾：大家好！ 我們是「夢限大MewType」！
 （背景切换）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1.mp4）
+（说明）：夢みた13話　『In My Words』ライブシーン

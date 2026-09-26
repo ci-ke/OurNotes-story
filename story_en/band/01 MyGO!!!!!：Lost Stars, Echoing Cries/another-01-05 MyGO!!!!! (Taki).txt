@@ -41,7 +41,7 @@ Taki: (Sakiko Togawa... We don't even go to the same school. What could she poss
 Taki: (A band... huh. I once went to see a live show by a band called Afterglow.)
 Taki: (It looked fun... I guess. Like they were free from something. Like nothing was weighing them down...)
 Taki: (And if I join a band, maybe I won't be compared to my sister anymore...)
-(message) Sakiko: I have some ideas for the other members as well! I would very much like for us all to meet. Is there a day that works for you?
+(Message) Sakiko: I have some ideas for the other members as well! I would very much like for us all to meet. Is there a day that works for you?
 (Background change)
 Taki: ...
 Taki: I remember how I felt... half "Why me...?" and half "If I play in a band, maybe..."
@@ -49,7 +49,7 @@ Taki: After that... so many things happened.
 (Background change)
 Taki: They were all such weirdos.
 Taki: I'd never been in a band before, so there was a lot I didn't know.
-Taki: But everyone saw me as "<ruby=myself>Taki Shiina</ruby>"...
+Taki: But everyone saw me as "Taki Shiina"...
 Taki: And I got to meet Tomori...
 (Background change)
 Soyo: Taki-chan...? Why are you spacing out?

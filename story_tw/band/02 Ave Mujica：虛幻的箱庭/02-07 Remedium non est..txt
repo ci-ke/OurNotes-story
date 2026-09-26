@@ -5,10 +5,10 @@
 （背景切换）
 爽世：（小睦……沒來學校…… 不知道她怎麼了……）
 （背景切换）
-：<align="center">Ave Mujica　Mor<color=#000000><mark=#C0C0C080>tis
-：<align="center">Mortis<color=#000000><mark=#C0C0C080>　小睦
-：<align="center">Mortis<color=#000000><mark=#C0C0C080>　死亡
-：<align="center">Mortis<color=#000000><mark=#C0C0C080>　消失了
+：Ave Mujica　Mortis
+：Mortis　小睦
+：Mortis　死亡
+：Mortis　消失了
 （背景切换）
 爽世：唔……！
 爽世：（……必須……去見小睦……）
@@ -30,8 +30,8 @@
 【高松家 燈的房間】
 
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000119/data/adv_still_anime_000119/adv_still_anime_000119.webp）
+（说明）：幸福 小祥
 燈：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000119/data/adv_still_anime_000119/adv_still_anime_000119.webp）
 （背景切换）
 燈：那個……
 祥子：這一段是吉他的部分，是睦負責彈的。 然後鍵盤部分由我負責。
@@ -57,11 +57,13 @@
 
 祥子：（……又來了嗎！？）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000120/data/adv_still_anime_000120/adv_still_anime_000120.webp）
+（说明）：小祥 妳幸福嗎？
 祥子：……
 愛音：──所以啊，Tomorin。
 愛音：咦，剛才的聲音是？
 燈：……？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000121/data/adv_still_anime_000121/adv_still_anime_000121.webp）
+（说明）：小祥 妳幸福嗎？ 夠了
 燈：啊 ！ 等等，小祥！小祥！
 愛音：等一下，怎麼了？
 （背景切换）
@@ -80,7 +82,7 @@
 愛音：……交給我吧。 我國中三年間都是班上的最後一棒跑者！
 （背景切换）
 祥子：……開車吧。
-愛音：<size=150%>對不起，請稍等一下！
+愛音：對不起，請稍等一下！
 管家：非常抱歉──
 愛音：我是她朋友。
 祥子：……
@@ -96,7 +98,7 @@
 愛音：這個房間裡有撞球桌！太誇張了吧？
 祥子：……燈，妳是有話想說才來的吧？
 燈：……
-燈：<size=150%>小祥……！來組樂團吧！
+燈：小祥……！來組樂團吧！
 愛音：咦……
 祥子：（……我到底是在期待什麼。 明明知道事情一定會變成這樣， 卻還是老老實實把她帶來──）
 祥子：（我真的、真的……很討厭自己。）
@@ -112,6 +114,7 @@
 愛音：……Tomorin，我們走吧。
 祥子：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000122/data/adv_still_anime_000122/adv_still_anime_000122.webp）
+（说明）：小祥讓那些 無法傳達出去的事物 有了形體 我不想失去 和小祥的相遇 那一天 好想傳達給小祥 但始終辦不到 我也好想一起看看 小祥眼中所見到的幸福 真想聽妳親口告訴我
 祥子：……
 祥子：（抱著期待又出言拒絕，即使如此── 我還是沒辦法捨棄燈說的話。 我真是……愚蠢到了極點。）
 （背景切换）
@@ -135,7 +138,7 @@
 燈：咦？
 立希：我不希望妳因為投身這件事而受傷。
 燈：啊……
-愛音：<size=175%>唔！？
+愛音 & 立希 & 燈：唔！？
 樂奈：來玩樂團吧。
 愛音：等一下～Soyorin還沒到耶。
 立希：她待會就會來了吧。
@@ -155,19 +158,17 @@ Mortis：沒有錯……不，她一直不省人事。
 Mortis：喂喂？請問是醫生嗎？ 是……是的，小睦一直都沒醒來。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp）
 Mortis：是的、是的……她一直在沉睡著。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp）
 爽世：小睦？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp）
-爽世：<size=175%>！？
+爽世：！？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp）
 Mortis：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp）
 爽世：咿……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000128/data/adv_still_anime_000128/adv_still_anime_000128.webp）
 Mortis：小爽…… 小爽拜託妳……叫醒小睦……

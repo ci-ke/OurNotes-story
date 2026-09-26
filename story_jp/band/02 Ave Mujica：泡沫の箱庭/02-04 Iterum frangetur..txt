@@ -6,7 +6,7 @@
 睦: （失敗はできない……後戻りは許されない—— ……はぁ……はぁ……）
 アモーリス: ねえ、アタシの完璧な顔を返して！ 愛らしくて大きな目を、美しく弧を描く口を返して……！
 (Background change)
-睦: <size=175%>……！
+睦: ……！
 睦: （……始まってる？　いつの間に？）
 アモーリス: こんなの本当のアタシじゃない！
 オブリビオニス: アモーリス、あなたが望んだことです
@@ -20,7 +20,6 @@
 睦: ……！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp)
 睦たち: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp)
 (Background change)
 睦: もう……逃げられない……
 オブリビオニス: それでも慰めを求めるなら……
@@ -41,7 +40,7 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp)
 (Background change)
 祥子: ……！
-海鈴: ……
+海鈴 & 初華: ……
 にゃむ: （………すごい）
 
 [終演後]
@@ -57,7 +56,7 @@
 海鈴: アドリブとは思えない完成度でしたし……
 祥子: なんとかスタッフに納得していただけましたわ。 どうしてあんなことを
 睦: ……ギター、間違えた
-にゃむ: <size=175%>！？
+にゃむ & 初華 & 祥子: ！？
 にゃむ: 仕込みでもアドリブでもなかったってこと？
 初華: 睦ちゃんも、本番で間違えることがあるんだね……？
 海鈴: それで誤魔化しもせず固まっていたということですか？
@@ -71,7 +70,6 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp)
 睦: ……
 モーティス: ……睦ちゃん？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp)
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000089/data/adv_still_anime_000089/adv_still_anime_000089.webp)
 モーティス: また、眠れないの？
@@ -81,14 +79,16 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000090/data/adv_still_anime_000090/adv_still_anime_000090.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp)
+(Caption): モーティスTVショー
 モーティス: 睦ちゃん！　今日はうちの番組にようこそ！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp)
+(Caption): モーティスTVショー
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp)
 むつみ: あ……！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp)
+(Caption): 本日のゲスト むつみちゃん
 クマ: とってもかわいい！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp)
 ネコ: ママそっくり！
 ペンギン: みなみさんみたいに素敵な女優さんになるのかな？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp)
@@ -98,6 +98,7 @@
 むつみ: （なんて答えればいいの？　……わからない）
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp)
+(Caption): 本日のゲスト むつみちゃん
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000096/data/adv_still_anime_000096/adv_still_anime_000096.webp)
 (Background change)
@@ -111,10 +112,8 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000098/data/adv_still_anime_000098/adv_still_anime_000098.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp)
 みなみ: そうなの、睦ちゃんってばかわいいの〜。 その上才能もあってね。欲目じゃないのよ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp)
 むつみ: ……褒められても、 ぜんぶ、みなみちゃんとたぁくんのもの
 モーティス: 『睦ちゃんのものなんて、何一つなかったのです』
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000100/data/adv_still_anime_000100/adv_still_anime_000100.webp)
 ギター: 〜〜♪
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp)
@@ -124,7 +123,6 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp)
 むつみ: あ……っ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000103/data/adv_still_anime_000103/adv_still_anime_000103.webp)
 モーティス: 『毎日毎日たくさん弾いて、いつも一緒』
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000104/data/adv_still_anime_000104/adv_still_anime_000104.webp)
@@ -136,7 +134,8 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000105/data/adv_still_anime_000105/adv_still_anime_000105.webp)
 睦: ……でき、ない……
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000105/data/adv_still_anime_000105/adv_still_anime_000105.webp)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4)
+(Caption): 春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
 モーティス: 『だけど神様はいじわるです。 ギターを歌わせる才能はくれないのですから』
 ギター: いいな、いいな。燈ちゃんのお歌、すごかった！ 立希ちゃんのドラムかっこいい！
 睦: ！
@@ -149,11 +148,10 @@
 (Background change)
 祥子: CRYCHICを辞めさせていただきますわ
 (Background change)
-祥子: <size=175%>わあああぁ……
+祥子: わあああぁ……
 睦: ！！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000106/data/adv_still_anime_000106/adv_still_anime_000106.webp)
 睦: 違う……そういう意味じゃない……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000106/data/adv_still_anime_000106/adv_still_anime_000106.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp)
 睦: 楽しいと思えなかったのは、私が…… 下手だから……
 睦: 歌わせられないから……
@@ -161,7 +159,6 @@
 モーティス: 『睦、立ち尽くす』
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp)
 睦: 私が……CRYCHICを壊した
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp)
 モーティス: 『絶望。その場にうずくまって——』
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000108/data/adv_still_anime_000108/adv_still_anime_000108.webp)
@@ -177,8 +174,8 @@
 
 祥子: ……
 (Background change)
-ネット記事: <align="center">Ave Mujica全国ツアー初日大成功！ モーティス（若葉睦）のパフォーマンスに賞賛の声
-ネット記事: <align="center">動かなくなったモーティス、あたかも本物の “人形”のようだった
+ネット記事: Ave Mujica全国ツアー初日大成功！ モーティス（若葉睦）のパフォーマンスに賞賛の声
+ネット記事: 動かなくなったモーティス、あたかも本物の “人形”のようだった
 コメントA: 睦ちゃんのパフォーマンスやばすぎ！ 全国ツアーでぜったい生で観たい！！
 (Background change)
 祥子: ……
@@ -356,7 +353,7 @@
 睦: ……
 祥子: どうしていやだと言わないんですの？ パフォーマンスよりもギターを弾きたいのでしょう？ それなのに——
 睦: 私が喋ると、ダメになるから……
-祥子: <size=175%>甘えないで！！
+祥子: 甘えないで！！
 睦: っ！
 祥子: そんなこと言ってる場合？ このままではムジカがムジカではなくなってしまいますのよ？
 睦: 祥——
@@ -386,11 +383,13 @@
 (Background change)
 睦: （私のせいで——また）
 (Background change)
-mortis: 辛かったね
-mortis: 苦しかったね
-mortis: 私だけは、睦ちゃんの味方
-mutsumi: モーティス……
-mutsumi: えっ……？
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03.mp4)
+(Caption): モーティスウォルドルフ人形捕食シーン
+(Subtitle) mortis: 辛かったね
+(Subtitle) mortis: 苦しかったね
+(Subtitle) mortis: 私だけは、睦ちゃんの味方
+(Subtitle) mutsumi: モーティス……
+(Subtitle) mutsumi: えっ……？
 (Background change)
 スタッフA: CM開けます！　本番５秒前、４、３——
 モーティス: ——目が覚めるたびに生き返る。 目覚めないのは、永遠の死

@@ -36,18 +36,18 @@ Arale: Ricchan...
 Ritsu: We'll be okay... I'm sure of it.
 Arale: Hehe...
 (Background change)
-Arale: I am so, so, so, <size=150%>SO sorry!!
+Arale: I am so, so, so, SO sorry!!
 Nonoka: Whoa.
 Yuno: It's fine... You just did what you wanted, right?
-Arale: <size=125%>Urk!
+Arale: Urk!
 Yuno: Wait, that's not what I meant...
 Yuno: (Did I seriously push her in the wrong direction?)
 Yuno: Oh... You won't be streaming for a while, so that should take some pressure off, right?
-Arale: <size=150%>Uuurk!
+Arale: Uuurk!
 Yuno: Wait, I'm not...
-Arale: <size=150%>N-No!</size> You all have every right to be mad at me!
+Arale: N-No! You all have every right to be mad at me!
 Yuno: No, we're not...
-Arale: <size=200%>I am sooooooooo sorry!!
+Arale: I am sooooooooo sorry!!
 Nonoka: It's okay~ Let's get to band practice!!
 Arale: I know saying sorry isn't enough! So if there's anything I can do to make it up to you, I'll do absolutely anything...!
 Yuno: Careful. Keep flailing like that and...
@@ -68,7 +68,7 @@ Miyako: Ugh, my head...
 Nonoka: Pain, pain, go away~
 Miyako: I'm fine, thank you.
 Arale: Oh...
-Yuno: ?
+Yuno & Miyako & Nonoka: ?
 Arale: Y-You can't even tell how sorry I am, can you...?
 Arale: This happened before, too... Whenever I think something's amazing, I get carried away and don't come across as...
 Arale: Yow?!
@@ -79,7 +79,7 @@ Miyako: I agree.
 Arale: You guys...
 Arale: Thaaank yooouuuuu!
 Arale: ! Very much!!
-Yuno: ...
+Yuno & Miyako & Nonoka: ...
 (Background change)
 Arale: Mmmmmm... *Sigh*...
 Arale: ...!
@@ -88,12 +88,13 @@ Arale: My phone, my phone...!
 Arale: Okay...
 Arale: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000240/data/adv_still_anime_000240/adv_still_anime_000240.webp)
+(Caption): Trending New Release Fled from Event Fairy Bouquet Custom Car Spice Curry
 Arale: Ngh...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000241/data/adv_still_anime_000241/adv_still_anime_000241.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000240/data/adv_still_anime_000240/adv_still_anime_000240.webp)
+(Caption): Trending New Release Fled from Event Fairy Bouquet Custom Car Spice Curry
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000241/data/adv_still_anime_000241/adv_still_anime_000241.webp)
 Arale: ...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000241/data/adv_still_anime_000241/adv_still_anime_000241.webp)
 Arale: (This hurts... I don't want to see this...)
 Arale: (But...)
 Arale: (If I'm going to move forward, I need to know exactly what's going on.)
@@ -108,19 +109,17 @@ Arale: !
 Arale: Ricchan...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000242/data/adv_still_anime_000242/adv_still_anime_000242.webp)
 Arale: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000242/data/adv_still_anime_000242/adv_still_anime_000242.webp)
 Arale: Those tears are fake. She's doing exactly what she did to me.
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000242/data/adv_still_anime_000242/adv_still_anime_000242.webp)
 Arale: (I couldn't see it back then, but now I know Viola did the same thing to Utami-san.)
 Arale: (I won't just take it lying down anymore. I will never go back to who I was then.)
 Arale: I...
 (Background change)
-Arale: This time, <size=200%>I'm going to fight baaaaaack!!!
+Arale: This time, I'm going to fight baaaaaack!!!
 (Background change)
 (Background change)
-(message) Manager: Did you manage to get some proper rest today?
-(message) Arale: Thank you! I'm doing okay!
+(Message) Manager: Did you manage to get some proper rest today?
+(Message) Arale: Thank you! I'm doing okay!
 Arale: (Ms. Manager is so nice...!)
 Arale: (But I can't keep leaning on everyone's kindness...)
 Arale: "I dragged one of their members away and ruined the whole event." That's still true... How do I make that right?
@@ -128,7 +127,7 @@ Miyako: Arale-san?
 Arale: ! Miyako-san!
 Arale: Wow~ what a coincidence!
 (Background change)
-Arale: <size=150%>Wooooow!
+Arale: Wooooow!
 Arale: It's the original fan art piece~! This is amazing! So amazing! Wooooow!
 Miyako: They put together this special display ahead of the new volume's release... and I wanted to see it for myself...
 Arale: That's incredible! You drew this in elementary school...?!
@@ -157,12 +156,12 @@ Miyako: *Sigh*...
 Viola: Excuse me!
 Miyako: ?
 Viola: ...!
-Miyako: <size=150%>(Who is she?!)
+Miyako: (Who is she?!)
 Miyako: (I don't know anyone this gorgeous! Wait, me?! Does she actually need something from me?!)
 Viola: ...
-Miyako: <size=200%>(Eeeeeeeeeeeeeek!)
-Maru-kun: <size=150%>(Get a grip, Miyako!)
-Miyako: <size=125%>(Ghk!)
+Miyako: (Eeeeeeeeeeeeeek!)
+Maru-kun: (Get a grip, Miyako!)
+Miyako: (Ghk!)
 Miyako: U-Um...?
 Viola: I knew it! You're Fujimi Yako-sensei, aren't you?
 Miyako: ...!
@@ -183,7 +182,7 @@ Viola: I'm so glad I got to talk to you.
 Miyako: I-I'm honored...
 Miyako: (She probably charms everyone like this and just breezes through life without a care...)
 Viola: Hehe.
-Miyako: <size=150%>(Ngh...!!!!!)
-Maru-kun: <size=180%>(Miyakooooooooo<voffset=-1.2em><pos=5.8em>ooooo!!!!!!)</voffset>
+Miyako: (Ngh...!!!!!)
+Maru-kun: (Miyakoooooooooooooo!!!!!!)
 Viola: Thank you very much...
 (Background change)

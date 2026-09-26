@@ -25,7 +25,7 @@
 爱音：诶，你见过爽世同学了？ 怎么不叫我们一起啊！？
 灯：小爽世，她怎么说……
 立希：……那家伙……
-灯：！
+灯 & 爱音 & 立希：！
 海铃：让你们久等了。 如果你们在忙的话，需要我待会儿再过来吗？
 立希：……不用。话已经说完了
 爱音：等、等一下啦……！
@@ -60,7 +60,7 @@
 爱音：这算什么，所以你是自说自话拉了新人进来？ 这样太奇怪了吧？应该和爽世同学——
 立希：那家伙根本就没打算组新乐队！
 立希：她所做的一切，都是为了让CRYCHIC复活！
-灯：……！ ……
+灯 & 爱音：……！ ……
 立希：那家伙说，不需要你和乐奈…… 她为了留住灯和我，利用了你们！
 爱音：…………
 （背景切换）
@@ -88,7 +88,7 @@
 爱音：你们不需要我吧
 灯：！小爱音……
 爱音：小灯，就和爽世同学去组CRYCHIC吧
-灯：…………
+灯 & 立希：…………
 灯：我受够了……
 （背景切换）
 灯：所以我才……不想组乐队的……
@@ -184,11 +184,11 @@
 灯：…………
 初华：那我走啦。 希望你的心情能传达出去
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp）
+（说明）：渺小的我 总是乱作一团 人们的声音好遥远我听不见 身边的人的心情我也不了解 我并不是人类 世界对我来说好遥远， 将孤单的星星转个不停 就算我尽力踮起脚尖 也没能成为人类【传达不到】 春天的向阳处，被夏天的阳光抹去 那些日子都被柏油压住 像蜥蜴一样 彻底干涸了 好想继续像躲在石头下的西瓜虫一样
 灯：歌……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp）
+（说明）：想传达给重要之人 用不成诗的声音呐喊 诗
 灯：这是一首歌
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp）
 （背景切换）
 
 【羽丘女子学园 1-A教室】

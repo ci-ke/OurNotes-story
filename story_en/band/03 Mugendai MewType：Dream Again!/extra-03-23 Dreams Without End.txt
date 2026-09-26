@@ -20,7 +20,7 @@ Arale: What?! You're working again tonight?!
 Miyako: Yes.
 Arale: Nnngh... That's part of what makes you so amazing, Yako-sensei, but as your fan, I still want you to rest when you can...!
 Yuno: Can we just decide already? We're either going, or we're not.
-Arale: <size=175%>We're goooooing!
+Arale: We're goooooing!
 (Background change)
 
 [Ferris Wheel]
@@ -44,43 +44,42 @@ Nonoka: Why not?! I wanna, wanna, wanna run together~!
 Miyako: Oh, look outside!
 Nonoka: Huh!?
 (Background change)
-nonoka: Wooooow!
-yuno: We're almost at the top.
-arale: This is incredible! Everything's beautiful as far as you can see!
-miyako: So this is what the view from a Ferris wheel looks like at sunset.
-miyako: It's reference material... If I don't take a picture now, I'll forget the view in no time.
-everyone: 
-ritsu: 
-ritsu: Arale-chan, you're amazing.
-arale: Huh?
-ritsu: I never would've thought to end the day with a view this beautiful.
-ritsu: My own plan was far too ordinary...
-everyone: 
-yuno: What part of that was ordinary...?
-ritsu: Wasn't it?
-miyako: Not in the slightest.
-nonoka: Our one-of-a-kind Ricchan~!
-arale: I had so much fun today, all thanks to you, Ricchan.
-ritsu: Arale-chan...
-arale: And we tried so many new things together today. It feels like my world opened up a little more.
-arale: (Once, my world had closed in on itself.)
-arale: (But when I found the courage to take that first step, you were all there for me.)
-arale: (And now, my world...!)
-arale: With all of you... I feel like I could go anywhere.
-arale: The five of us, as Mugendai MewType... Let's go see what else is out there!
-ritsu: Yeah...
-miyako: And that's why I'm not doing it!!
-arale・ritsu: Huh?
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_yumemita_exstory_03_01/adv_movie_yumemita_exstory_03_01/adv_movie_yumemita_exstory_03_01.mp4)
+(Caption): ゆめみたエクストラ　観覧車（3話）
+(Subtitle) nonoka: Wooooow!
+(Subtitle) yuno: We're almost at the top.
+(Subtitle) arale: This is incredible! Everything's beautiful as far as you can see!
+(Subtitle) miyako: So this is what the view from a Ferris wheel looks like at sunset.
+(Subtitle) miyako: It's reference material... If I don't take a picture now, I'll forget the view in no time.
+(Subtitle) ritsu: Arale-chan, you're amazing.
+(Subtitle) arale: Huh?
+(Subtitle) ritsu: I never would've thought to end the day with a view this beautiful.
+(Subtitle) ritsu: My own plan was far too ordinary...
+(Subtitle) yuno: What part of that was ordinary...?
+(Subtitle) ritsu: Wasn't it?
+(Subtitle) miyako: Not in the slightest.
+(Subtitle) nonoka: Our one-of-a-kind Ricchan~!
+(Subtitle) arale: I had so much fun today, all thanks to you, Ricchan.
+(Subtitle) ritsu: Arale-chan...
+(Subtitle) arale: And we tried so many new things together today. It feels like my world opened up a little more.
+(Subtitle) arale: (Once, my world had closed in on itself.)
+(Subtitle) arale: (But when I found the courage to take that first step, you were all there for me.)
+(Subtitle) arale: (And now, my world...!)
+(Subtitle) arale: With all of you... I feel like I could go anywhere.
+(Subtitle) arale: The five of us, as Mugendai MewType... Let's go see what else is out there!
+(Subtitle) ritsu: Yeah...
+(Subtitle) miyako: And that's why I'm not doing it!!
+(Subtitle) arale・ritsu: Huh?
 (Background change)
 Nonoka: Nooo~ Nono-chan wants to go running with Miyako-chan and Yuno-chan~!
 Yuno: Leave me out of this.
-Nonoka: <size=150%>We're going ruuuunning!
+Nonoka: We're going ruuuunning!
 Miyako: No matter how many times you ask, the answer is still no.
-Nonoka: <size=175%>Noooooo!
+Nonoka: Noooooo!
 Nonoka: Oh! What about you, Arale-chan and Ricchan? Wanna go running?!
 Arale: Um, I...
 Ritsu: Sure. I'm in.
-Miyako: What?!
+Miyako & Yuno: What?!
 Miyako: What about you, Arale-san?
 Arale: Huh?
 Yuno: You're not doing it, right?
@@ -91,7 +90,7 @@ Nonoka: Yay~! Running together♪ Running together♪
 Yuno: Absolutely not.
 Miyako: I, too, must firmly decline.
 Arale: Ah~~ B-but we definitely need the stamina, and it wouldn't hurt for all of us to run together...
-Miyako: ...
+Miyako & Yuno: ...
 Arale: Nnghhhh... Ricchan, save meeee!!
 (Background change)
 
@@ -111,13 +110,13 @@ Arale: Yes! Let's go somewhere different next time!
 Yuno: I haven't even agreed to a next time.
 Miyako: My condolences.
 Yuno: Hey?!
-Ritsu: <color=#EEEEEE><size=105%>How about a different aquarium?
-Nonoka: <color=#EEEEEE><size=105%>Nono-chan wants to go to a pool~!
-Yuno: <color=#EEEEEE><size=105%>Absolutely not!
-Miyako: <color=#EEEEEE><size=105%>Actually, I think we're good for a while, don't you?
-Arale: <color=#EEEEEE><size=105%>Aww, let's do it again soon!
-Nonoka: <color=#EEEEEE><size=105%>Again soooon♪
-Ritsu: <color=#EEEEEE><size=105%>Again soon.
+Ritsu: How about a different aquarium?
+Nonoka: Nono-chan wants to go to a pool~!
+Yuno: Absolutely not!
+Miyako: Actually, I think we're good for a while, don't you?
+Arale: Aww, let's do it again soon!
+Nonoka: Again soooon♪
+Ritsu: Again soon.
 Yuno: Ngh...
 Yuno: Haaaaaah...
 Nonoka: Huh? Yuno-chaaaan? Yuuuno-chaaaaaaaaaan!

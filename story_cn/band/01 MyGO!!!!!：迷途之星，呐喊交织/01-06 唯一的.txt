@@ -45,24 +45,24 @@
 祥子：我、我来！？ 灯……要唱吗？
 灯：我、我没听过这首歌……
 睦：尽管现在还～♪
-灯：诶……！？
+灯 & 爽世 & 立希：诶……！？
 立希：她唱了……
 祥子：哎呀！唱得很好哦，睦！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000023/data/adv_still_anime_000023/adv_still_anime_000023.webp）
+（说明）：耀眼
 灯：闪耀
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000023/data/adv_still_anime_000023/adv_still_anime_000023.webp）
 爽世：来——嘛，小立希也要点歌哦？
 立希：就说我不用了。 ……灯，在这里搜索就能查到歌曲
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000024/data/adv_still_anime_000024/adv_still_anime_000024.webp）
+（说明）：温柔地
 灯：温柔
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000024/data/adv_still_anime_000024/adv_still_anime_000024.webp）
 灯：查到……歌曲……
 祥子：立希同学，能不能也教教我呢？
 立希：诶……
 爽世：小立希，加油～♪
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000025/data/adv_still_anime_000025/adv_still_anime_000025.webp）
+（说明）：美好
 灯：美好
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000025/data/adv_still_anime_000025/adv_still_anime_000025.webp）
 祥子：你的歌声很好听啊，灯！
 爽世：是不是没那么紧张了？
 立希：……比在录音室里好多了
@@ -76,8 +76,8 @@
 祥子：睦当然会笑啦
 灯：……呵呵
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000026/data/adv_still_anime_000026/adv_still_anime_000026.webp）
+（说明）：温暖
 灯：温暖
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000026/data/adv_still_anime_000026/adv_still_anime_000026.webp）
 （背景切换）
 
 【羽泽咖啡店】
@@ -134,6 +134,8 @@
 灯：嗯……
 灯：我们是CRYCHIC。 请听『春日影』
 （背景切换）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4）
+（说明）：春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
 灯：哈啊……哈啊……
 （背景切换）
 
@@ -165,8 +167,8 @@
 爽世：还有…………啊
 立希：……？怎么了？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000027/data/adv_still_anime_000027/adv_still_anime_000027.webp）
+（说明）：今天的演唱会太有趣了～ 叫做CRYTHIC的乐队。吉他手、键盘手和鼓手水准都很高，贝斯手也很熟练，让人非常有好感。主场也唱得很投入，整体来说都很棒。 主唱太拼命了。 #CRYCHIC 今天的 Live 也太夸张了吧。那到底是什么情况啊。和演奏前简直像两个人一样。只凭外表来判断的话
 灯：『主唱太拼命了』……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000027/data/adv_still_anime_000027/adv_still_anime_000027.webp）
 立希：这家伙……！ 根本不懂灯的歌！ 我要拉黑他
 爽世：小立希，不要拉黑，屏蔽就好了
 爽世：而且你看，大多数人都在夸奖我们哦——
@@ -184,15 +186,16 @@
 灯：（一定是因为，我总是和大家格格不入）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000028/data/adv_still_anime_000028/adv_still_anime_000028.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000029/data/adv_still_anime_000029/adv_still_anime_000029.webp）
+（说明）：通知中心 爽世 今天能来录音室吗 爽世 大家都在等小灯过来
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000030/data/adv_still_anime_000030/adv_still_anime_000030.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000031/data/adv_still_anime_000031/adv_still_anime_000031.webp）
+（说明）：毕业证书颁发典礼
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000032/data/adv_still_anime_000032/adv_still_anime_000032.webp）
 灯：为什么就只有我流不出眼泪呢
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000032/data/adv_still_anime_000032/adv_still_anime_000032.webp）
 灯：是我太冷酷了吗？还是我缺少什么东西呢？身为人类
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000033/data/adv_still_anime_000033/adv_still_anime_000033.webp）
+（说明）：羽丘女子学园
 灯：我不像大家那样有珍视之物
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000033/data/adv_still_anime_000033/adv_still_anime_000033.webp）
 灯：我想像大家一样，拥有能让我流泪的珍视之物
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000034/data/adv_still_anime_000034/adv_still_anime_000034.webp）
 灯：如果有的话，那就是曾经存在过的——

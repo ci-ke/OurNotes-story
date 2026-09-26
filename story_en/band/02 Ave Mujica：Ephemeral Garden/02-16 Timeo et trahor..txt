@@ -16,7 +16,7 @@ Mortis: It's not my fault! She fell off by herself!
 Nyamu: What do you mean?
 Mortis: I swear... it wasn't on purpose... Ugh... Waaahhh~~~
 Soyo: It's okay, don't cry.
-Mortis: <size=150%>Waaaaah...
+Mortis: Waaaaah...
 Soyo: Let's go together. It's okay. Let's go home.
 Anon: How about you, Rāna-chan?
 Rāna: I'll leave after I eat.
@@ -54,7 +54,7 @@ Mortis: Sakiko-chan...
 Mortis: I... I didn't do it on purpose. I just... just... wanted to protect Mutsumi-chan...!
 Mortis: No matter how hard I tried, even if I said it's for Mutsumi-chan! Mutsumi-chan didn't even look at me...
 Sakiko: Mutsumi... What happened to Mutsumi?
-Mortis: <size=150%>Don't make me say it again! She's dead! I'm really the only one left!
+Mortis: Don't make me say it again! She's dead! I'm really the only one left!
 Sakiko: !
 Mortis: So! I thought I could become "Mutsumi Wakaba"... But, I couldn't...
 Mortis: Mutsumi-chan... I'm sorry...!
@@ -62,7 +62,7 @@ Sakiko: ...
 Sakiko: So... Mutsumi has truly gone...
 Sakiko: Ugh...! *Sniff*...!
 (Background change)
-Mortis: <size=175%>*Sniff*... Waaahhh...!!
+Mortis: *Sniff*... Waaahhh...!!
 (Background change)
 Mortis: Zzz... zzz...
 Sakiko: This is my sin... I must bear it...
@@ -83,13 +83,14 @@ Nyamu: I ain't going to run away from you!
 (Background change)
 Uika: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000160/data/adv_still_anime_000160/adv_still_anime_000160.webp)
+(Caption): Notes Paint the twisted sky, I begin Wishing you, the wingless one, I accidentally touched the divine Just for tonight, become my myth See? There is no escape Locking you away as you fade know i want.., nt.., i want.., nt you so.., i want.., If only it never existed... why... you know.., Search Notes Move Note Forward Note Delete
 Nyamu: Is this about Sakiko? Let me see.
-Uika: <size=175%>! Give it back!
+Uika: ! Give it back!
 Uika: Eh...
 Nyamu: Oops, I sent it~
 Uika: Ah... ah...
 (Background change)
-(message) Uika: As I paint the twisted sky, I think I wish you, without wings, just fall I touched something sacred Tonight, become my myth Look, you can't escape I confine you as you weaken  you know i want.., i want.., i want.., i want you so.., i want.., I wish you weren't here, but why... you know.., you know.., you know.., you know.., I want you to know how much i need you so, right now, madly so  I knew, but for now, I secretly Spend this strange time just with you With these cold hands, I bury what I should love Please accept me as I am  On the perilous walls of my heart, sneaks an unreasonable dream  I say, You're mine.., you're mine.., Look, you're so close, yet still  Unfulfilled, and yet I want.., I want.., I want you so.., I want.., I don't need any memories, so.. you know.., you know.., you know.., so, you know.., I want you to know how much I need you so, Right now, madly so
+(Message) Uika: As I paint the twisted sky, I think I wish you, without wings, just fall I touched something sacred Tonight, become my myth Look, you can't escape I confine you as you weaken  you know i want.., i want.., i want.., i want you so.., i want.., I wish you weren't here, but why... you know.., you know.., you know.., you know.., I want you to know how much i need you so, right now, madly so  I knew, but for now, I secretly Spend this strange time just with you With these cold hands, I bury what I should love Please accept me as I am  On the perilous walls of my heart, sneaks an unreasonable dream  I say, You're mine.., you're mine.., Look, you're so close, yet still  Unfulfilled, and yet I want.., I want.., I want you so.., I want.., I don't need any memories, so.. you know.., you know.., you know.., so, you know.., I want you to know how much I need you so, Right now, madly so
 (Background change)
 Nyamu: Let's go to Sakiko's home. It's the lyrics, right? Let's ask Sakiko to write a song for it.
 Uika: Eh... B-But...! There's...!
@@ -138,11 +139,11 @@ Sakiko: ...
 Nyamu: We are all captivated by Ave Mujica. Happy to have your wish come true?
 Sakiko: I don't intend to continue with Ave Mujica.
 Nyamu: Are you going to abandon everything and run away? I won't tolerate that.
-Sakiko: <size=175%>Why are you—
-Nyamu: <size=150%>For me! Ave Mujica is all I have left!
+Sakiko: Why are you—
+Nyamu: For me! Ave Mujica is all I have left!
 Sakiko: ...!
 Uika: ...
-Uika: ...
+Uika & Sakiko: ...
 Uika: Please don't hate me.
 Sakiko: ...
 (Background change)

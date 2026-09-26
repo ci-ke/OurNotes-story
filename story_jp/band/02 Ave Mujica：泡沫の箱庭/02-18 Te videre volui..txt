@@ -40,7 +40,6 @@
 初音: 絶対に会ってはいけない、その子の名は—— 豊川祥子
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
 初音: 同じ豊川の子なのに祝福され、しあわせに暮らしている なのに私は——ひとりぼっち
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
 (Background change)
 初音: 立ち止まってしまった私を不思議に思ったのか 初華は私の視線の先を見て、にこっと笑った
 初華: 『おととい、あそこの子と遊んだよ！ さきちゃん、かわいかった〜！』
@@ -57,27 +56,23 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
 初音: さきちゃんに誘われ、虫取りに行ったこと。 大きなカブトムシを取ってあげたこと
 初音: でっかい蜘蛛が出て、ふたりでぎゃーと叫んだこと
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
 初音: 夏の夜の間、私は初華から たくさんのさきちゃんの話を聞いた
 初音: どんな子だろう、どんな子だろう、どんな子だろう！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000078/data/adv_still_anime_000078/adv_still_anime_000078.webp)
 初音: さきちゃんの隣にいるのは 初華ではなく私だと想像し、夢見て——
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000078/data/adv_still_anime_000078/adv_still_anime_000078.webp)
 初音: 初華だけずるい。私も遊びたい。 ずるい、ずるいずるい、ずるい！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000078/data/adv_still_anime_000078/adv_still_anime_000078.webp)
 (Background change)
 初音: 夏休みも終わりに近づいた頃—— 初華が熱を出した
 初華: 『さきちゃんと遊ぶ約束してたのに〜』
 初音: 私だって遊びたい
 初華: 『明日東京に帰っちゃうんだから、会いたかったのに〜』
-初音: <size=175%>私だって会いたい！
+初音: 私だって会いたい！
 (Background change)
 (Background change)
 初音: はぁっ……はぁっ……はぁ……！
 初音: 気づけば別荘の前に立っていた。 あの別荘に決して行っちゃダメ。静かな母の声を思い出す
-初音: <size=175%>でも——！
+初音: でも——！
 瑞穂の声: 『清告さん来られてよかったわね』
 清告の声: 『どうだった祥子？』
 さきこの声: 『たのしかったですわ』
@@ -117,14 +112,14 @@
 初音: 『こと座、白鳥座、わし座…… ふふ、夏の大三角！』
 初音: 『オリオン座、蠍座、射手座、シソウヤライのななつ星』
 初音: 指先で星々を追う。ふたりで夜空を旅する気分だった
-初音: <size=150%>——たのしい！
+初音: ——たのしい！
 初音: 心から思った。知っている星をぜんぶ言って横を見ると—— さきちゃんが私を見つめていた
 さきこ: 『初華は不思議な人ですわね。いつもはお日様みたいに 明るいのに、今日は月のように優しくて…』
 初音: 月……
 初音: 光がさした。薄暗かった私の世界に光が満ちた。 生まれ変わったような気がした
 初音: ずっとずっと照らされたかった！　うれしかった！
 初音: 生まれてずっと私は可哀想な子だった 可哀想なだけだった私を『人間』にしてくれた！
-初音: <size=175%>大好き！
+初音: 大好き！
 初音: やさしいさきちゃん、私だけのさきちゃん！ さきちゃん！　さきちゃん、ずっと一緒に！
 さきこ: 『初華は、アイドルになれますわ！』
 初音: え……？
@@ -137,9 +132,9 @@
 初音: 養父が死んだ。海から戻ってこなかった
 初音: 私は泣き続ける初華を慰め続けた。 自分はおねえちゃんだから泣いちゃだめだ お母さんや初華を支えなきゃ
 初音: 必死で泣くのを我慢していたのに
-初華: <size=150%>『初音はパパが違うから悲しくないんだ！』
+初華: 『初音はパパが違うから悲しくないんだ！』
 (Background change)
-初音: <size=150%>私だってパパのこと好きだった！
+初音: 私だってパパのこと好きだった！
 初音: 息が詰まるんじゃなかったの？
 初音: ！
 初音: 大事にしてもらって文句ばっか！
@@ -153,9 +148,9 @@
 初音: 違う！　違う……！
 初音: さきちゃんは悲劇の舞台装置！
 初音: 違う違う違う違う違う………！！ さきちゃんに会いたい……
-初音: <size=140%>さきちゃん、さきちゃん、さきちゃん…… さきちゃんさきちゃんさきちゃんさきちゃん！！！
+初音: さきちゃん、さきちゃん、さきちゃん…… さきちゃんさきちゃんさきちゃんさきちゃん！！！
 (Background change)
-初音: <size=175%>さきちゃん！！！！！
+初音: さきちゃん！！！！！
 初音: ……東京に行けば、さきちゃんに会えるのかな
 (Background change)
 初音: その夜。私は少しばかりの荷物と 貯めていたお小遣いを持って——家を出た
@@ -203,11 +198,11 @@
 清告: うっ……うぅ
 定治: 初音にも二度と豊川に近づかぬよう、よく言い聞かせておく
 清告: ……ですが！
-定治: <size=175%>お前は豊川の家の恐ろしさを知らぬのだ！
+定治: お前は豊川の家の恐ろしさを知らぬのだ！
 清告: ……っ！
 定治: 今のは聞かなかったことにしてやる。 祥子が大事なら口を閉じていろ
 (Background change)
-初華: <size=150%>さきちゃんのお父さんは私のせいですべてを失った！ ううん、ちがう！
+初華: さきちゃんのお父さんは私のせいですべてを失った！ ううん、ちがう！
 (Background change)
 初華: さきちゃんから奪ったんだ！ 私がさきちゃんからお父さんを！ 生まれ育った大きな家を！　人生も奪ってしまった！
 初華: こんなことになるなんて思ってもなかった！ ただ……会いたくて……
@@ -235,7 +230,7 @@
 初華: Ave Mujicaやろう？ ずっといっしょにいよう……！
 初華: ……ダメなのに
 初華: そんなことを言ってまで さきちゃんを騙し続ける自分が……
-初華: <size=175%><cspace=0.2em><rotate=2>き<rotate=-3>も<rotate=18>ち<rotate=-2>わ<rotate=3>る<rotate=-1>い
+初華: きもちわるい
 (Background change)
 定治: 初音。帰りなさい
 初華: ……
@@ -248,15 +243,15 @@
 祥子: （……なにが起こっているんですの？）
 (Background change)
 祥子: ……初華、どうして出てくれないんですの
-(message) 祥子: 今どこにいるんですの？
-(message) 祥子: 気づいたら連絡をください
+(Message) 祥子: 今どこにいるんですの？
+(Message) 祥子: 気づいたら連絡をください
 祥子: ……初華
 (Background change)
 
 [翌朝]
 
 (Background change)
-祥子: <size=150%>！　初華ですの！？
+祥子: ！　初華ですの！？
 海鈴: 『豊川さん、三角さん今日の練習すっぽかすなんて どうしたんです？』
 海鈴: 『Ave Mujicaの練習ですよ！』
 海鈴: 『連絡もなしにこういうのやめてほしいんですよ、 トラウマなんですよ！』
@@ -265,7 +260,7 @@
 (Background change)
 海鈴: 『三角さんに至っては連絡も取れない、学校にも来ない』
 (Background change)
-祥子: <size=175%>！
+祥子: ！
 (Background change)
 海鈴: 『お宅に伺ったらポストに 一週間前のタウン情報誌が入ったままだったんですよ——』
 (Background change)

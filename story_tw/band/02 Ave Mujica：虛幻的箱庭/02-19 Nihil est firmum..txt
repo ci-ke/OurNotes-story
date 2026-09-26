@@ -18,12 +18,12 @@
 祥子：……
 管家：怎麼了？大小姐。
 祥子：……我不能上飛機。
-祥子：<size=150%>──我非去不可！
+祥子：──我非去不可！
 （背景切换）
 管家：祥子大小姐！太危險了，請等一下！
 （背景切换）
 祥子：呼……呼……！
-祥子：<size=175%>啊！
+祥子：啊！
 祥子：（現在沒時間在乎痛不痛了！）
 （背景切换）
 祥子：呼……呼……！
@@ -86,7 +86,7 @@
 祥子：是因為我找妳的關係嗎？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp）
-初音：<size=175%>不是！我覺得很開心！
+初音：不是！我覺得很開心！
 初音：……就算我只是誰的替代品。
 祥子：……！
 （背景切换）
@@ -133,20 +133,19 @@
 （背景切换）
 祥子：我們曾一起在這看過星星吧。 那個人……是妳嗎？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp）
-初音：<size=175%>唔……！
+初音：唔……！
 祥子：我就知道，喜歡星星的是初音吧。
 初音：……！！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp）
 （背景切换）
 祥子：……呵。
 初音：小祥……？
 祥子：初音，我們回去吧。
 初音：咦？回去哪裡？
-祥子：<size=150%>當然是回東京啊！
+祥子：當然是回東京啊！
 初音：咦咦～？
 祥子：走捷徑的話還能趕上那班渡輪。 跑起來吧，初音！
 （背景切换）
-初音：<size=150%>等等，別拉我。 小、小祥〜〜〜〜！
+初音：等等，別拉我。 小、小祥〜〜〜〜！
 （背景切换）
 
 【渡輪上】
@@ -168,17 +167,17 @@
 祥子：……
 初音：小祥……？妳那樣探出船身很危……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp）
-祥子：<size=175%>我真的已經受夠了──！！
+祥子：我真的已經受夠了──！！
 初音：……！
 祥子：是誰不會允許！？是誰做的決定！ 為什麼非得言聽計從不可！
 祥子：初音妳也一樣死腦筋！妳這個、妳這個……！ 傻瓜～～～！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp）
 初音：小祥……
 祥子：什麼事？我現在很生氣。 請不要太小看我的決心了。
 初音：……嗯。
 （背景切换）
 初音：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp）
+（说明）：收件匣 日期 寄件人 收件人 附加檔案 預約寄送 草稿 豐川定治 關於祥子 我想妳心裡應該也很清楚，妳和祥子活在截然不同的世界。 儘速把祥子帶回來。
 初音：……
 祥子：嗯……
 初音：……
@@ -197,10 +196,10 @@
 祥子：開口閉口就是豐川，有這麼了不起嗎？ 我們做了什麼天理不容的事嗎？
 祥子：我實在無法接受！
 定治：妳根本不了解豐川家的可怕……
-祥子：<size=175%>明明就是爺爺您在害怕吧！
+祥子：明明就是爺爺您在害怕吧！
 定治：唔！
 祥子：我也要離開這個家。 我不會再聽從爺爺的指示了！
-祥子：<size=175%>我要和她在一起生活！
+祥子：我要和她在一起生活！
 初音：小祥……！
 祥子：爸爸那邊就拜託您了！
 定治：……
@@ -211,7 +210,7 @@
 初音：……
 初音：我剛才還以為死定了。
 祥子：我也是…… 哎呀，初音，妳肩膀上有蟲……
-初音：<size=175%>哇啊啊！蟲子！？
+初音：哇啊啊！蟲子！？
 祥子：別動，我幫妳弄掉。 不要亂動喔。
 初音：……嗚嗚！快、快點……
 祥子：……好，弄掉了。 這麼小的瓢蟲妳也覺得可怕嗎？
@@ -220,8 +219,7 @@
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp）
 初音：討厭～～別再笑了啦～！ ……呵呵！
 祥子：呵呵。
-祥子：<size=150%>啊哈哈！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp）
+祥子 & 初音：啊哈哈！
 （背景切换）
 （背景切换）
 初音：今後該怎麼辦呢？
@@ -229,7 +227,7 @@
 祥子：不存在什麼確切又不可動搖的事物。
 祥子：……會害怕嗎？
 初音：……不會，只要能和小祥在一起。
-（消息）海鈴：<color=#1877F2>＠祥子</color>　找到三角同學了嗎？
+（消息）海鈴：＠祥子　找到三角同學了嗎？
 （消息）海鈴：十一點開始練習
 （消息）海鈴：拜託今天一定要來😭
 祥子：我都完全忘了。咦～等等還要過去練習……

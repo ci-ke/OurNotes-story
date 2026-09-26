@@ -8,9 +8,13 @@
 初华：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000141/data/adv_still_anime_000141/adv_still_anime_000141.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000142/data/adv_still_anime_000142/adv_still_anime_000142.webp）
+（说明）：ANON TOKYO 178 动态 835 正在关注 关注 私信
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000143/data/adv_still_anime_000143/adv_still_anime_000143.webp）
+（说明）：再见了 #CRYCHIC
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000142/data/adv_still_anime_000142/adv_still_anime_000142.webp）
+（说明）：ANON TOKYO 178 动态 835 正在关注 关注 私信
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000143/data/adv_still_anime_000143/adv_still_anime_000143.webp）
+（说明）：再见了 #CRYCHIC
 初华：……
 真奈：我们今天也约好了，工作结束后一起去吃饭。 不介意的话，小初也一起——
 真奈：小初？你没事吧？
@@ -28,14 +32,13 @@ Mortis：所以，我消失了你也无所谓吗？
 睦：……
 Mortis：……！小睦和小祥子什么都不懂！ 要是没了我，苦恼的会是你自己啊！？
 睦：Mortis，你要理解我
-Mortis：<size=175%>我不理解！
+Mortis：我不理解！
 （背景切换）
 Mortis：哈啊………哈啊…… 我绝对不要理解你……
 （背景切换）
 祥子：（Mortis 希望睦一直组Ave Mujica）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp）
 祥子：（那么睦饱受痛苦，甚至坏掉的日子 会一直持续下去……）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp）
 祥子：（这种事……… 我唯独不能重组Ave Mujica）
 祥子：（绝不能那样做）
 保姆：十分抱歉。大小姐说 今天想弹吉他
@@ -60,7 +63,7 @@ Mortis：哈啊………哈啊…… 我绝对不要理解你……
 灯：……
 祥子：我就开门见山了
 祥子：灯，你愿意和我重组 CRYCHIC吗？
-爱音：<size=175%>……！
+爱音 & 灯：……！
 祥子：我和……我和睦都是认真的
 灯：小睦……
 祥子：是的……复活CRYCHIC是睦的心愿
@@ -69,11 +72,12 @@ Mortis：哈啊………哈啊…… 我绝对不要理解你……
 爱音：这……就是说
 祥子：当然，不会给MyGO!!!!!添麻烦的。 我也深知不可能立刻得到答复
 祥子：接下来我也会找立希和爽世商量
-爱音：……
+爱音 & 灯：……
 （背景切换）
 （背景切换）
 爽世：贵安，明天见
 （消息）立希：演出结束之后最近太松懈了
+（消息）advchat_soyo_group_01_nosound：是这样吗？
 （消息）爽世：是这样吗？
 （消息）立希：绝对有，得赶紧确定下一场
 （消息）爱音：抱歉，有空聊聊吗？
@@ -104,14 +108,13 @@ Mortis：哈啊………哈啊…… 我绝对不要理解你……
 爱音：小初华居然主动联系我，吓了我一跳呢。 今天为什么找我呢……
 初华：嗯……我想问问CRYCHIC的事。这个
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp）
+（说明）：动态 8点赞 溜到Rikki的鼓组里来了！ 从这里看队友感觉完全不同😆 跟谁都无法眼神交流💦 #MyGO　#ANON　#Drum
 初华：你知道什么吗……？
 爱音：这是Soyorin发的吧。之前她们一起演出了～ 这是那时的照片
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp）
-初华：<size=175%>……！
+初华：……！
 爱音：Tomorin写了新的歌词， 我就想既然如此，干脆让她们用MyGO!!!!!的彩排时间——
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp）
 初华：（小祥……看起来好幸福…… 这种表情，在Ave Mujica的时候——）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp）
 爱音：小祥子说想继续组CRYCHIC来着～
 初华：……诶
 爱音：但是，小初华为什么要问CRYCHIC的事……
@@ -137,13 +140,13 @@ Mortis：哈啊………哈啊…… 我绝对不要理解你……
 面试官：祐天寺小姐？你没事吧？
 若麦：哈……哈啊……哈啊……
 （背景切换）
-若麦：<size=175%>……！！
+若麦：……！！
 若麦：（真没出息！！ 在最重要的时候怎么这样……！）
 若麦：（乐队已经结束了……！ 我必须把一切都当成垫脚石，不断向前迈进才行……！）
 面试人A：简直烂透了！演对手戏那人僵在原地～
 面试人B：诶～真无语。那是Nyamuchi吧？
 面试人A：别因为乐队完蛋了，就随便来凑热闹啊
-若麦：<size=175%>……！！～～～！！
+若麦：……！！～～～！！
 （背景切换）
 （消息）海铃：若叶同学确定参加了
 （背景切换）
@@ -160,7 +163,7 @@ Mortis：哈啊………哈啊…… 我绝对不要理解你……
 海铃：听说什么？
 立希：……你对睦……做了什么吗？
 海铃：……！你是指什么呢？
-初华：<size=175%>小海铃！我愿意组Ave Mujica！
+初华：小海铃！我愿意组Ave Mujica！
 海铃：诶，好的
 立希：……？
 初华：……我就说这些
@@ -168,7 +171,7 @@ Mortis：哈啊………哈啊…… 我绝对不要理解你……
 海铃：你做了什么吗？ 能被三角同学那样瞪着，看来你做得相当过分呢
 立希：哈？
 （背景切换）
-初华：<size=175%>社长，求求您了！
+初华：社长，求求您了！
 胜浦社长：初华，抬起头来
 初华：我知道这是我的任性。但我还是 想复活Ave Mujica！
 胜浦社长：……唉。初华，你的心情我明白了。 但我还是不能同意
@@ -189,6 +192,7 @@ Mortis：哈啊………哈啊…… 我绝对不要理解你……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000147/data/adv_still_anime_000147/adv_still_anime_000147.webp）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000148/data/adv_still_anime_000148/adv_still_anime_000148.webp）
+（说明）：保管服装 Ave Mujica Oblivionis 废弃
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000149/data/adv_still_anime_000149/adv_still_anime_000149.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp）
 初华：小祥……！

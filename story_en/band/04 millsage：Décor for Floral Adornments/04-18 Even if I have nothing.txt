@@ -28,7 +28,7 @@ Houka: I was simply reasonably capable and good at getting along with others.
 Houka: Just through that, and by pure luck, I happened to end up at the center of my social circle, and I gradually began to wonder...
 Houka: "What exactly is it about me that people value?"
 Houka: I don't possess any exceptional talent, nor have I put in any blood, sweat, and tears.
-Houka: So why was someone like me "at the <ruby=>center</ruby> of the <ruby=>circle</ruby>?"
+Houka: So why was someone like me "at the center of the circle?"
 Houka: ...After that, a classmate invited me to join a band, but that question only grew louder with each passing day.
 (Background change)
 Audience A: That vocalist is amazing!
@@ -48,8 +48,6 @@ Houka: The light she radiates could burn to ash this fabricated version of me th
 (Background change)
 Houka: That's how it was supposed to be. And yet—
 (Background change)
-Houka: 
-Houka: 
 Houka: (Just as I thought, my whole life... will end without anything ever coming true.)
 Natsume: ...Found you.
 Houka: ! ...Oh my.
@@ -104,13 +102,7 @@ Mahoro: ...That's not what I mean.
 Nagi: You were trying to hold everyone together, and you never gave up on the vocals or the lyrics—
 Mahoro: I said, that's not what I mean!!
 Nagi: ...!?
-Mahoro: 
-Mahoro: 
-Mahoro: 
-Mahoro: 
-Nagi: 
 Mahoro: I already get it... that I don't have talent or charisma or any of that! But...!
-Mahoro: 
 Nagi: ...Mahoro—
 (Background change)
 Mahoro: Aaaaaaaah!!! It's so frustrating!!!!
@@ -154,7 +146,6 @@ Mahoro: I miss you, Kanata...!
 Mahoro: Laugh at me and call me an idiot...!
 Mahoro: Uuuh... *sob*
 Mahoro: Uwaaaaaaaah...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000033/data/adv_still_charaillust_000033/adv_still_charaillust_000033.webp)
 Mahoro: *Sniffle*... *Hic*...
 Mahoro: Nagi-chan, got any tissues...
 Nagi: ...I'm all out.
@@ -210,7 +201,7 @@ Nagi: Yeah... we did once end up talking about doing that. ...And, you know, you
 Nagi: ...The adults told us, didn't they? At the funeral— "Time will heal it."
 Nagi: "Time will heal even your sadness..."
 (Background change)
-Mahoro: ...
+Mahoro & Nagi: ...
 Mahoro: ...I don't want that.
 Mahoro: Ah, geez, this feeling just keeps coming back again and again... But I hate it.
 Mahoro: ...I still don't want it to end. Not my feelings for Kanata... and not my story, either.

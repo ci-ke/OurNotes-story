@@ -45,7 +45,7 @@
 蕾叶: えっ、なんで私だけ？
 心玖: 洗濯機
 蕾叶: あ〜……ごめんなさーい
-蕾叶: あははっ ふふ
+蕾叶 & 心玖: あははっ ふふ
 蕾叶: あっ、そうだ！ みんなにいいお知らせがありまーす！
 心玖: お知らせ？
 蕾叶: むふふふ……♪ 実はさ〜、私たちのバンド名考えたんだよね〜！
@@ -57,9 +57,9 @@
 蕾叶: 個人名が入るのはナシ！ ……あ、あった♪
 蕾叶: 私たちにぴったりすぎて、みんな腰抜かすぞ〜！ 聞いて驚け、その名も――
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000036/data/adv_still_charaillust_000036/adv_still_charaillust_000036.webp)
+(Caption): 一家Dumb Rock! 須賀蕾叶
 蕾叶: 『一家Dumb Rock!』
 一同: …………
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000036/data/adv_still_charaillust_000036/adv_still_charaillust_000036.webp)
 ちえり: こんなダッサいバンド名、ありえないです！！
 蕾叶: ええっ！？
 ちえり: 漢字と英語の組み合わせを見てたら なんだかゾワゾワします！
@@ -87,9 +87,9 @@
 
 (Background change)
 (Background change)
-ちえり: <size=120%>――待ってください！！ そんなの絶対に許しません！！</size>
+ちえり: ――待ってください！！ そんなの絶対に許しません！！
 蕾叶: チェリ、どうしたの！？ なんか怒って――……
-蓬咲: …………
+蓬咲 & 寧月: …………
 ちえり: ちえりはここを退きませんよ
 心玖: …………
 蕾叶: 心玖、その大荷物……何？

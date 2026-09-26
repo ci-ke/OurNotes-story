@@ -61,7 +61,7 @@
 阿拉蕾：要複習一下本篇的劇情了！
 菈琪：真的！
 阿拉蕾：啊哈哈，再見囉～
-菈琪：拜拜～
+菈琪 & 波塔：拜拜～
 野乃花：小蕾～～～～～～～～～～
 阿拉蕾：啊！
 野乃花：找到了────！
@@ -115,11 +115,10 @@ Viola：真聽話，跟小蕾截然不同。
 律：活動是免費參加，如果大家能來我會很開心。 那麼，我們會場見。辛苦了。
 律：……？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000232/data/adv_still_anime_000232/adv_still_anime_000232.webp）
+（说明）：Viola 辛苦了！ 律果然是個好孩子呢！ 明天在活動上…
 律：……！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000232/data/adv_still_anime_000232/adv_still_anime_000232.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000233/data/adv_still_anime_000233/adv_still_anime_000233.webp）
 律：（小蕾……）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000233/data/adv_still_anime_000233/adv_still_anime_000233.webp）
 律：…………
 （背景切换）
 Viola：──律真是的……
@@ -140,8 +139,7 @@ Viola：對，是的，那我先掛了。
 律：小蕾……！
 律：……？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000234/data/adv_still_anime_000234/adv_still_anime_000234.webp）
-Viola：
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000234/data/adv_still_anime_000234/adv_still_anime_000234.webp）
+（说明）：Viola 給小蕾的情歌， 打動了我的心😢😢💕💕 大家也感受到了喔🥺🥺🥺
 律：咦……怎麼會……
 律：！
 律：呼、呼、呼……
@@ -170,14 +168,13 @@ Viola：說得好。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000028/data/adv_still_charaillust_000028/adv_still_charaillust_000028.webp）
 律：拜託……
 （背景切换）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000028/data/adv_still_charaillust_000028/adv_still_charaillust_000028.webp）
 律：拜託，唯有小蕾……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000028/data/adv_still_charaillust_000028/adv_still_charaillust_000028.webp）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000235/data/adv_still_anime_000235/adv_still_anime_000235.webp）
+（说明）：這個直播已結束 【妖精花束】Clematis的吉他直播 千石由乃
 阿拉蕾：…………為什麼……
 阿拉蕾：早知道就不看了……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000235/data/adv_still_anime_000235/adv_still_anime_000235.webp）
 （背景切换）
 律：小蕾……！
 （背景切换）
@@ -187,10 +184,14 @@ Viola：說得好。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000237/data/adv_still_anime_000237/adv_still_anime_000237.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000236/data/adv_still_anime_000236/adv_still_anime_000236.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000238/data/adv_still_anime_000238/adv_still_anime_000238.webp）
+（说明）：因為網路留言有可疑人士出沒 結果全校提早放學了 小蕾要來的話感覺會很危險… 以防萬一我們家會請家人來接我 打起精神
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000237/data/adv_still_anime_000237/adv_still_anime_000237.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000239/data/adv_still_anime_000239/adv_still_anime_000239.webp）
+（说明）：歌聲 好噁
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000238/data/adv_still_anime_000238/adv_still_anime_000238.webp）
+（说明）：因為網路留言有可疑人士出沒 結果全校提早放學了 小蕾要來的話感覺會很危險… 以防萬一我們家會請家人來接我 打起精神
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000239/data/adv_still_anime_000239/adv_still_anime_000239.webp）
+（说明）：歌聲 好噁
 阿拉蕾：……！
 （背景切换）
 律：救救我。
@@ -204,7 +205,7 @@ Viola：說得好。
 阿拉蕾：！ 妖精花束首本寫真書親遞會……
 阿拉蕾：呃，這裡是Suzunarrer喔！？？
 Viola：大家好～！我們是妖精花束！
-觀眾們：<size=120%>哇～～～～～～！</size>
+觀眾們：哇～～～～～～！
 （背景切换）
 Viola：今天承蒙各位撥冗參加妖精花束的第一場活動， 真的十分感謝！我是團長Viola！
 Bell：右邊OK！左邊OK！ 我是妖精花束的Bell～！請多指教！
@@ -220,7 +221,7 @@ Popo：什麼跟什麼？
 Bell：今天還有準備事先募集的問題，有問必答的刺激環節， 還有親遞會之類的！
 Popo：活動內容非常豐富，但在那之前有個重大發表！
 Viola：多虧有大家的聲援……！ 我們的首張單曲確定發行了！
-觀眾們：<size=200%>哇～～～～！</size>
+觀眾們：哇～～～～！
 Viola：！
 阿拉蕾：！？
 Viola：……
@@ -239,7 +240,7 @@ Viola：我跟小艾蕾雅…… 啊，妳現在是叫小蕾吧。
 Viola：Clematis……我知道的。 妳也想和小蕾和好吧……？
 Viola：看到昨天的直播，我就確定了。 所以……
 Viola：我希望Clematis跟小蕾能和好！
-阿拉蕾：……！
+阿拉蕾 & 律：……！
 Viola：好嘛，妳們一起合唱昨天那首歌， 握手言和吧！
 Popo：能見證這歷史性的一刻，我深感榮幸。
 Bell：聽說這兩個人原本是朋友， 卻吵架絕交了──
@@ -247,22 +248,24 @@ Bell：聽說這兩個人原本是朋友， 卻吵架絕交了──
 Viola：我去拿吉他，等我一下喔。
 Bell：是驚喜演出──！
 Popo：這也算是活動有趣的地方吧。
-ritsu：小蕾……
-arale：啊……
-arale：啊……
-ritsu：咦？
-ritsu：咦咦？
-viola：咦？
-viola：怎麼會……
-viola：小蕾……為什麼……
-ritsu：小蕾……！
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_arale_run_away_yumemita_05/adv_movie_arale_run_away_yumemita_05/adv_movie_arale_run_away_yumemita_05.mp4）
+（说明）：夢みた5話　あられ逃走シーン
+（字幕）ritsu：小蕾……
+（字幕）arale：啊……
+（字幕）arale：啊……
+（字幕）ritsu：咦？
+（字幕）ritsu：咦咦？
+（字幕）viola：咦？
+（字幕）viola：怎麼會……
+（字幕）viola：小蕾……為什麼……
+（字幕）ritsu：小蕾……！
 （背景切换）
-阿拉蕾：呼……呼……
+阿拉蕾 & 律：呼……呼……
 律：唉……
-阿拉蕾：<size=150%>我在幹嘛啊！？</size>
+阿拉蕾：我在幹嘛啊！？
 阿拉蕾：竟然把小律從別人的活動上帶走了！！
 阿拉蕾：這是挖角！？搶人！？我是小偷嗎！？
-阿拉蕾：<size=250%>我是小偷～～～<br><align="right">～～～！！！？？？</size>
+阿拉蕾：我是小偷～～～ ～～～！！！？？？
 阿拉蕾：怎麼辦！我搞不好會挨告！ 為什麼會變成這樣啊！都被我搞砸了！
 律：……
 阿拉蕾：好可怕……怎麼辦，我真的不懂。 為什麼……為什麼會變成這樣……

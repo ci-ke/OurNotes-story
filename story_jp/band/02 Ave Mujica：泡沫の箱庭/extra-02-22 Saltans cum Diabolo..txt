@@ -37,36 +37,38 @@
 海鈴: 若葉さん……？
 にゃむ: ちょ……アンタそっちは——
 (Background change)
-audiencee: 素晴らしい！ まるで水の妖精が降り立ったよう……！
-audienced: ええ……！　思わずため息が出ちゃう……！
-umiri: さすがは若葉さん。魅せてくれますね
-nyamu: （なに、その目……！　アタシには無理だとでも？）
-mutsumi: お手をどうぞ
-nyamu: （……ぜってえ退かんばい……！）
-nyamu: ……エスコートでもしてくれるわけ？
-mutsumi: ……にゃむが望むなら
-audiencef: まぁまぁ、なんて麗しいペアなんでしょう！ 海上に咲く可憐な花々ですわ
-audienceg: しかし、背の高い方は追いついていないような…… 彼女に比べると……いささか見劣りするというか
-nyamu: （ワルツくらい授業でやった！ でも………！　どう足掻いても、観客の目は……！）
-mutsumi: ……ダンスに集中して
-mutsumi: もっと思いっきりやっていい
-mutsumi: 合わせられるから
-nyamu: ……上等！
-nyamu: （やっぱこのオンナ……！）
-nyamu: ……くっ
-mutsumi: にゃむ
-mutsumi: 上手
-nyamu: ……はい！　おしまい！
-nyamu: あーもう前髪崩れちゃったじゃん。アタシ、楽屋戻るわ〜
-umiri: おや。そんなつれないことをおっしゃらず
-nyamu: ん
-umiri: 次は私と踊りませんか？
-nyamu: は？
-umiri: ふたりだけで楽しまないで、私も混ぜてくださいよ
-nyamu: いや楽しんでたわけじゃ——えっ ちょ、ちょっ！　ウミコ……！
-umiri: ダンスはパートナーとの共同作業。さあ、心をひとつに！
-nyamu: アンタ、テンションおかしくなってない？
-umiri: 私はいつだって素面ですよ
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mujica_exstory_02_01/adv_movie_mujica_exstory_02_01/adv_movie_mujica_exstory_02_01.mp4)
+(Caption): Mujicaエクストラ　ダンスシーン（2話）
+(Subtitle) audiencee: 素晴らしい！ まるで水の妖精が降り立ったよう……！
+(Subtitle) audienced: ええ……！　思わずため息が出ちゃう……！
+(Subtitle) umiri: さすがは若葉さん。魅せてくれますね
+(Subtitle) nyamu: （なに、その目……！　アタシには無理だとでも？）
+(Subtitle) mutsumi: お手をどうぞ
+(Subtitle) nyamu: （……ぜってえ退かんばい……！）
+(Subtitle) nyamu: ……エスコートでもしてくれるわけ？
+(Subtitle) mutsumi: ……にゃむが望むなら
+(Subtitle) audiencef: まぁまぁ、なんて麗しいペアなんでしょう！ 海上に咲く可憐な花々ですわ
+(Subtitle) audienceg: しかし、背の高い方は追いついていないような…… 彼女に比べると……いささか見劣りするというか
+(Subtitle) nyamu: （ワルツくらい授業でやった！ でも………！　どう足掻いても、観客の目は……！）
+(Subtitle) mutsumi: ……ダンスに集中して
+(Subtitle) mutsumi: もっと思いっきりやっていい
+(Subtitle) mutsumi: 合わせられるから
+(Subtitle) nyamu: ……上等！
+(Subtitle) nyamu: （やっぱこのオンナ……！）
+(Subtitle) nyamu: ……くっ
+(Subtitle) mutsumi: にゃむ
+(Subtitle) mutsumi: 上手
+(Subtitle) nyamu: ……はい！　おしまい！
+(Subtitle) nyamu: あーもう前髪崩れちゃったじゃん。アタシ、楽屋戻るわ〜
+(Subtitle) umiri: おや。そんなつれないことをおっしゃらず
+(Subtitle) nyamu: ん
+(Subtitle) umiri: 次は私と踊りませんか？
+(Subtitle) nyamu: は？
+(Subtitle) umiri: ふたりだけで楽しまないで、私も混ぜてくださいよ
+(Subtitle) nyamu: いや楽しんでたわけじゃ——えっ ちょ、ちょっ！　ウミコ……！
+(Subtitle) umiri: ダンスはパートナーとの共同作業。さあ、心をひとつに！
+(Subtitle) nyamu: アンタ、テンションおかしくなってない？
+(Subtitle) umiri: 私はいつだって素面ですよ
 (Background change)
 初華: わぁ……みんなすごい！　ね、さきちゃん
 祥子: ええ。わたくし、先に楽屋へ戻ってますわ。 初華は楽しんでらして

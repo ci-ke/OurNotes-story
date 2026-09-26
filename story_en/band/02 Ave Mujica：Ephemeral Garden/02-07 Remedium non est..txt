@@ -5,10 +5,10 @@
 (Background change)
 Soyo: (Mutsumi-chan... doesn't come to school either. I wonder if she's okay...)
 (Background change)
-: <align="center">Ave Mujica M<color=#000000><mark=#C0C0C080>ortis
-: <align="center">Mortis<color=#000000><mark=#C0C0C080> Mutsumi-chan
-: <align="center">Mortis<color=#000000><mark=#C0C0C080> Dead
-: <align="center">Mortis<color=#000000><mark=#C0C0C080> Disappeared
+: Ave Mujica Mortis
+: Mortis Mutsumi-chan
+: Mortis Dead
+: Mortis Disappeared
 (Background change)
 Soyo: ...!
 Soyo: (I have to... go and see Mutsumi-chan...)
@@ -30,8 +30,8 @@ Tomori: ...
 [Takamatsu's Home - Tomori's Room]
 
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000119/data/adv_still_anime_000119/adv_still_anime_000119.webp)
+(Caption): Happiness Saki-chan
 Tomori: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000119/data/adv_still_anime_000119/adv_still_anime_000119.webp)
 (Background change)
 Tomori: Um...
 Sakiko: This part is for the guitar—Mutsumi's section. Next is for the keyboard, so it's my part.
@@ -57,11 +57,13 @@ Tomori: Saki-chan...
 
 Sakiko: (! Again!?)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000120/data/adv_still_anime_000120/adv_still_anime_000120.webp)
+(Caption): Are you happy, Saki-chan?
 Sakiko: ...
 Anon: So, Tomorin.
 Anon: Eh, what was that sound just now?
 Tomori: ...?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000121/data/adv_still_anime_000121/adv_still_anime_000121.webp)
+(Caption): Are you happy, Saki-chan? Please stop
 Tomori: ! Wait, Saki-chan! Saki-chan!
 Anon: Wait, what's going on?
 (Background change)
@@ -80,7 +82,7 @@ Tomori: Wait...!
 Anon: Leave it to me. I was the anchor runner for my class all through middle school!
 (Background change)
 Sakiko: Give it to me.
-Anon: <size=150%>Sakiko-chan! Wait up!
+Anon: Sakiko-chan! Wait up!
 Butler: Excuse me—
 Anon: I'm her friend!
 Sakiko: ...
@@ -96,7 +98,7 @@ Anon: The house is amazing... isn't it enormous? And there are roses, too. It's 
 Anon: Huh? A pool table? That's amazing.
 Sakiko: Tomori, didn't you have something to say?
 Tomori: ...
-Tomori: <size=150%>Saki-chan...! Let's be in a band!
+Tomori: Saki-chan...! Let's be in a band!
 Anon: Eh...
 Sakiko: (What was I expecting? I knew this would happen. And yet, I obediently bring them here...)
 Sakiko: (I really, really... hate myself.)
@@ -112,6 +114,7 @@ Tomori: ...
 Anon: Let's go, Tomorin.
 Sakiko: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000122/data/adv_still_anime_000122/adv_still_anime_000122.webp)
+(Caption): Saki-chan gave shape To the things I couldn't convey Meeting Saki-chan that day Is something I never want to lose I want to reach Saki-chan But I can't The happiness that Saki-chan sees I want to see it with you I hope you will tell me about it On the way home, it always comes to mind It's not that I want to return to that day But that I want to walk alongside you
 Sakiko: ...
 Sakiko: (I expected, then rejected, and still— I can't let go of Tomori's words. I'm really... foolish.)
 (Background change)
@@ -135,7 +138,7 @@ Taki: I don't think that's necessary.
 Tomori: Eh?
 Taki: Because I don't want you to get hurt digging too deeply.
 Tomori: Ah...
-Anon: <size=175%>!?
+Anon & Taki & Tomori: !?
 Rāna: Let's play.
 Anon: Wait, Soyorin isn't here yet.
 Taki: She'll come around.
@@ -155,19 +158,17 @@ Mortis: Yes, yes....... No, she's been asleep the whole time.
 Mortis: Hello? Is this the doctor? Yes...... Yes, Mutsumi-chan isn't waking up.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
 Mortis: Yes, yes... She's been asleep the whole time.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
 Soyo: Mutsumi-chan?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp)
-Soyo: <size=175%>!?
+Soyo: !?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp)
 Mortis: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp)
 Soyo: Eek...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000128/data/adv_still_anime_000128/adv_still_anime_000128.webp)
 Mortis: Soyo-chan... Soyo-chan, Please wake Mutsumi-chan up...

@@ -9,16 +9,16 @@ Arale: Morning~!
 Bota: !
 Raki: M-Morning~
 Bota: Morning~
-Bota: ...
+Bota & Raki: ...
 Raki: A, Arale-chan—
-Arale: <size=150%>Ta-da! Look at this! Bonus item set completed!
-Bota: ...
+Arale: Ta-da! Look at this! Bonus item set completed!
+Bota & Raki: ...
 Arale: Huh?
 Bota: Arale-chan, you don't have to force yourself to be cheerful.
 Raki: Yeah. I mean... that's a bit... y'know.
 Bota: ...
 Arale: ! Don't tell me you found out I lost the lottery for that autographed poster giveaway by Yako-sensei to commemorate the release of the Chupasachu tankōbon...!?
-Bota: Sorry, we don't know that.
+Bota & Raki: Sorry, we don't know that.
 Arale: ? Then what's—
 Miyako: U-Um, excuse me...
 Arale: Yako-sensei!
@@ -56,7 +56,7 @@ Viola: ...
 (Background change)
 Miyako: P-Please wait a moment! Arale-san!?
 Viola: Arale-chan!
-Miyako: !
+Miyako & Arale: !
 Viola: You just suddenly ran out there. You really startled me.
 Arale: ...
 Miyako: Wait, you two know each other...?
@@ -70,7 +70,7 @@ Arale: I know what you're doing! You deceive and disparage people! You made Ricc
 Miyako: A, Arale-san...?
 Arale: I see it all now! And I will never lose again!!
 Viola: I don't really get all this talk about losing or deceiving...
-Arale: <size=175%>Don't play dumb!
+Arale: Don't play dumb!
 Viola: ...!
 Miyako: ...!
 Viola: But... About Clematis, I was truly shocked, you know...
@@ -90,7 +90,7 @@ Miyako: So...!
 Arale: I see... So you had us do the live show just to make us get flamed... And you used Miyako-san for that.
 Miyako: Huh...
 Arale: Unforgivable!
-Miyako: <size=175%>That's enough!!
+Miyako: That's enough!!
 Miyako: We're the ones who decided to do the live show, aren't we! Blaming her for that is just wrong!
 Arale: Mi, Miyako-san...!
 Viola: ...
@@ -105,13 +105,13 @@ Miyako: Huh...?
 Viola: It's okay, Yako-sensei. Just knowing you believe in me... is enough...
 Viola: ...
 Miyako: Ah...!
-Arale: ...
+Arale & Miyako: ...
 (Background change)
 Viola: ...
 Viola: It recorded well...♪
-Viola: <size=175%>Kyahahahahahaha!!
+Viola: Kyahahahahahaha!!
 Viola: *Pant*... *Pant*... *Pant*...
-Viola: <size=150%>It feels so good♡
+Viola: It feels so good♡
 (Background change)
 (Background change)
 Arale: (Why did Miyako-san say that...?)
@@ -126,7 +126,7 @@ Arale: ? Minetsuki...
 Ritsu: I've transferred here from Akiha Girls' Academy High School Division. My name is Ritsu Minetsuki. Nice to meet you!
 Arale: Ri... Ririririririririri—
 (Background change)
-Arale: <size=175%>Ricchan!!!????
+Arale: Ricchan!!!????
 Ritsu: Ah... Hehe.
 (Background change)
 Arale: Looking from here... and even from this angle... It's really Ricchan after all...!
@@ -142,14 +142,13 @@ Ritsu: My apologies for the delayed greeting.
 Ritsu: Once again, I am Ritsu Minetsuki, and I will be studying alongside you in Class 1-B at Kanda Shiroyama Academy.
 Ritsu: Here, a token of our acquaintance...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000249/data/adv_still_anime_000249/adv_still_anime_000249.webp)
-Raki: Huh!?
+Raki & Bota: Huh!?
 Raki: Baru-kun meat bun...!
 Bota: Freshly steamed!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000249/data/adv_still_anime_000249/adv_still_anime_000249.webp)
 Ritsu: Here, you too, Arale-chan.
 Arale: R-Really!?
 Ritsu: Of course. Well then...
-Everyone: <size=175%>Cheeeers!
+Everyone: Cheeeers!
 Ritsu: Ah— *Munch*...
 Bota: This girl's surprisingly energetic.
 Raki: Wasn't Clematis supposed to be the prince-type character?
@@ -163,7 +162,7 @@ Arale: Yeah! Right! That was amazing!
 (Background change)
 Miyako: Impossible...
 Miyako: (I don't feel like I can fit into that friendly, cozy atmosphere... I'll try again later...)
-Miyako: <size=175%>!!???
+Miyako: !!???
 Nonoka: Wow.
 Nonoka: ! Miyako-chan! Medical care!
 Miyako: W-What's this, all of a sudden!?
@@ -175,7 +174,7 @@ Miyako: Huh?
 Nonoka: Finally meeting the real Ricchan in person!
 Miyako: No, hey, wait...!
 (Background change)
-Nonoka: <size=150%>Welcome to Kamiuma Academy!
+Nonoka: Welcome to Kamiuma Academy!
 Ritsu: Kamiuma?
 Nonoka: Kanda Shiroyama Academy... That's short for it!
 Ritsu: I see. Nice to meet you, Miyanaga-senpai.
@@ -188,7 +187,7 @@ Ritsu: Nono-chan.
 Nonoka: Mmm~ Perfect! Right? Arale-kun!
 Nonoka: Arale-kun...?
 Arale: Um, Miyako-san... About yesterday...
-Miyako: <size=175%>Ah!
+Miyako: Ah!
 Arale: !?
 Miyako: Oh no! I completely forgot that I have an urgent manuscript due! This is bad!
 Arale: Mi...
@@ -226,7 +225,7 @@ Ritsu: "Calm down! Your body is in Super Recovery right now!"
 Arale: "Super... Recovery...?"
 Ritsu: "Injured muscles become stronger through rest."
 Ritsu: "Pushing yourself even further will just backfire. So!"
-Arale: <size=150%>No rush, stay!!
+Arale & Ritsu: No rush, stay!!
 Ritsu: Right?
 Arale: Yeah...! That's right...!
 Arale: Miyako-san is in Super Recovery too. We just have to wait!

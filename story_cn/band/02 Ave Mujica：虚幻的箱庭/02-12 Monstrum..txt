@@ -16,11 +16,11 @@ Mortis：我要消失了……我不想消失
 海铃：愿意和我也重修旧好吗？
 海铃：愿意再次和我组建Ave Mujica吗？ 我是这个意思
 （背景切换）
-Mortis：<size=175%>！！
+Mortis：！！
 （背景切换）
 海铃：意下如何呢，丰川同学
 Mortis：！不要、不要、不要………！ 我不想死
-Mortis：<size=175%>不要、不要、不要！我不想死
+Mortis：不要、不要、不要！我不想死
 （背景切换）
 睦：祥……
 祥子：Ave Mujica已经……
@@ -81,7 +81,7 @@ Mortis：诶……？
 睦：我想再一次和祥组CRYCHIC
 祥子：……诶
 睦：再一次
-Mortis：<size=175%>都说了不组！
+Mortis：都说了不组！
 祥子：！
 Mortis：小祥子你也有问题。 怎么就若无其事地跟过来了！
 祥子：……Mortis。 上次你帮助CRYCHIC再次登台，非常感谢
@@ -141,17 +141,15 @@ Mortis：而我善于交际， 是个擅长讨大家欢心的『艺人的女儿�
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp）
 Mortis：——但是，睦遇见了吉他
 祥子：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp）
 Mortis：睦这个角色，拥有了『小睦』这个意识…… 其他角色全都消失了
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp）
 （背景切换）
 Mortis：我抓住了『帮助小睦』的角色， 才能活下来，成为Ave Mujica的Mortis
 Mortis：小祥子，是你创造出来的哦
 祥子：……
-Mortis：『小睦』和『<r=我>Mortis</r>』这样一个——
+Mortis：『小睦』和『Mortis』这样一个——
 （背景切换）
-南：『怪物』
+南 & Mortis：『怪物』
 （背景切换）
 若麦：……
 南：连自己在表演都不曾察觉。 啊，不对，她人生的一切，可能都是表演
@@ -164,8 +162,8 @@ Mortis：我必须帮助小睦。 所以需要Ave Mujica这个舞台
 Mortis：我要是消失了，小睦会很苦恼吧？ 所以，来组Ave Mujica吧
 祥子：也就是说……你希望睦 一直痛苦下去吗？
 （背景切换）
-Mortis：<size=175%>怎么就说到这个了！？
-Mortis：<size=175%>是这样没错，但不是这个意思！
+Mortis：怎么就说到这个了！？
+Mortis：是这样没错，但不是这个意思！
 睦：……我想重组CRYCHIC
 Mortis：你在说什么！？CRYCHIC已经不存在了！
 Mortis：为什么你就是不懂？小祥子哭泣的理由 你总该懂吧！
@@ -186,5 +184,5 @@ Mortis：……诶
 睦：你伤害了祥……还毁了Ave Mujica。 全部……都是我不希望你做的事
 睦：你是不需要的……
 Mortis：……！小睦才是不需要的！
-睦：<size=175%><cspace=0.2em>不需要的是<cspace=0.15em><voffset=0.2em>你<voffset=-0.1em>才<voffset=0.35em>对</voffset>
-Mortis：<size=140%>不要啊————！！ 不要不要！走开啊————！！！
+睦：不需要的是你才对
+Mortis：不要啊————！！ 不要不要！走开啊————！！！

@@ -46,7 +46,6 @@
 祖母のバンドメンバーC: 『ばーちゃんズがいなくて寂しいだろ〜！』
 蕾叶: あははっ、うるさ！ みんな元気そうでよかったよー
 蕾叶の祖母: 『ま、こっちは変わらずだな。 ……蕾叶。ファミリーとは――』
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000010/data/adv_still_charaillust_000010/adv_still_charaillust_000010.webp)
 蕾叶: 昔さー、大雨が降ってキャンプに行けなくなった時、 代わりに『Nest』でキャンプしたよね！
 蕾叶: ほら、フロアにテント立ててもらったやつ！
 蕾叶の祖母: 『え？　ああ…… 蕾叶がどうしても行くって大泣きしたからなあ』
@@ -89,7 +88,7 @@
 蓬咲: １万歩譲って心玖さんを奪い返せたとして、 鈴木さんはどうするんですか！？
 寧月: ああ。今度こそ本当にライブハウスを 奪われてしまう可能性もあるぞ
 蕾叶: うん。だから、ライブハウスは鈴木さんに明け渡すよ
-蓬咲: えっ……！？
+蓬咲 & ちえり & 寧月: えっ……！？
 蓬咲: い、いいんですか！？
 ちえり: いいわけないでしょう！ 『Nest』を守るために、みんなで戦ってきたんですよ！
 蕾叶: そうだよね。 だから……み〜〜んなまとめてハグ！！
@@ -102,7 +101,7 @@
 ちえり: はぁ……結局言葉でも伝えるなら 最初からそれでいいじゃないですか
 蕾叶: ハグでも足りないくらいだよ！ それくらいでっかい愛を、みんなからもらった
 蕾叶: だからこそ、ホームよりファミリーを取りたい。 ５人で、ピースなファミリーになろうよ！
-蓬咲: …………
+蓬咲 & ちえり & 寧月: …………
 ちえり: ……わかりました。 そこまでの覚悟があるなら……
 ちえり: 蕾叶をちえりのライバルとして認めましょう！
 蕾叶: えっ、ライバル！？
@@ -115,7 +114,7 @@
 蓬咲: うわ〜、本当にアツすぎる〜……！！ 私も一緒にがんばれる……ような気がします〜……！！
 寧月: 私も全力を尽くすつもりだ
 蕾叶: みんな……！ よし、心玖を連れ戻すために一緒に頑張ろう！！
-ちえり: はいっ！！ ああ
+ちえり & 蓬咲 & 寧月: はいっ！！ ああ
 蓬咲: あっ……でも連れ戻すって言っても 具体的に何をするんですか？
 蕾叶: それなんだけど、 実は１つ考えがあって――
 (Background change)
@@ -123,25 +122,27 @@
 [アイドルグループの社内ライブ　当日]
 
 (Background change)
-shizuku: ……これで全員分だ。今のところは
-raika: うん
-raika: 今夜はちゃんと５人で食べよう
-yomogi: これ……全部食べるんですか……？ 私、緊張で心臓もお腹もキリキリして……
-chieri: 全部食べるんですっ！ 気合いが入らないでしょう！
-raika: よし……みんな揃ったね
-raika: それじゃあ手を合わせて〜……
-everyone: いただきまーす！！
-raika: はむはむはむっ……！
-chieri: もぐもぐもぐっ……！
-shizuku: ……はむっ。もぐもぐ
-yomogi: はぁぁ〜〜〜……よし……！ ずずっ……
-yomogi: あづっ……！！　うう〜……
-chieri: ……んっ
-yomogi: ……！ ありがとう、ございます……！
-raika: もぐもぐ……もぐもぐ……
-yomogi・chieri・shizuku: もぐもぐ……
-raika: はむっ……！
-raika: ――はい、ご一緒にっ
-everyone: ごちそーさまでした！！
-raika: さあ行こうか、マイ・ファミリー！！ 心玖を取り返すぞ！！
-yomogi・chieri・shizuku: おーっ！！
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4)
+(Caption): 一家Dumb Rock!バンスト1章　心玖を取り戻す朝ごはん
+(Subtitle) shizuku: ……これで全員分だ。今のところは
+(Subtitle) raika: うん
+(Subtitle) raika: 今夜はちゃんと５人で食べよう
+(Subtitle) yomogi: これ……全部食べるんですか……？ 私、緊張で心臓もお腹もキリキリして……
+(Subtitle) chieri: 全部食べるんですっ！ 気合いが入らないでしょう！
+(Subtitle) raika: よし……みんな揃ったね
+(Subtitle) raika: それじゃあ手を合わせて〜……
+(Subtitle) everyone: いただきまーす！！
+(Subtitle) raika: はむはむはむっ……！
+(Subtitle) chieri: もぐもぐもぐっ……！
+(Subtitle) shizuku: ……はむっ。もぐもぐ
+(Subtitle) yomogi: はぁぁ〜〜〜……よし……！ ずずっ……
+(Subtitle) yomogi: あづっ……！！　うう〜……
+(Subtitle) chieri: ……んっ
+(Subtitle) yomogi: ……！ ありがとう、ございます……！
+(Subtitle) raika: もぐもぐ……もぐもぐ……
+(Subtitle) yomogi・chieri・shizuku: もぐもぐ……
+(Subtitle) raika: はむっ……！
+(Subtitle) raika: ――はい、ご一緒にっ
+(Subtitle) everyone: ごちそーさまでした！！
+(Subtitle) raika: さあ行こうか、マイ・ファミリー！！ 心玖を取り返すぞ！！
+(Subtitle) yomogi・chieri・shizuku: おーっ！！

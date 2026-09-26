@@ -15,7 +15,7 @@
 愛音: あっ！　だ、大丈夫！
 立希: 大丈夫なの、あいつ……
 そよ: それじゃあ、私たちの曲、 聴いてください
-そよ: ！？
+そよ & 燈 & 立希: ！？
 愛音: ご、ごめん！　間違えた！ もう１回……！
 愛音: あ、あれ……？
 そよ: すみません、 実は私たち、ライブって初めてで……
@@ -28,11 +28,13 @@
 愛音: あ、ありがと……
 クラスメイトたち: 愛音ちゃん、燈ちゃん、 がんばれ～！
 燈: あれって……
-anon: （この調子で……）
-taki: （燈、全然声出てない）
-soyo: （愛音ちゃんよりは落ち着いて見えたけど）
-soyo: （やっぱり、前のようには……）
-rana: ふふん
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_hekiten_mygo_07/adv_movie_hekiten_mygo_07/adv_movie_hekiten_mygo_07.mp4)
+(Caption): 碧天伴走　ライブシーン
+(Subtitle) anon: （この調子で……）
+(Subtitle) taki: （燈、全然声出てない）
+(Subtitle) soyo: （愛音ちゃんよりは落ち着いて見えたけど）
+(Subtitle) soyo: （やっぱり、前のようには……）
+(Subtitle) rana: ふふん
 燈: …………
 愛音: みんな、ありがとー！！
 楽奈: ふふん……
@@ -40,7 +42,7 @@ rana: ふふん
 そよ: （……はぁ、なんとかなった）
 そよ: （挨拶して締めないと）
 燈: 来てくれて、嬉しい……
-愛音: ……え？
+愛音 & そよ & 立希: ……え？
 (Background change)
 燈: あの時……うまく歌えなくて。 みんなバラバラになって
 燈: つらくて、つらくて、 もうこんな思いはしたくない…… バンドなんてもう嫌だって……思ってた……
@@ -51,11 +53,13 @@ rana: ふふん
 燈: ――私は！ 必死にやるしかできない！
 燈: だって、私の歌は、心の叫びだから！
 祥子: 燈……
-anon: えっ？
-audience: すごい、いいよ！
-anon: ありがと〜
-anon: あっ、燈ちゃん、ノート忘れてるよ
-tomori: あ……
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_haruhikage_mygo_07/adv_movie_haruhikage_mygo_07/adv_movie_haruhikage_mygo_07.mp4)
+(Caption): 春日影　MyGOver（MyGOアニメ7話）　ライブシーン
+(Subtitle) anon: えっ？
+(Subtitle) audience: すごい、いいよ！
+(Subtitle) anon: ありがと〜
+(Subtitle) anon: あっ、燈ちゃん、ノート忘れてるよ
+(Subtitle) tomori: あ……
 (Background change)
 
 [RiNG 前室]
@@ -67,7 +71,7 @@ tomori: あ……
 燈: ほんと……？
 立希: もちろん。本当に……
 そよ: ……なんでよ
-立希: ……？
+立希 & 愛音 & 燈: ……？
 そよ: なんで『春日影』やったの！？
 立希: ……は？
 そよ: やらないって言ったじゃない！

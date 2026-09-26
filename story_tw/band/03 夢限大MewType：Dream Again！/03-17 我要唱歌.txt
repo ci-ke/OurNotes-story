@@ -81,10 +81,8 @@
 野乃花：小都，妳要去哪～！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp）
 都子：進行我贖罪的……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp）
-都子：<size=100％>秋葉原馬拉松百次參拜。</size>
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp）
+都子：秋葉原馬拉松百次參拜。
 （背景切换）
 
 【幾天後】
@@ -94,7 +92,7 @@
 阿拉蕾：咦？那是作業嗎？
 律：不是，我只是在預習。 我不太擅長世界史。
 阿拉蕾：我、我不想聽。
-律：？
+律 & 阿拉蕾：？
 律：「藤都子分享了健康資料」…… 都子同學今天好像也有跑步。
 阿拉蕾：一萬步！？早上還沒過完耶！？
 律：鍛鍊體力是很重要沒錯……
@@ -130,7 +128,7 @@
 經紀人：被人欺負到這種地步，實在是忍無可忍了。
 經紀人：敢動我們家重要的女孩們， 我一定要讓對方付出代價！
 經紀人：仲町同學、藤同學。
-都子：是！
+都子 & 阿拉蕾：是！
 經紀人：得請妳們兩位 稍微再忍耐一下。
 阿拉蕾：……
 阿拉蕾：我才不怕那些謾罵！
@@ -138,13 +136,13 @@
 經紀人：……
 都子：……
 阿拉蕾：那個，我有件事…… 想先告訴大家。
-野乃花：？
+野乃花 & 都子 & 經紀人：？
 阿拉蕾：我要用歌聲和大家聊天。
 律：……
 由乃：？
 阿拉蕾：我從以前就想這麼做…… 想把心裡的話說出來，把我最喜歡的一切都告訴大家。
 阿拉蕾：所以我想辦演唱會！
-律：『嗯！』 『咦！？』
+律 & 都子：『嗯！』 『咦！？』
 由乃：哇～
 野乃花：小野乃贊成～！
 都子：可是……！ 如果又惹出什麼風波……！
@@ -166,12 +164,12 @@
 經紀人：我強烈感受到了妳們的決心！
 經紀人：就來辦演唱會吧！
 阿拉蕾：唔～～～～～～～
-野乃花：太好了～～～～～！！
+野乃花 & 阿拉蕾：太好了～～～～～！！
 律：那麼該唱哪首歌？
 野乃花：我們在海邊做的那首！
 由乃：那首歌很有我們的風格。
 阿拉蕾：還、還有就是！
-野乃花：？
+野乃花 & 由乃：？
 阿拉蕾：我想把一路以來的心情和對未來的期望！ 全都寫進歌詞裡！
 阿拉蕾：如果可以的話……
 野乃花：好主意～
@@ -209,19 +207,18 @@
 （背景切换）
 老師：那麼，請各位同學用剛才的公式解一道題。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp）
+（说明）：剛認識的時候，我完全沒想到
 都子：（──剛認識她們的時候， 我從沒想過能變成現在這樣。）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp）
+（说明）：這句話該由我來說
 都子：（這句話應該由我來說才對。）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp）
+（说明）：這個命運
 都子：（如果是命運使然的相遇──）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp）
 都子：（真希望能持續下去。）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp）
 阿拉蕾：鏘──────────！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp）
 野乃花：麵包店又開張了！
 律：這是《魔法露露》聯名活動第三彈的紅豆麵包。
 阿拉蕾：沒錯，活動已經開跑了！
@@ -303,10 +300,10 @@ Viola：因為是連載前的作品，我還以為看不到了…… 但卻收�
 律：都子同學，這個給妳。
 都子：嗯。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp）
+（说明）：巨羊羹
 由乃：「咦？那是車輪擋？」
 都子：這是……
 律：工作時補充糖分用的， 等到需要的時候再吃吧。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp）
 都子：好重……謝謝妳……
 阿拉蕾：我幫妳一起搬到教室！
 野乃花：小野乃也來幫忙～！

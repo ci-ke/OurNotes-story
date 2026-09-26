@@ -10,8 +10,8 @@
 コハル: 最高のバンドなんでしょ？ あたしたち
 (Background change)
 ユノ: ……っ
-ののか: ユ<size=110%>～<size=120%>～<size=130%>～<size=140%>ノ<size=150%>～<size=160%>～<size=170%>～<size=180%>ちゃ<size=190%>～<size=200%>～<size=210%>～<size=220%>ん
-ののか: <size=175%>いーーーーーーーたーーーーーーーー！！
+ののか: ユ～～～ノ～～～ちゃ～～～ん
+ののか: いーーーーーーーたーーーーーーーー！！
 ののか: いっぱい探したんだよ！ マグロちゃんのとこにもいないし！
 ののか: これ！　お土産のウツボクッキー――
 ユノ: なんで来たの
@@ -21,30 +21,27 @@
 ユノ: 帰って
 ののか: ……
 ユノ: 聞こえなかった？ 帰って
-ののか: …………
+ののか & ユノ: …………
 ユノ: ……気遣って迎えにきたんでしょ
 ユノ: いい人ぶらなくていいよ。 そういうの、いいから
 ののか: ……はぁ……
 ののか: …………
 ユノ: ？
-ののか: <size=150%>っも～～～～～～～～～～～～～～！！！！！！！
+ののか: っも～～～～～～～～～～～～～～！！！！！！！
 ユノ: え……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000027/data/adv_still_charaillust_000027/adv_still_charaillust_000027.webp)
-ののか: <size=140%>もう！　もう！ も～～～～～～～～～～～～～～～～～！！！！！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000027/data/adv_still_charaillust_000027/adv_still_charaillust_000027.webp)
+ののか: もう！　もう！ も～～～～～～～～～～～～～～～～～！！！！！！
 ののか: みんな言いたい放題！　帰ってとか！
 ののか: 話しかけるなとか、嫌いとか！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000027/data/adv_still_charaillust_000027/adv_still_charaillust_000027.webp)
 ののか: アホとかバカとか偽善者とかクソガキとか！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000027/data/adv_still_charaillust_000027/adv_still_charaillust_000027.webp)
 ユノ: え……そんなこと言ってな……
-ののか: <size=175%>みんなワガママばっかり！！！
+ののか: みんなワガママばっかり！！！
 ののか: ののちゃんは ののちゃんのやりたいようにやります！！！
-ののか: <size=175%>一生帰らないぃ！！！
+ののか: 一生帰らないぃ！！！
 ののか: ユノちゃんがバンドやるまで、 ぜったいぜったいぜ～～～～ったい……
-ののか: <size=175%>かーえーらーなーーーーーーーーいッ！！！！
+ののか: かーえーらーなーーーーーーーーいッ！！！！
 ユノ: ちょ……
-ののか: <size=150%>ぐるるるる！
+ののか: ぐるるるる！
 ユノ: うわっ、は、放して！　やめろ！
 ののか: がう！　がうるるるる
 ユノ: ちょっ、食うな！
@@ -54,16 +51,16 @@
 都子: ……
 ののか: がう……
 律: ののちゃん……！ こんな、変わり果てた姿に……
-ののか: <size=150%>がう！！　ぐるるるる……
+ののか: がう！！　ぐるるるる……
 律: ののちゃん、ユノさんを離してあげて
-ののか: <size=150%>いーーやーー！
+ののか: いーーやーー！
 あられ: あのう……
 ユノ: ？
 あられ: ユノさんちゃん……
 あられ: ……ですよね？
 ユノ: ……
 あられ: オフラインでははじめまして～！ って感じしないですよねデュフ。 さすが、リアルの姿のほうがシュッとしておられて……
-ののか: <size=150%>がう！　わうわう！　う゛～～～～～～っ
+ののか: がう！　わうわう！　う゛～～～～～～っ
 律: ののちゃん、落ち着いて…… どう……どう……
 ののか: ぐるるるる……ガブッ
 律: ぎゃっ
@@ -113,13 +110,13 @@
 カエデ: え～
 ユイナ: 1000枚もいら～ん
 ユノ: もっと探せば手ごろなのあるんじゃない？
-コハル: ……
+コハル & ユイナ: ……
 ユノ: ……なに
 カエデ: えへへ…… 正直ユノには断られるかと思ってた
 コハル: バンドマンがちゃらちゃら軟弱なーって？
 ユノ: 言わないよ！ 何そのイメージ！
-コハル: あははっ！
-一同: <size=150%>かんぱーい！
+コハル & カエデ & ユイナ: あははっ！
+一同: かんぱーい！
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000266/data/adv_still_anime_000266/adv_still_anime_000266.webp)
 ユイナ: うま～
@@ -132,7 +129,7 @@
 コハル: えっ、今アップすんの？ ここで？
 ユイナ: もうちょい見直してからって言ってなかった？
 ユノ: 無理、この１秒が惜しい。 あたしたちの曲、早く動画でアップして世界に届けたい
-コハル: ……
+コハル & カエデ & ユイナ: ……
 ユノ: できた
 ユイナ: まじだ～
 コハル: ひょ～…
@@ -157,14 +154,16 @@
 カエデ: わ、私も！
 コハル: ふふ、ははっ
 コハル: 取るぞ！　世界！
-カエデ: おー！
+カエデ & ユイナ: おー！
 ユノ: ――こいつらと生きていくんだ。 音楽で
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000267/data/adv_still_anime_000267/adv_still_anime_000267.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000268/data/adv_still_anime_000268/adv_still_anime_000268.webp)
+(Caption): 兼 supermacy バンド 練習室！ やった～ 認可済
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000269/data/adv_still_anime_000269/adv_still_anime_000269.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000270/data/adv_still_anime_000270/adv_still_anime_000270.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000267/data/adv_still_anime_000267/adv_still_anime_000267.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000268/data/adv_still_anime_000268/adv_still_anime_000268.webp)
+(Caption): 兼 supermacy バンド 練習室！ やった～ 認可済
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000269/data/adv_still_anime_000269/adv_still_anime_000269.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000270/data/adv_still_anime_000270/adv_still_anime_000270.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000291/data/adv_still_anime_000291/adv_still_anime_000291.webp)
@@ -175,7 +174,6 @@
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000291/data/adv_still_anime_000291/adv_still_anime_000291.webp)
 ユノ: 結局、バンドは一年で解散した
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000291/data/adv_still_anime_000291/adv_still_anime_000291.webp)
 ユノ: みんな『自分の夢ができたから辞めたい』って いつもみたいに笑ってたよ
 (Background change)
 あられ: ……引き留めなかったんですか？
@@ -192,71 +190,73 @@
 ユノ: 引っかき回してゴメン
 あられ: …………
 (Background change)
-arale: あ……あう～……あ～～～～～～～～～
-nonoka: あ～～～～～♪
-arale: はえ！？
-arale: えーと？
-ritsu: ブーツッ、ブーツッ
-ritsu: ブンツカッ……ブンツカッ……
-nonoka: いっしょにうたお～！
-arale: えっ、はい！
-nonoka: 都子ちゃんも～！
-miyako: いや、私は……
-nonoka: はー……はー……
-miyako: ヒッ
-miyako: ん〜〜……♪
-arale: うた！　うたですよ！　これ！
-arale: ねっ、ののちゃんさん！
-nonoka: そうなの？
-arale: ええっ
-nonoka: うた……それは……
-nonoka: 都子ちゃん！
-miyako: はい……
-nonoka: バスドラ！
-miyako: ……こう、ですか？
-nonoka: ん！
-arale: い～ですね！
-nonoka: ユノちゃん！　ハイハット！
-yuno: は？　……これ？
-nonoka: ナイスビート！
-arale: ら～ららら～♪
-yuno: ひどい音……
-yuno: ちょっと静かにして
-arale: ふぅ……あっ！
-yuno: もういいよ、続けて
-arale: えっ
-nonoka: ユノちゃん、カウントとってよ～
-arale: ら～らら〜ららら〜♪
-nonoka: あ！　ユノちゃん！
-nonoka: ギターも入れて！
-yuno: え……
-ritsu: お願いします！
-yuno: ええ……リフ？
-nonoka: てれれてれれ～みたいな
-yuno: アルペジオだったら峰月さんで
-ritsu: はいっ
-nonoka: じゃーんじゃーん
-yuno: リフね
-nonoka: お～！
-ritsu: かっこいい……
-miyako: ふ〜ん、ふふ……♪
-ritsu: ここだけ高い音にいったら変ですか？
-miyako: あ……キ、キーボードで……
-arale: 分厚いピアノ！　入れたい！
-miyako: テンポ的にどうでしょう……
-arale: うぅ……
-yuno: 入れてみる？　面白いんじゃない？
-arale: わーい！
-arale: ふ〜んふふ〜ん♪
-miyako: ぐっ……！
-nonoka: あう゛ぁんぎゃるど！
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10.mp4)
+(Caption): 夢みた10話　焚き火での作曲シーン
+(Subtitle) arale: あ……あう～……あ～～～～～～～～～
+(Subtitle) nonoka: あ～～～～～♪
+(Subtitle) arale: はえ！？
+(Subtitle) arale: えーと？
+(Subtitle) ritsu: ブーツッ、ブーツッ
+(Subtitle) ritsu: ブンツカッ……ブンツカッ……
+(Subtitle) nonoka: いっしょにうたお～！
+(Subtitle) arale: えっ、はい！
+(Subtitle) nonoka: 都子ちゃんも～！
+(Subtitle) miyako: いや、私は……
+(Subtitle) nonoka: はー……はー……
+(Subtitle) miyako: ヒッ
+(Subtitle) miyako: ん〜〜……♪
+(Subtitle) arale: うた！　うたですよ！　これ！
+(Subtitle) arale: ねっ、ののちゃんさん！
+(Subtitle) nonoka: そうなの？
+(Subtitle) arale: ええっ
+(Subtitle) nonoka: うた……それは……
+(Subtitle) nonoka: 都子ちゃん！
+(Subtitle) miyako: はい……
+(Subtitle) nonoka: バスドラ！
+(Subtitle) miyako: ……こう、ですか？
+(Subtitle) nonoka: ん！
+(Subtitle) arale: い～ですね！
+(Subtitle) nonoka: ユノちゃん！　ハイハット！
+(Subtitle) yuno: は？　……これ？
+(Subtitle) nonoka: ナイスビート！
+(Subtitle) arale: ら～ららら～♪
+(Subtitle) yuno: ひどい音……
+(Subtitle) yuno: ちょっと静かにして
+(Subtitle) arale: ふぅ……あっ！
+(Subtitle) yuno: もういいよ、続けて
+(Subtitle) arale: えっ
+(Subtitle) nonoka: ユノちゃん、カウントとってよ～
+(Subtitle) arale: ら～らら〜ららら〜♪
+(Subtitle) nonoka: あ！　ユノちゃん！
+(Subtitle) nonoka: ギターも入れて！
+(Subtitle) yuno: え……
+(Subtitle) ritsu: お願いします！
+(Subtitle) yuno: ええ……リフ？
+(Subtitle) nonoka: てれれてれれ～みたいな
+(Subtitle) yuno: アルペジオだったら峰月さんで
+(Subtitle) ritsu: はいっ
+(Subtitle) nonoka: じゃーんじゃーん
+(Subtitle) yuno: リフね
+(Subtitle) nonoka: お～！
+(Subtitle) ritsu: かっこいい……
+(Subtitle) miyako: ふ〜ん、ふふ……♪
+(Subtitle) ritsu: ここだけ高い音にいったら変ですか？
+(Subtitle) miyako: あ……キ、キーボードで……
+(Subtitle) arale: 分厚いピアノ！　入れたい！
+(Subtitle) miyako: テンポ的にどうでしょう……
+(Subtitle) arale: うぅ……
+(Subtitle) yuno: 入れてみる？　面白いんじゃない？
+(Subtitle) arale: わーい！
+(Subtitle) arale: ふ〜んふふ〜ん♪
+(Subtitle) miyako: ぐっ……！
+(Subtitle) nonoka: あう゛ぁんぎゃるど！
 (Background change)
-ののか: <size=175%>あう゛ぁんぎゃるど！
+ののか: あう゛ぁんぎゃるど！
 ユノ: ブラッシュアップの余地あり
 律: トラックごと消してますよ
 都子: ふ……っ
 ののか: みゅ～～～～……
-ののか: <size=175%>た～～～～～いぷ！
+ののか: た～～～～～いぷ！
 ユノ: いや、あたしは辞めたんだって……
 ののか: 違いまーす、 ユノちゃんが辞めたのはみゅーたいぷ2.0でーす
 ののか: 今はみゅーたいぷ3.0 でーす
@@ -269,7 +269,7 @@ nonoka: あう゛ぁんぎゃるど！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000225/data/adv_still_anime_000225/adv_still_anime_000225.webp)
 (Background change)
 ユノ: ……
-ののか: <size=150%>甘いのもたべよー！
+ののか: 甘いのもたべよー！
 律: マシュマロ
 ののか: 都子ちゃん、串取って！
 都子: え、串……？
@@ -285,15 +285,15 @@ nonoka: あう゛ぁんぎゃるど！
 あられ: これ、ライブで歌いたいな……
 律: そうだね
 都子: ……
-ののか: <size=175%>わぁ～～～～～～～～～～～～～～っ！！
+ののか: わぁ～～～～～～～～～～～～～～っ！！
 都子: ！？
 律: えっ
 あられ: のっ、ののちゃんさん！？ 海、まだ冷たいんじゃ……っ
-ののか: <size=175%>バンドやるぞ～～～～～～～～～～！！！
+ののか: バンドやるぞ～～～～～～～～～～！！！
 ユノ: 話聞いてた？
-ののか: <size=175%>聞いてた！！
+ののか: 聞いてた！！
 ののか: 聞いてたから、 もっと、もーっと……っ
-ののか: <size=150%>みんなとみゅーたいぷやりたくなった！
+ののか: みんなとみゅーたいぷやりたくなった！
 ユノ: ……
 あられ: ～～～～～～～～っ
 律: はい！
@@ -301,14 +301,14 @@ nonoka: あう゛ぁんぎゃるど！
 都子: ……
 ユノ: ……ふっ。 ほんと、好き放題
 あられ: ……！
-ののか: <size=150%>みんなも入ろ～！
+ののか: みんなも入ろ～！
 ユノ: イヤ
 ののか: なにお～！
 ユノ: ちょっ
 都子: うっ
 ののか: 逃がさないっ
 都子: えっ、私は関係な――
-ののか: <size=175%>海がおいでと言っているーー！
+ののか: 海がおいでと言っているーー！
 (Background change)
 あられ: ……
 律: 何してるの？　SNS……？
@@ -316,11 +316,10 @@ nonoka: あう゛ぁんぎゃるど！
 あられ: 今までのいろんな言葉、残してるんだ
 律: ……
 律: そっか
-ののか: <size=150%>都子ちゃんもダーイヴ！
+ののか: 都子ちゃんもダーイヴ！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000015/data/adv_still_charaillust_000015/adv_still_charaillust_000015.webp)
 都子: いやいやいや！
 ユノ: てか夜の海ほんとに危ないからやめな
 ののか: ！　そうかも！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000015/data/adv_still_charaillust_000015/adv_still_charaillust_000015.webp)
 あられ: あ、ぼくもちょっとだけ入ってみたいなーって……
 ユノ: やめときなって

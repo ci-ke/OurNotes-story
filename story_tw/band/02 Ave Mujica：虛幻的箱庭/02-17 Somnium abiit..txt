@@ -7,6 +7,7 @@
 （背景切换）
 祥子：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp）
+（说明）：就連躲在石頭底下的我 也接收到了妳傳遞過來的 溫暖光芒 只不過它實在太耀眼 我沒辦法好好面對 小祥讓那些 無法傳達出去的事物 有了形體 好想傳達給小祥 但始終辦不到
 （背景切换）
 祥子：妳只不過是一個學生， 有辦法背負其他人的人生嗎？
 祥子：做不來的事就別隨便說出口。
@@ -23,8 +24,8 @@
 （背景切换）
 祥子：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp）
+（说明）：我一定 又搞錯了 但是我不知道 正確答案 才會一直尋找
 祥子：（我必須為自己的言行負起責任──）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp）
 （背景切换）
 
@@ -58,7 +59,7 @@ Mortis：……
 若麥：是！打擾了！
 （背景切换）
 祥子：大家都到了吧。 之所以找大家過來不為別的。
-祥子：<size=150%>我要讓Ave Mujica復活。
+祥子：我要讓Ave Mujica復活。
 祥子：我已經確實背負起各位的人生了。 今後不論發生什麼事，我都不允許退團。
 Mortis：……
 若麥：……？
@@ -70,7 +71,7 @@ Mortis：……
 Mortis：……
 祥子：八幡同學，我希望下星期能舉行演唱會，麻煩妳調整行程。
 海鈴：我知道了。
-祥子：<size=150%>準備舉行Ave Mujica的復活假面舞會吧。
+祥子：準備舉行Ave Mujica的復活假面舞會吧。
 （背景切换）
 
 【正式演出當天】
@@ -79,7 +80,7 @@ Mortis：……
 
 【RiNG 休息室】
 
-初華：<size=150%>啊～啊～啊～啊～啊……啊～
+初華：啊～啊～啊～啊～啊……啊～
 初華：小祥！
 祥子：不必顧慮我，我是來換衣服的。
 初華：……謝謝妳。
@@ -125,8 +126,12 @@ Amoris：（好想跟她一起活下去。）
 （背景切换）
 Mortis：（如果……如果還來得及的話……）
 Mortis：（神啊，若能讓我見到小睦，我願意付出任何代價。 這是我現在唯一的心願。）
-doloris：命運的齒輪再次開始轉動。
-doloris：歡迎來到Ave Mujica的世界。
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4）
+（说明）：Imprisoned XII　ライブシーン
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4）
+（说明）：Crucifix X　ライブシーン
+（字幕）doloris：命運的齒輪再次開始轉動。
+（字幕）doloris：歡迎來到Ave Mujica的世界。
 
 【演出結束後】
 

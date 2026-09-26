@@ -44,7 +44,7 @@ A子：嗯～
 律：！那我就叫克蕾玛琪丝！
 薇欧拉：你能喜欢就好♡
 （背景切换）
-律：<size=150%>我是克蕾玛琪丝。请多多关照！
+律：我是克蕾玛琪丝。请多多关照！
 律：哐……
 阿拉蕾：小律……！
 薇欧拉：克蕾玛琪丝，你没事吧～？
@@ -81,7 +81,6 @@ A子：嗯～
 歌美：今天，有件事情要向各位报告
 歌美：本人歌美， 决定退出『La La La La Girls』
 歌美：感谢一直以来支持我们的各位粉丝
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000297/data/adv_still_anime_000297/adv_still_anime_000297.webp）
 （背景切换）
 律：怎么这样……
 阿拉蕾：为为为，为什么……
@@ -107,8 +106,8 @@ A子：嗯～
 阿拉蕾：是啊～！
 律：……！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp）
+（说明）：克蕾玛琪丝太没个性了吧？
 律：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp）
 薇欧拉：小阿拉蕾～这样说话会让人很困扰的， 我已经跟你说过好多次了吧？
 阿拉蕾：？啊，是之前那个视频！
 薇欧拉：小艾蕾亚，你平时会做肌肉训练之类的吗～？
@@ -166,7 +165,7 @@ A子：嗯～
 A子：确实。 那样可能会更好
 薇欧拉：怎么样呢～？ A子和克蕾玛琪丝，都觉得按我的做法来没问题吧？
 薇欧拉：……
-A子：……
+A子 & 律：……
 A子：啊——嗯。我赞成薇欧拉……
 律：……
 薇欧拉：太好了！
@@ -176,17 +175,16 @@ A子：啊——嗯。我赞成薇欧拉……
 （消息）律：关于薇欧拉的事情，我有话跟你说
 律：……该不该，和你商量呢……
 律：？
-（消息）薇欧拉：看过这个了吗？ <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
+（消息）薇欧拉：看过这个了吗？ http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... 
 律：……？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp）
 薇欧拉：下一首翻唱就选『狮子舞』吧
 阿拉蕾：所——以——说——在『狮子舞』之前 应该先唱『机器人之家』才对吧！绝对！
 A子：啊——嗯
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp）
 律：什么，这是……！
 （背景切换）
 律：小阿拉蕾！
-薇欧拉：……
+薇欧拉 & A子：……
 薇欧拉：这么过分的视频，到底是谁……
 薇欧拉：现在正在让视频编辑那边确认情况。 因为还含有未发布的视频内容……
 薇欧拉：但恶意评论和发到事务所的问询太多了…… 好像处理不过来
@@ -198,11 +196,11 @@ A子：啊——嗯
 阿拉蕾：『在狮子舞之前应该先唱机器人之家才对吧！绝对！』
 阿拉蕾：这是什么？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp）
+（说明）：评论 虽然其他人也在说，没想到她性格这么差 毒瘤就赶紧滚 感觉在学校也很讨人厌。虽然我也不知道 真的太离谱了简直就是个人渣
 阿拉蕾：『对吧！你们也是这么想的吧！』
 A子：『啊——嗯』
 律：『……』
 阿拉蕾：诶？这是什么……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp）
 阿拉蕾：不过！这种视频是假的！ 只要我们出面发声，提醒大家小心奇怪的视频的话
 阿拉蕾：大家只是搞不清状况而已——
 工作人员A：非常抱歉！

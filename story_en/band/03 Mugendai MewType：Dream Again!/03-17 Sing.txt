@@ -81,10 +81,8 @@ Miyako: Before that, I will do what needs to be done.
 Nonoka: Miyako-chan, where are you going...?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp)
 Miyako: An act of atonement...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp)
-Miyako: <size=100％>Akihabara marathon, a hundred laps.</size>
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp)
+Miyako: Akihabara marathon, a hundred laps.
 (Background change)
 
 [A Few Days Later]
@@ -94,7 +92,7 @@ Ritsu: Arale-chan, morning.
 Arale: Huh? Homework?
 Ritsu: No, it's prep work. I'm bad at world history.
 Arale: Ouch, that hits close to home...
-Ritsu: ?
+Ritsu & Arale: ?
 Ritsu: "Miyako Fuji shared Health data"... Miyako-san seems to be running again today.
 Arale: Ten thousand steps!? It's still morning!?
 Ritsu: Building stamina is important, but...
@@ -130,7 +128,7 @@ Nonoka: Disclosuuure requeeeest~!
 Manager: When they've gone this far, we can't just let it go.
 Manager: They laid their hands on our precious girls, so we're gonna make 'em pay!
 Manager: Nakamachi-san, Fuji-san.
-Miyako: Yes!
+Miyako & Arale: Yes!
 Manager: You two, just hang in there a little longer, okay?
 Arale: ...
 Arale: I'm not afraid of that kind of thing anymore!
@@ -138,13 +136,13 @@ Manager: If you say so...
 Manager: ...
 Miyako: ...
 Arale: Um, there's something I want to tell everyone.
-Nonoka: ?
+Nonoka & Miyako & Manager: ?
 Arale: I'll chat with everyone through my songs.
 Ritsu: ...
 Yuno: ?
 Arale: I've always been thinking... I want to chat and share my feelings of love with everyone.
 Arale: I'll do a live show!
-Ritsu: Yeah! Huh!?
+Ritsu & Miyako: Yeah! Huh!?
 Yuno: Huh.
 Nonoka: Nono-chan-san agrees!
 Miyako: But...! If anything else happens...!
@@ -166,12 +164,12 @@ Arale: Alright!
 Manager: Because I felt everyone's resolve loud and clear!
 Manager: Let's do a live show!
 Arale: Ugh~~~~~~~
-Nonoka: Yaaay~~~~~!!
+Nonoka & Arale: Yaaay~~~~~!!
 Ritsu: What about the songs?
 Nonoka: We made one at the beach!
 Yuno: It really suits our vibe.
 Arale: Th-That one, and...
-Nonoka: ?
+Nonoka & Yuno: ?
 Arale: The feelings from the past and for the future! I want to turn them into lyrics!
 Arale: Maybe...
 Nonoka: That's great~
@@ -209,19 +207,18 @@ Ritsu: Yo~~
 (Background change)
 Teacher: Alright, let's try solving one problem using that formula.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp)
+(Caption): I never imagined we would be like this when we first met.
 Miyako: (I never imagined we would be like this when we first met.)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp)
+(Caption): That's my line.
 Miyako: (That's my line.)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp)
+(Caption): This fate
 Miyako: (If this meeting is fated...)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp)
 Miyako: (I hope it continues.)
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp)
 Arale: Ta-da~~~~~~~~~~~!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp)
 Nonoka: The bakery is back!
 Ritsu: That anpan is the third collab with Magilulu.
 Arale: That's right, it's already started!
@@ -303,10 +300,10 @@ Arale: ♡ Oh, no, no, no, not at all~~!
 Ritsu: Miyako-san, here.
 Miyako: Yes.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp)
+(Caption): Giant Yōkan
 Yuno: "Huh? A wheel stop?"
 Miyako: This is...
 Ritsu: It's emergency sugar for work. Please eat it when you really need it.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp)
 Miyako: So heavy... Thank you...
 Arale: I'll help carry it to the classroom!
 Nonoka: Nono-chan too~!

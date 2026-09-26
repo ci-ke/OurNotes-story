@@ -81,10 +81,8 @@
 野乃花：小都子，你要去哪里呀——！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp）
 都子：赎罪的……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp）
-都子：<size=100％>秋叶原马拉松百次祈福</size>
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp）
+都子：秋叶原马拉松百次祈福
 （背景切换）
 
 【数日后】
@@ -94,7 +92,7 @@
 阿拉蕾：诶？你在写作业？
 律：不是，预习。 因为我不太擅长世界史
 阿拉蕾：听、听得我耳朵疼
-律：？
+律 & 阿拉蕾：？
 律：『藤都子共享了健康数据』…… 都子同学今天好像也在跑步
 阿拉蕾：一万步！？现在才早上啊！？
 律：增强体力很重要，但……
@@ -130,7 +128,7 @@ Raki：视频！
 经纪人：被这么欺负，就算是我也忍不了了
 经纪人：敢动我们家重要的孩子们， 我会让他们好看的！
 经纪人：仲町同学，藤同学
-都子：是！
+都子 & 阿拉蕾：是！
 经纪人：你们两个， 再稍微忍耐一下哦
 阿拉蕾：……
 阿拉蕾：那种东西我已经不再害怕了！
@@ -138,13 +136,13 @@ Raki：视频！
 经纪人：……
 都子：……
 阿拉蕾：那个，我，有件事想跟大家说
-野乃花：？
+野乃花 & 都子 & 经纪人：？
 阿拉蕾：我，要用歌声来聊天
 律：……
 由乃：？
 阿拉蕾：我一直一直这么想…… 想通过聊天，把我最喜欢的东西传达给大家
 阿拉蕾：我要办演出！
-律：嗯！ 诶！？
+律 & 都子：嗯！ 诶！？
 由乃：嘿
 野乃花：小野乃赞成～！
 都子：但是……！ 要是又出什么事的话……！
@@ -166,12 +164,12 @@ Raki：视频！
 经纪人：因为我强烈感受到了大家的决心！
 经纪人：我们来办演出吧！
 阿拉蕾：～～～～～～～
-野乃花：太好了～～～～～！！
+野乃花 & 阿拉蕾：太好了～～～～～！！
 律：曲子怎么办？
 野乃花：用在海边写的！
 由乃：我们的风格，还挺明显的吧
 阿拉蕾：还、还有
-野乃花：？
+野乃花 & 由乃：？
 阿拉蕾：我想把至今为止以及今后的心情！ 都写进歌词！
 阿拉蕾：大概概……
 野乃花：不错呀～
@@ -209,19 +207,18 @@ Raki：视频！
 （背景切换）
 老师：那么，我们用刚才的公式来解一道题吧
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp）
+（说明）：相遇之初我可没想到
 都子：（——在刚遇见的时候， 我完全没想到会变成现在这样）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp）
+（说明）：这是我的台词
 都子：（那是我想说的台词才对）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp）
+（说明）：这样的命运
 都子：（如果这场邂逅是命运）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp）
 都子：（我希望能继续下去）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp）
 阿拉蕾：锵————————————！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp）
 野乃花：面包店又来了！
 律：那个豆沙面包，是《魔法露露》联名的第三弹
 阿拉蕾：就是说嘛，已经开始了～！
@@ -303,10 +300,10 @@ Raki：视频！
 律：都子同学，这个
 都子：是
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp）
+（说明）：巨型羊羹
 由乃：诶？停车桩？
 都子：这个是……
 律：工作用的糖分补给。 请在关键时刻吃掉
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp）
 都子：好沉……谢谢……
 阿拉蕾：我帮你搬到教室！
 野乃花：小野乃也来～！

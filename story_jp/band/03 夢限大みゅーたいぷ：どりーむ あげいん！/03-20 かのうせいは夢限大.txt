@@ -9,16 +9,18 @@
 あられ: 『In my Words』でした。 聴いてくれてありがとうございます
 あられ: 次の曲は、 みんなといっしょに歌えたらうれしいです
 (Background change)
-arale: 愛は衝動！
-arale: それがぜーんぶ混ざった時に、 歌でおしゃべりできるようになるんだ！
-viola: ほんとだね
-viola: だから、大嫌いなんだよ
-viola: あられちゃん
-arale: 歌おう！
-arale: 夢限大みゅーたいぷでした！
-arale: みんなとおしゃべりできて、 さいっこーに楽しかったです！
-arale: せーのっ
-Mugendai_Mewtype: ありがとうございましたーーーーー！！！
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4)
+(Caption): 夢みた13話　『愛は衝動』ライブシーン
+(Subtitle) arale: 愛は衝動！
+(Subtitle) arale: それがぜーんぶ混ざった時に、 歌でおしゃべりできるようになるんだ！
+(Subtitle) viola: ほんとだね
+(Subtitle) viola: だから、大嫌いなんだよ
+(Subtitle) viola: あられちゃん
+(Subtitle) arale: 歌おう！
+(Subtitle) arale: 夢限大みゅーたいぷでした！
+(Subtitle) arale: みんなとおしゃべりできて、 さいっこーに楽しかったです！
+(Subtitle) arale: せーのっ
+(Subtitle) Mugendai_Mewtype: ありがとうございましたーーーーー！！！
 (Background change)
 ビオラ: ねえ、あられちゃん。 明日の放課後、一緒にカラオケ行かない？
 あられ: えっ！　行く行く！　もちろん行くっ！
@@ -52,7 +54,7 @@ Mugendai_Mewtype: ありがとうございましたーーーーー！！！
 ユノ: ……
 あられ: いっぱいみんなと歌でおしゃべりできる！
 マネージャー: 新しいタイアップの依頼も来てるよ
-夢限大みゅーたいぷ: <size=130%>ええっ！？</size>
+夢限大みゅーたいぷ: ええっ！？
 都子: 猛練習しなくてはいけませんね
 あられ: 合宿だ！
 ののか: 合宿ぱふぱふ～
@@ -60,7 +62,7 @@ Mugendai_Mewtype: ありがとうございましたーーーーー！！！
 都子: 私も〆切があるので
 ののか: 逃げた！
 都子: ふっ、私は現実に向かっていくだけです
-あられ: <size=130%>ぼくはーー！　 歌でおしゃべりするーー！！</size>
+あられ: ぼくはーー！　 歌でおしゃべりするーー！！
 ユノ: 急に叫ばないでって――
 律: 私は！　全国食べ尽くす！！
 ののか: ののちゃんはビッグののちゃん４７！
@@ -79,11 +81,12 @@ Mugendai_Mewtype: ありがとうございましたーーーーー！！！
 ののか: 都子ちゃーーーーんっ
 まるくん: やめろー
 ののか: がうう
-あられ: ！
+あられ & ののか & 都子 & ユノ: ！
 (Background change)
 律: それでは！ みんな揃って
 あられ: 夢限大～～～～～～～～～
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp)
 夢限大みゅーたいぷ: みゅーたいぷーー！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp)
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3.mp4)
+(Caption): 夢みた13話　完！

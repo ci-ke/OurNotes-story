@@ -16,11 +16,11 @@
 海鈴: 私とも元サヤに戻りませんか？
 海鈴: もう一度、私とAve Mujicaをやりませんか？ ということです
 (Background change)
-モーティス: <size=175%>！！
+モーティス: ！！
 (Background change)
 海鈴: いかがでしょう。豊川さん
 モーティス: っ！　やだ、やだ、やだっ………！ しにたくないっ
-モーティス: <size=175%>やだ、やだ、やぁだ！　しにたくないっ
+モーティス: やだ、やだ、やぁだ！　しにたくないっ
 (Background change)
 睦: 祥……
 祥子: Ave Mujicaは、もう……
@@ -81,7 +81,7 @@
 睦: 祥とCRYCHICやりたい
 祥子: ……えっ
 睦: もう一回
-モーティス: <size=175%>やらないって言ってるでしょ！
+モーティス: やらないって言ってるでしょ！
 祥子: ！
 モーティス: 祥子ちゃんも祥子ちゃんだよ。 ノコノコついてきちゃって！
 祥子: ……モーティス。 先日はCRYCHICをさせてくれてありがとう
@@ -141,17 +141,15 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp)
 モーティス: ——なのにギターに出会っちゃった
 祥子: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp)
 モーティス: 睦っていう役が『睦ちゃん』って意識を持って…… 他のみんなは消えちゃった
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp)
 (Background change)
 モーティス: 私は睦ちゃんを助ける役を掴めたから 生き残ってAve Mujicaのモーティスになれた
 モーティス: 祥子ちゃんが作り出したんだよ
 祥子: ……
-モーティス: 『睦ちゃん』と『<r=わ　た　し>モーティス</r>』っていう——
+モーティス: 『睦ちゃん』と『モーティス』っていう——
 (Background change)
-みなみ: 『バケモノ』
+みなみ & モーティス: 『バケモノ』
 (Background change)
 にゃむ: ……
 みなみ: 自分が演技してることにすら気づいてない。 あ、いえ。人生のすべてが演技かもしれない
@@ -164,8 +162,8 @@
 モーティス: 私が消えちゃったら睦ちゃんが困るでしょ？ だからAve Mujicaやって
 祥子: それは……睦が苦しみ続けることを 望むということですの？
 (Background change)
-モーティス: <size=175%>なんでそうなるのっ！？
-モーティス: <size=175%>そうだけど、そうじゃない！
+モーティス: なんでそうなるのっ！？
+モーティス: そうだけど、そうじゃない！
 睦: ……CRYCHICを、もう一度
 モーティス: 何言ってるの！？　CRYCHICはもうないのっ！
 モーティス: なんでわからないの？　祥子ちゃんが泣いた理由くらい わかるでしょ！
@@ -186,5 +184,5 @@
 睦: 祥を傷つけて……Ave Mujicaも壊した。 ぜんぶ、やってほしくないことばかりだった
 睦: あなたなんかいらない……
 モーティス: ……っ！　睦ちゃんなんていらないっ！
-睦: <size=175%><cspace=0.2em>いらないのは<cspace=0.15em><voffset=0.2em>あ<voffset=-0.1em>な<voffset=0.35em>た</voffset>
-モーティス: <size=140%>やだぁーーーーっ！！ いやだっいやだっ！　あっちにいけぇーーー！！！
+睦: いらないのはあなた
+モーティス: やだぁーーーーっ！！ いやだっいやだっ！　あっちにいけぇーーー！！！

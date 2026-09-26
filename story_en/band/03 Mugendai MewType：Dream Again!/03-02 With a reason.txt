@@ -59,9 +59,9 @@ Miyako: I'm still just starting...
 Arale: Maybe I'll recognize your pen name!
 Miyako: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000201/data/adv_still_anime_000201/adv_still_anime_000201.webp)
+(Caption): Chupakabu Saturation Yako Fujimi
 Miyako: This is it...
 Arale: *Gasp*...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000201/data/adv_still_anime_000201/adv_still_anime_000201.webp)
 Arale: ...
 Miyako: ...
 Arale: Yako Fujimi... Yako-sensei.
@@ -98,7 +98,7 @@ Manager: Okay. How about you, Fuji-san?
 Miyako: I could probably manage it with enough time...
 Nonoka: Hmm...
 Nonoka: Oh! This one's Yuno-chan's~!
-Arale: ?
+Arale & Miyako: ?
 Nonoka: It's a song Yuno-chan wrote!
 Yuno: How'd you know?
 Nonoka: Nana-chan asked me to play songs by Yuno-chan's band, so I practiced them a whole bunch. That's how I recognized it.
@@ -115,10 +115,10 @@ Nonoka: Then Nono-chan can just be Nono-chan~!
 Arale: Okay...
 Nonoka: Ready, set~!
 Arale: Huh?! N-Nono... N-No... Nono-nono-nono-nono...
-Arale: <size=250%>Nngh!
+Arale: Nngh!
 Yuno: Huh?
 Miyako: ...!
-Nonoka: <size=150%>Arale-chaaaaaaaaaan!!!
+Nonoka: Arale-chaaaaaaaaaan!!!
 (Background change)
 Manager: All right, she's not bleeding.
 Arale: Yeth... (Yes.)
@@ -135,21 +135,21 @@ Arale: (Wow... She's got so many songwriting credits... She did a song for "Nobi
 Arale: (That takes me back~! That legendary free indie game! After all the goofy nonsense in the earlier entries, the story went brutally dark. My friends and I beat it in sixth grade, sobbing the whole time...)
 Arale: Hm? This track... sounds familiar...?
 Arale: We should do "Night of the Seagulls" too!
-Miyako: ?
+Miyako & Yuno & Nonoka: ?
 Arale: Because this track became "Peach Tree Storm," the theme from "Hijiyori Chronicles," right? That's the second game in the tragedy trilogy that started with "Nobishimo Chronicles"!
 Arale: And it's a companion piece to "Night of the Seagulls," the "Nobishimo Chronicles" theme! We have to start with "Night of the Seagulls" or the lore won't line up!
 Yuno: What are you even talking about...?
 Arale: ...
 Nonoka: Oh.
 (Background change)
-Arale: <size=150%>AAAAAAAAAAAAAAAAAAAAAH!!!
+Arale: AAAAAAAAAAAAAAAAAAAAAH!!!
 Arale: Uuugh... I was a fail-fail-failure at life today~~~~~
 Arale: I did it again...! I got all carried away, started blabbing nonstop, and even tried to sing, aaaaaaagh~~~~~!!
 Arale: Just because school went okay, I got cocky! Then I made things weird for Yuno-no-san-chan-san! I blew it!
-Arale: <size=95%>Fail</size><size=90%>-fail</size><size=85%>-fail</size><size=80%>-fail</size><size=75%>...
+Arale: Fail-fail-fail-fail...
 Arale: Ugh... Maybe tomorrow I can keep it to just fail-fail...
-Arale: Okay, tomorrow... <size=150%>First! No blurting things out!</size> <size=150%>Second! No singing!</size>
-Arale: <size=200%>Third! Absolutely no talking or singing!</size>
+Arale: Okay, tomorrow... First! No blurting things out! Second! No singing!
+Arale: Third! Absolutely no talking or singing!
 Arale: Mhm! Good night!
 (Background change)
 
@@ -185,7 +185,7 @@ Arale: ...
 Raki: Hey, Arale-chaaan!
 Bota: Sorry for the waaait~ Oh, are they friends of yours?
 Viola: Hello.
-Bota: Hi there~ Hey.
+Bota & Raki: Hi there~ Hey.
 Viola: Are you friends of Arale-chan's?
 Raki: Yes.
 Bota: We go to the same school.
@@ -202,8 +202,8 @@ Arale: Maybe it got too hard for her to stay there... Because of what happened t
 Arale: No! That's all in the past! I've gotta do my best right now!
 Arale: ...!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000202/data/adv_still_anime_000202/adv_still_anime_000202.webp)
+(Caption): Magiruru! Nice Bulk
 Arale: Hmmmm~♪
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000202/data/adv_still_anime_000202/adv_still_anime_000202.webp)
 (Background change)
 Viola: The event's officially set, then.
 Bell: Manager's always mad at me lately~ She says I repost announcements too late and keep misspelling words in English~
@@ -243,15 +243,17 @@ Arale: (But I had to give myself some reason to get out, or I'd have stayed like
 Arale: (No, no! Happy thoughts only! When I get home, I'll put up the stickers I got at the collab Café...)
 Arale: Whoa! S-Sorr—
 Ritsu: Oh...
-Arale: <size=150%>(Aaaaaaaaaaaaaaaaaaaaaah!!???!!!)
+Arale: (Aaaaaaaaaaaaaaaaaaaaaah!!???!!!)
 Ritsu: Um...
-Arale: <size=150%>W-Well~</size><size=140%>~</size><size=130%>~</size><size=120%>~</size><size=110%>~</size>~ what a coincidence!
+Arale: W-Well~~~~~~ what a coincidence!
 Arale: Sorry I couldn't talk yesterday! It'd been so long since we'd seen each other that I panicked! Your school's around here, right? Mine too!
 Arale: I've never commuted by train, so rush hour nearly kills me every morning. But abyss logic gets me by: when you're shoved, you're shoving someone too!
 Arale: And Akihabara has so many stores for everything I'm into! The second I get off the train, it's nothing but fun!
 Arale: Like the Café I just went to with my friends! Order all eight items and you get every sticker, no random pulls! So fan-friendly! I'm gonna burst!
-Arale: It's up on the seventh floor, and the food's great even without the collab! You should try it! Hope it's sunny tomorrow too! <size=150%>Bye!</size>
+Arale: It's up on the seventh floor, and the food's great even without the collab! You should try it! Hope it's sunny tomorrow too! Bye!
 Ritsu: You've gotten so far away...
 Yuno: ...
 Yuno: They've got history, huh...?
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01.mp4)
+(Caption): 夢みた1話　あられの家でのシーン

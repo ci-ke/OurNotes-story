@@ -22,7 +22,7 @@
 【RiNG 休息區】
 
 愛音：那個，我們是「迷路之子樂團」！
-爽世：請多多指教。
+爽世 & 立希：請多多指教。
 燈：啊……請多指教。
 立希：不好意思這麼趕。
 沙綾：別這麼說，沒關係的～
@@ -47,7 +47,7 @@
 燈：輪到我出場……
 爽世：……別說這些了，得快點上台。
 立希：……等一下。
-燈：……？
+燈 & 樂奈：……？
 爽世：突然怎麼了嗎？
 立希：……燈。
 燈：？ 小希？
@@ -82,6 +82,8 @@
 燈：……小希。
 立希：嗯。
 （背景切换）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4）
+（说明）：迷星叫　ライブシーン
 （背景切换）
 燈：……
 愛音：謝謝大家！ 這首歌是《迷星叫》！
@@ -110,17 +112,18 @@
 燈：但是，我們現在就在這裡……
 燈：不管發生什麼都不會再分開……
 燈：一輩子都不會再分開！！
-爽世：……
-愛音：……
+爽世 & 立希：……
+愛音 & 樂奈：……
 燈：還請聽我們「MyGO」的歌……！
 （背景切换）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4）
+（说明）：迷路日々　ライブシーン
 （背景切换）
 燈：……接下來是最後一首歌！
 燈：今天真的很感謝大家。 我們是MyGO！
 燈：……迷失方向也無所謂。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp）
 燈：在迷茫中前進吧！！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp）
 （背景切换）
 
 【RiNG 休息區】
@@ -139,12 +142,10 @@
 愛音：既然這樣，我想到一個更好的主意！ 在MyGO後面加上五個「驚嘆號」……！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp）
 愛音：「MyGO!!!!!」
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp）
 愛音：不錯吧！？ 這樣比較有在前進的感覺！
 立希：……這是代表我們五個人的意思嗎？
 爽世：小愛音就喜歡加這種小細節。
 愛音：咦──！這樣絕對比較好的──！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp）
 燈：……「MyGO!!!!!」……
 樂奈：呼啊……好睏……
 愛音：小樂！？ 哇──別睡在這裡啊！
@@ -156,7 +157,6 @@
 燈：……小爽……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp）
 燈：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp）
 （背景切换）
 燈：（……「MyGO!!!!!」……）
 燈：（就算迷茫也要一起……！）

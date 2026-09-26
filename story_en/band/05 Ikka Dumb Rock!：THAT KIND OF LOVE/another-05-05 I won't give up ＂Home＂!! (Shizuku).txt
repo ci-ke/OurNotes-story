@@ -55,7 +55,7 @@ Raika: Huh? Yeah. The dirt won't come off unless you wash them, right?
 Shizuku: I see... So you use something called a sponge to wash each glass one at a time.
 Raika: Oh, right... This is new to you too...! Okay, first, rinse it with water.
 Shizuku: Understood.
-Shizuku: ...
+Shizuku & Raika: ...
 Raika: Shizuku? Why are you just standing there with the glass held out?
 Shizuku: Hm? I am waiting for the water to come out.
 Raika: Waiting for the water...? Oh! Our faucets aren't automatic.
@@ -65,7 +65,7 @@ Chieri: Nnngh...!
 Chieri: Jeeez, you can't do a single thing, can you!? You're one troublesome subordinate, Shizuku!
 Shizuku: I am surprised myself. I had no idea there were so many things I did not know.
 Shizuku: It seems you were right, Cherie. There is not much I can do.
-Chieri: ...
+Chieri & Raika: ...
 Raika: It's okay! From here on out, you can keep finding new things you can do!
 Chieri: That's right! If you're Chieri's subordinate, you can't talk like you've already given up!
 Raika: And finding out just how much you don't know or can't do yet is a step forward, too!

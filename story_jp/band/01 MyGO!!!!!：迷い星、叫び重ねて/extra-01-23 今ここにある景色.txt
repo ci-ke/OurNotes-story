@@ -65,57 +65,51 @@
 愛音: ま、まだ諦めるには早いって！ どっか！　どっか空いてるはず！
 燈: …………
 (Background change)
-tomori: 
-soyo: ……それで結局お店が見つからなくて 大手チェーンのファミレス、ね
-taki: いいんじゃない。 高級レストランがいいって言ってたの、愛音だけだし
-anon: ごめんねともりん。 せっかくの記念日パーティなのに……
-anon: 普通のファミレスになっちゃって、 ガッカリしてない？
-tomori: 
-tomori: 
-tomori: あっ……リボンの形……！
-soyo: ……燈ちゃん？
-tomori: ！　あっ
-tomori: 
-anon: ともりん？
-tomori: ！　えと、ごめん
-anon: 全然いいよー
-rana: おなかすいた
-anon: だよねー、そろそろご飯も注文しよっか。 ドリンクバーさっき頼んでたよね？　私、先取ってくる！
-soyo: あ、私も行く
-rana: ん
-soyo: ありがとう楽奈ちゃん
-anon: そよりん来てくれるなら全員の取ってきちゃおっか。 みんな何がいいのかな？
-soyo: ご飯頼むんだし、一旦お水でいいんじゃない？
-anon: あー、確かに。ともりんいっつもお水だし
-tomori: 
-anon: 私３人分持つよ
-soyo: 落とさない？
-anon: ギターやってますから
-soyo: なにそれ
-rana: りっきー、パフェとおそば
-taki: 次渡すから自分で選んで
-rana: わかんない
-taki: あーもう……ほら、こっち来て
-rana: ん
-taki: これ、ここのタブ押したらご飯とか麺類とか出てくるから。 ざるそばは……あった、これ。一人前？
-rana: ん
-taki: そしたらここで、何人前か入力して……このボタンで注文
-rana: 
-tonori: 
-rana: パフェは？
-taki: え、今頼むの……？
-rana: うん
-taki: ……まあ良いけど。 やり方教えたんだから次は自分でやって
-rana: んー
-anon: 飲み物取ってきたよー。 みんなお水でよかったよね？
-rana: お茶がいい
-anon: って言うと思って！ お茶も一個持ってきたんだよね〜！
-taki: ……なんか甘やかしてない？
-anon: いやいや、気配りでしょ
-soyo: はい、燈ちゃんの分ね
-tomori: ……ありがとう
-tomori: 
-tomori: （似てる……けど、違う）
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4)
+(Caption): MyGOエクストラ　ファミレス（3話）
+(Subtitle) soyo: ……それで結局お店が見つからなくて 大手チェーンのファミレス、ね
+(Subtitle) taki: いいんじゃない。 高級レストランがいいって言ってたの、愛音だけだし
+(Subtitle) anon: ごめんねともりん。 せっかくの記念日パーティなのに……
+(Subtitle) anon: 普通のファミレスになっちゃって、 ガッカリしてない？
+(Subtitle) tomori: あっ……リボンの形……！
+(Subtitle) soyo: ……燈ちゃん？
+(Subtitle) tomori: ！　あっ
+(Subtitle) anon: ともりん？
+(Subtitle) tomori: ！　えと、ごめん
+(Subtitle) anon: 全然いいよー
+(Subtitle) rana: おなかすいた
+(Subtitle) anon: だよねー、そろそろご飯も注文しよっか。 ドリンクバーさっき頼んでたよね？　私、先取ってくる！
+(Subtitle) soyo: あ、私も行く
+(Subtitle) rana: ん
+(Subtitle) soyo: ありがとう楽奈ちゃん
+(Subtitle) anon: そよりん来てくれるなら全員の取ってきちゃおっか。 みんな何がいいのかな？
+(Subtitle) soyo: ご飯頼むんだし、一旦お水でいいんじゃない？
+(Subtitle) anon: あー、確かに。ともりんいっつもお水だし
+(Subtitle) anon: 私３人分持つよ
+(Subtitle) soyo: 落とさない？
+(Subtitle) anon: ギターやってますから
+(Subtitle) soyo: なにそれ
+(Subtitle) rana: りっきー、パフェとおそば
+(Subtitle) taki: 次渡すから自分で選んで
+(Subtitle) rana: わかんない
+(Subtitle) taki: あーもう……ほら、こっち来て
+(Subtitle) rana: ん
+(Subtitle) taki: これ、ここのタブ押したらご飯とか麺類とか出てくるから。 ざるそばは……あった、これ。一人前？
+(Subtitle) rana: ん
+(Subtitle) taki: そしたらここで、何人前か入力して……このボタンで注文
+(Subtitle) rana: パフェは？
+(Subtitle) taki: え、今頼むの……？
+(Subtitle) rana: うん
+(Subtitle) taki: ……まあ良いけど。 やり方教えたんだから次は自分でやって
+(Subtitle) rana: んー
+(Subtitle) anon: 飲み物取ってきたよー。 みんなお水でよかったよね？
+(Subtitle) rana: お茶がいい
+(Subtitle) anon: って言うと思って！ お茶も一個持ってきたんだよね〜！
+(Subtitle) taki: ……なんか甘やかしてない？
+(Subtitle) anon: いやいや、気配りでしょ
+(Subtitle) soyo: はい、燈ちゃんの分ね
+(Subtitle) tomori: ……ありがとう
+(Subtitle) tomori: （似てる……けど、違う）
 (Background change)
 愛音: あ、ともりん。 間違い探しクリアできた？
 燈: え……うん
@@ -147,13 +141,11 @@ tomori: （似てる……けど、違う）
 燈: …………
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
 燈: ……間違いとか。そうじゃない、とか
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 燈: 今はまだ、わからない……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 燈: けど。このまま、進んでいきたい……から
 燈: それしかできない、から
-愛音: …………
+愛音 & そよ & 立希 & 楽奈: …………
 燈: 全部、やろう
 燈: パーティも、バンドも、一緒に
 燈: 一生、みんなで……！

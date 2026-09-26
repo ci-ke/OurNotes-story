@@ -28,7 +28,7 @@ Mortis：……
 
 若麦：……
 （背景切换）
-网络新闻：<align="center">人气女子乐队Ave Mujica突然解散！ 所属事务所已就解散原因发表声明
+网络新闻：人气女子乐队Ave Mujica突然解散！ 所属事务所已就解散原因发表声明
 账号A：到头来一首歌都没唱就宣布解散了？真的假的？ 太离谱了吧
 账号B：请了带薪假，买了新干线车票，订了酒店结果演出终止，我哭死。 我无法接受
 账号C：解散让我很难受，但小睦直到最后都超震撼的～！ 她吼得那么声嘶力竭，真的没事吗……？
@@ -72,7 +72,6 @@ Mortis：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp）
 祥子：致初华 谢谢你至今的照顾
 初华：……！！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp）
 （背景切换）
 （背景切换）
 （背景切换）
@@ -95,7 +94,6 @@ Mortis：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp）
 工作人员A：明明那么受欢迎！？真是太可惜了～ 看来Ave Mujica的解散对她的打击很大啊
 工作人员B：肯定很大吧？毕竟说解散就解散了。 说白了，就是场大小姐的乐队过家家吧
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp）
 真奈：早～！
 初华：早
 工作人员A：早、早安！ 啊，差点忘了，我还有个紧急的会议要开！
@@ -121,7 +119,6 @@ Mortis：……
 祥子：……又来
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000116/data/adv_still_anime_000116/adv_still_anime_000116.webp）
 祥子：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000116/data/adv_still_anime_000116/adv_still_anime_000116.webp）
 （背景切换）
 （背景切换）
 
@@ -164,10 +161,10 @@ Mortis：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp）
 若麦：这个……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000118/data/adv_still_anime_000118/adv_still_anime_000118.webp）
+（说明）：提升表演能力的表演技法 为角色注入生命的表演技术 在试镜中生存到最后的方法 让角色附体的表演技法 演员入门 戏剧 戏剧观看方法 电影塾 好莱坞戏剧术 打动人心的演技 演员的璞玉 演技 上 演技 下 职业演员的演技 引人入胜的演技 戏剧和世界 从好莱坞学习戏剧理论
 若麦：……表演方面我还在学习。 现在我想把精力集中在综艺方面……
 若麦：是的……很抱歉辜负了您的好意。 谢谢您
 若麦：好的，麻烦您了
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000118/data/adv_still_anime_000118/adv_still_anime_000118.webp）
 若麦：……
 （背景切换）
 

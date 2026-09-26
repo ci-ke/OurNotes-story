@@ -17,13 +17,10 @@
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000037/data/adv_still_anime_000037/adv_still_anime_000037.webp）
 灯：……？
 立希：……哈？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000037/data/adv_still_anime_000037/adv_still_anime_000037.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000038/data/adv_still_anime_000038/adv_still_anime_000038.webp）
 爱音：三角铁也挺好的～！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000038/data/adv_still_anime_000038/adv_still_anime_000038.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000039/data/adv_still_anime_000039/adv_still_anime_000039.webp）
 爱音：响板也不错哦！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000039/data/adv_still_anime_000039/adv_still_anime_000039.webp）
 爱音：小灯，你可以选一个自己喜欢的！
 灯：……我都会全力以赴的
 立希：等等……灯！？
@@ -112,7 +109,7 @@
 爱音：但、但是歌曲呢？ 我们连一首能演奏的歌曲都没有哦？
 爽世：唔……总之先找找能演奏的曲子吧？ 比如翻唱其他乐队的歌曲——
 立希：『春日影』就好了吧
-灯：……！
+灯 & 爽世 & 爱音：……！
 爽世：但是，那首歌是……
 立希：……怎么？你在顾虑那家伙吗？
 爽世：…………
@@ -122,7 +119,7 @@
 爽世：……小爱音也这么说了。 还是找方便大家演奏的歌吧
 立希：『春日影』的乐谱我带来了。 现在就开始练习，快点做准备
 爽世：等一下，小立希……
-灯：……？
+灯 & 爽世 & 立希 & 爱音：……？
 乐奈：音箱在哪里？
 立希：……哈？ 你突然说什么……？
 爱音：诶……等等，为什么开始准备吉他了！？ 有谁叫她来练习吗？
@@ -132,7 +129,7 @@
 乐奈：我要弹吉他
 立希：什么……那是我的乐谱……！
 乐奈：…………
-灯：……！？
+灯 & 爽世 & 立希 & 爱音：……！？
 爱音：（这女孩的吉他技术，好厉害……）
 （背景切换）
 

@@ -4,38 +4,32 @@ I only treated you kindly because you were useful. But there isn't a place for e
 
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000047/data/adv_still_anime_000047/adv_still_anime_000047.webp)
+(Caption): Year 5  Class 1 Name Nagasaki Soyo Ichinose
 Soyo: I remember feeling so lonely when my mom and dad got divorced.
 Soyo: I ended up living with my mom, but...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000047/data/adv_still_anime_000047/adv_still_anime_000047.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000048/data/adv_still_anime_000048/adv_still_anime_000048.webp)
 Soyo: My mom worked hard, and our family became very wealthy.
 Soyo: We moved to a beautiful home, and my life changed significantly.
 Soyo: But, as my mom got busier, she often didn't come home.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000048/data/adv_still_anime_000048/adv_still_anime_000048.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000049/data/adv_still_anime_000049/adv_still_anime_000049.webp)
 Soyo: I was always alone in the beautiful home.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000049/data/adv_still_anime_000049/adv_still_anime_000049.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000050/data/adv_still_anime_000050/adv_still_anime_000050.webp)
 Soyo: I enrolled at Tsukinomori because it was my mom's wish.
 Soyo: I think my mom had a longing for the prestigious Tsukinomori.
 Soyo: However, an unfamiliar rich girls' school is quite daunting to me...
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000050/data/adv_still_anime_000050/adv_still_anime_000050.webp)
 Soyo: If someone needs me, maybe the loneliness will disappear.
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000053/data/adv_still_anime_000053/adv_still_anime_000053.webp)
 Soyo: Thinking that way, I started cooking meals, doing laundry, and taking over household chores in place of my mom.
 Soyo: In the wind instrument club, which I joined because my classmate invited me, I worked hard practicing the contrabass.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000053/data/adv_still_anime_000053/adv_still_anime_000053.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000051/data/adv_still_anime_000051/adv_still_anime_000051.webp)
 Soyo: I've become someone my mom can rely on, and I've found my place at school too...
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000051/data/adv_still_anime_000051/adv_still_anime_000051.webp)
 Soyo: But, the loneliness never faded.
 Soyo: Somewhere in my heart, I felt like this wasn't the place where I belonged.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000052/data/adv_still_anime_000052/adv_still_anime_000052.webp)
 Soyo: I wondered if the loneliness would never fade away, until that moment...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000052/data/adv_still_anime_000052/adv_still_anime_000052.webp)
 (Background change)
 Sakiko: Soyo Nagasaki-san? I am Sakiko Togawa from Class C.
 Sakiko: This is a bit abrupt, but do you have any interest in bands?
@@ -60,18 +54,15 @@ Everyone: ...?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp)
 Sakiko: What was that...?
 Soyo: Well, since we decided on our band name, I thought we should start social media.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000055/data/adv_still_anime_000055/adv_still_anime_000055.webp)
-Soyo: 
 Soyo: When the five of us were together, I never felt lonely.
 Soyo: Going to karaoke, practicing in the studio, chatting at a café, standing on stage together... All of them became irreplaceable memories.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000055/data/adv_still_anime_000055/adv_still_anime_000055.webp)
 (Background change)
 Soyo: And yet...
 (Background change)
 Sakiko: I am quitting CRYCHIC.
 Taki: Tomori was waiting for you!
-Taki: ...! ...
+Taki & Sakiko: ...! ...
 Soyo: Wait...! Let's talk this out! After all, we've had so much fun getting to where we are... Mutsumi-chan, you think so too, don't you?
 Mutsumi: ...
 Mutsumi: I... I've never thought being in this band was fun, not even once.
@@ -123,7 +114,7 @@ Tomori: Soyo-chan might not come anymore...
 Tomori: Rāna-chan too... If I'm in the band, then they...
 Tomori: I... hurt Saki-chan, too... I hurt everyone...
 Tomori: Maybe... it was wrong for me to be in a band...
-Anon: ...!
+Anon & Taki: ...!
 Taki: That's not true!
 Taki: Really. It isn't wrong for you to be in a band, Tomori.
 Tomori: But, everyone's going in different directions again... If things keep going like this, the band...

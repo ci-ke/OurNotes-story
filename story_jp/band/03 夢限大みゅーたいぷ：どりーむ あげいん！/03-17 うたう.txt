@@ -81,10 +81,8 @@
 ののか: 都子ちゃん、どこ行くのー！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp)
 都子: 贖罪の……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp)
-都子: <size=100％>秋葉原マラソンお百度参り</size>
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp)
+都子: 秋葉原マラソンお百度参り
 (Background change)
 
 [数日後]
@@ -94,7 +92,7 @@
 あられ: あれ？　宿題？
 律: ううん、予習。 世界史苦手だから
 あられ: み、耳が痛い
-律: ？
+律 & あられ: ？
 律: 『藤都子がヘルスケアを共有しました』…… 都子さん、今日も走ってるみたい
 あられ: いちまんぽ！？　まだ朝だよ！？
 律: 体力作りは大事だけど……
@@ -130,7 +128,7 @@
 マネージャー: ここまでやられたら、さすがにね
 マネージャー: うちの大事な子たちに手ェ出したんだから、 目に物見せてくれるわ！
 マネージャー: 仲町さん、藤さん
-都子: はいっ！
+都子 & あられ: はいっ！
 マネージャー: ２人とも、 もう少しだけ辛抱してね
 あられ: ……
 あられ: あんなのはもう怖くないですから！
@@ -138,13 +136,13 @@
 マネージャー: ……
 都子: ……
 あられ: あの、ぼく、 みんなに言っておきたいことがあって
-ののか: ？
+ののか & 都子 & マネージャー: ？
 あられ: ぼくは、歌でおしゃべりする
 律: ……
 ユノ: ？
 あられ: ずっとずっと思ってた…… おしゃべりして、ぼくの大好きをみんなに伝えたいって
 あられ: ぼくはライブをやる！
-律: うん！ えぇ！？
+律 & 都子: うん！ えぇ！？
 ユノ: へぇ
 ののか: ののちゃんさんせ～！
 都子: でも……！ また何かあったら……！
@@ -166,12 +164,12 @@
 マネージャー: みんなの覚悟、バシバシ感じたからね！
 マネージャー: ライブ、しましょう！
 あられ: ～～～～～～～っ
-ののか: やた～～～～～！！
+ののか & あられ: やた～～～～～！！
 律: 曲はどうしますか？
 ののか: 海で作ったの！
 ユノ: あたしたちっぽさ、結構出てるか
 あられ: そっ、それとっ
-ののか: ？
+ののか & ユノ: ？
 あられ: 今までとこれからの気持ち！ 歌詞にしたい！
 あられ: かもも……
 ののか: い～ね～
@@ -209,19 +207,18 @@
 (Background change)
 先生: じゃあ、今の式を使って一問解いてみましょう
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp)
+(Caption): 出会った頃には思わなかった
 都子: （――こんなふうになれるなんて、 出会った時には思わなかった）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp)
+(Caption): こっちのセリフ
 都子: （それはこっちのセリフ）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp)
+(Caption): この運命
 都子: （この出会いが運命なら）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp)
 都子: （続いてほしい）
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp)
 あられ: ジャーーーーーーーーーーーン！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp)
 ののか: パン屋さん再び！
 律: そのあんパン、マジるるコラボ第３弾だ
 あられ: そーなんだよ、始まっちゃってー！
@@ -303,10 +300,10 @@
 律: 都子さん、これ
 都子: はい
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp)
+(Caption): 巨羊羹
 ユノ: 『え？　車止め？』
 都子: これは……
 律: 仕事用の糖分です。 ここぞという時に食べて下さい
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp)
 都子: おもっ……ありがとうございます……
 あられ: 教室まで運ぶの手伝います！
 ののか: ののちゃんも～！

@@ -18,12 +18,12 @@ Sakiko: (No matter how much I struggle, no matter how much I fight, everything g
 Sakiko: ...
 Butler: What's the matter, milady?
 Sakiko: I'm not getting on board.
-Sakiko: <size=150%>I have to go!
+Sakiko: I have to go!
 (Background change)
 Butler: Sakiko-sama! It's dangerous! Stop!
 (Background change)
 Sakiko: Haa... Haa...!
-Sakiko: <size=175%>Ah!
+Sakiko: Ah!
 Sakiko: (There's no time to nurse my pain!)
 (Background change)
 Sakiko: Haa... Haa...!
@@ -86,7 +86,7 @@ Hatsune: It didn't work.
 Sakiko: Is it because I asked you...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
-Hatsune: <size=175%>No! I was happy!
+Hatsune: No! I was happy!
 Hatsune: Even if it was in place of someone else.
 Sakiko: ...!
 (Background change)
@@ -133,20 +133,19 @@ Sakiko: But, there is one thing I've come to understand.
 (Background change)
 Sakiko: We watched the stars together here, didn't we? Was that you?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
-Hatsune: <size=175%>...!
+Hatsune: ...!
 Sakiko: I knew it. You're the one who loves the stars, Hatsune.
 Hatsune: ...!!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
 (Background change)
 Sakiko: Phew...
 Hatsune: Saki-chan...?
 Sakiko: Hatsune, let's go back.
 Hatsune: Eh? To where?
-Sakiko: <size=150%>Of course, to Tokyo!
+Sakiko: Of course, to Tokyo!
 Hatsune: Huh~?
 Sakiko: If we take the shortcut, we'll make it to the ferry in time. Let's run, Hatsune!
 (Background change)
-Hatsune: <size=150%>Hey, don't pull me. S-Saki-chan~~~~!
+Hatsune: Hey, don't pull me. S-Saki-chan~~~~!
 (Background change)
 
 [On the Ferry]
@@ -168,17 +167,17 @@ Hatsune: That is... not possible. It's unforgivable.
 Sakiko: ...
 Hatsune: Saki-chan...? Leaning out that far is dangerous...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
-Sakiko: <size=175%>I'm so sick of this......!!
+Sakiko: I'm so sick of this......!!
 Hatsune: ...!
 Sakiko: Who's not forgiving you!? Who decided that? Why do I have to do what they say?
 Sakiko: Hatsune, you're the same! You... FOOL~~~!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
 Hatsune: Saki-chan...
 Sakiko: What is it? I'm upset, you know. Don't take my determination lightly.
 Hatsune: Yeah...
 (Background change)
 Hatsune: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp)
+(Caption): Inbox Date From To Attachments Scheduled Drafts Sadaharu Togawa About Sakiko I believe you are aware that you and Sakiko live in different worlds. Bring Sakiko back immediately.
 Hatsune: ...
 Sakiko: Hmm...
 Hatsune: ...
@@ -197,10 +196,10 @@ Sadaharu: Are you planning to follow the same path as that man? Leave right now.
 Sakiko: Togawa, Togawa... is it really that great? What exactly have we done?
 Sakiko: I simply cannot accept this!
 Sadaharu: You don't understand the terrifying power of the Togawa—
-Sakiko: <size=175%>You're the one who's afraid!
+Sakiko: You're the one who's afraid!
 Sadaharu: !
 Sakiko: I will leave as well. I won't be obedient to you anymore.
-Sakiko: <size=175%>I'll live with her!
+Sakiko: I'll live with her!
 Hatsune: Saki-chan...!
 Sakiko: Please take care of my father!
 Sadaharu: ...
@@ -211,7 +210,7 @@ Sakiko: Thank you.
 Hatsune: ...
 Hatsune: I thought I was going to die.
 Sakiko: Me too... Oh, Hatsune. There's a bug on your shoulder...
-Hatsune: <size=175%>Whoa! A bug!?
+Hatsune: Whoa! A bug!?
 Sakiko: Stay still, I'll take it off. Here, hold still.
 Hatsune: Ugh...! H-Hurry...
 Sakiko: Look, I took it off. Are you really scared of such a tiny ladybug?
@@ -220,8 +219,7 @@ Sakiko: Hehe, Hatsune.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
 Hatsune: Mmm~ stop laughing~! Hehe...
 Sakiko: Hehe.
-Sakiko: <size=150%>Ahaha.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
+Sakiko & Hatsune: Ahaha.
 (Background change)
 (Background change)
 Hatsune: What will we do from now on?
@@ -229,9 +227,9 @@ Sakiko: This world is full of things that can't be helped...
 Sakiko: And there's nothing certain, nothing unshakeable.
 Sakiko: Are you scared?
 Hatsune: No, not as long as Saki-chan is with me.
-(message) Umiri: <color=#1877F2>@Sakiko</color> Did you find Misumi-san?
-(message) Umiri: Practice starts at 11
-(message) Umiri: Please make sure to come today😭
+(Message) Umiri: @Sakiko Did you find Misumi-san?
+(Message) Umiri: Practice starts at 11
+(Message) Umiri: Please make sure to come today😭
 Sakiko: I forgot. Uh... Now, really...?
 Hatsune: We gotta show up after all this time. I'll make coffee, so you can sleep a little longer.
 Hatsune: Saki-chan... I love you.

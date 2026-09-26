@@ -6,7 +6,7 @@ Why do I always... mess things up so badly?
 Mutsumi: (Failure is not an option... There's no turning back... Haa... Haa...)
 Amoris: Give me back my perfect face! Give me back those beautiful, pitiful eyes! Give me back those gracefully curved lips...!
 (Background change)
-Mutsumi: <size=175%>...!
+Mutsumi: ...!
 Mutsumi: (It started? When?)
 Amoris: This... this isn't the real me!
 Oblivionis: Amoris, this is what you wished for.
@@ -20,7 +20,6 @@ Oblivionis: Once broken, you'll have to live with this face forever...
 Mutsumi: ...!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp)
 Multiple Mutsumi: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp)
 (Background change)
 Mutsumi: There's... no escaping now...
 Oblivionis: Even so, if you still seek solace...
@@ -41,7 +40,7 @@ Mutsumi: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp)
 (Background change)
 Sakiko: ...!
-Umiri: ...
+Umiri & Uika: ...
 Nyamu: (Amazing...)
 
 [After the Performance]
@@ -57,7 +56,7 @@ Uika: Huh...?
 Umiri: Because it was so perfect, it didn't seem impromptu...
 Sakiko: Anyway, at least the staff was convinced. Why did you do something like that?
 Mutsumi: The guitar... I made a mistake.
-Nyamu: <size=175%>!?
+Nyamu & Uika & Sakiko: !?
 Nyamu: You mean it wasn't pre-planned or an impromptu?
 Uika: Mutsumi-chan, I didn't know you would make mistakes during live performances...
 Umiri: And you just froze on stage without even trying to bluff your way out?
@@ -71,7 +70,6 @@ Mutsumi: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp)
 Mutsumi: ...
 Mortis: Mutsumi-chan?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp)
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000089/data/adv_still_anime_000089/adv_still_anime_000089.webp)
 Mortis: You can't sleep again?
@@ -81,14 +79,16 @@ Mutsumi: Why do I always... mess things up so badly?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000090/data/adv_still_anime_000090/adv_still_anime_000090.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp)
+(Caption): Mortis TV Show
 Mortis: Mutsumi-chan! Welcome to our show today!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp)
+(Caption): Mortis TV Show
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp)
 Mutsumi: Ah...!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp)
+(Caption): Today's Guest Mutsumi-chan
 Bear: So cute!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp)
 Cat: She's just like her mom!
 Penguin: Do you think she'll become an outstanding actress like Minami-san?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp)
@@ -98,6 +98,7 @@ Mutsumi: ...
 Mutsumi: (What should I say? I don't know.)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp)
+(Caption): Today's Guest Mutsumi-chan
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000096/data/adv_still_anime_000096/adv_still_anime_000096.webp)
 (Background change)
@@ -111,10 +112,8 @@ Myna Bird: Born with her parents' aura? And not just one parent—double aura! B
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000098/data/adv_still_anime_000098/adv_still_anime_000098.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp)
 Minami: That's right! Mutsumi-chan is super cute and incredibly talented. This isn't just me being biased toward my child.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp)
 Mutsumi: All those praises belong to Minami-chan and Ta-kun.
 Mortis: "Not a single one belongs to Mutsumi-chan."
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000100/data/adv_still_anime_000100/adv_still_anime_000100.webp)
 Guitar: ~~♪
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp)
@@ -124,7 +123,6 @@ Mortis: "That guitar sings so vibrantly."
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp)
 Mutsumi: Ah...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000103/data/adv_still_anime_000103/adv_still_anime_000103.webp)
 Mortis: "She practices for a long, long time every day, and they're always together."
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000104/data/adv_still_anime_000104/adv_still_anime_000104.webp)
@@ -136,7 +134,8 @@ Mutsumi: Eh...?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000105/data/adv_still_anime_000105/adv_still_anime_000105.webp)
 Mutsumi: I... can't do it...
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000105/data/adv_still_anime_000105/adv_still_anime_000105.webp)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4)
+(Caption): 春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
 Mortis: "But the gods are cruel. They didn't give Mutsumi-chan the ability to let her guitar sing."
 Guitar: Wow, amazing! Tomori-chan's song was so good! Taki-chan's drumming is so cool!
 Mutsumi: !
@@ -149,11 +148,10 @@ Mutsumi: So...! I can't... enjoy the band...!
 (Background change)
 Sakiko: I am quitting CRYCHIC.
 (Background change)
-Sakiko: <size=175%>Waaahhh...
+Sakiko: Waaahhh...
 Mutsumi: !!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000106/data/adv_still_anime_000106/adv_still_anime_000106.webp)
 Mutsumi: No... That's not what I mean...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000106/data/adv_still_anime_000106/adv_still_anime_000106.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp)
 Mutsumi: I can't feel the joy of being in a band, it's because... I'm terrible at it...
 Mutsumi: I can't make the guitar sing...
@@ -161,7 +159,6 @@ Mutsumi: I can't make the guitar sing...
 Mortis: "Mutsumi, lost her directions."
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp)
 Mutsumi: I'm the one... who ruined CRYCHIC.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp)
 Mortis: "Filled with despair, she curled into herself..."
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000108/data/adv_still_anime_000108/adv_still_anime_000108.webp)
@@ -177,8 +174,8 @@ Mutsumi: ...
 
 Sakiko: ...
 (Background change)
-Online Article: <align="center">Ave Mujica Nationwide Tour First Day: A Huge Success! Praise for Mortis (Mutsumi Wakaba)'s Performance
-Online Article: <align="center">The motionless Mortis looked just like a real "doll."
+Online Article: Ave Mujica Nationwide Tour First Day: A Huge Success! Praise for Mortis (Mutsumi Wakaba)'s Performance
+Online Article: The motionless Mortis looked just like a real "doll."
 Comment A: Mutsumi-chan's performance was amazing! I absolutely want to see it live on the nationwide tour!!
 (Background change)
 Sakiko: ...
@@ -356,7 +353,7 @@ Sakiko: How far are you going to follow me?
 Mutsumi: ...
 Sakiko: Why don't you just say you don't want to do it? You want to play the guitar more than perform, don't you? But you...
 Mutsumi: Whenever I speak up, I ruin everything...
-Sakiko: <size=175%>Stop playing innocent!!
+Sakiko: Stop playing innocent!!
 Mutsumi: !
 Sakiko: Is this the time to worry about that? If this continues, Mujica won't be Mujica anymore!
 Mutsumi: Saki—
@@ -386,11 +383,13 @@ Nyamu: Huh!?
 (Background change)
 Mutsumi: (Again... it's my fault.)
 (Background change)
-mortis: It's painful, isn't it?
-mortis: It hurts, doesn't it?
-mortis: I'm the only one  on Mutsumi-chan's side.
-mutsumi: Mortis...
-mutsumi: Huh...?
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03.mp4)
+(Caption): モーティスウォルドルフ人形捕食シーン
+(Subtitle) mortis: It's painful, isn't it?
+(Subtitle) mortis: It hurts, doesn't it?
+(Subtitle) mortis: I'm the only one  on Mutsumi-chan's side.
+(Subtitle) mutsumi: Mortis...
+(Subtitle) mutsumi: Huh...?
 (Background change)
 Staff A: The commercial is ending! Five seconds until we go live! Four, three—
 Mortis: Every awakening brings rebirth. Only eternal death will bring no awakening.

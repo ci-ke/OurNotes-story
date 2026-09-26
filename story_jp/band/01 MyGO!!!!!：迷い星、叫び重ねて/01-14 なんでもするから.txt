@@ -75,27 +75,27 @@
 
 [長崎家 そよの部屋]
 
-(message) そよ: せめて会って謝らせてくれないかな？
-(message) そよ: 私もびっくりしたの、あんなことになるなんて知らなくて…
-(message) そよ: だからちゃんと説明させてほしいの
-(message) そよ: 知ってたら止めたし、セトリはもう終わってたのに 急に演奏しだして
-(message) そよ: みんなを止められなくてごめんね…
-(message) そよ: 祥ちゃん、怒ってるよね…
-(message) そよ: 怒るのも当然だと思う
-(message) そよ: でも信じて欲しいの。春日影、本当に演奏する予定じゃなかったの
-(message) そよ: 本当にごめんね
-(message) そよ: もう勝手に演奏したりしないって約束するよ
-(message) そよ: ほかの子たちにも絶対に二度としないって約束させるから
-(message) そよ: 少しだけ話せないかな？
+(Message) そよ: せめて会って謝らせてくれないかな？
+(Message) そよ: 私もびっくりしたの、あんなことになるなんて知らなくて…
+(Message) そよ: だからちゃんと説明させてほしいの
+(Message) そよ: 知ってたら止めたし、セトリはもう終わってたのに 急に演奏しだして
+(Message) そよ: みんなを止められなくてごめんね…
+(Message) そよ: 祥ちゃん、怒ってるよね…
+(Message) そよ: 怒るのも当然だと思う
+(Message) そよ: でも信じて欲しいの。春日影、本当に演奏する予定じゃなかったの
+(Message) そよ: 本当にごめんね
+(Message) そよ: もう勝手に演奏したりしないって約束するよ
+(Message) そよ: ほかの子たちにも絶対に二度としないって約束させるから
+(Message) そよ: 少しだけ話せないかな？
 そよ: …………
 そよ: ……っ！！
-(message) 愛音: そよさん、体調悪いの？大丈夫？
+(Message) 愛音: そよさん、体調悪いの？大丈夫？
 そよ: …………
 そよ: （既読、つかないな……）
 そよ: …………っ
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000046/data/adv_still_anime_000046/adv_still_anime_000046.webp)
+(Caption): メッセージ ブロックされてる 確認方法 SNSでブロックされたかを確認する方法 ブロックされたかを調べるとき、相手に絶対に知らない方法は４つ！
 そよ: ……！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000046/data/adv_still_anime_000046/adv_still_anime_000046.webp)
 そよ: …………
 (Background change)
 
@@ -169,7 +169,7 @@
 そよ: 祥ちゃん。 今日は会ってくれてありがとう
 そよ: ……睦ちゃんを、怒らないでね。 祥ちゃんに会いたいって、私が無理にお願いしたの
 そよ: メッセージ、何度も送ったんだけど、 返信なかったから……
-祥子: …………
+祥子 & 睦: …………
 そよ: ……ごめんね、あの日のライブのこと…… どうしても、会って謝りたくて……
 そよ: 『春日影』…… 本当はやるはずじゃなかったの！
 そよ: あの日は、１曲だけの予定で…… 私も、やりたくなかった
@@ -211,13 +211,10 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 そよ: 違うの、私、 ほんとにみんなのことが大事で……大好きで！
 そよ: ……いや……お願い……！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 そよ: 祥ちゃんたちがいないと、私……っ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 祥子: 離して
 そよ: どうしたら戻れるの！？ 私にできることならなんでもするから……！
 祥子: ……！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 祥子: ……どのくらいの覚悟で言ってるんですの？
 そよ: えっ……
 祥子: ただの学生でしかないあなたに、 他人の人生を抱えきれますの？

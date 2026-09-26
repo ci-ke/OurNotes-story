@@ -11,8 +11,8 @@
 [Shiomi Residence - Hotaru's Room]
 
 Hotaru: ...
-(message) Houka Izumi: I'd like to properly apologize for what happened yesterday.
-(message) Houka Izumi: I'll be waiting for you in front of the ticket gates at the nearest station from your home.
+(Message) Houka Izumi: I'd like to properly apologize for what happened yesterday.
+(Message) Houka Izumi: I'll be waiting for you in front of the ticket gates at the nearest station from your home.
 Hotaru: (She mentioned scheming, or whatever she called it...)
 Hotaru: (But I don't have any right to blame her.)
 Hotaru: (No. More than that—)
@@ -75,8 +75,8 @@ Hotaru: I...
 Hotaru: !
 Hotaru: From Mahoro-san...?
 Natsume: Hah, perfect timing.
-(message) Mahoro: Everyone, can you come to the garage?
-(message) Mahoro: I want us to have a proper talk about what happened yesterday.
+(Message) Mahoro: Everyone, can you come to the garage?
+(Message) Mahoro: I want us to have a proper talk about what happened yesterday.
 (Background change)
 
 [The Garage]
@@ -87,8 +87,8 @@ Mahoro: You were all together, huh?
 Natsume: Sort of. Did you two sort things out?
 Nagi: Well... More or less.
 Natsume: Right. Good.
-Hotaru: ...
-Hotaru: Um...! Um...!
+Hotaru & Nagi: ...
+Hotaru & Nagi: Um...! Um...!
 Natsume: Okay, stop. You two can have your apology time later.
 Natsume: You have something important to say, right? Mahoro.
 Mahoro: Ahaha... I appreciate you getting straight to the point.
@@ -152,7 +152,7 @@ Hotaru: That's not what I...!
 Mahoro: No, it's okay. Well then, I'll just have to prove it so you can believe.
 Hotaru: ...?
 Mahoro: Hotaru-chan. Let's have a session together.
-Houka: !?
+Houka & Natsume & Nagi: !?
 Hotaru: A-a session...?
 Mahoro: To be precise, it's more like a battle, I guess?
 Mahoro: We'll each take turns playing and singing one chorus of "Narasu."

@@ -74,7 +74,6 @@
 由乃：…………
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp）
 由乃：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp）
 ：有空見個面嗎？
 （背景切换）
 由乃：呼……
@@ -120,7 +119,7 @@
 柚衣奈：真有趣。
 小春：那這個呢？這又是什麼？
 由乃：……很像工地的聲音。
-小春：哈哈哈哈哈哈！！
+小春 & 柚衣奈 & 楓：哈哈哈哈哈哈！！
 小春：──那是我們快樂又耀眼的時光， 我一輩子都不會忘記。
 小春：我們絕對會很小聲的！
 老師：不是大不大聲的問題，而是得提出使用教室的申請──
@@ -136,14 +135,14 @@
 （背景切换）
 星探：──之後如果想進一步了解， 隨時都可以透過名片上的聯絡方式找我。
 由乃：抱歉，讓妳們久等了。
-小春：恭喜～！！
+小春 & 柚衣奈 & 楓：恭喜～！！
 小春：竟然有人委託妳作曲，妳根本是專業音樂人了！
 柚衣奈：這下真的可以靠音樂過活了。
 楓：原來夢想是真的能實現的。
 由乃：咦？我們已經在實現了，不是嗎？
-小春：？
+小春 & 柚衣奈 & 楓：？
 由乃：我們要實現的夢想才不只這些， 以後還會不斷增加。
-小春：……
+小春 & 柚衣奈 & 楓：……
 小春：──只要由乃繼續跑在前頭， 我就覺得自己能一直追逐夢想。
 由乃：好！撤退！
 小春：啊，她跑了！
@@ -167,10 +166,8 @@
 由乃：（我一直以為……大家都開心地向前邁進， 就只有我一個人被留在原地……）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp）
 由乃：（原來歌詞之中……）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp）
 由乃：（也有我在……）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp）
 由乃：…………
 小春：我的工作雖然也很辛苦，但看到妳這麼活躍， 我就會覺得自己也不能輸。
 小春：也因為我一路上的努力，才實現了和妳一起創作歌曲的夢想。
@@ -203,7 +200,6 @@
 由乃：（樂團解散並不代表結束，而是朝向未來的第一步嗎……）
 由乃：……
 由乃：啊，靈感來了。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000030/data/adv_still_charaillust_000030/adv_still_charaillust_000030.webp）
 （背景切换）
 阿拉蕾：謝謝妳特地來我家～
 律：不會，我也很久沒來這附近了。
@@ -221,7 +217,7 @@
 律：星期天看完《魔法露露》，星期一再聽妳的感想， 這是我最期待的事。
 阿拉蕾：居然～
 阿拉蕾：啊！是小琪……喂～
-菈琪：<size=150%>「出大事了！」</size>
+菈琪：「出大事了！」
 阿拉蕾：咦，怎麼了？
 律：……
 波塔：「就是啊，網路上有人上傳一段 妳和夜子老師吵架的影片。」
@@ -235,7 +231,7 @@
 阿拉蕾：「妳……！」
 都子：「決定要舉辦演唱會的不是我們自己嗎！」
 （背景切换）
-律：……
+律 & 阿拉蕾：……
 波塔：「我想這應該是假的， 但還是覺得應該通知妳……」
 阿拉蕾：……嗯，謝謝妳。
 律：是Viola做的。

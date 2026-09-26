@@ -28,7 +28,7 @@ Uika: (Saki-chan...)
 
 Nyamu: ...
 (Background change)
-Online Article: <align="center">The famous girl band Ave Mujica announced their disbandment! Their agency also addressed the reasons for the disbandment.
+Online Article: The famous girl band Ave Mujica announced their disbandment! Their agency also addressed the reasons for the disbandment.
 Account A: Is it true they announced the disbandment without even performing a single song? That's too harsh.
 Account B: I took a break and bought train tickets, im crying. Can't recover from it.
 Account C: It's sad that they disbanded, but Mutsumi-chan was cooking till the end~! She was screaming a lot, is she okay...?
@@ -72,7 +72,6 @@ Uika: I'm back. Saki-chan, I brought pudding home! Saki-chan...?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp)
 Sakiko: To Uika: Thank you for everything.
 Uika: ...!!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp)
 (Background change)
 (Background change)
 (Background change)
@@ -95,7 +94,6 @@ Staff B: That's right~ And Minami-san said that Mutsumi-chan locked herself in h
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 Staff A: No way! She was so popular! What a waste~ Ave Mujica's disbandment must have been a huge blow.
 Staff B: You think? They just threw it out like "Yeah, disband~" In the end, wasn't it just a rich girl's band game?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 Mana: Good morning~
 Uika: Morning.
 Staff A: Ah... good morning! Oh, I have an urgent meeting to attend!
@@ -121,7 +119,6 @@ Uika: ...
 Sakiko: Again...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000116/data/adv_still_anime_000116/adv_still_anime_000116.webp)
 Sakiko: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000116/data/adv_still_anime_000116/adv_still_anime_000116.webp)
 (Background change)
 (Background change)
 
@@ -164,10 +161,10 @@ Nyamu: Yes, this is Yūtenji. Huh? You're talking about a stage play? The auditi
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
 Nyamu: Ah...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000118/data/adv_still_anime_000118/adv_still_anime_000118.webp)
+(Caption): Improving Acting Skills Acting Techniques to Breathe Life into a Role Methods to Survive Auditions Acting Techniques for Character Possession Introduction to Acting How to Watch Dramas Film Academy Hollywood Acting Techniques Acting that Moves the Heart Fledgling Actors Acting Skills Vol. 1 Acting Skills Vol. 2 Acting as a Profession Captivating Acting Theater and the World Learning Acting from Hollywood
 Nyamu: I'm still working on improving my acting skills. Right now, I'd like to focus on variety shows...
 Nyamu: Yes... I know it's such a rare opportunity, I'm really sorry. Thank you.
 Nyamu: Have a nice day.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000118/data/adv_still_anime_000118/adv_still_anime_000118.webp)
 Nyamu: ...
 (Background change)
 
@@ -175,10 +172,10 @@ Nyamu: ...
 
 Uika: ...
 (Background change)
-(message) Sakiko: Please take care.
-(message) Sakiko: Thank you.
-(message) Uika: Where are you?
-(message) Uika: Are you okay?
-(message) Uika: Please contact me.
+(Message) Sakiko: Please take care.
+(Message) Sakiko: Thank you.
+(Message) Uika: Where are you?
+(Message) Uika: Are you okay?
+(Message) Uika: Please contact me.
 (Background change)
 Uika: Saki-chan...

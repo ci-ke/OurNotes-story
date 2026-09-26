@@ -8,8 +8,8 @@ Arale: Whoa~~~~~~
 Arale: *Peek*...
 Arale: Huh!?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp)
+(Caption): Utami@utaskyat I was active online under the name "Utami" from my second year of middle school to my second year of high school. In my first year of high school, I formed "La-La-La-La Girls" and posted videos and streamed with girls who were great at singing. Things were going well. We joined an agency and released original songs, but I left the group in my second year. I'm going to talk about the circumstances back then and what happened to the group afterwards. I hope this helps my friends who are still working hard. What happened back then might be unforgivable even if I apologize, but I will always, always support you.
 Arale: Utami-san...!?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp)
 (Background change)
 Viola: Elea-chaaaan, about how I sang this part...
 Arale: I listened! I think it sounds amazing!
@@ -50,7 +50,7 @@ Popo: *Sigh*... If it hadn't come to this, Fairy Bouquet could've gone even—
 Viola: It's impossible, you know?
 Viola: For me, and you two, it's impossible.
 Popo: ...
-Bell: <size=130%>Huuuuuh!?!?!?</size>
+Bell: Huuuuuh!?!?!?
 Popo: So noisy. What is it?
 Bell: C-C-C-C-Contract cancellation...!
 Popo: Huh? Why us...?
@@ -73,7 +73,6 @@ Manager: Viola-chan, your contract termination request has been officially accep
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp)
 Viola: ♪
 Viola: Sparkling♡
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp)
 (Background change)
 (Background change)
 (Background change)
@@ -89,15 +88,12 @@ Passerby E: That song is great~ I've been listening to it non-stop lately.
 Passerby F: Viola from Fairy Bouquet, absolute face card!
 Viola: It's like the final sparkle of fireworks.
 Viola: It captures everyone's eyes for just a moment, and then it's over.
-(Background change)
 Viola: I wanted to become a sparkle.
 Viola: To make everyone smile, even lift the spirits of those who are feeling low!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp)
 Viola: Sparkling.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp)
 Viola: Twinkling.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp)
 (Background change)
 Viola: The more I tried to shine, the more I became a fake!
 Viola: Fake kindness, fake songs, fake smiles.
@@ -130,7 +126,7 @@ Arale: Overwhelmed!?
 Yuno: When you're nervous, first take a deep breath. Getting oxygen to your brain and steadying your breathing is the best—
 Nonoka: There are soooo many guests!
 Arale: ~~~~~~~~~!!!!
-Ritsu: <size=130%>Arale-chan!</size>
+Ritsu: Arale-chan!
 Yuno: ...
 Nonoka: Oh?
 Ritsu: Yu, Yuno-san! What if she isn't breathing!?
@@ -140,11 +136,11 @@ Nonoka: I got some cake as a treat, let's eat~!
 Ritsu: !! Arale-chan! It's cake! Let's do our best!
 Arale: Aww~~
 Nonoka: Opening the box~!
-Arale: Ooh...
+Arale & Nonoka & Ritsu: Ooh...
 Yuno: They're all different types...
 Miyako: At times like this...
 Nonoka: Ready, set~!
-Everyone: <size=130%>△※×☆*@!</size>
+Everyone: △※×☆*@!
 Nonoka: All different~
 Miyako: That's just perfect.
 Arale: Yaaay...
@@ -160,7 +156,7 @@ Arale: Ah... Huh~ Hmm!?
 Nonoka: Arale-chan, are you nervous?
 Yuno: Take a deep breath.
 Arale: *Inhale*............ *Exhale*...
-Miyako: <size=130%>Haa!!!!!!</size>
+Miyako: Haa!!!!!!
 Arale: !!????
 Miyako: Are you feeling less nervous now?
 Arale: M-My heart is pounding even faster now!
@@ -197,7 +193,6 @@ Arale: *Swallow*
 Ritsu: It's done.
 Arale: ...
 Arale: Thanks.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000026/data/adv_still_charaillust_000026/adv_still_charaillust_000026.webp)
 (Background change)
 Ritsu: Is it okay?
 Arale: Yeah...
@@ -205,7 +200,7 @@ Arale: Because this is who I am.
 Yuno: Well, I'm used to seeing it on V-Flo anyway.
 Nonoka: Ugh~~~~~~
 Arale: ?
-Nonoka: <size=130%>MewType, version upgraded!</size>
+Nonoka: MewType, version upgraded!
 Arale: Wow!
 Arale: What version is it now?
 Miyako: Maybe 4.0?
@@ -219,9 +214,9 @@ Yuno: Oof!
 Ritsu: That's good, version infinite.
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp)
+(Caption): MewType ver.∞ (Mugen? Mugendai?)
 Miyako: Like this?
 Arale: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp)
 (Background change)
 Arale: Let's use "Dream."
 Ritsu: Dream...?
@@ -271,8 +266,10 @@ Yuno: Mm.
 Nonoka: Let's go~!
 Miyako: ...
 (Background change)
-Ritsu: ...
+Ritsu & Arale: ...
 Arale: Let's go.
 (Background change)
 Arale: Hello! We're "Mugendai MewType"!
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1.mp4)
+(Caption): 夢みた13話　『In My Words』ライブシーン

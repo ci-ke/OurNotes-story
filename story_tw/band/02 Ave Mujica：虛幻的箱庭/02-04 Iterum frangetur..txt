@@ -6,7 +6,7 @@
 睦：（不能失敗……沒有重新再來的機會── ……呼……呼……）
 Amoris：把我美麗的臉蛋還給我！ 把那雙可愛的大眼睛，那劃出美麗弧線的嘴巴還給我……！
 （背景切换）
-睦：<size=175%>唔……！
+睦：唔……！
 睦：（……已經開始了？什麼時候開始的？）
 Amoris：這副模樣根本就不是真正的我！
 Oblivionis：Amoris，這就是妳所期望的。
@@ -20,7 +20,6 @@ Oblivionis：面具一旦毀壞， 就只能以這張臉活下去了……
 睦：……！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp）
 成群的睦：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp）
 （背景切换）
 睦：已經……逃不掉了……
 Oblivionis：如果說妳依然渴求慰藉……
@@ -41,7 +40,7 @@ Oblivionis：──就將一切委身於Ave Mujica吧。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp）
 （背景切换）
 祥子：……！
-海鈴：……
+海鈴 & 初華：……
 若麥：（……好厲害。）
 
 【演出結束後】
@@ -57,7 +56,7 @@ Oblivionis：──就將一切委身於Ave Mujica吧。
 海鈴：那種完成度實在不像是即興演出……
 祥子：好不容易讓工作人員相信了， 妳為什麼要那樣做？
 睦：……吉他……彈錯了。
-若麥：<size=175%>！？
+若麥 & 初華 & 祥子：！？
 若麥：所以那不是事先策劃也不是即興演出？
 初華：原來小睦正式演出時也會出錯啊……？
 海鈴：然後妳也沒有試圖掩飾錯誤，就那麼僵住了嗎？
@@ -71,7 +70,6 @@ Oblivionis：──就將一切委身於Ave Mujica吧。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp）
 睦：……
 Mortis：……小睦？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000089/data/adv_still_anime_000089/adv_still_anime_000089.webp）
 Mortis：妳又睡不著了嗎？
@@ -81,14 +79,16 @@ Mortis：妳又睡不著了嗎？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000090/data/adv_still_anime_000090/adv_still_anime_000090.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp）
+（说明）：Mortis TV Show
 Mortis：小睦！歡迎妳今天蒞臨本節目！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp）
+（说明）：Mortis TV Show
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp）
 睦：啊……！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp）
+（说明）：今天的觀眾 小睦
 小熊：妳好可愛喔！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp）
 小貓：和妳媽媽一模一樣呢！
 企鵝：以後是不是也會成為像南小姐一樣出色的女演員呢？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp）
@@ -98,6 +98,7 @@ Mortis：「像媽媽一樣是什麼意思？」
 睦：（該回答什麼才好？ ……我真的不知道。）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp）
+（说明）：今天的觀眾 小睦
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000096/data/adv_still_anime_000096/adv_still_anime_000096.webp）
 （背景切换）
@@ -111,10 +112,8 @@ Mortis：「如各位所見，小睦從以前就不擅長開口說話。」
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000098/data/adv_still_anime_000098/adv_still_anime_000098.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp）
 南：就是說啊，小睦是個可愛的孩子～ 而且還很有才華，我不是在對自己女兒偏心喔。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp）
 睦：……不管得到多少誇獎， 也都是屬小南和小隆的。
 Mortis：「屬於小睦的東西，一個也沒有。」
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000100/data/adv_still_anime_000100/adv_still_anime_000100.webp）
 吉他：～～♪
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp）
@@ -124,7 +123,6 @@ Mortis：「那把吉他，看起來很愉快地在唱著歌。」
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp）
 睦：啊……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000103/data/adv_still_anime_000103/adv_still_anime_000103.webp）
 Mortis：「她每天不斷地彈著吉他，總是形影不離。」
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000104/data/adv_still_anime_000104/adv_still_anime_000104.webp）
@@ -136,7 +134,8 @@ Mortis：「小睦現在終於得到 『只屬於小睦的東西』了。」
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000105/data/adv_still_anime_000105/adv_still_anime_000105.webp）
 睦：……我辦不到……
 （背景切换）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000105/data/adv_still_anime_000105/adv_still_anime_000105.webp）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4）
+（说明）：春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
 Mortis：「但是神明非常壞心， 因為祂沒有賦予讓吉他唱歌的才能。」
 吉他：好棒喔，好棒喔。小燈的歌唱得好棒喔。 小希的鼓聲好帥氣喔！
 睦：！
@@ -149,11 +148,10 @@ Mortis：「但是神明非常壞心， 因為祂沒有賦予讓吉他唱歌的�
 （背景切换）
 祥子：我要退出CRYCHIC。
 （背景切换）
-祥子：<size=175%>哇啊啊啊啊……
+祥子：哇啊啊啊啊……
 睦：！！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000106/data/adv_still_anime_000106/adv_still_anime_000106.webp）
 睦：不是……我不是這個意思……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000106/data/adv_still_anime_000106/adv_still_anime_000106.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp）
 睦：我之所以無法感到開心，是因為…… 我不夠好……
 睦：沒辦法讓妳唱歌……
@@ -161,7 +159,6 @@ Mortis：「但是神明非常壞心， 因為祂沒有賦予讓吉他唱歌的�
 Mortis：「睦呆然佇立著。」
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp）
 睦：是我……毀了CRYCHIC。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp）
 Mortis：「她感到絕望，身體縮成一團──」
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000108/data/adv_still_anime_000108/adv_still_anime_000108.webp）
@@ -177,8 +174,8 @@ Mortis：「她感到絕望，身體縮成一團──」
 
 祥子：……
 （背景切换）
-網路報導：<align="center">「Ave Mujica全國巡演首日大成功！ Mortis（若葉睦）的演技大獲好評。」
-網路報導：<align="center">「動也不動的Mortis， 簡直就是如假包換的『人偶』。」
+網路報導：「Ave Mujica全國巡演首日大成功！ Mortis（若葉睦）的演技大獲好評。」
+網路報導：「動也不動的Mortis， 簡直就是如假包換的『人偶』。」
 留言A：「小睦的演技真的太強了！ 全國巡演時我絕對要到現場去看！！」
 （背景切换）
 祥子：……
@@ -356,7 +353,7 @@ Mortis：……覺得難受的話要說喔，我好擔心妳。
 睦：……
 祥子：為什麼不開口說妳不願意？ 比起表演妳不是更想彈吉他嗎？ 但妳卻──
 睦：因為我只要開口說話，就會把事情搞砸……
-祥子：<size=175%>別再撒嬌了！！
+祥子：別再撒嬌了！！
 睦：呃！
 祥子：現在是說這種話的時候嗎？ 再這樣下去Mujica就會永遠變調了。
 睦：祥──
@@ -386,11 +383,13 @@ Mortis：……覺得難受的話要說喔，我好擔心妳。
 （背景切换）
 睦：（又是──因為我。）
 （背景切换）
-mortis：妳一定很難受吧？
-mortis：妳一定很痛苦吧？
-mortis：只有我是站在小睦妳這邊的喔。
-mutsumi：Mortis……
-mutsumi：咦……？
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03.mp4）
+（说明）：モーティスウォルドルフ人形捕食シーン
+（字幕）mortis：妳一定很難受吧？
+（字幕）mortis：妳一定很痛苦吧？
+（字幕）mortis：只有我是站在小睦妳這邊的喔。
+（字幕）mutsumi：Mortis……
+（字幕）mutsumi：咦……？
 （背景切换）
 工作人員A：廣告時間結束！倒數五秒鐘，四、三──
 Mortis：──每次甦醒時都會重獲新生， 而再也不會甦醒的，則是永遠的死。

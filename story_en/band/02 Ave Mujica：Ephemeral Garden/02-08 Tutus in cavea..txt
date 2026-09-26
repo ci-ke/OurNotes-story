@@ -30,7 +30,7 @@ Soyo: Eh?
 Mortis: I need to call!
 Mortis: Hello? Is this the doctor? Hello? Can you hear me?
 Soyo: (This can't go on. But what should I do...?)
-(message) Anon: Soyorin, are you okay? Can you come tomorrow?
+(Message) Anon: Soyorin, are you okay? Can you come tomorrow?
 Soyo: ...
 Mortis: Hello? Can you hear me? Is this the doctor? Hello? Hello?
 Soyo: Yes, how can I help you?
@@ -136,8 +136,7 @@ Mortis: Wow... it's tattered.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
 Rāna: —♪
 Mortis: Wow...!
-Mutsumi: <size=200%><cspace=0.25em><voffset=0.25em>Singing<voffset=0em><voffset=0.25em></voffset>.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
+Mutsumi: Singing.
 Rāna: Hm.
 Mortis: ...! Mutsumi-chan?
 Everyone: ?
@@ -167,11 +166,11 @@ Mutsumi: Why would you say that?
 Mortis: Eh?
 Mutsumi: You said to leave everything to you. That's too much.
 Mutsumi: Saki... where's Saki?
-Mortis: <size=175%>...!
+Mortis: ...!
 Mutsumi: Mortis? Let me see Saki.
 (Background change)
-Mortis: <size=175%>No!
-Everyone: <size=175%>!?
+Mortis: No!
+Everyone: !?
 Mortis: Mutsumi-chan, you don't understand anything!
 Taki: What's going on?
 Anon: She's gone. She just mentioned Mutsumi-chan...

@@ -7,6 +7,7 @@ I want to give you my whole life. I will...
 (Background change)
 Sakiko: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp)
+(Caption): Even to me under the rock You delivered A warm light It was so dazzling I couldn't face it Saki-chan gave shape To the things I couldn't convey I want to reach Saki-chan But I can't
 (Background change)
 Sakiko: You're just a student. Can you truly take responsibility for someone else's life?
 Sakiko: Don't say things you can't follow through on.
@@ -23,8 +24,8 @@ Nyamu: Clearly, the forced soulmate plan was a great success!
 (Background change)
 Sakiko: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp)
+(Caption): I'm sure I made A mistake again But I don't know What the right answer is So I keep searching
 Sakiko: (I must take responsibility for my own words and actions...)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp)
 (Background change)
 
@@ -58,7 +59,7 @@ Minami: Well... Come in.
 Nyamu: Thank you! Excuse me!
 (Background change)
 Sakiko: We're all here. I asked everyone to come here for one reason.
-Sakiko: <size=150%>I will revive Ave Mujica.
+Sakiko: I will revive Ave Mujica.
 Sakiko: I have accepted the lives you entrusted to me. No matter what happens in the future, I'll not allow you to leave.
 Mortis: ...
 Nyamu: ...?
@@ -70,7 +71,7 @@ Nyamu: Okay~
 Mortis: ...
 Sakiko: Yahata-san, I'd like to perform live next week, so please arrange the schedule.
 Umiri: I will do so.
-Sakiko: <size=150%>This is Ave Mujica's Revival Masquerade.
+Sakiko: This is Ave Mujica's Revival Masquerade.
 (Background change)
 
 [Performance Day]
@@ -79,7 +80,7 @@ Sakiko: <size=150%>This is Ave Mujica's Revival Masquerade.
 
 [RiNG - Dressing Room]
 
-Uika: <size=150%>Ah ah ah ah ah—
+Uika: Ah ah ah ah ah—
 Uika: Saki-chan!
 Sakiko: Don't mind me. I'll change my clothes.
 Uika: Thank you...
@@ -125,8 +126,12 @@ Amoris: (I wanted to live together with her.)
 (Background change)
 Mortis: (If... if it's not too late...)
 Mortis: (God. If I can meet Mutsumi-chan, I'll give anything. That's all I want.)
-doloris: The wheel of fate is set in motion once again.
-doloris: Welcome to Ave Mujica's world.
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4)
+(Caption): Imprisoned XII　ライブシーン
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4)
+(Caption): Crucifix X　ライブシーン
+(Subtitle) doloris: The wheel of fate is set in motion once again.
+(Subtitle) doloris: Welcome to Ave Mujica's world.
 
 [After the Performance]
 

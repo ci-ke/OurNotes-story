@@ -44,7 +44,7 @@ Arale: That's so cooool!
 Ritsu: I'll be Clematis!
 Viola: I'm glad you like it♡
 (Background change)
-Ritsu: <size=150%>I'm Clematis. Nice to meet you!
+Ritsu: I'm Clematis. Nice to meet you!
 Ritsu: Oww...
 Arale: Ri...!
 Viola: Clematis, are you okay?
@@ -81,7 +81,6 @@ Viola: ...
 Utami: Today, I have an announcement to make.
 Utami: I, Utami, have decided to leave the "La-La-La-La Girls."
 Utami: To everyone who has supported us all this time, thank you so much.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000297/data/adv_still_anime_000297/adv_still_anime_000297.webp)
 (Background change)
 Ritsu: No...
 Arale: W-W-Why...?
@@ -107,8 +106,8 @@ Ritsu: Yeah... Just like Viola said it would...
 Arale: Right?!
 Ritsu: ...!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp)
+(Caption): Isn't Clematis way too bland?
 Ritsu: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp)
 Viola: Arale-chaaaan, how many times have I told you this kind of thing is a problem?
 Arale: Huh? Oh, that video from the other day!
 Viola: Elea-chan, do you ever work out?
@@ -166,27 +165,26 @@ Arale: Right? You agree with me, don't you?
 A-ko: Yeah, actually. That might be the better choice.
 Viola: Hmm... I don't know~ A-ko, Clematis, you're both fine with doing it my way, right?
 Viola: ...
-A-ko: ...!
+A-ko & Ritsu: ...!
 A-ko: Uh... yeah. I'm with Viola on this...
 Ritsu: ...
 Viola: Great!
 Arale: Oh! Then let's record "Robo's House" afterward! This way, we'll be following Sanpo-P's original upload order too~!
 (Background change)
 Ritsu: ...
-(message) Ritsu: There's something I want to talk to you about... It's about Viola.
+(Message) Ritsu: There's something I want to talk to you about... It's about Viola.
 Ritsu: Should I... talk to Arale-chan about it...?
 Ritsu: ?
-(message) Viola: Have you seen this? <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
+(Message) Viola: Have you seen this? http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... 
 Ritsu: ...?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp)
 Viola: Let's do "Lion Dance" for our next cover.
 Arale: I'm telling you, "Robo's House" has to come before "Lion Dance"! Absolutely!
 A-ko: Uh... yeah.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp)
 Ritsu: What... is this?!
 (Background change)
 Ritsu: Arale-chan!
-Viola: ...
+Viola & A-ko: ...
 Viola: Who would post something this awful...?
 Viola: The agency's checking with our video editor now. Some of it came from footage we'd never posted...
 Viola: The video's being flooded with nasty comments, and the agency's getting tons of messages too... Apparently, they can't keep up.
@@ -198,11 +196,11 @@ Viola: Look at this...
 Arale: "Robo's House has to come before Lion Dance! Absolutely!"
 Arale: What's this?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp)
+(Caption): Comments Like others are saying, I didn't know she had such a bad personality She's too toxic, just quit already Probably hated at school too. Idk though Seriously unbelievable, absolute trash
 Arale: "Right? You agree with me, don't you?"
 A-ko: "Uh... yeah."
 Ritsu: "..."
 Arale: Huh? What's going on...?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp)
 Arale: But this video is a lie! If we put out a warning telling everyone not to trust videos like this...
 Arale: Everyone's just confused...
 Staff A: We're terribly sorry!

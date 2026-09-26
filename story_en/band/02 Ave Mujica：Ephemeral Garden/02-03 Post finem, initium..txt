@@ -224,7 +224,7 @@ Nyamu: So cold and distant~
 Host: Then, what does Mortis-san think? Right now, Ave Mujica is such a hot topic!
 Mutsumi: Haa... Haa... Haa...
 Mutsumi: It won't last long.
-Uika: <size=175%>!!
+Uika & Umiri & Nyamu & Sakiko: !!
 Mutsumi: Ah...
 Sakiko: ...!
 Mutsumi: Ah...
@@ -280,7 +280,6 @@ Female Photographer: Ah, that's it, that's it! Yes, wonderful! Just like a doll!
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000022/data/adv_still_charaillust_000022/adv_still_charaillust_000022.webp)
 Mutsumi: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000022/data/adv_still_charaillust_000022/adv_still_charaillust_000022.webp)
 (Background change)
 
 [Win-Wing-Production - Open Space]
@@ -321,7 +320,6 @@ Sakiko: It's enough. I don't have that much luggage.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 Uika: Wow... this doll is so cute.
 Sakiko: It belonged to my mother.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 Uika: Eh...?
 Sakiko: She passed away due to illness.
 Uika: ...!
@@ -349,8 +347,7 @@ Staff: Can you bring Mutsumi-chan's costume? I can't completely fix the makeup, 
 Sakiko: We're out of time. Let's start. Mutsumi, just listen from there.
 Mutsumi: ...
 Sakiko: Tonight is our first masquerade ball as the ones who lost their masks. It's also the first day of the nationwide tour.
-Nyamu: ...
+Nyamu & Uika & Umiri: ...
 Sakiko: Whether we can immerse the audience in Ave Mujica's world today... will determine the true worth of our band!
 Sakiko: Failure is not an option.
 Mutsumi: Haa... Haa...
-:

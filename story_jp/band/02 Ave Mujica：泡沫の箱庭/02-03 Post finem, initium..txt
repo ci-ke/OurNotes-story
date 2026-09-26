@@ -224,7 +224,7 @@
 司会者: それじゃあ、モーティスさんはどう思う？ 今、Ave Mujicaすごく盛り上がってるよね
 睦: はぁ……はぁ……はぁ
 睦: ……長くは続かない
-初華: <size=175%>！！
+初華 & 海鈴 & にゃむ & 祥子: ！！
 睦: ……あっ
 祥子: ……！
 睦: あ……
@@ -280,7 +280,6 @@
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000022/data/adv_still_charaillust_000022/adv_still_charaillust_000022.webp)
 睦: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000022/data/adv_still_charaillust_000022/adv_still_charaillust_000022.webp)
 (Background change)
 
 [Win-Wing-Production オープンスペース]
@@ -321,7 +320,6 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 初華: わぁ……そのお人形、かわいいね
 祥子: 母の形見ですわ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 初華: ……え？
 祥子: 病気で亡くなりましたの
 初華: ……！
@@ -349,8 +347,7 @@
 祥子: 時間がないので始めますわ。 睦はそのままお聞きになって
 睦: ……
 祥子: 今宵は仮面を失ったわたくしたちにとって 初めてのマスカレードであり、これから始まる 全国ツアーの初日ですわ
-にゃむ: ……
+にゃむ & 初華 & 海鈴: ……
 祥子: ここで観客をAve Mujicaの世界に引き摺り込めるか否か…… 今こそ、バンドの真価が問われるのです
 祥子: 失敗はできませんわよ
 睦: はぁ……はぁ……
-:

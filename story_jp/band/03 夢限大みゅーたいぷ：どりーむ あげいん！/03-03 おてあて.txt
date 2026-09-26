@@ -36,15 +36,19 @@ A子: あー、うん
 あられ: もー！　絶対ここがなり入れたほうがいいでしょ！ なんでわかんないかなーっ。録り直し！
 ビオラ: ……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000205/data/adv_still_anime_000205/adv_still_anime_000205.webp)
+(Caption): えれあ性格終わってる こっわ リークされてて草 スタッフからも嫌われてるわな
 あられ: この間の動画？　えーすごい！　伸びてる！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000206/data/adv_still_anime_000206/adv_still_anime_000206.webp)
+(Caption): これが人気メンなのファンて盲目w 他の子かわいそう。知らんけど えれあリーダー気取りゴリ押し
 あられ: チョロいな～
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000207/data/adv_still_anime_000207/adv_still_anime_000207.webp)
 あられ: でも、なんか新しい手打っていかないとね
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000208/data/adv_still_anime_000208/adv_still_anime_000208.webp)
 あられ: 数字は大事！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000205/data/adv_still_anime_000205/adv_still_anime_000205.webp)
+(Caption): えれあ性格終わってる こっわ リークされてて草 スタッフからも嫌われてるわな
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000206/data/adv_still_anime_000206/adv_still_anime_000206.webp)
+(Caption): これが人気メンなのファンて盲目w 他の子かわいそう。知らんけど えれあリーダー気取りゴリ押し
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000207/data/adv_still_anime_000207/adv_still_anime_000207.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000208/data/adv_still_anime_000208/adv_still_anime_000208.webp)
 (Background change)
@@ -111,7 +115,7 @@ A子: あー、うん
 まるくん: マルィ！
 マネージャー: で、ここからが悪い話
 マネージャー: みゅーたいぷのSNSが荒れております
-あられ: <size=150%>ぴゃあーーーーーーーーーーーーーーーーー！！！？？？
+あられ: ぴゃあーーーーーーーーーーーーーーーーー！！！？？？
 ののか: ログアウトしちゃった
 マネージャー: 仲町さーん！！！
 あられ: まだ何もしゃべってないのに……クチは災いのモト…… イワザル……イワザル……イワザル……
@@ -160,16 +164,16 @@ A子: あー、うん
 都子: こっちは１つでも武器増やそうと、 漫画にイラストにバンド練習も死ぬ気でやってるんだ……！
 都子: 裸一貫漫画一本で生きていけるほど 突出してないことなんてわかってるんだよ……
 まるくん: ……まっ、武器は多いほうがいいかもな
-都子: <size=150%>そう！！
+都子: そう！！
 都子: この混沌の世を生き抜くため！ やれることはなんでもやってやる！ チャンスをもらえるだけラッキーなん……う゛ッ！
 まるくん: 発作か！？
 都子: ……っ！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000209/data/adv_still_anime_000209/adv_still_anime_000209.webp)
 都子: ふぅ～～～～っ…………
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000210/data/adv_still_anime_000210/adv_still_anime_000210.webp)
-都子: <size=150%>いやしッ！　いやしが足りないッ
+都子: いやしッ！　いやしが足りないッ
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000211/data/adv_still_anime_000211/adv_still_anime_000211.webp)
-都子: <size=150%>ふ</size><size=140%>あ</size><size=130%>～</size><size=120%>～</size><size=110%>～</size><size=100%>～</size>～～～～～～～……
+都子: ふあ～～～～～～～～～～～……
 都子: きゃわひい……きゃわひいだけが私をいやしてくれりゅ……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000209/data/adv_still_anime_000209/adv_still_anime_000209.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000210/data/adv_still_anime_000210/adv_still_anime_000210.webp)
@@ -179,7 +183,7 @@ A子: あー、うん
 都子: ハッ！
 都子: よしっ…… てっぺんまでにネーム送って明け方までにSDキャララフ５体！
 (Background change)
-都子: <size=200%>生き抜いてやっからなーーーーーっ！！
+都子: 生き抜いてやっからなーーーーーっ！！
 (Background change)
 (Background change)
 (Background change)
@@ -203,7 +207,7 @@ A子: あー、うん
 都子: ……
 ののか: ？
 都子: SNSの件、私のせいでご迷惑をおかけし――
-都子: <size=150%>でェ！！？
+都子: でェ！！？
 都子: な、何故抱き着いて……！？
 ののか: 半分こ！
 都子: ？？？？
@@ -239,7 +243,7 @@ A子: あー、うん
 ののか: ……
 ののか: あられちゃん
 あられ: ？
-あられ: <size=150%>ダ～～～～～～～～～！！！？？？
+あられ: ダ～～～～～～～～～！！！？？？
 あられ: な！！！！？？　ず、頭突きィ！？？？
 ののか: はりゃ？
 ののか: ん～、あられちゃん。手！
@@ -247,10 +251,8 @@ A子: あー、うん
 あられ: あっ、あのッ！　そ、そこはムムムムムムム……ッ！！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000212/data/adv_still_anime_000212/adv_still_anime_000212.webp)
 ののか: あられちゃん…… ののちゃんの気持ち、伝わったカナ……？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000212/data/adv_still_anime_000212/adv_still_anime_000212.webp)
 あられ: えっ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000212/data/adv_still_anime_000212/adv_still_anime_000212.webp)
-あられ: …………
+あられ & ののか: …………
 あられ: いや……
 ののか: ？
 ののか: ゴーンもドクドクも伝わらない？
@@ -278,4 +280,4 @@ A子: あー、うん
 ののか: うん！
 ののか: 都子ちゃんに『ちゅ～』しよう！
 あられ: …………
-あられ: <size=200%>ちゅ～～～～～～～～？？？
+あられ: ちゅ～～～～～～～～？？？

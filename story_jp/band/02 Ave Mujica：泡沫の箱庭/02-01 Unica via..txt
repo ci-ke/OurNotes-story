@@ -17,6 +17,8 @@
 ドロリス: ……！
 オブリビオニス: さあ始めましょう。今宵のマスカレードを！
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4)
+(Caption): KiLLKIss　ライブシーン
 
 [終演後]
 
@@ -59,7 +61,7 @@
 初華: デビューしたばかりでこんなに人気になるなんて やっぱりさきちゃんはすごい
 祥子: 初華のおかげですわ
 祥子: Ave Mujicaのフロントとしてこれ以上は無いと思っています
-祥子: よろしかったんですの？ ……<ruby=・>あ</ruby><ruby=・>の</ruby><ruby=・>時</ruby>、なにも聞かずにわたくしの誘いに乗って
+祥子: よろしかったんですの？ ……あの時、なにも聞かずにわたくしの誘いに乗って
 初華: うん
 祥子: 初華は絶対、水晶とか買わされるタイプの人間ですわ
 初華: あ、ひどいな〜
@@ -95,14 +97,11 @@
 祥子: …… ！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 祥子: 睦、今の方々は？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 睦: 月ノ森で初めてバンドを組んだ、高等部の先輩
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 祥子: バンド…… 睦、わたくし達もバンドをいたしましょう
 睦: え
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
 祥子: バンド、ですわ！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
@@ -114,9 +113,8 @@
 祥子: ？　……あの方、あんなに橋から乗り出して何を……？
 燈: ……あっ
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
-祥子: <size=175%>！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
-祥子: <size=175%>ダメですわ！！
+祥子: ！！
+祥子: ダメですわ！！
 燈: う………
 祥子: いたた……大丈夫ですの？
 祥子: 突き飛ばしたのはごめんなさい…… でも、死ぬのはダメですわ！
@@ -124,7 +122,7 @@
 祥子: あなた、死のうとしたでしょう！？
 燈: ううん…… 持ってた花が風に飛ばされて……手を伸ばしただけ……
 祥子: 花……？
-祥子: <size=125%>花と命、どっちが大事ですの！？
+祥子: 花と命、どっちが大事ですの！？
 祥子: あ、いえ…… 花にも命がありますわね……
 燈: 落ちてた花だから死んでたと思う
 祥子: 死！？　え！？
@@ -135,7 +133,6 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
 祥子: 彼女の自室から歌詞ノートを見つけた時は、 本当に胸が高鳴りましたわ
 祥子: ……この時の出会いは、今でも運命だったと わたくしは思っています
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
 (Background change)
 祥子: ——♪
 燈: ……
@@ -158,7 +155,7 @@
 燈: 初めて、歌詞書いた
 祥子: ……わかりますわ。これは……
 祥子: ……っ……
-燈: <size=200%>！
+燈 & 立希 & そよ & 睦: ！
 そよ: 大丈夫？　祥ちゃん
 祥子: 『春日影』は……わたくしたちの歌ですのね
 祥子: 燈の歌詞にふさわしい曲を書いてみせますわ
@@ -173,9 +170,9 @@ CRYCHIC: はぁ……はぁ……
 そよ: 立希ちゃん、ブロックよりミュートね
 祥子: （……お父様、どうしたのかしら？）
 (Background change)
-(message) 祥子: お父様いらしてます？
-(message) 豊川清告: もう一緒には暮らせない
-(message) 豊川清告: 祥子は幸せになってくれ
+(Message) 祥子: お父様いらしてます？
+(Message) 豊川清告: もう一緒には暮らせない
+(Message) 豊川清告: 祥子は幸せになってくれ
 (Background change)
 祥子: え……？
 睦: ……？
@@ -219,17 +216,17 @@ CRYCHIC: はぁ……はぁ……
 祥子: わたくしがなんとかしなくては。 わたくしが、わたくしが——！
 (Background change)
 祥子: 思ったより早く上がれましたわ。 まだ練習に間に合いますわね
-(message) そよ: 今日は来れそう？
-(message) 祥子: 今まで申し訳ございませんでした。 今日は行けま
+(Message) そよ: 今日は来れそう？
+(Message) 祥子: 今まで申し訳ございませんでした。 今日は行けま
 祥子: ？　一体どなた……？
 祥子: ……はい豊川です。 ……え？
 (Background change)
 祥子: どうしてお酒なんか……！
 清告: 祥子……お父さん、がんばるから……
 祥子: お父様………
-(message) そよ: みんな待ってるよ
-(message) そよ: どうしたの？
-(message) そよ: なにかあったら相談にのるから
+(Message) そよ: みんな待ってるよ
+(Message) そよ: どうしたの？
+(Message) そよ: なにかあったら相談にのるから
 祥子: ……
 祥子: （もう…………これ以上……）
 (Background change)
@@ -237,7 +234,7 @@ CRYCHIC: はぁ……はぁ……
 祥子: 今日は言うことがあって来ましたの
 祥子: CRYCHICを、辞めさせていただきますわ
 立希: ……！
-そよ: え
+そよ & 燈: え
 立希: てか、無責任じゃない？
 燈: でも、祥ちゃんがいないと——
 祥子: 甘ったれたことを言わないでちょうだい！ 燈は特に練習しないといけないのに、 今まで何をやっていたんですの？
@@ -249,7 +246,7 @@ CRYCHIC: はぁ……はぁ……
 祥子: みんなを傷つけた。 だから……この胸の痛みは、わたくしへの罰なのですわ
 (Background change)
 (Background change)
-祥子: <size=175%>わぁああああああ……
+祥子: わぁああああああ……
 (Background change)
 (Background change)
 祥子: （わたくしにはもう、Ave Mujicaしかない）

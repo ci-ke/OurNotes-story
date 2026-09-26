@@ -18,7 +18,7 @@
 マネージャー: いや〜、無理を承知で頼んだのに 本当にありがたいよ
 マネージャー: あとは仲町さんが作詞を頑張ってるところだし…… 今日のところはそれくらいかな
 マネージャー: じゃあまた次の定例で！
-都子: お疲れさまでした お疲れ
+都子 & ユノ: お疲れさまでした お疲れ
 ユノ: ……あのさ
 都子: ？
 ユノ: 藤さん……やっぱキャラ変わった？
@@ -66,7 +66,6 @@
 ユノ: ……食べてるし
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 ユノ: （１人じゃないから）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 ユノ: （そうだよね、みんな）
 ユノ: ……よし
 ユノ: 作業やるか

@@ -9,11 +9,11 @@
 Miku: Um... Where am I supposed to pick up the dorm key?
 Miku: I think I pinned it on the map...
 Miku: (Oh... It's from Mother.)
-(message) Mother: Miku-chan, have you arrived at the dorm?
-(message) Mother: Let me know when you arrive. Your father and Hiro-kun will be worried, you know.
+(Message) Mother: Miku-chan, have you arrived at the dorm?
+(Message) Mother: Let me know when you arrive. Your father and Hiro-kun will be worried, you know.
 Miku: Worried, huh...
-(message) Miku (Miku): Thank you! I'll let you know once I arrive at the dorm and finish unpacking🍀
-Miku: (<r=My>My</r> <r=father>father-in-law</r> and <r=brother>brother-in-law</r> will not be worried about me anyway.)
+(Message) Miku (Miku): Thank you! I'll let you know once I arrive at the dorm and finish unpacking🍀
+Miku: (My father-in-law and brother-in-law will not be worried about me anyway.)
 Miku: (Actually, even mother...)
 (Background change)
 Miku: The move... That's quite far away.

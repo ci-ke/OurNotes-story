@@ -7,8 +7,8 @@
 インタビュアー: 大丈夫ですよ
 ポポ: ビオラが通知切ってないのめずらし
 ベル: いっつも忘れて怒られるの、あたしたちなのに～
-(message) 富士見夜子: 会いたいです
-(message) 富士見夜子: あのお店で待ってます
+(Message) 富士見夜子: 会いたいです
+(Message) 富士見夜子: あのお店で待ってます
 ビオラ: …………
 インタビュアー: ビオラちゃん大丈夫？　緊急の？
 ビオラ: いえ、全然！
@@ -21,7 +21,7 @@
 都子: ――待っていては
 都子: 運命は断ち切れぬ
 (Background change)
-(message) 富士見夜子: 時を進める
+(Message) 富士見夜子: 時を進める
 ビオラ: ……？
 都子: ビオラさん
 ビオラ: ！
@@ -69,10 +69,9 @@
 都子: 惹かれて、探れば探るほど感じました
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000203/data/adv_still_anime_000203/adv_still_anime_000203.webp)
 都子: ららららガールズのキャラ付けをいかんなく 発揮した企画、動画中心の活動
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000203/data/adv_still_anime_000203/adv_still_anime_000203.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000256/data/adv_still_anime_000256/adv_still_anime_000256.webp)
+(Caption): フェアリィブゥケ
 都子: フェアリィブゥケでは反省を生かしてメンバーの個性を尊重、 ある程度自由にさせて、個々人の配信を中心に集客、 イベントで露出のレアリティをコントロール……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000256/data/adv_still_anime_000256/adv_still_anime_000256.webp)
 都子: ただ、今回はそのメンバーの自由なSNSのおかげで ビオラさんを待ち伏せることができました
 ビオラ: ……
 都子: 私は空っぽなんです
@@ -97,13 +96,13 @@
 都子: 先程言った通り、 私は満たされると同じことを反芻してしまう
 都子: 創作者として、それじゃダメなんですよ。 わかりますか？
 ビオラ: いいえ……
-都子: <size=50％>わからないですか！？ 何を書いても全部同じお話になるんですよ！？？</size>
+都子: わからないですか！？ 何を書いても全部同じお話になるんですよ！？？
 都子: 私の作品を、魂を理解してくれたんじゃなかったんですか？ わかったふりをしていただけでは？
 ビオラ: ……わかってるでしょう？
 ビオラ: 私たち、誰よりも上手くやれる
 ビオラ: いっしょに――
 都子: それが……
-都子: <size=60％>つまらないって言ってんだよーーーーーー！！！！！！</size>
+都子: つまらないって言ってんだよーーーーーー！！！！！！
 都子: 私はっ！　みゅーたいぷになる！！
 都子: 考え方も生き方も生きてきた世界も全然違うし、 うるさいしムカツクし押しが強くてイライラするけど、 全部、ひっくるめる！
 都子: いっしょにいると信じられないほど面倒くさいけど、 それでいい！
@@ -112,13 +111,12 @@
 都子: 憎しみでも悲しみでも構わない。 何故か？　それが創作に繋がるからだ！
 都子: 私はもう人を愛さない！ すべての煩悩を捨て去り、創作活動にすべてを捧ぐ！！
 都子: それこそが私！
-都子: <size=80％>藤都子だーーーーーーーーーーー！！！！！</size>
+都子: 藤都子だーーーーーーーーーーー！！！！！
 都子: りん！　ぴょー！　とう　シャッ　かいじんれつざい……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000029/data/adv_still_charaillust_000029/adv_still_charaillust_000029.webp)
-都子: <size=80％>ぜーーーーーーーーーーーーん！！！！！</size>
+都子: ぜーーーーーーーーーーーーん！！！！！
 ビオラ: …………
 都子: …………
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000029/data/adv_still_charaillust_000029/adv_still_charaillust_000029.webp)
 都子: 本日はお忙しい中お呼び立てして申し訳ありませんでした。 私の言いたいことは以上です。では
 (Background change)
 都子: ハァッハァッ……言った…… 言ってしまった……
@@ -146,7 +144,7 @@
 あられ: うーん、ユノさんちゃんから急かされてるんだけどー……
 律: そっか……
 らき: あられちゃん、りっちゃん
-あられ: ！
+あられ & 律: ！
 らき: おはよ～
 ぼた: はよ～
 あられ: おはよ～！
@@ -171,7 +169,7 @@
 律: うん
 あられ: うう～～～～～～～！
 (Background change)
-あられ: ごちそうさまでした
+あられ & 都子: ごちそうさまでした
 ユノ: つら
 あられ: またマグロちゃんですかっ！？
 ユノ: 違う
@@ -239,11 +237,11 @@
 律: その言葉の中から――
 ユノ: ごめんだけど、何の話してる？
 あられ: あ、ええっと……これ
-ユノ: ？
+ユノ & ののか: ？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000281/data/adv_still_anime_000281/adv_still_anime_000281.webp)
+(Caption): @tadamarui ０フォロー中 ０フォロー 歌詞難しい
 あられ: 引きこもってた時から使ってるアカウントで……
 あられ: 喋れなかったぶん…… ここでひとりごとみたいに
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000281/data/adv_still_anime_000281/adv_still_anime_000281.webp)
 都子: あえて裏側を見せて相手を取り込むやり方、全然ありですよ
 都子: 泣き言、同情なんてクソ喰らえですが、この場合、 楽曲に昇華して世間からの見え方を操作するのは妙案かと
 ユノ: キャラ変わった？
@@ -267,10 +265,8 @@
 あられ: はい！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000283/data/adv_still_anime_000283/adv_still_anime_000283.webp)
 あられ: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000283/data/adv_still_anime_000283/adv_still_anime_000283.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000284/data/adv_still_anime_000284/adv_still_anime_000284.webp)
 あられ: ――解除！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000284/data/adv_still_anime_000284/adv_still_anime_000284.webp)
 あられ: わ～～～～～～～～～～～～～～！？？？
 ののか: わ～～～～～～～～～～～～～～～～
 マネージャー: すごい量ね
@@ -301,8 +297,8 @@
 あられ: 自分で公開したけど、はずかしいよ～……
 あられ: あ……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000285/data/adv_still_anime_000285/adv_still_anime_000285.webp)
+(Caption): ぼくはちゃんと喋れるんだ
 あられ: …………
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000285/data/adv_still_anime_000285/adv_still_anime_000285.webp)
 あられ: ぼくは、ちゃんと喋れるんだ――！
 (Background change)
 みゅーたいぷ公式: 新曲！「In my Words」仲町あられ作詞です！ あられからみなさまへ、曲ともうひとつ 届けたいものがあるみたい

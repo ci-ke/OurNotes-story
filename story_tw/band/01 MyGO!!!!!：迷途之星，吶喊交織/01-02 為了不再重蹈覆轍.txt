@@ -47,7 +47,6 @@
 燈：OK繃……妳想用哪一個？
 愛音：咦？好厲害喔，這些全是OK繃！？
 燈：……嗯。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000003/data/adv_still_anime_000003/adv_still_anime_000003.webp）
 愛音：我可以用嗎？
 燈：……嗯。
 愛音：那不好意思囉～每片都有圖案，好可愛喔～ 啊，我喜歡這個企鵝圖案。
@@ -55,7 +54,6 @@
 燈：……！ 那是帽帶企鵝！
 愛音：咦？帽帶？
 燈：牠臉上的花紋不是很像帽帶嗎？ 牠是阿德利企鵝屬，巴布亞企鵝也是這個屬的喔。 這裡還有其他企鵝系列的──
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000016/data/adv_still_charaillust_000016/adv_still_charaillust_000016.webp）
 愛音：高、高松同學也喜歡企鵝嗎？
 燈：咦？我覺得……牠們……很可愛……
 愛音：怎麼說得這麼沒自信呢？
@@ -80,15 +78,15 @@
 愛音：（啊～她又開始沮喪了。 別這麼容易沮喪啦……嗯？）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000004/data/adv_still_anime_000004/adv_still_anime_000004.webp）
+（说明）：A Tempo筆記本 學習筆記本 年　班　姓名　高松燈
 愛音：這個筆記本是高松同學的嗎？ 妳也有在寫日誌啊，我可以看嗎？
 燈：啊，那是……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000004/data/adv_still_anime_000004/adv_still_anime_000004.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000005/data/adv_still_anime_000005/adv_still_anime_000005.webp）
+（说明）：春日影
 愛音：高松同學，妳明明有玩樂團嘛！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000005/data/adv_still_anime_000005/adv_still_anime_000005.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000006/data/adv_still_anime_000006/adv_still_anime_000006.webp）
+（说明）：春日影 內心滿是憔悴　眼神顫抖不止 我在這世界孤獨一人 在不斷凋零的春季中每年都只
 愛音：這首叫《春日影》的歌我沒聽過耶。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000006/data/adv_still_anime_000006/adv_still_anime_000006.webp）
 （背景切换）
 愛音：……
 燈：我已經……沒在玩樂團了。
@@ -148,7 +146,7 @@
 燈：謝謝妳邀我一起組樂團…… 不過……對不起。
 愛音：……小燈──
 立希：──燈！
-燈：！？
+燈 & 愛音：！？
 立希：燈，妳沒事吧！？
 立希：……妳是誰？找燈想幹嘛？
 愛音：問、問我想幹嘛…… 這個人是誰？是小燈的朋友嗎？

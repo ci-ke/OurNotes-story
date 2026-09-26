@@ -25,7 +25,7 @@ Taki: I talked with her.
 Anon: What? You met with Soyo-san? You should have brought us in!
 Tomori: What did Soyo-chan say...?
 Taki: She's...
-Tomori: !
+Tomori & Anon & Taki: !
 Umiri: Sorry to keep you waiting. If you're busy, should I come back another time?
 Taki: No need. The conversation is over.
 Anon: Wait a sec...!
@@ -60,7 +60,7 @@ Taki: She didn't say she's quitting.
 Anon: What? So, you just brought in a new person without asking anyone, Rikki? That's crazy, isn't it? We have to make sure that Soyo-san—
 Taki: She never intended to be part of a new band!
 Taki: Everything she did was to try to bring CRYCHIC back!
-Tomori: ...! ...
+Tomori & Anon: ...! ...
 Taki: She said that she doesn't need you or Rāna... She just used you to tie Tomori and me together!
 Anon: ...
 (Background change)
@@ -88,7 +88,7 @@ Taki: Huh? What are you saying?
 Anon: You don't need me, right?
 Tomori: ! Anon-chan...
 Anon: Tomori-chan, you should play in CRYCHIC with Soyo-san.
-Tomori: ...
+Tomori & Taki: ...
 Tomori: I hate this...
 (Background change)
 Tomori: Being in a band... it's not what I wanted to do...
@@ -184,11 +184,11 @@ Uika: When you sing, it feels like it reaches people, right? Even things you hav
 Tomori: ...
 Uika: Well then, I'm leaving now. I hope your feelings get through.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp)
+(Caption): Tiny me Always a mess People's voices are too far to hear I don't understand the feelings of those nearby I am not human The world is so far away from me Going round and round a lonely planet Even if I stretched as tall as I could I couldn't become human [I couldn't reach] The warm spring spots were erased by the summer sun Those days were crushed against the asphalt Dried up like a lizard I want to stay as a pill bug hiding under a rock I don't want anyone to find me anymore
 Tomori: A song...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp)
+(Caption): Conveyed to someone precious Crying out with a voice that cannot form a poem Song  Poem
 Tomori: This is a song.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp)
 (Background change)
 
 [Haneoka Girls' Academy - Classroom 1-A]

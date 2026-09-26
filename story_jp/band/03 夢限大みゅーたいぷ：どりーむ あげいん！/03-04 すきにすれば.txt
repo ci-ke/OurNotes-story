@@ -14,7 +14,6 @@
 都子: アメ……？
 ののか: 都子ちゃん！
 都子: ！？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000213/data/adv_still_anime_000213/adv_still_anime_000213.webp)
 ののか: ３秒ルールだよっ
 都子: え……
 ののか: タイマー、スタート！
@@ -39,7 +38,7 @@
 都子: ！？　そ、そのスマホケースに挟んでるステッカー！
 都子: 徹夜明けに朝から命がけで並んだのに目の前でなくなった 涙のヨドシマビッグ電機限定ステッカー……！
 あられ: 夜子先生こそ！　それ、来場者全員配布予定が 急遽転売ヤー対策で超レアになってしまった 幻の豊島スパーハイランド限定ステッカーでは！
-あられ: …………
+あられ & 都子: …………
 あられ: （は、話したい……！　マジるるのこと……っ）
 ののか: あられちゃん！　がんばって！
 あられ: はっ！
@@ -153,7 +152,7 @@
 あられ: いえ、クリアファイルも大量に！
 ののか: あんぱんファイル屋さん！
 あられ: そうなんです！　今コンビニで対象商品を２つ買うと お好きなマジるるクリアファイルをゲット！　な キャンペーン中なんです！
-あられ: ホットスナックだと、<size=200%><r=・ ・></size>あの</r>！ ハイパワーミートも再現されて……あっ！！
+あられ: ホットスナックだと、あの！ ハイパワーミートも再現されて……あっ！！
 ののか: ？
 あられ: あの～～～…… ののちゃんさん、あんパン好きですか……？
 ののか: 好き～～！
@@ -168,7 +167,7 @@
 あられ: お～
 都子: （来週まで冷凍パン生活確定……！）
 (Background change)
-都子: いただきまーす いただきます
+都子 & あられ & ののか: いただきまーす いただきます
 あられ: あーむっ
 ののか: もぐもぐ……おいしーねっ
 あられ: ♡
@@ -180,22 +179,28 @@
 ののか: ２人はお外でユノちゃんと会ったことある？
 あられ: ないです
 ののか: いっしょだ……
-都子: ？
+都子 & あられ: ？
 ののか: ののちゃんね、ユノちゃんが大好きだからね、 いーっぱい送ったの
 あられ: 送った？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000216/data/adv_still_anime_000216/adv_still_anime_000216.webp)
+(Caption): 寝グセおそろい！
 ののか: パイナップルでしょ
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000217/data/adv_still_anime_000217/adv_still_anime_000217.webp)
+(Caption): 鳩人間！
 ののか: 鳩でしょ。あと～……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000218/data/adv_still_anime_000218/adv_still_anime_000218.webp)
+(Caption): 沼～！
 ののか: 沼！！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000216/data/adv_still_anime_000216/adv_still_anime_000216.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000217/data/adv_still_anime_000217/adv_still_anime_000217.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000218/data/adv_still_anime_000218/adv_still_anime_000218.webp)
 ののか: そしたらね、あっという間に返信が来るの！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000219/data/adv_still_anime_000219/adv_still_anime_000219.webp)
+(Caption): 寝癖がひどいと、確かに髪の毛がパイナップルみたいに見えることがありますね。朝起きて鏡を見たときに驚いたり笑ったりするのも、寝癖の楽しい（？）一面かもしれません。
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000220/data/adv_still_anime_000220/adv_still_anime_000220.webp)
+(Caption): 鳩が飛んでいる姿は確かに可愛いですね。鳩はよく見るととても愛らしい鳥です。彼らのふっくらとした体や滑らかな飛び方には癒されるものがありますね。
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000221/data/adv_still_anime_000221/adv_still_anime_000221.webp)
+(Caption): お風呂の水が沼のような色になってしまうと、少し心配ですね。お風呂の水が濁ったり変色する原因としては、水質の問題や入浴剤の使用、バクテリア等の繁殖、石鹸やシャンプーの残留物が考えられます。
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000219/data/adv_still_anime_000219/adv_still_anime_000219.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000220/data/adv_still_anime_000220/adv_still_anime_000220.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000221/data/adv_still_anime_000221/adv_still_anime_000221.webp)
@@ -216,19 +221,16 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000222/data/adv_still_anime_000222/adv_still_anime_000222.webp)
 あられ: じーーーーーーーっ……
 ののか: なるほど～……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000222/data/adv_still_anime_000222/adv_still_anime_000222.webp)
 ユノ: …………
 あられ: ののーむずさん！ やっぱり人間にしか見えないですよ！
 ユノ: 邪魔なんだけど……
 ののか: まあまあ、これでも見てくださいな
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000223/data/adv_still_anime_000223/adv_still_anime_000223.webp)
 ユノ: なにこれ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000223/data/adv_still_anime_000223/adv_still_anime_000223.webp)
 ののか: 信号機の画像をすべて選んでください
 ユノ: はぁ……？
 (Background change)
 ののか: 信号機の画像をすべて選んでください
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000223/data/adv_still_anime_000223/adv_still_anime_000223.webp)
 ユノ: ……
 ののか: 最後に、もけーめ星人をすべて選んでください
 ユノ: もけ……？
@@ -237,7 +239,7 @@
 都子: そ、そんな……
 都子: （もし本当に千石さんがAIだとしたら…… そのうち漫画を描くAIだって出てくるかもしれない……！）
 都子: （人気の傾向を分析生成、睡眠要らず…… おしゃべり上手で歌って踊れて…… そ、そんなのやられたら……！）
-都子: <size=200%>人間敗北、失業待ったなし～～～～っ！？</size>
+都子: 人間敗北、失業待ったなし～～～～っ！？
 あられ: ののちゃんさん！　都子さんが大変です！
 ののか: むむっ！
 ののか: クマチェック入ります！
@@ -257,25 +259,24 @@
 律: すみません、権利関係の許諾があるので セットリストを変えるのは難しくて
 律: 『サビだけでも』…… それも、ちょっと……
 律: ？
-(message) ビオラ: 投げ銭もらってるんだし 弾いてあげなよ
+(Message) ビオラ: 投げ銭もらってるんだし 弾いてあげなよ
 律: …………っ
-(message) ビオラ: どうせマネは配信 見てないよ
-(message) ビオラ: ファンサービスは大事❤
+(Message) ビオラ: どうせマネは配信 見てないよ
+(Message) ビオラ: ファンサービスは大事❤
 律: …………わかりました。 少しだけ……
-(message) ビオラ: お利口さん♪
+(Message) ビオラ: お利口さん♪
 (Background change)
 ユノ: …………
 ユノ: ！
 ユノ: また来た……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000224/data/adv_still_anime_000224/adv_still_anime_000224.webp)
 ユノ: はぁ～……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000224/data/adv_still_anime_000224/adv_still_anime_000224.webp)
 ユノ: 今回もAIに任せた
 ユノ: で、コピペ……と
 ユノ: さて、作業の続き……
 ユノ: ……？　音がこない
 ユノ: 電源？　接続？　繋ぎ直してもだめ…… なんでこんなやばい時に……！
-ユノ: だ～～～～～……もう！！　<size=150%>全とっかえだ！！！</size> 予備のケーブルが引き出しに――
+ユノ: だ～～～～～……もう！！　全とっかえだ！！！ 予備のケーブルが引き出しに――
 ユノ: ない……ネ、ネットは
 ユノ: 納期より後じゃん……
 ユノ: あ゛～～～…… あの店なら朝でも……
@@ -285,8 +286,8 @@
 [秋葉原駅]
 
 律: ……？
-(message) ビオラ: 昨日の配信の反省会やろっか
-(message) ビオラ: 学校で待ってるね～
+(Message) ビオラ: 昨日の配信の反省会やろっか
+(Message) ビオラ: 学校で待ってるね～
 律: …………
 律: ！
 律: （あられちゃん……）
@@ -354,5 +355,4 @@
 律: ありがとう……えっと
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000225/data/adv_still_anime_000225/adv_still_anime_000225.webp)
 律: 骨付き肉の人……！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000225/data/adv_still_anime_000225/adv_still_anime_000225.webp)
 ユノ: お食べ……

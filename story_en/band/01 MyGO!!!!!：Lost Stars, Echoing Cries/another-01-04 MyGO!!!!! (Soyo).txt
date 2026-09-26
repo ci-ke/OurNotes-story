@@ -11,8 +11,8 @@ Soyo: ...
 (Background change)
 Soyo: (That day, I got dragged up onto the stage... and ended up becoming part of MyGO!!!!!...)
 Soyo: From Anon-chan...?
-(message) Anon: We're having a get-together after practice today! Everyone, don't forget!
-(message) Soyo: I know.
+(Message) Anon: We're having a get-together after practice today! Everyone, don't forget!
+(Message) Soyo: I know.
 Soyo: *Sigh*...
 Soyo: (So I ended up doing the next live, and now we have a get-together today...)
 Soyo: I feel like I've been getting dragged along this whole time...

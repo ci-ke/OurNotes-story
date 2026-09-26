@@ -15,7 +15,7 @@ Soyo: Anon-chan?
 Anon: Ah! O-Okay!
 Taki: Is she okay...?
 Soyo: Well then, please listen to our song.
-Soyo: !?
+Soyo & Tomori & Taki: !?
 Anon: S-Sorry! I got it wrong! One more time...!
 Anon: H-Huh...?
 Soyo: We're so sorry. This is actually the first time we're performing live, so...
@@ -28,11 +28,13 @@ Tomori: Anon-chan, here... water...
 Anon: T-Thank you...
 Classmates: Anon-chan, Tomori-chan, you can do it~!
 Tomori: That's...
-anon: (I just need to keep this up...)
-taki: (Tomori. Her voice isn't coming out at all.)
-soyo: (She seemed calmer than Anon-chan,)
-soyo: (but still, she can't do it like before...)
-rana: Hehe.
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_hekiten_mygo_07/adv_movie_hekiten_mygo_07/adv_movie_hekiten_mygo_07.mp4)
+(Caption): 碧天伴走　ライブシーン
+(Subtitle) anon: (I just need to keep this up...)
+(Subtitle) taki: (Tomori. Her voice isn't coming out at all.)
+(Subtitle) soyo: (She seemed calmer than Anon-chan,)
+(Subtitle) soyo: (but still, she can't do it like before...)
+(Subtitle) rana: Hehe.
 Tomori: ...
 Anon: Thank you, everyone!!
 Rāna: Hehe...
@@ -40,7 +42,7 @@ Taki: (That's great...! I always wanted to do a live show like this with Tomori!
 Soyo: (Huh... We did it.)
 Soyo: (I need to end it with a greeting.)
 Tomori: I'm so happy that you came...
-Anon: Huh?
+Anon & Soyo & Taki: Huh?
 (Background change)
 Tomori: Before... I couldn't sing well, so everyone went their separate ways.
 Tomori: It hurt. It hurt so much. I never wanted to feel that way again... I thought... I hated bands...
@@ -51,11 +53,13 @@ Sakiko: ...
 Tomori: I...! All I can do is try my absolute hardest!
 Tomori: Because my songs are screams from my heart!
 Sakiko: Tomori...
-anon: What?
-audience: They're really good!
-anon: Thank you~
-anon: Oh, Tomori-chan, you forgot your notes.
-tomori: Ah...
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_haruhikage_mygo_07/adv_movie_haruhikage_mygo_07/adv_movie_haruhikage_mygo_07.mp4)
+(Caption): 春日影　MyGOver（MyGOアニメ7話）　ライブシーン
+(Subtitle) anon: What?
+(Subtitle) audience: They're really good!
+(Subtitle) anon: Thank you~
+(Subtitle) anon: Oh, Tomori-chan, you forgot your notes.
+(Subtitle) tomori: Ah...
 (Background change)
 
 [RiNG - Antechamber]
@@ -67,7 +71,7 @@ Anon: Tomori-chan! You were super good~!!
 Tomori: Really...?
 Taki: Of course. You're really just...
 Soyo: Why?
-Taki: ...?
+Taki & Anon & Tomori: ...?
 Soyo: Why did you do "Haruhikage"!?
 Taki: What?
 Soyo: You said we weren't going to!

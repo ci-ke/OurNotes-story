@@ -74,8 +74,8 @@ Hotaru: "My story hasn't even begun yet."
 Hotaru: "Does it end here?"
 Hotaru: "I want to spill it all. I don't want to die. I'm scared. I want to scream."
 Hotaru: This...
-Kanata: "I want to tell them, I want to reach out, 'Help me.' Hey, why is it only me?"
-Kanata: "But I don't want to be a curse on them."
+Kanata & Hotaru: "I want to tell them, I want to reach out, 'Help me.' Hey, why is it only me?"
+Kanata & Hotaru: "But I don't want to be a curse on them."
 (Background change)
 Hotaru: Haa... Haa... Haa...
 (Background change)
@@ -185,7 +185,6 @@ Hotaru: (Hey, Kanata-san.)
 Hotaru: (This time, I'll make it happen for sure.)
 The Audience: Waahhh!
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000012/data/adv_still_charaillust_000012/adv_still_charaillust_000012.webp)
 Hotaru: (My throat and my fingers. My voice and my keyboard.)
 Hotaru: (Bringing only those with me to this place...)
 Hotaru: (I'll shine. Only for everyone's happiness.)

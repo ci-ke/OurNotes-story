@@ -20,7 +20,6 @@
 
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000020/data/adv_still_charaillust_000020/adv_still_charaillust_000020.webp）
 立希：…………唉
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000020/data/adv_still_charaillust_000020/adv_still_charaillust_000020.webp）
 （背景切换）
 祥子：怎么了？
 立希：……
@@ -116,9 +115,9 @@
 灯：那个，我。 我也想帮忙……
 爽世：……我们能帮忙做点什么吗？ 大家齐心协力，也许就有办法了啊？
 立希：……你的意思是，我靠不住吗？
-爽世：诶……？
+爽世 & 灯：诶……？
 爽世：我不是这个意思——
 立希：我就是没法做得像祥子一样好啊！！
-灯：……！？
+灯 & 爱音：……！？
 爽世：小立希……
 立希：…………

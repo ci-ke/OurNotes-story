@@ -18,12 +18,12 @@
 祥子: ……
 執事: どうなさいました？　お嬢様
 祥子: ……乗りませんわ
-祥子: <size=150%>——行かなければっ！
+祥子: ——行かなければっ！
 (Background change)
 執事: 祥子お嬢様！　危険です、お待ちください！
 (Background change)
 祥子: はぁっ……はぁ……！
-祥子: <size=175%>あっ！
+祥子: あっ！
 祥子: （痛がってる暇なんて、ありませんわ！）
 (Background change)
 祥子: はぁ……はぁ……っ！
@@ -86,7 +86,7 @@
 祥子: わたくしが、声をかけてしまったから
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
-初音: <size=175%>違う！　嬉しかった！
+初音: 違う！　嬉しかった！
 初音: ……誰かのかわりでも
 祥子: ……！
 (Background change)
@@ -133,20 +133,19 @@
 (Background change)
 祥子: ここでいっしょに星を見ましたわね。 あれは……あなた？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
-初音: <size=175%>……！
+初音: ……！
 祥子: やっぱり。星が好きなのは、初音ね
 初音: ！　……っ！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
 (Background change)
 祥子: ……ふぅ
 初音: さきちゃん……？
 祥子: 初音、帰りますわよ
 初音: え？　どこに？
-祥子: <size=150%>東京に決まってますわ！
+祥子: 東京に決まってますわ！
 初音: ええ〜？
 祥子: 近道使えばフェリーに間に合いますわ。 さぁ走りますわよ、初音！
 (Background change)
-初音: <size=150%>ちょ、引っ張らないで。 さ、さきちゃ〜〜〜〜ん！
+初音: ちょ、引っ張らないで。 さ、さきちゃ〜〜〜〜ん！
 (Background change)
 
 [フェリー船上]
@@ -168,17 +167,17 @@
 祥子: ……
 初音: さきちゃん……？　そんなに乗り出したら危な……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
-祥子: <size=175%>いいかげんっ！　うんざりですわーーーっ！！
+祥子: いいかげんっ！　うんざりですわーーーっ！！
 初音: ……！
 祥子: 誰が許さないのっ！？　誰が決めたのっ！ どうして言うことをきかなくちゃいけないのっ！
 祥子: 初音も初音ですわ！　こんの、このっ……！ ばか〜〜〜っ！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
 初音: さきちゃん……
 祥子: なんですの。わたくし怒ってるんですの。 わたくしの覚悟を甘くみないでちょうだい
 初音: ……うん
 (Background change)
 初音: ……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp)
+(Caption): 受信トレイ 日付 差出人 宛先 添付ファイル 送信予定 下書き 豊川定治 祥子について わかっていると思うが、お前と祥子では住む世界が違う 早急に祥子を連れ戻せ。
 初音: ……
 祥子: ぅ……ん
 初音: ……
@@ -197,10 +196,10 @@
 祥子: 豊川、豊川ってそんなに偉いんですか？ わたくしたちが何をしたって言うんですの？
 祥子: 到底受け入れられません！
 定治: お前は豊川の家の恐ろしさを……
-祥子: <size=175%>怖気付いてるのはおじいさまでしょう！
+祥子: 怖気付いてるのはおじいさまでしょう！
 定治: っ！
 祥子: わたくしも出ていきます。 もうおじいさまの言いなりにはなりません
-祥子: <size=175%>ふたりで暮らします！
+祥子: ふたりで暮らします！
 初音: さきちゃん……！
 祥子: お父様のこと、よろしくお願いします！
 定治: ……
@@ -211,7 +210,7 @@
 初音: ……
 初音: 死んじゃうかと思った
 祥子: わたくしも…… あら、初音。肩のところに虫が……
-初音: <size=175%>うわぁあっ！　虫ぃ！？
+初音: うわぁあっ！　虫ぃ！？
 祥子: 動かないで、取ってさしあげますから。 ほら、じっとして
 初音: ……うぅっ！　は、はやく……
 祥子: ……ほら、取れましたわ。 こんなに小さいてんとう虫が怖いんですの？
@@ -220,8 +219,7 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
 初音: も〜〜っ、笑わないでよ〜！ ……ふふっ
 祥子: ふふ
-祥子: <size=150%>あははっ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
+祥子 & 初音: あははっ
 (Background change)
 (Background change)
 初音: これからどうする？
@@ -229,9 +227,9 @@
 祥子: たしかなものなんて、 揺るぎのないものなんて、何一つありませんわ
 祥子: ……こわい？
 初音: ……ううん、さきちゃんと一緒なら
-(message) 海鈴: <color=#1877F2>＠祥子</color>　三角さん見つかりましたか？
-(message) 海鈴: 練習１１時からです
-(message) 海鈴: 今日こそ来てください😭
+(Message) 海鈴: ＠祥子　三角さん見つかりましたか？
+(Message) 海鈴: 練習１１時からです
+(Message) 海鈴: 今日こそ来てください😭
 祥子: 忘れてましたわ。ええ、これから……
 初音: さすがに顔出さないと。 コーヒー淹れるからもうちょっと寝てていいよ
 初音: さきちゃん……だいすき

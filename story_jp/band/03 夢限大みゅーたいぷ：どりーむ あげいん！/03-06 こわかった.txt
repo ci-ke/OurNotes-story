@@ -44,7 +44,7 @@ A子: ん～
 律: ！　私、 クレマチスにします！
 ビオラ: 気に入ってもらえてよかった♡
 (Background change)
-律: <size=150%>クレマチスです。よろしくお願いします！
+律: クレマチスです。よろしくお願いします！
 律: あた～……
 あられ: りっ……！
 ビオラ: クレマチス、大丈夫～？
@@ -81,7 +81,6 @@ A子: ん～
 歌美: 本日は、 みなさまにご報告があります
 歌美: 私、 歌美は 『ららららがーるず』を 脱退することにしました
 歌美: これまで応援してくださったファンのみなさま、 ありがとうございました
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000297/data/adv_still_anime_000297/adv_still_anime_000297.webp)
 (Background change)
 律: そんな……
 あられ: ななな、なんで……
@@ -107,8 +106,8 @@ A子: ん～
 あられ: ね～！
 律: ……！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp)
+(Caption): クレマチスって無個性すぎん？
 律: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp)
 ビオラ: あられちゃ～ん、 こういうの困るって何度も言ってるよね？
 あられ: ？　あ、この間の動画！
 ビオラ: えれあちゃん、 筋トレとかする～？
@@ -166,27 +165,26 @@ A子: ん～
 A子: 確かに。 そっちのほうがいいかも
 ビオラ: どうかな～。 A子もクレマチスも、私のやり方でいいよね？
 ビオラ: ……
-A子: ……っ
+A子 & 律: ……っ
 A子: あー、 うん。ビオラの方に賛成……
 律: ……
 ビオラ: よかった！
 あられ: あっ！　あとでいいから 『ロボの家』 も録ろうよ！ これはこれでサンポPの投稿順通りでいいかも～！
 (Background change)
 律: ……
-(message) 律: ビオラのことで話があって
+(Message) 律: ビオラのことで話があって
 律: ……相談、するべきかな……
 律: ？
-(message) ビオラ: これみた？ <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
+(Message) ビオラ: これみた？ http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... 
 律: ……？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp)
 ビオラ: 次の歌ってみた、『ライオンダンス』 にしようよ
 あられ: だーかーらー『ライオンダンス』 より先に 『ロボの家』 やるべきだって！　絶対！
 A子: あー、うん
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp)
 律: なに、これ……！
 (Background change)
 律: あられちゃん！
-ビオラ: ……
+ビオラ & A子: ……
 ビオラ: こんなひどい動画、 誰が……
 ビオラ: 今動画編集の方に確認とってもらってるの。 投稿されてない動画の内容もあったから……
 ビオラ: でも荒らしコメントとか事務所への問い合わせが たくさん来てて……対応しきれてないみたい
@@ -198,11 +196,11 @@ A子: あー、うん
 あられ: 『ライオンダンスより先にロボの家やるべきだって！　絶対！』
 あられ: 何これ？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp)
+(Caption): コメント 他の人も言ってるけど、こんな性格悪かったんだ 害悪すぎてさっさとヤメロ 学校でも嫌われてそう。知らんけど マジでないしクズすぎ
 あられ: 『ね！　そう思うよね！』
 A子: 『あー、 うん』
 律: 『……』
 あられ: えっ？　なにこれ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp)
 あられ: でも！　こんな動画ウソだし！ 変な動画に気をつけてってぼくたちが発信すれば
 あられ: みんな混乱してるだけ――
 スタッフA: 申し訳ございません！

@@ -6,35 +6,37 @@ Hey, Houka... what are you after?
 
 [Café]
 
-: L-let me introduce myself properly...!
-: Starting today, I'll be working with millsage. My name is Hotaru Shiomi! And I'll be playing piano!
-: I'll give it everything I've got, so... I'm looking forward to playing with you all!
-: Glad to have you. Looking forward to it.
-: Yaaay~♪ Clap, clap~
-: So... why are we at a Café? Aren't we practicing?
-: Now, now. It is a welcome party, after all. Surely there is no harm in that.
-: Here you are, Hotaru-san. Please have a look at the menu.
-: Thank you!
-: Wait... were you already calling Shiomi-san by her first name?
-: Well. Support member or not, we will be in the same band together now.
-: Doesn't it feel warmer that way? Wouldn't you agree, Hotaru-san? ♡
-: Yes! Please call me whatever you like!
-: Now, down to business. If I'm coming back, then I'm not going easy on band stuff either.
-: We've gotta write new songs too... Hotaru!
-: Y-Yes!
-: I'm expecting you to pull your weight too. Got it?
-: As soon as I've got a demo, I'll send it straight to you, middle of the night or not. You listen to it and arrange it.
-: Arrange it...?
-: Right.
-: That's what Kanata used to do, right?
-: If you're gonna call yourself Kanata's apprentice, then you're doing what she did.
-: That's what an apprentice is supposed to do, right?
-: Talk about old-fashioned.
-: You said something?
-: Nope.
-: Hey, you two should stop it now, okay?
-: Hehe, you two get along well♪
-: I-I'll do my best!
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_welcome_party_millsage_11/adv_movie_welcome_party_millsage_11/adv_movie_welcome_party_millsage_11.mp4)
+(Caption): millsageバンスト1章　蛍歓迎会（11話）
+(Subtitle): L-let me introduce myself properly...!
+(Subtitle): Starting today, I'll be working with millsage. My name is Hotaru Shiomi! And I'll be playing piano!
+(Subtitle): I'll give it everything I've got, so... I'm looking forward to playing with you all!
+(Subtitle): Glad to have you. Looking forward to it.
+(Subtitle): Yaaay~♪ Clap, clap~
+(Subtitle): So... why are we at a Café? Aren't we practicing?
+(Subtitle): Now, now. It is a welcome party, after all. Surely there is no harm in that.
+(Subtitle): Here you are, Hotaru-san. Please have a look at the menu.
+(Subtitle): Thank you!
+(Subtitle): Wait... were you already calling Shiomi-san by her first name?
+(Subtitle): Well. Support member or not, we will be in the same band together now.
+(Subtitle): Doesn't it feel warmer that way? Wouldn't you agree, Hotaru-san? ♡
+(Subtitle): Yes! Please call me whatever you like!
+(Subtitle): Now, down to business. If I'm coming back, then I'm not going easy on band stuff either.
+(Subtitle): We've gotta write new songs too... Hotaru!
+(Subtitle): Y-Yes!
+(Subtitle): I'm expecting you to pull your weight too. Got it?
+(Subtitle): As soon as I've got a demo, I'll send it straight to you, middle of the night or not. You listen to it and arrange it.
+(Subtitle): Arrange it...?
+(Subtitle): Right.
+(Subtitle): That's what Kanata used to do, right?
+(Subtitle): If you're gonna call yourself Kanata's apprentice, then you're doing what she did.
+(Subtitle): That's what an apprentice is supposed to do, right?
+(Subtitle): Talk about old-fashioned.
+(Subtitle): You said something?
+(Subtitle): Nope.
+(Subtitle): Hey, you two should stop it now, okay?
+(Subtitle): Hehe, you two get along well♪
+(Subtitle): I-I'll do my best!
 Hotaru: (I'm so glad... Natsume-san actually decided to come back to the band.)
 Hotaru: (When they told me to convince her and settle things through music, I had no idea what I was supposed to do...)
 Hotaru: (But... those sessions were actually kind of fun.)
@@ -43,7 +45,7 @@ Hotaru: (Maybe... I could only see them when I was a child...?)
 Hotaru: (No, I can't assume that. I still don't know why I see those rainbow colors, so I have to keep being careful...!)
 Mahoro: This almost doesn't feel real.
 Mahoro: Just the other day, it was only the three of us playing live, barely holding it together... and talking about disbanding...
-Hotaru: ...
+Hotaru & Nagi & Natsume & Houka: ...
 Mahoro: And now here we are, all together again... talking about the band... It's all because of you, Hotaru-chan.
 Hotaru: N-no, not at all...!  I'll work even harder so I can help more!
 Mahoro: Yeah... I'll do my best too.
@@ -68,7 +70,7 @@ Mahoro: ...! This was Kanata's.
 Houka: She was quite fond of Nikopan-chan, wasn't she?
 Hotaru: So it really was hers... I'm sorry I held on to it for so long. Here, I'll give it back.
 Mahoro: No, thank you for finding it. I thought we'd returned all of Kanata's things back then...
-Nagi: ...
+Nagi & Natsume & Houka: ...
 Mahoro: I'll make sure it gets back to Kanata's family.
 Hotaru: Yes... Please do.
 Mahoro: Sorry, my phone's ringing. I'll step out for a moment.
@@ -91,7 +93,7 @@ Houka: Really, you are terribly suspicious.
 Houka: I did not want millsage to disband, so I took action with Shiomi-san's help. That is all.
 Houka: You do keep a very close eye on things, Nagi-san. I understand why you end up thinking more than most, but...
 Houka: If you think so much that you only keep standing still, does that not become terribly dull?
-Nagi: ...
+Nagi & Houka: ...
 Natsume: Hey, first-years. Don't show off how badly you get along in front of the new girl.
 Houka: My, badly? Not at all.
 Nagi: We're just messing around. That's all.

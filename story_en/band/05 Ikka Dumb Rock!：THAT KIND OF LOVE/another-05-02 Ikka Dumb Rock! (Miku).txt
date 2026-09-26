@@ -8,18 +8,18 @@ Miku: Hehe, nobody gets the heat right at first.
 Classmate: You don't seem to mess up like that, Miku-chan. You're good at cooking, aren't you?
 Miku: Hmm, I'm just average. I've messed up pancakes before too...
 Miku: (Oh, notification...)
-(message) Mother: Miku-chan, you haven't replied. What's going on? When do you think you'll be able to come back?
+(Message) Mother: Miku-chan, you haven't replied. What's going on? When do you think you'll be able to come back?
 Miku: ...
 Classmate: Miku-chan?
 Miku: Oh, sorry. Umm... Yeah, pancake.
 Miku: Sometimes the surface looked like a nice color, but when I cut into it, it was still undercooked inside.
 Classmate: Huh, really~!?
 (Background change)
-Chieri: <size=150%>The culprit is among us!! Chieri already knows!!
+Chieri: The culprit is among us!! Chieri already knows!!
 (Background change)
 Miku: So noisy...! Mind your voice. You're gonna bother the neighbors.
 Chieri: Look at this empty snack bag!!
-Shizuku: !
+Shizuku & Yomogi & Raika: !
 Chieri: Chieri got this from Aunt Akemi yesterday! It's proof of how much she trusts me at my part-time job!
 Chieri: And someone ate it without asking! This is a major crime!!
 Yomogi: B-But Raika-san didn't say anything about it...!
@@ -31,8 +31,8 @@ Shizuku: Yeah, I couldn't stop myself. We ate all of them. My apologies.
 Chieri: Ugh~~~ If sorry were enough, we wouldn't need the police!
 Miku: ...
 Miku: (Again...)
-(message) Mother: Miku, are you busy? You could at least read my messages.
-(message) Mother: Mama's worried, you know? Miku's a good girl, you understand that, right?
+(Message) Mother: Miku, are you busy? You could at least read my messages.
+(Message) Mother: Mama's worried, you know? Miku's a good girl, you understand that, right?
 Miku: (I understand... I understand, that's why...)
 Chieri: Miku, say something too! Raika and others should make it up to Chieri, shouldn't they!?
 Miku: Huh...? Yeah, I guess?
@@ -44,16 +44,16 @@ Raika: Oh, it's me! So this case is closed~!
 Chieri: Ah~~! You ran away! If you run away, you lose!
 (Background change)
 Miku: *Sigh*...
-(message) Mother: Mama's worried, you know? Miku's a good girl, you understand that, right?
-(message) Mother: Or do you want to make Mama worry?
-(message) Mother: You're the one who promised to stay in touch properly, Miku, since we live apart.
+(Message) Mother: Mama's worried, you know? Miku's a good girl, you understand that, right?
+(Message) Mother: Or do you want to make Mama worry?
+(Message) Mother: You're the one who promised to stay in touch properly, Miku, since we live apart.
 Miku: (The last time I replied was three days ago... I really should reply now.)
 Miku: I wonder how long this will last...
 Miku: Hm... Father?
-(message) Father-in-law: Are you getting used to dorm life by now? I will transfer next month's living expenses tomorrow.
-(message) Father-in-law: If you ever need anything, feel free to contact me anytime.
+(Message) Father-in-law: Are you getting used to dorm life by now? I will transfer next month's living expenses tomorrow.
+(Message) Father-in-law: If you ever need anything, feel free to contact me anytime.
 Miku: ? He's told me the same thing before, so why...?
-(message) Father-in-law: Your Mama's really worried about you too. Please get in touch with her.
+(Message) Father-in-law: Your Mama's really worried about you too. Please get in touch with her.
 Miku: Oh... I see now.
 Miku: (You're saying I should reassure mother, right?)
 Miku: (If it's about keeping people happy, you're the one who's better at that, aren't you?)
@@ -69,9 +69,12 @@ Raika: Oh, really! Everyone's got so much to talk about to you, Miku~!
 Miku: *Sigh*... I'm telling you not to make a ruckus in my room.
 Shizuku: Miku, were you doing something on your phone just now?
 Miku: Well... yeah. But I'm finishing it up now.
-(message) Miku: Mother, I'm sorry for making you worry.
-(message) Miku: Life here is busy, but I'm doing fine, so don't worry.
-(message) Miku: If I ever need help, I'll come to you first. Thanks always!😊
+(Message) advchat_miku_01: Mother, I'm sorry for making you worry.
+(Message) Miku: Mother, I'm sorry for making you worry.
+(Message) advchat_miku_01: Life here is busy, but I'm doing fine, so don't worry.
+(Message) Miku: Life here is busy, but I'm doing fine, so don't worry.
+(Message) advchat_miku_01: If I ever need help, I'll come to you first. Thanks always!😊
+(Message) Miku: If I ever need help, I'll come to you first. Thanks always!😊
 Miku: Phew...
 Raika: Hey, Miku, wanna join us for the weeding job? Doesn't it sound fun, doing it together as a family!?
 Miku: No, I won't. And that's a one-off part-time job.

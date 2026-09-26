@@ -46,7 +46,6 @@ Grandmother's Band Member A: "Huh, Raika's calling!? Heeey~~~!! We've got a live
 Grandmother's Band Member C: "You miss us Grannies being around, don't you~!"
 Raika: Ahaha, you're loud! Good to see everyone's doing well~
 Raika's Grandmother: "Well, we're the same as ever. Raika... About family—"
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000010/data/adv_still_charaillust_000010/adv_still_charaillust_000010.webp)
 Raika: Remember back when it rained so hard we couldn't go camping, so we just camped inside "Nest" instead?
 Raika: Remember? I had you set up a tent on the floor!
 Raika's Grandmother: "Huh? Oh yeah... That's because Raika, you were crying your eyes out, saying you absolutely had to go."
@@ -89,7 +88,7 @@ Yomogi: P-P-Please wait!!
 Yomogi: Even if, hypothetically, we somehow manage to get Miku-san back, then what are we gonna do with Suzuki-san!?
 Shizuku: Yeah. This time, we might actually lose the live house.
 Raika: Yeah. So I'm going to hand the live house over to Suzuki-san.
-Yomogi: Huh...!?
+Yomogi & Chieri & Shizuku: Huh...!?
 Yomogi: I-Is that okay!?
 Chieri: There's no way that's okay! We've all been fighting together to protect "Nest"!
 Raika: Yeah, you're right. So... I'm hugging you all at once!!
@@ -102,7 +101,7 @@ Chieri: Please let me go!
 Chieri: *Sigh*... If you were gonna say it with words anyway, you could've just done that from the beginning.
 Raika: A hug isn't even enough to express it! I've received that much huge love from all of you.
 Raika: That's why I'd rather have my family than the home. Let's become a peaceful family, all five of us!
-Yomogi: ...
+Yomogi & Chieri & Shizuku: ...
 Chieri: Very well. If you're prepared to go that far...
 Chieri: Chieri will acknowledge you, Raika, as my rival!
 Raika: Huh, rival!?
@@ -115,7 +114,7 @@ Raika: So that means you're going to help me!? Cherie, thank you!
 Yomogi: Wow~ This is really way too intense...!! I feel like... I can try a little harder together too...!!
 Shizuku: I'll also do my best.
 Raika: Everyone...! Alright, let's all work together to bring Miku back!!
-Chieri: Yes!! Yeah.
+Chieri & Yomogi & Shizuku: Yes!! Yeah.
 Yomogi: Oh... But when you say "bring Miku back," what exactly are we going to do?
 Raika: About that, actually I have an idea...
 (Background change)
@@ -123,25 +122,27 @@ Raika: About that, actually I have an idea...
 [Idol Group In-company Live Show - The Day Of]
 
 (Background change)
-shizuku: That's everyone's share. For now.
-raika: Yeah.
-raika: Let all five of us have a proper meal together tonight.
-yomogi: This... Are we supposed to eat all of it...? I'm so nervous that my heart and stomach are starting to ache...
-chieri: You have to eat it all! Or you won't get fired up!
-raika: Alright... everyone's here.
-raika: Then let's put our hands together...
-everyone: Let's eat~!!
-raika: *Munch*... *Munch*...!
-chieri: *Chew*... *Chew*...!
-shizuku: *Munch*... *Chew*...
-yomogi: Haa... Alright...! *Slurp*...
-yomogi: Hot...!! Ugh...
-chieri: Mm...
-yomogi: ...! Thank you so much...!
-raika: *Chew*... *Chew*...
-yomogi・chieri・shizuku: *Chew*...
-raika: *Munch*...!
-raika: Now, together...
-everyone: Thanks for the meal!!
-raika: Let's go, my family!! Let's bring Miku back!!
-yomogi・chieri・shizuku: Ohh!!
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4)
+(Caption): 一家Dumb Rock!バンスト1章　心玖を取り戻す朝ごはん
+(Subtitle) shizuku: That's everyone's share. For now.
+(Subtitle) raika: Yeah.
+(Subtitle) raika: Let all five of us have a proper meal together tonight.
+(Subtitle) yomogi: This... Are we supposed to eat all of it...? I'm so nervous that my heart and stomach are starting to ache...
+(Subtitle) chieri: You have to eat it all! Or you won't get fired up!
+(Subtitle) raika: Alright... everyone's here.
+(Subtitle) raika: Then let's put our hands together...
+(Subtitle) everyone: Let's eat~!!
+(Subtitle) raika: *Munch*... *Munch*...!
+(Subtitle) chieri: *Chew*... *Chew*...!
+(Subtitle) shizuku: *Munch*... *Chew*...
+(Subtitle) yomogi: Haa... Alright...! *Slurp*...
+(Subtitle) yomogi: Hot...!! Ugh...
+(Subtitle) chieri: Mm...
+(Subtitle) yomogi: ...! Thank you so much...!
+(Subtitle) raika: *Chew*... *Chew*...
+(Subtitle) yomogi・chieri・shizuku: *Chew*...
+(Subtitle) raika: *Munch*...!
+(Subtitle) raika: Now, together...
+(Subtitle) everyone: Thanks for the meal!!
+(Subtitle) raika: Let's go, my family!! Let's bring Miku back!!
+(Subtitle) yomogi・chieri・shizuku: Ohh!!

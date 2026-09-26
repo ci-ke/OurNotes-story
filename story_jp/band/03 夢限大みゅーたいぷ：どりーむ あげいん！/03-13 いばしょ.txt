@@ -17,16 +17,18 @@
 あられ: う゛～～ギィ～～……
 律: あられちゃん……
 あられ: ～～～～～～～～っ……
-あられ: <size=175%>わかった！
+あられ: わかった！
 あられ: もっと、おしゃべりしたい！ みんなのこと、もっともっと知りたい！
 (Background change)
 あられ: だって、ユノさんちゃんの好きなものも、 行きそうな場所も全然わからなかった
 (Background change)
 あられ: だから……
 (Background change)
-arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09.mp4)
+(Caption): 夢みた9話　マジるる変身イメージシーン
+(Subtitle) arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 (Background change)
-あられ: <size=150%>ぼくたちなら変身できる！
+あられ: ぼくたちなら変身できる！
 律: そうだね
 律: ……私たちみゅーたいぷなら、  きっと変われる
 あられ: うん！
@@ -34,13 +36,13 @@ arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 ベル: 私たちに夢を見てほしい…… そう思ってがんばっています
 ポポ: 永遠に醒めない夢を……
 ポポ: ……って
-ベル: <size=175%>ぎゃははは！！
+ベル & ポポ: ぎゃははは！！
 ポポ: 笑い堪えるの大変だったわ
 ビオラ: ……
 ビオラ: （DM……？）
-(message) 富士見夜子: 藤都子です
-(message) 富士見夜子: パフェ、またご一緒できませんか？
-(message) 富士見夜子: 放課後、お店で待ってます
+(Message) 富士見夜子: 藤都子です
+(Message) 富士見夜子: パフェ、またご一緒できませんか？
+(Message) 富士見夜子: 放課後、お店で待ってます
 ビオラ: ……
 ベル: そういえば～これから３人でやってくの？
 ポポ: みゅーたいぷ不仲なんでしょ。 クレマチスの代わりに誰か引き抜いちゃえば
@@ -58,7 +60,7 @@ arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 [翌日]
 
 ののか: 『もう、ため息としか会話してない』
-律: え？
+律 & あられ: え？
 ののか: 『心の居場所って、痛みだけが知ってるよね』
 あられ: あの、さっきからどうされて……
 ののか: ユノちゃん、心のポエムなのです
@@ -81,8 +83,8 @@ arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 ののか: ん－……
 ののか: んー？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000255/data/adv_still_anime_000255/adv_still_anime_000255.webp)
+(Caption): さぶゆの 消えたい 消えてもいいかな さぶゆの 今 可哀想って思った？ 正解だよ
 ののか: …………
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000255/data/adv_still_anime_000255/adv_still_anime_000255.webp)
 ののか: モグモグどんどんだ～……
 (Background change)
 律: ユノさん、どこにいるんだろう……
@@ -95,7 +97,7 @@ arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 律: ……もしかして、  ビオラと会うんですか……？
 都子: ！
 律: だ……だめです……！ それは……
-都子: <size=150%>……！
+都子: ……！
 律: あっ、待って！ ……！
 あられ: 『りっちゃん？』
 律: 今、都子さんを見つけて
@@ -111,8 +113,8 @@ arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 通行人A: フェアリィだ！
 都子: ？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000256/data/adv_still_anime_000256/adv_still_anime_000256.webp)
+(Caption): フェアリィブゥケ
 都子: あ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000256/data/adv_still_anime_000256/adv_still_anime_000256.webp)
 都子: （会いたい……）
 都子: （会いたいです、ビオラさん……）
 ビオラ: 都子さん
@@ -134,8 +136,8 @@ arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 ビオラ: 怖いな
 都子: えっ
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000257/data/adv_still_anime_000257/adv_still_anime_000257.webp)
+(Caption): ビオラ 恋人 ビオラ 自宅 ビオラ １人暮らし ビオラ 好物 ビオラ かわいい ビオラ 仲いい ビオラ 学校
 都子: （ま、まさか勘付いて……）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000257/data/adv_still_anime_000257/adv_still_anime_000257.webp)
 ビオラ: ネットじゃあることないこと好きに言われちゃってるから。 都子さんにどう思われてるか、怖くて……
 都子: ！　なに言ってるんですか！ ビオラさんの動画、遅ればせながらすべて拝見しました！
 都子: どれも素晴らしかった！　あれこそエンターテインメント！ あれこそプロフェッショナル！！
@@ -154,13 +156,11 @@ arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000258/data/adv_still_anime_000258/adv_still_anime_000258.webp)
 ビオラ: どうして？
 都子: あられさんは圧が強すぎるんです！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000258/data/adv_still_anime_000258/adv_still_anime_000258.webp)
 都子: 熱い思いがあって、 すべてに一生懸命だってことはわかります……
 都子: でもっ！　圧が強くて怖くて、 周りのことなんてひとつも見えてない！
 都子: こっちのことなんてお構いなしに、 自分だけがペラペラと喋りまくって一人で満足して！
 都子: 身勝手なんですよ、独りよがりなんですあられさんは！ そもそも、あられさんはっ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000258/data/adv_still_anime_000258/adv_still_anime_000258.webp)
-都子: <size=175%>あられさんは――っ
+都子: あられさんは――っ
 ビオラ: ……
 (Background change)
 都子: ……はっ！？
@@ -182,6 +182,6 @@ arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 律: 口でうまく説明できる自信がなくて。 でも、都子さんにちゃんと伝えたいから
 律: どうぞ、私がまとめた――
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp)
+(Caption): ビオラ ～被害者の心理的プロセスと脱却方法～
 律: 『ビオラ～被害者の心理的プロセスと脱却法～』です！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp)
 都子: …………？

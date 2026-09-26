@@ -50,7 +50,6 @@ Mahoro: Y-yeah.
 Nagi: Then...
 Nagi: (Then why are you so set on moving forward? On reaching higher?)
 Nagi: (Are you... trying to change?)
-Nagi: 
 Nagi: (Is it so wrong to stay right here, just like this? To be a band playing music because we love it...)
 Nagi: (Without trying to become something else...)
 Nagi: (Don't leave me... behind.)
@@ -97,7 +96,7 @@ Mahoro: Ahaha, I got a little carried away practicing at home.
 Nagi: Wait... the garage is unlocked.
 Mahoro: S-sorry. I might have forgotten to lock it yesterday...!
 Natsume: Huh? I hear something. Sounds like Hotaru got here first.
-Natsume: !?
+Natsume & Houka & Nagi & Mahoro: !?
 (Background change)
 Hotaru: —♪
 Natsume: Whoa...
@@ -117,7 +116,7 @@ Natsume: If you could sing, you should've said so sooner.
 Hotaru: N-no! I was just...!
 Houka: If I may, everyone. I have a suggestion...
 Houka: What if Hotaru-san took on vocals as well?
-Mahoro: !?
+Mahoro & Nagi: !?
 Natsume: Hotaru too...? You mean dual vocals?
 Houka: Yes, that would be the idea♪ What do you all think?
 Mahoro: ...

@@ -38,7 +38,7 @@
 朋花: これからもお願いしますね♪
 なつめ: ……はん！　 まあ？　これくらいあたしなら当然だけどね
 まほろ: よーし、じゃあ片付けして帰ろっか
-蛍: はーい はい
+蛍 & 朋花: はーい はい
 凪: …………
 凪: 汐見さん
 蛍: はい。なんでしょう？
@@ -53,7 +53,6 @@
 凪: ありがとね
 凪: （ごめんね）
 凪: これからは、ボーカルとしてもよろしく……蛍
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000034/data/adv_still_charaillust_000034/adv_still_charaillust_000034.webp)
 蛍: ……っ！　はいっ！！
 (Background change)
 

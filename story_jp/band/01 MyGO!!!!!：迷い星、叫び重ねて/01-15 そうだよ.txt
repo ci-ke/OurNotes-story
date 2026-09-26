@@ -4,38 +4,32 @@
 
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000047/data/adv_still_anime_000047/adv_still_anime_000047.webp)
+(Caption): ５年　/組 なまえ 長崎 そよ 一ノ瀬
 そよ: お母さんとお父さんが離婚した時、 すごく寂しい気持ちになったのを覚えてる
 そよ: お母さんと２人で暮らすことになったけど……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000047/data/adv_still_anime_000047/adv_still_anime_000047.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000048/data/adv_still_anime_000048/adv_still_anime_000048.webp)
 そよ: お母さんががんばって働いて、うちはとても裕福になった
 そよ: きれいな家に引っ越して、生活も大きく変わった
 そよ: でも、忙しくなったお母さんは帰ってこないことも多くて
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000048/data/adv_still_anime_000048/adv_still_anime_000048.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000049/data/adv_still_anime_000049/adv_still_anime_000049.webp)
 そよ: きれいな家で、私はずっとひとりぼっちだった
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000049/data/adv_still_anime_000049/adv_still_anime_000049.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000050/data/adv_still_anime_000050/adv_still_anime_000050.webp)
 そよ: 月ノ森に入学したのは、お母さんの希望だったから
 そよ: お母さんは名門の月ノ森に憧れがあったんだと思う
 そよ: ただ、勝手のわからないお嬢様学校はとても心細くて……
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000050/data/adv_still_anime_000050/adv_still_anime_000050.webp)
 そよ: 必要としてもらえたら、 寂しさは消えるのかもしれない
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000053/data/adv_still_anime_000053/adv_still_anime_000053.webp)
 そよ: そう思って、食事を作ったり、洗濯をしたり、 お母さんの代わりに家の仕事をするようになった
 そよ: クラスメイトに誘われて入った吹奏楽部でも、 がんばってコントラバスの練習をした
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000053/data/adv_still_anime_000053/adv_still_anime_000053.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000051/data/adv_still_anime_000051/adv_still_anime_000051.webp)
 そよ: お母さんに頼りにされるようになって、 学校にも居場所はできたけど……
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000051/data/adv_still_anime_000051/adv_still_anime_000051.webp)
 そよ: でも、寂しさはなくならなかった
 そよ: 心のどこかで、 ここは自分がいる場所じゃないような気がして
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000052/data/adv_still_anime_000052/adv_still_anime_000052.webp)
 そよ: 寂しさはずっと消えないのかなって、思ってた。 あの時までは……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000052/data/adv_still_anime_000052/adv_still_anime_000052.webp)
 (Background change)
 祥子: 長崎そよさん？ わたくし、C組の豊川祥子と申します
 祥子: つかぬことをお伺いしますが、 バンドにご興味はありまして？
@@ -60,18 +54,15 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp)
 祥子: 急になんですの……？
 そよ: バンド名も決まったし、 SNSとかも始めようかなーって
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000055/data/adv_still_anime_000055/adv_still_anime_000055.webp)
-そよ: 
 そよ: この５人でいる時は、 寂しいなんて思わなかった
 そよ: カラオケに行ったことも、スタジオで練習したことも、 カフェで話したことも、一緒にステージに立ったことも…… 全部、かけがえのない思い出になった
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000055/data/adv_still_anime_000055/adv_still_anime_000055.webp)
 (Background change)
 そよ: それなのに……
 (Background change)
 祥子: ……CRYCHICを、やめさせていただきますわ
 立希: 燈はお前を待ってたんだよ！
-立希: …………！ …………
+立希 & 祥子: …………！ …………
 そよ: 待って……！　ちゃんと話し合おうよ、ね？ せっかく楽しくやってきたんだから…… 睦ちゃんもそう思うよね？
 睦: …………
 睦: 私は……バンド、楽しいって思ったこと一度もない
@@ -123,7 +114,7 @@
 燈: 楽奈ちゃんも……私が、いたら……
 燈: 私……祥ちゃんも……みんな、傷つけて……
 燈: バンド……やっちゃいけなかったのかな……
-愛音: ……！
+愛音 & 立希: ……！
 立希: そんなわけない！
 立希: ……本当に、燈がバンドやっちゃいけないとかないから
 燈: でも、またみんなバラバラで…… このままじゃ、バンド……

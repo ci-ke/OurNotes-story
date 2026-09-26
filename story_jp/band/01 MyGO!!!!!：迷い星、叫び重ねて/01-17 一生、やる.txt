@@ -48,7 +48,7 @@
 燈: 立希ちゃん……
 燈: 来てくれて、ありがとう
 立希: 燈……
-立希: ……！
+立希 & 燈: ……！
 燈: 睦ちゃん……
 睦: そよ、どうするの？
 立希: なんで知ってんの？
@@ -144,9 +144,11 @@
 燈: …………！
 そよ: 勘違いしないで……！ 終わらせにきたの！
 (Background change)
-soyo: あ……！
-rana: ふふん
-soyo: ちょっと……！
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10.mp4)
+(Caption): 詩超絆　ライブシーン
+(Subtitle) soyo: あ……！
+(Subtitle) rana: ふふん
+(Subtitle) soyo: ちょっと……！
 (Background change)
 燈: ……はぁ、はぁ…………っ
 愛音: ……っ、ありがとうございました！
@@ -160,7 +162,7 @@ soyo: ちょっと……！
 立希: 燈！　大丈夫……？
 燈: ライブ、終わったら…… 力抜けて……
 そよ: ……ここには、終わらせに来たの
-立希: ……！
+立希 & 燈: ……！
 そよ: なのに……なんで？ もうわからないよ……！
 そよ: 私、みんなを利用してたんだよ！
 燈: それでも……一生、やる……

@@ -53,20 +53,17 @@
 愛音：讓我感覺自己就是這間學校的中心人物呢。
 愛音：不過這一切都只是生活過得太順遂， 讓我產生了這種錯覺而已。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000042/data/adv_still_anime_000042/adv_still_anime_000042.webp）
+（说明）：出境航班資訊 出境（北口）
 愛音：我想說自己擅長英文， 就憑著這股氣勢決定留學，離開了日本， 但實際的生活卻和想像中完全不同。
 愛音：我以為在英國也能像國中時一樣， 成為學校的中心人物……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000042/data/adv_still_anime_000042/adv_still_anime_000042.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000001/data/adv_still_anime_000001/adv_still_anime_000001.webp）
 愛音：但在實際自我介紹時就碰到了困難。 我想說的話，有一半都說不出口……
 愛音：而且大家都是很有想法的人， 來留學都是因為對未來有規劃……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000001/data/adv_still_anime_000001/adv_still_anime_000001.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000043/data/adv_still_anime_000043/adv_still_anime_000043.webp）
 愛音：僅憑毫無來由的自信就跑來留學的我， 在那裡顯得格格不入。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000043/data/adv_still_anime_000043/adv_still_anime_000043.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000044/data/adv_still_anime_000044/adv_still_anime_000044.webp）
 愛音：結果，別說是成為學校中心人物， 我連朋友都沒交到就回日本了。
 燈：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000044/data/adv_still_anime_000044/adv_still_anime_000044.webp）
 愛音：剛才遇見的是我國中時的朋友。 因為穿著制服，所以留學失敗的事被她們知道了。
 愛音：我的人生總是在逃避。 本來打算重新開始的……我的人生已經失敗了吧。
 燈：妳沒有失敗……！
@@ -77,8 +74,8 @@
 愛音：咦，等等……妳要去哪？
 燈：這個。
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000045/data/adv_still_anime_000045/adv_still_anime_000045.webp）
+（说明）：沒有逃避 逃走的路？ 逃避 迷惘…
 愛音：「逃避也無所謂」、「迷失」……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000045/data/adv_still_anime_000045/adv_still_anime_000045.webp）
 燈：……愛音一直在前進著。 就算碰到了死路，也還是會去尋找其他路…… 試著繼續前進……
 燈：而且妳也拉了我一把……還成功組了樂團。 妳讓我知道就算前進……也不會結束……
 燈：我也…… 我也一樣……就算迷失方向也想前進……
@@ -90,14 +87,13 @@
 （背景切换）
 立希：……
 爽世：……不曉得她們跑到哪去了。
-爽世：……啊。
-愛音：……
+爽世 & 立希：……啊。
+愛音 & 燈：……
 燈：那個……
 燈：……！
 愛音：我們要……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000006/data/adv_still_charaillust_000006/adv_still_charaillust_000006.webp）
 愛音：參加演出！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000006/data/adv_still_charaillust_000006/adv_still_charaillust_000006.webp）
 （背景切换）
 
 【RiNG 錄音室】
@@ -125,7 +121,7 @@
 爽世：呵呵，小燈的新歌 正好能在第一次演出時演奏。
 爽世：……小希， 這可是小燈為重新出發的我們寫出來的歌喔。
 立希：……我知道了。我負責作曲。
-爽世：『咦？』 『咦？』
+爽世 & 燈 & 愛音：『咦？』 『咦？』
 爽世：小希妳也會作曲嗎？
 立希：還在學就是了。 既然燈為我們寫了歌詞，就由我來吧。
 （背景切换）
@@ -159,7 +155,7 @@
 立希：我蹺掉了。
 爽世：咦？
 立希：……我把曲子寫好了。
-燈：咦！
+燈 & 愛音：咦！
 爽世：這麼快！？ 小希妳好厲害！
 愛音：真的假的？
 立希：我放到手機裡了，聽聽看吧。 ……要播囉？
@@ -173,19 +169,19 @@
 燈：嗯……我會加油的。
 立希：啊……！是嗎…… 妳能滿意真是太好了。
 立希：那我把樂譜傳到群組， 趕快開始練習──
-立希：……？
+立希 & 爽世 & 燈 & 愛音：……？
 樂奈：……在這裡。
 立希：啊，野貓來了！ 妳來幹嘛……！？
 樂奈：來玩樂團。
 立希：沒有給妳演奏的部分。
 樂奈：沒關係，我要彈。
-立希：……！
+立希 & 爽世 & 燈 & 愛音：……！
 立希：真的假的……
 爽世：只是看了一下樂譜， 就能做出這種即興改編……
 愛音：唔……她的吉他技術果然好厲害……
 樂奈：會彈了。來玩樂團吧。
 愛音：可、可是，沒有能給她演奏的部分吧？ 而且Rikki的曲子才剛完成……
 立希：不……我要加入這段再重寫一份。
-爽世：咦！？
+爽世 & 愛音：咦！？
 立希：野貓…… 從明天開始，記得每天來練習。
 樂奈：……

@@ -159,8 +159,8 @@ Anon: (Yay~~~~!! I love you, Soyo-san!!)
 Soyo: I see. So, Tomori-chan turned it down. Well, she is a sensitive girl~
 Anon: ...?
 (Background change)
-(message) Anon: Thank you for today~ It's totally okay with me if you're just a support member. I'm just super happy to get to be in a band with you!
-(message) Anon: I'm looking forward to everything from here on out!
+(Message) Anon: Thank you for today~ It's totally okay with me if you're just a support member. I'm just super happy to get to be in a band with you!
+(Message) Anon: I'm looking forward to everything from here on out!
 Anon: That's a relief... I might be able to build a band.
 Anon: I wonder if I'll be able to start over this way.
 Anon: ...
@@ -175,9 +175,9 @@ Anon: She's sensitive, huh...? I might have been a little too pushy about it.
 (Background change)
 Soyo: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000007/data/adv_still_anime_000007/adv_still_anime_000007.webp)
+(Caption): Notification Center Anon Thank you for today~ It's totally okay with me if you're just a support member. I'm just super happy to get to be in a band with you! Anon I'll be counting on you😊
 Soyo: Maybe later.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000008/data/adv_still_anime_000008/adv_still_anime_000008.webp)
+(Caption): Post  Following
 Soyo: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000008/data/adv_still_anime_000008/adv_still_anime_000008.webp)
 (Background change)
-:

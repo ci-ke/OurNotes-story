@@ -22,7 +22,7 @@
 [RiNG 前室]
 
 愛音: あのっ、『迷子のバンド』です！
-そよ: よろしくお願いします
+そよ & 立希: よろしくお願いします
 燈: あ……お願いします
 立希: ギリギリですみません
 沙綾: ううん、大丈夫だよ～
@@ -47,7 +47,7 @@
 燈: 私の、出番……
 そよ: ……それより、早くステージに行かないと
 立希: ……ちょっと待って
-燈: ……？
+燈 & 楽奈: ……？
 そよ: どうしたの、急に？
 立希: ……燈
 燈: ？　立希ちゃん？
@@ -82,6 +82,8 @@
 燈: ……立希ちゃん
 立希: うん
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4)
+(Caption): 迷星叫　ライブシーン
 (Background change)
 燈: …………
 愛音: ありがとうございました！ 『迷星叫』でした！
@@ -110,17 +112,18 @@
 燈: でも、今ここにいる……
 燈: もう、何があっても離さない……
 燈: 一生、離さないからっ！！
-そよ: …………
-愛音: …………
+そよ & 立希: …………
+愛音 & 楽奈: …………
 燈: 私たち『MyGO』の曲、聴いてください……！
 (Background change)
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4)
+(Caption): 迷路日々　ライブシーン
 (Background change)
 燈: ……次が最後の曲です！
 燈: 今日はありがとうございました。 MyGOでした！
 燈: ……迷子でもいい
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp)
 燈: 迷子でも進め！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp)
 (Background change)
 
 [RiNG 前室]
@@ -139,12 +142,10 @@
 愛音: それなら、もっといいこと思いついた！ MyGOのあとに『！』を５つ足して……！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp)
 愛音: 『MyGO!!!!!』
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp)
 愛音: よくない！？ この方が進んでる感あるよ！
 立希: ……これって、うちら５人ってこと？
 そよ: 愛音ちゃんそういうことするよね
 愛音: えー！　絶対これだってー！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp)
 燈: ……『MyGO!!!!!』……
 楽奈: ふわぁ……眠い……
 愛音: 楽奈ちゃん！？ わーー、ここで寝ないで！
@@ -156,7 +157,6 @@
 燈: ……そよちゃん……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 燈: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 (Background change)
 燈: （……『MyGO!!!!!』……）
 燈: （迷っても、一緒に……！）

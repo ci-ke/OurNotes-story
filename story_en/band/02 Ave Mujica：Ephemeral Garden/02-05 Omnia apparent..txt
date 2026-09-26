@@ -138,7 +138,7 @@ Sakiko: W-Wait, what are you doing all of a sudden?
 Mutsumi?: Uika-chan and Umiri-chan, come join too!
 Umiri: No choice, I guess.
 Uika: I was trying not to overlap with my sumimi image, though.
-Mutsumi?: <size=175%>Everyone, gather together and strike a pose!
+Mutsumi?: Everyone, gather together and strike a pose!
 (Background change)
 Female Photographer: Yeah, it's amazing! It feels like the new Ave Mujica.
 Nyamu: Wow, it's really great! I love this photo~
@@ -185,7 +185,6 @@ Nyamu: Ma~ma~
 Nyamu's Mother: "Why ya soundin' so down? What happened?"
 Nyamu: Ugh, where do I even start~?
 Nyamu: I thought for sure I'd grab myself an opportunity in Tokyo, but turns out I'm surrounded by geniuses.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000024/data/adv_still_charaillust_000024/adv_still_charaillust_000024.webp)
 (Background change)
 Nyamu's Mother: "Oh dear, how'd it come to this?"
 Nyamu: Yeah. I thought I could bounce off Muuko during today's recording, but she completely took over and I couldn't get a word in edgewise~.
@@ -193,7 +192,7 @@ Nyamu: That's why, even though I don't usually drink this stuff, I went and boug
 Nyamu's Mother: "Don't worry. Your name Nyamu."
 Nyamu's Mother: "It means wheat only grows stronger after bein' trampled on. Tomorrow, you'll be somethin' even more amazin', ya hear?"
 Nyamu: Ugh... Mama~
-Nyamu's Younger Sister: "Mama! I want to talk to sister~ Mama! I want to talk to Nyamu-sister~"
+Nyamu's Younger Sister & Nyamu's Younger Brother: "Mama! I want to talk to sister~ Mama! I want to talk to Nyamu-sister~"
 Nyamu: Wait your turn! Don't y'all fight~
 Nyamu's Younger Sister: "Nyamu-sister, thank ya for the cat plushie!"
 Nyamu's Younger Brother: "Sister, you were on TV. I'm so proud~!"
@@ -216,7 +215,7 @@ Staff: Mortis-san, your guitar.
 Mutsumi?: I don't need a guitar~
 Sakiko: Mutsumi, what are you saying?
 Mutsumi?: Because I don't know how to play guitar at all.
-Sakiko: <size=175%>Huh?
+Sakiko & Umiri & Uika & Nyamu: Huh?
 (Background change)
 Sakiko: What do you mean by that?
 Nyamu: But you've been playing it all this time!
@@ -251,9 +250,9 @@ Sakiko: That's...
 Sakiko: "Sakiko-chan"? Mutsumi... wouldn't call me that.
 Sakiko: Are you... really Mutsumi?
 Mutsumi?: Mutsumi-chan is already dead.
-Sakiko: <size=175%>...!
+Sakiko: ...!
 Mutsumi?: Ah, I got it wrong. It's more like she's asleep, as if dead.
-Sakiko: <size=175%>Don't joke around!
+Sakiko: Don't joke around!
 Mutsumi?: I'm serious.
 Sakiko: What do you mean by "asleep"? Explain it to me!
 Mortis: My name is Mortis.
@@ -321,7 +320,7 @@ Nyamu: What are you suggesting?
 (Background change)
 Sakiko: I want Mutsumi back.
 Nyamu: You fool! I'll quit.
-Umiri: <size=175%>!!!
+Umiri & Uika & Mortis & Sakiko: !!!
 Nyamu: When I saw your clothes at first, I thought you were sloppy, but then I assumed you'd leave your high-society status behind to take this seriously.
 (Background change)
 Nyamu: I really thought we'd climb to the top together.
@@ -338,7 +337,7 @@ Uika: If I hadn't said it back then...
 Mortis: Uika-chan, you are always lying. Didn't you say it was because you wanted to stay with Sakiko-chan?
 Uika: ...
 Mortis: That's why we don't have to disband!
-Umiri: ...
+Umiri & Uika & Nyamu & Sakiko: ...
 Mortis: I don't want it! Absolutely not! We absolutely won't disband!
 Mortis: A band is about playing music together and destinies becoming one! Our mission is none other than to give our guests a dream-like experience!
 Mortis: Now is the time to determine the true value of the band! Sakiko-chan, isn't Mujica the only thing you have left in this world?
@@ -360,7 +359,6 @@ Nyamu: When you acted as a doll, honestly, it scared me to the point of tremblin
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 Mortis: I saw the strings pulled tight, then snap.
 Nyamu: Even though I felt frustrated, I realized that this is what true genius looks like...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 Nyamu: You shouldn't belong here.
 Mortis: Why? Why would you be mean to me? Is it because I can't play the guitar? Say something!
 Mortis: Nobody's leaving, right? We'll stay together as a band, right?
@@ -379,4 +377,4 @@ Mortis: But I'm still here!
 Doloris: With tonight's masquerade—
 Mortis: Stop! Don't say it!
 Doloris: We announce the curtain call of Ave Mujica.
-Mortis: <size=175%>Nooooooo!
+Mortis: Nooooooo!

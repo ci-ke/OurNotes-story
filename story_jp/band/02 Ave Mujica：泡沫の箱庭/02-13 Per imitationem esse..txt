@@ -75,7 +75,6 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000023/data/adv_still_charaillust_000023/adv_still_charaillust_000023.webp)
 海鈴: やっぱり事務所じゃないですか
 にゃむ: ちょ、なにやってんの
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000023/data/adv_still_charaillust_000023/adv_still_charaillust_000023.webp)
 海鈴: 会いたくなって
 にゃむ: ぜったい嘘
 にゃむ: あ。その袋、にゃむちコーデじゃん
@@ -106,7 +105,7 @@
 にゃむ: そんな一気に飲むと、けぷってなるよ？
 海鈴: うっ……ううぅ
 にゃむ: 大丈夫？　やばくない？
-海鈴: <size=175%>〜〜〜〜〜っ！　ぷはぁっ！
+海鈴: 〜〜〜〜〜っ！　ぷはぁっ！
 海鈴: はぁ……はぁ……古傷が痛みます
 にゃむ: あ？　ジンジャーエールで？
 海鈴: 飲まないとやってられない。沁みる過去があるんです
@@ -175,9 +174,10 @@
 (Background change)
 (Background change)
 初華: ……
-(message) 海鈴: Ave Mujicaをやりませんか
+(Message) 海鈴: Ave Mujicaをやりませんか
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp)
+(Caption): 投稿 ８いいね りっきーのドラムセットに潜入！ いつもと全然メンバーの見え方ちがう😆 誰とも目合わない💦 #MyGO　#ANON　#Drum
 (Background change)
 初華: ……っ
 語り部: いくら飾りたてたとしても、本物にはなれない

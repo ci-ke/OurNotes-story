@@ -8,9 +8,13 @@ Mana: So, this is Mana's first time on a stage play. Minami-san taught me a lot.
 Uika: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000141/data/adv_still_anime_000141/adv_still_anime_000141.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000142/data/adv_still_anime_000142/adv_still_anime_000142.webp)
+(Caption): ANON TOKYO 178 Posts 835 Following Follow Message
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000143/data/adv_still_anime_000143/adv_still_anime_000143.webp)
+(Caption): See you #CRYCHIC
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000142/data/adv_still_anime_000142/adv_still_anime_000142.webp)
+(Caption): ANON TOKYO 178 Posts 835 Following Follow Message
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000143/data/adv_still_anime_000143/adv_still_anime_000143.webp)
+(Caption): See you #CRYCHIC
 Uika: ...
 Mana: I'm going out to dinner with her after work today too. Ui-chan, you can join us if you want.
 Mana: Ui-chan? Are you okay?
@@ -28,14 +32,13 @@ Mortis: So, do you mean I should disappear?
 Mutsumi: ...
 Mortis: ...! Mutsumi-chan and Sakiko-chan, you don't understand anything! You will be in trouble without me, Mutsumi-chan!
 Mutsumi: Mortis, listen to me.
-Mortis: <size=175%>NO!
+Mortis: NO!
 (Background change)
 Mortis: Haa... Haa... I will not listen to you...
 (Background change)
 Sakiko: (Mortis wants Mutsumi to continue playing as Ave Mujica.)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 Sakiko: (The days when Mutsumi suffered and fell apart will continue on into the future...)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 Sakiko: (I can't let that happen... I can't continue as Ave Mujica.)
 Sakiko: (I shouldn't.)
 Housekeeper: I am sorry. She wants to play guitar today.
@@ -60,7 +63,7 @@ Anon: That's fine... what's the matter?
 Tomori: ...
 Sakiko: I will be straightforward.
 Sakiko: Tomori, would you reunite CRYCHIC with me again?
-Anon: <size=175%>...!
+Anon & Tomori: ...!
 Sakiko: I... Both Mutsumi and I are serious.
 Tomori: Mutsumi-chan...
 Sakiko: Yes... Mutsumi wants to revive CRYCHIC.
@@ -69,15 +72,16 @@ Sakiko: If Mutsumi wants CRYCHIC, I want to make it happen.
 Anon: I-is that...
 Sakiko: Of course, I will not cause any trouble for MyGO!!!!! I'm well aware that you can't respond right away.
 Sakiko: I'm going to talk to Taki and Soyo as well.
-Anon: ...
+Anon & Tomori: ...
 (Background change)
 (Background change)
 Soyo: Goodbye. See you tomorrow.
-(message) Taki: We've been slacking lately after the live.
-(message) Soyo: Is that so?
-(message) Taki: For sure, gotta decide the next one.
-(message) Anon: Sorry, can I change topics for a bit?
-(message) Anon: Sakiko-chan wants to revive CRYCHIC for Mutsumi-chan.
+(Message) Taki: We've been slacking lately after the live.
+(Message) advchat_soyo_group_01_nosound: Is that so?
+(Message) Soyo: Is that so?
+(Message) Taki: For sure, gotta decide the next one.
+(Message) Anon: Sorry, can I change topics for a bit?
+(Message) Anon: Sakiko-chan wants to revive CRYCHIC for Mutsumi-chan.
 Soyo: ...
 (Background change)
 
@@ -104,14 +108,13 @@ Anon: I'll try that one too! Excuse me! Can I get a Hazawa blend?
 Anon: I was so surprised to get a message from Uika-chan. What did you want to talk about today...
 Uika: Um... I want to ask about CRYCHIC. This.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp)
+(Caption): Post 8 Likes Sneaking into Rikki's drum set! The members look completely different from this angle😆 I can't make eye contact with anyone💦 #MyGO #ANON #Drum
 Uika: Do you know anything about it?
 Anon: Is it the one Soyorin posted? They performed live recently~ This is a photo from that time.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp)
-Uika: <size=175%>...!
+Uika: ...!
 Anon: Tomorin wrote new lyrics, and used MyGO!!!!!'s rehearsal time...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp)
 Uika: (Saki-chan... looks so happy... This expression... she never showed it in Ave Mujica...)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp)
 Anon: Sakiko-chan wants to continue CRYCHIC~
 Uika: Eh?
 Anon: But why do you want to know about CRYCHIC...
@@ -137,15 +140,15 @@ Nyamu: "I'm..."
 Interviewer: Yūtenji-san? Are you okay?
 Nyamu: Ha... Haa... Haa...
 (Background change)
-Nyamu: <size=175%>...!!
+Nyamu: ...!!
 Nyamu: (How pathetic!! Why did that happen at the most important time...!?)
 Nyamu: (The band is over...! I have to use everything as a stepping stone to move forward, but this...!)
 Candidate A: That was terrible! My partner froze up~
 Candidate B: Huh, that's annoying. It was Nyamuchi, right?
 Candidate A: Don't come here casually just because the band failed.
-Nyamu: <size=175%>...!! ~~~!!
+Nyamu: ...!! ~~~!!
 (Background change)
-(message) Umiri: Wakaba-san has decided to join.
+(Message) Umiri: Wakaba-san has decided to join.
 (Background change)
 Nyamu: Ah...
 (Background change)
@@ -160,7 +163,7 @@ Taki: Ah, yeah... Did you hear something?
 Umiri: What's something?
 Taki: Did you do something to Mutsumi?
 Umiri: ...! What do you mean by something?
-Uika: <size=175%>Umiri-chan! I will be in Ave Mujica!
+Uika: Umiri-chan! I will be in Ave Mujica!
 Umiri: Eh? Okay.
 Taki: ...?
 Uika: ...! That's all.
@@ -168,7 +171,7 @@ Taki: Huh, what...?
 Umiri: Did you do something? It's quite something to be glared at by Misumi-san.
 Taki: Huh?
 (Background change)
-Uika: <size=175%>President, please!
+Uika: President, please!
 President Katsuura: Uika-chan, look up.
 Uika: I know it's selfish. Still, I want to revive Ave Mujica!
 President Katsuura: *Sigh*... I understand how you feel. I still can't approve it.
@@ -189,6 +192,7 @@ Uika: ...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000147/data/adv_still_anime_000147/adv_still_anime_000147.webp)
 (Background change)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000148/data/adv_still_anime_000148/adv_still_anime_000148.webp)
+(Caption): Stored Costumes Ave Mujica Oblivionis Discarded
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000149/data/adv_still_anime_000149/adv_still_anime_000149.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
 Uika: Saki-chan...!

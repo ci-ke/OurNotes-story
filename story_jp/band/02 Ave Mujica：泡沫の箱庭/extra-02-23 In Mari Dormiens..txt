@@ -31,29 +31,31 @@
 少女: これからも楽しみにしてるよ。 オブリビオニス、忘却の女神
 祥子: お待ちになって、あなたは——
 (Background change)
-sakiko: ここは……フロア？　初華……？
-uika: ……！　さきちゃん！
-uika: よかった、気がついたんだ
-sakiko: ……わたくしは、一体
-uika: 覚えてない？　ひとりで踊ってたんだよ？
-uika: あ、ごめん
-uika: 様子がおかしかったから……
-sakiko: そう……あなたが……
-uika: えっ？
-sakiko: まだ音楽は鳴りやんでいませんわ
-uika: でも私、ワルツなんて……！
-sakiko: 初華
-sakiko: すべてをわたくしに委ねて
-uika: ……うん！
-audienceh: 素晴らしい！　エクセレント！
-thegirl: わぁ！　素敵なダンス！
-sakiko: ！　この声、先ほどの——？
-uika: あはは、さきちゃんすごい……！
-sakiko: ふふ……初華こそ。さすがアイドル、ダンスはお手のものですわね
-uika: ねえ、さきちゃん……さっき何が——
-sakiko: ——時間ですわ。 行きますわよ、初華
-sakiko: 本当のマスカレードというものをお見せして差しあげましょう
-uika: うん……！
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mujica_exstory_03_01/adv_movie_mujica_exstory_03_01/adv_movie_mujica_exstory_03_01.mp4)
+(Caption): Mujicaエクストラ　ダンスシーン（3話）
+(Subtitle) sakiko: ここは……フロア？　初華……？
+(Subtitle) uika: ……！　さきちゃん！
+(Subtitle) uika: よかった、気がついたんだ
+(Subtitle) sakiko: ……わたくしは、一体
+(Subtitle) uika: 覚えてない？　ひとりで踊ってたんだよ？
+(Subtitle) uika: あ、ごめん
+(Subtitle) uika: 様子がおかしかったから……
+(Subtitle) sakiko: そう……あなたが……
+(Subtitle) uika: えっ？
+(Subtitle) sakiko: まだ音楽は鳴りやんでいませんわ
+(Subtitle) uika: でも私、ワルツなんて……！
+(Subtitle) sakiko: 初華
+(Subtitle) sakiko: すべてをわたくしに委ねて
+(Subtitle) uika: ……うん！
+(Subtitle) audienceh: 素晴らしい！　エクセレント！
+(Subtitle) thegirl: わぁ！　素敵なダンス！
+(Subtitle) sakiko: ！　この声、先ほどの——？
+(Subtitle) uika: あはは、さきちゃんすごい……！
+(Subtitle) sakiko: ふふ……初華こそ。さすがアイドル、ダンスはお手のものですわね
+(Subtitle) uika: ねえ、さきちゃん……さっき何が——
+(Subtitle) sakiko: ——時間ですわ。 行きますわよ、初華
+(Subtitle) sakiko: 本当のマスカレードというものをお見せして差しあげましょう
+(Subtitle) uika: うん……！
 (Background change)
 
 [数時間後]
@@ -87,7 +89,7 @@ uika: うん……！
 (Background change)
 祥子: （あれは白昼夢……？ それとも、少女の姿を借りた何かが見せた幻影……？）
 祥子: （いいえ、あれはきっと——）
-祥子: わたくしの覚悟は揺るぎませんわよ。 ——<r=あなた>悪魔</r>がいくら惑わそうとも
+祥子: わたくしの覚悟は揺るぎませんわよ。 ——悪魔がいくら惑わそうとも
 祥子: っ！　すごい風………
 祥子: ……美しき花は、ここに眠るべきですわね
 (Background change)

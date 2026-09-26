@@ -8,23 +8,23 @@ Yuno: (And the guitar... Yeah, this should work.)
 Yuno: Phew...
 Yuno: Hm? A message from Miyanaga-san...
 Yuno: (A photo... She's doing a bridge on a bridge...)
-(message) Nonoka: Bridge on a Bridge!
+(Message) Nonoka: Bridge on a Bridge!
 Yuno: (This again...)
 Yuno: Copy and paste... "Please write a reply that matches this image and caption."
 Yuno: Yeah, this'll do. Now copy and paste it back...
-(message) Yuno: Doing a bridge on a bridge really does make it look as though another bridge has appeared atop the first. The idea is so unique that it immediately catches my attention, and the playful caption makes it even more memorable.
+(Message) Yuno: Doing a bridge on a bridge really does make it look as though another bridge has appeared atop the first. The idea is so unique that it immediately catches my attention, and the playful caption makes it even more memorable.
 Yuno: Okay... Back to work...
-(message) Nonoka: Which one of us is the flower~?
+(Message) Nonoka: Which one of us is the flower~?
 Yuno: Ugh, another one...?
 Yuno: Now feed it this one...
 Yuno: Okay... That should do it.
-(message) Yuno: The charming flower by the riverbank and your gentle smile both have a natural, soft quality. I think they are lovely. The flower on the left looks like a blue toadflax.
+(Message) Yuno: The charming flower by the riverbank and your gentle smile both have a natural, soft quality. I think they are lovely. The flower on the left looks like a blue toadflax.
 Yuno: Another one... She's definitely not even reading my replies.
 Yuno: Again...
 Yuno: (I'll just have AI reply to all of them later...)
 Yuno: Um... Where was I? Right, the pre-chorus...
 Yuno: *Sigh*... Hello?
-Nonoka: <size=45>Guiltyyyyy~~~~!!!</size>
+Nonoka: Guiltyyyyy~~~~!!!
 Yuno: !
 (Background change)
 Nonoka: I saw that you read them! No leaving me on read! Therefore, guilty!

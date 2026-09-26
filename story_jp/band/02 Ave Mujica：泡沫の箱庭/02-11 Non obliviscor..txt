@@ -12,9 +12,9 @@ CRYCHIC……やれて、よかった……
 
 そよ: ……
 (Background change)
-(message) 睦: またきてる
-(message) 睦: 祥子ちゃん連れて帰って
-(message) 睦: そよちゃんが連れてきたんだよ！
+(Message) 睦: またきてる
+(Message) 睦: 祥子ちゃん連れて帰って
+(Message) 睦: そよちゃんが連れてきたんだよ！
 愛音: ねえこれ、行った方が良くない？
 (Background change)
 そよ: （……なんとなく私が行くのは違う気がする）
@@ -70,7 +70,7 @@ CRYCHIC……やれて、よかった……
 (Background change)
 祥子: ……
 そよ: ２人って、会うのあの時以来？
-祥子: ……
+祥子 & 立希: ……
 そよ: 学校もバラバラだし、会う機会ないか。 祥ちゃんと燈ちゃんは同じ学校だっけ
 そよ: 立希ちゃんもそのまま羽丘に行ってたら一緒だったのに
 立希: べつにいいでしょ
@@ -81,8 +81,8 @@ CRYCHIC……やれて、よかった……
 そよ: ……お姉さん、有名だもんね
 立希: はぁ〜〜……
 祥子: ……
-(message) 愛音: ライブ当日だよ！？
-(message) 愛音: リハまでには絶対来て💢💢💢
+(Message) 愛音: ライブ当日だよ！？
+(Message) 愛音: リハまでには絶対来て💢💢💢
 立希: 愛音からだ
 そよ: 練習の時間過ぎちゃったから
 立希: ここまで来たらほっとけないでしょ。 解散したけど、メンバーだったし
@@ -106,15 +106,15 @@ CRYCHIC……やれて、よかった……
 睦: ううん
 そよ: ……
 睦: そよ、立希
-そよ: え……
+そよ & 立希: え……
 睦: ごめんなさい。バンド……壊して ギター下手で……ずっと謝りたかった……
 立希: いいよもう！　……っていうか、私も。ごめんっ
 睦: 燈にも謝りたい
 そよ: 睦ちゃんが謝ることないんじゃない？
 睦: え……
 立希: あ、愛音。——はい
-立希: <size=175%>うるさっ！
-愛音: <size=150%>『もうすぐリハはじまるんだけど！ ライブちゃんとやるんじゃなかったの〜〜！？』
+立希: うるさっ！
+愛音: 『もうすぐリハはじまるんだけど！ ライブちゃんとやるんじゃなかったの〜〜！？』
 (Background change)
 (Background change)
 睦: 燈……
@@ -123,8 +123,8 @@ CRYCHIC……やれて、よかった……
 燈: 祥ちゃん、これ……
 祥子: このノート
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp)
+(Caption): 人間になりたいうた
 立希: 『人間になりたいうた』……歌詞変わってる。 最近書いてたのってこれ？　なんで？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp)
 燈: ……祥ちゃん、言ってたから。 人間になりたいって
 (Background change)
 祥子: 人間になりたい、って…… こういうこと、ですのね……
@@ -142,59 +142,61 @@ CRYCHIC……やれて、よかった……
 そよ: （祥ちゃんのこと、こんなふうに考えてたんだ）
 そよ: （でも、結局これ……燈ちゃんのうたじゃない）
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp)
+(Caption): 人間になりたいうた
 そよ: （燈ちゃんらしい歌詞。 いつもむき出しで……ほんと私には真似できないや）
 そよ: （悩んで、苦しんで、わかりたくてもわからなかった。 けど、そうだよね。 他の人のことなんて簡単にはわからないよね）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp)
 立希: さっきから燈に失礼なんだけど
 そよ: ええ〜？　褒めたんだけど
 愛音: もうその曲やんなよ。はいギター
 睦: え……
 愛音: 楽奈ちゃんどっか行っちゃってリハできないし。 ステージ使えば？
-そよ: ……
+そよ & 立希 & 睦 & 燈 & 祥子: ……
 (Background change)
 愛音: あ、楽奈ちゃんここにいた
 楽奈: バンドやる
 愛音: やるよ〜。でも今はちょっと待ってようか
 楽奈: ん
 (Background change)
-tomori: このうたは……
-tomori: このうたは、祥ちゃんのことを考えて、書いた、うた
-tomori: でも、考えても、ぐちゃぐちゃで……
-tomori: 何も、見えなくて……
-tomori: なのに、なにもわからない……
-tomori: けど……
-tomori: CRYCHIC……
-tomori: CRYCHIC……やれて、よかった……
-sakiko: 燈……
-taki: もう一曲いいですか！
-taki: やるでしょ？
-tomori: うん
-soyo: 祥ちゃん……
-soyo: （私たち、見たいものしか見てなかったのかな）
-soyo: （他にはない、特別なバンドだって思ってた）
-soyo: （本当に運命だって信じちゃうくらい……）
-soyo: （みんなと集まる毎日が楽しくて、輝いて見えた）
-soyo: （失ったからこそ、余計綺麗に見えてたのかもね）
-soyo: （欲しくて、戻りたくて、たまらなかったよ）
-taki: （燈の歌に救われた）
-taki: （あの日みたいな最高のライブが）
-taki: （これからもずっと続いていくんだって……）
-taki: （それができる無敵のバンドだって、勝手に期待してた……）
-taki: （でも、本当は、普通の私たちが、普通にバンドしてた）
-taki: （普通のバンドだったんだ）
-taki: （そんな普通のCRYCHICがあの時の私には必要だった）
-taki: （私のままここにいていいんだって）
-taki: （初めて思えた場所だったから）
-sakiko: （わたくしのよすがでしたわ）
-sakiko: （目を逸らそうともがくほど、深みにはまってしまうくらい）
-sakiko: （けれど、これで最後……）
-sakiko: （CRYCHICは、もうないんですのね）
-soyo: （ありがとう、大好きだよ）
-taki: （今はもう、私たちの居場所じゃなくても）
-sakiko: （今日の演奏、きっと一生忘れませんわ）
+(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07.mp4)
+(Caption): 人間になりたいうたⅡ〜春日影（CRYCHIC）　ライブシーン
+(Subtitle) tomori: このうたは……
+(Subtitle) tomori: このうたは、祥ちゃんのことを考えて、書いた、うた
+(Subtitle) tomori: でも、考えても、ぐちゃぐちゃで……
+(Subtitle) tomori: 何も、見えなくて……
+(Subtitle) tomori: なのに、なにもわからない……
+(Subtitle) tomori: けど……
+(Subtitle) tomori: CRYCHIC……
+(Subtitle) tomori: CRYCHIC……やれて、よかった……
+(Subtitle) sakiko: 燈……
+(Subtitle) taki: もう一曲いいですか！
+(Subtitle) taki: やるでしょ？
+(Subtitle) tomori: うん
+(Subtitle) soyo: 祥ちゃん……
+(Subtitle) soyo: （私たち、見たいものしか見てなかったのかな）
+(Subtitle) soyo: （他にはない、特別なバンドだって思ってた）
+(Subtitle) soyo: （本当に運命だって信じちゃうくらい……）
+(Subtitle) soyo: （みんなと集まる毎日が楽しくて、輝いて見えた）
+(Subtitle) soyo: （失ったからこそ、余計綺麗に見えてたのかもね）
+(Subtitle) soyo: （欲しくて、戻りたくて、たまらなかったよ）
+(Subtitle) taki: （燈の歌に救われた）
+(Subtitle) taki: （あの日みたいな最高のライブが）
+(Subtitle) taki: （これからもずっと続いていくんだって……）
+(Subtitle) taki: （それができる無敵のバンドだって、勝手に期待してた……）
+(Subtitle) taki: （でも、本当は、普通の私たちが、普通にバンドしてた）
+(Subtitle) taki: （普通のバンドだったんだ）
+(Subtitle) taki: （そんな普通のCRYCHICがあの時の私には必要だった）
+(Subtitle) taki: （私のままここにいていいんだって）
+(Subtitle) taki: （初めて思えた場所だったから）
+(Subtitle) sakiko: （わたくしのよすがでしたわ）
+(Subtitle) sakiko: （目を逸らそうともがくほど、深みにはまってしまうくらい）
+(Subtitle) sakiko: （けれど、これで最後……）
+(Subtitle) sakiko: （CRYCHICは、もうないんですのね）
+(Subtitle) soyo: （ありがとう、大好きだよ）
+(Subtitle) taki: （今はもう、私たちの居場所じゃなくても）
+(Subtitle) sakiko: （今日の演奏、きっと一生忘れませんわ）
 一同: はぁ……はぁ……っ
 燈: っ！　ありがとうございましたっ！
-愛音: <size=150%>待って待って！　MyGO!!!!!のリハ〜！ 終わっちゃだめ〜
+愛音: 待って待って！　MyGO!!!!!のリハ〜！ 終わっちゃだめ〜
 そよ: ……目、冷やさなきゃ
 祥子: 睦
 睦: ……あ。ありがとう、ギター

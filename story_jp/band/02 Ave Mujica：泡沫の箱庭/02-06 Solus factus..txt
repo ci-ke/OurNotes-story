@@ -28,7 +28,7 @@
 
 にゃむ: ……
 (Background change)
-ネット記事: <align="center">人気ガールズバンドAve Mujicaが電撃解散！ 解散の理由について所属事務所はコメントを発表
+ネット記事: 人気ガールズバンドAve Mujicaが電撃解散！ 解散の理由について所属事務所はコメントを発表
 アカウントA: 結局一曲も演奏しないで解散発表したってマジ？ エグすぎ
 アカウントB: 有給取って新幹線取ってホテル取って中止は泣く。 立ち直れん
 アカウントC: 解散つらいけど、睦ちゃん最後までヤバかった〜！ すごい叫んでたけど、大丈夫なのかな……？
@@ -72,7 +72,6 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp)
 祥子: 初華へ　 　今までありがとう
 初華: ……！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp)
 (Background change)
 (Background change)
 (Background change)
@@ -95,7 +94,6 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 スタッフA: あれだけ売れっ子だったのに！？　もったいな〜。 やっぱAve Mujicaの解散ショックだったのかなぁ
 スタッフB: じゃない？　ハイ解散〜ってほっぽり出したわけだし。 ま、所詮『お嬢様のバンドごっこ』だったってことでしょ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 まな: おはようございま〜す！
 初華: おはようございます
 スタッフA: お、おはようございます！ あっ、私、急ぎの打ち合わせあるんだった！
@@ -121,7 +119,6 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 祥子: ……また
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000116/data/adv_still_anime_000116/adv_still_anime_000116.webp)
 祥子: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000116/data/adv_still_anime_000116/adv_still_anime_000116.webp)
 (Background change)
 (Background change)
 
@@ -164,10 +161,10 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
 にゃむ: あー……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000118/data/adv_still_anime_000118/adv_still_anime_000118.webp)
+(Caption): 演技力をあげる 役に吹き込む 命を演技術 オーディションで生き残るためのメソッド 役を憑依させる演技術 俳優入門 演技 ドラマの見方 映画塾 ハリウッド演劇術 心の動く演技 俳優のたまご 演技力 上 演技力 下 職業としての演技 惹きつける演技 芝居と世界 ハリウッドから学ぶ演劇術
 にゃむ: ……演技はまだ勉強中なんです。 今はバラエティ方面でがんばりたいなって思ってるんで……
 にゃむ: はい……せっかくの機会なのにすみません。 ありがとうございます
 にゃむ: はい、よろしくおねがいします
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000118/data/adv_still_anime_000118/adv_still_anime_000118.webp)
 にゃむ: っ……
 (Background change)
 
@@ -175,10 +172,10 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 
 初華: ……
 (Background change)
-(message) 祥子: お元気で
-(message) 祥子: お世話になりました
-(message) 初華: 今どこにいるの？
-(message) 初華: 大丈夫？
-(message) 初華: 連絡ください
+(Message) 祥子: お元気で
+(Message) 祥子: お世話になりました
+(Message) 初華: 今どこにいるの？
+(Message) 初華: 大丈夫？
+(Message) 初華: 連絡ください
 (Background change)
 初華: ……さきちゃん
