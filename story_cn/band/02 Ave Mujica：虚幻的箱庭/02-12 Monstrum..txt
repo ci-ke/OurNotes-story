@@ -1,0 +1,190 @@
+10031:adv_script_mujica_002_1_12 Monstrum.
+
+你是不需要的……
+
+（背景切换）
+Mortis：渐渐沉下去……
+（背景切换）
+睦：祥……对不起
+祥子：……睦没有错！ 我才应该道歉，对不起
+睦：没关系
+（背景切换）
+（背景切换）
+Mortis：小睦看起来好开心啊
+Mortis：我要消失了……我不想消失
+（背景切换）
+海铃：愿意和我也重修旧好吗？
+海铃：愿意再次和我组建Ave Mujica吗？ 我是这个意思
+（背景切换）
+Mortis：<size=175%>！！
+（背景切换）
+海铃：意下如何呢，丰川同学
+Mortis：！不要、不要、不要………！ 我不想死
+Mortis：<size=175%>不要、不要、不要！我不想死
+（背景切换）
+睦：祥……
+祥子：Ave Mujica已经……
+（背景切换）
+Mortis：诶……？
+（背景切换）
+立希：……那个，手机
+海铃：我先告辞了
+立希：啊
+海铃：你脸都哭花了
+立希：诶
+海铃：昨天的彩排，是叫CRYCHIC来着。 真是好一通炫耀啊
+立希：你在啊？
+立希：……
+立希：之前我说你『真的是Mujica的一员吗』…… 其实我自己的乐队……之前也有矛盾
+海铃：……！
+海铃：你们要重组旧乐队吗？
+立希：哈？
+海铃：我是指CRYCHIC
+立希：你说什么呢。那支乐队已经结束了
+海铃：听你这么说我就放心了
+海铃：毕竟丰川同学和若叶同学似乎并没有八面玲珑到 能够兼任两支乐队
+海铃：我打算重组Ave Mujica
+立希：海铃你？那睦怎么办？
+海铃：我邀请了啊。不过被拒绝了
+立希：……啧
+海铃：咂什么舌
+立希：你的问题就在这。不拒绝你才怪
+立希：毕竟海铃你不值得信任
+海铃：……！
+（背景切换）
+（背景切换）
+祥子：今天就学到这页吧。 学习进度追上很多了呢
+祥子：月之森的进度好像还要更快一点， 再加把劲就能赶上了
+睦：祥……你不去上学吗？
+祥子：现在可是重要时期。我要陪在睦身边
+睦：……
+（背景切换）
+祥子：天气真好啊。 稍微出门走走吧？
+祥子：沐浴阳光有利于身心健康
+睦：……嗯
+（背景切换）
+祥子：诶
+睦：我想去
+祥子：……
+（背景切换）
+睦：……卡拉OK
+祥子：这里是……真令人怀念
+睦：进去吧
+祥子：啊……
+（背景切换）
+祥子：你喜欢Pastel＊Palettes的歌吧。 嗯……
+（背景切换）
+睦：……呼
+祥子：睦，你唱得真好
+睦：……再一次
+祥子：再唱一次对吧
+睦：我想再一次和祥组CRYCHIC
+祥子：……诶
+睦：再一次
+Mortis：<size=175%>都说了不组！
+祥子：！
+Mortis：小祥子你也有问题。 怎么就若无其事地跟过来了！
+祥子：……Mortis。 上次你帮助CRYCHIC再次登台，非常感谢
+Mortis：哈？
+祥子：多亏了你，我才能够再次面对睦。 只要睦愿意展露笑容，我什么都愿意做
+Mortis：……包括CRYCHIC吗？
+祥子：啊……
+Mortis：……小睦根本就不懂。 你得跟她说清楚，CRYCHIC已经结束了
+祥子：……我会代替CRYCHIC陪伴她。 就像你为了睦而活一样
+祥子：接下来我也一起——
+Mortis：和谁一起
+祥子：诶？
+Mortis：小祥子也根本就不懂。 所谓的『小睦』，从一开始就不存在？
+祥子：……这是什么意思？
+（背景切换）
+
+【摄影棚 休息室】
+
+南：……
+若麦：（啊，南小姐……）
+若麦：那个……森小姐，您辛苦了～
+南：啊……若麦，好久不见。 综艺节目场场都有你，真了不起
+若麦：谢谢夸奖～！ 也祝贺南再次担任电影主演
+南：听说你拒绝了舞台剧的试镜～？ 我好失望哦
+若麦：诶
+南：我以为你来我家就是为了利用这层关系， 才会向制作人推荐你的
+若麦：……诶！？ 那个原来是南小姐推荐的吗？
+若麦：我向父母保证会好好上学，他们才同意我来东京的。 落下的话就辜负父母了！
+南：没事的啦。不用找借口了。 我知道你是在害怕
+若麦：……诶
+南：那孩子很恐怖吧。我也很怕她
+南：毕竟小睦如果认真起来， 瞬间就能让我黯然失色啊
+若麦：诶……这个……
+南：小睦她啊，是个天生的演员
+若麦：……诶
+（背景切换）
+Mortis：小睦和我，都是众多角色之中的一个
+祥子：……
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000132/data/adv_still_anime_000132/adv_still_anime_000132.webp）
+Mortis：小睦是最适合这个家庭的 洋娃娃般的孩子
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000133/data/adv_still_anime_000133/adv_still_anime_000133.webp）
+Mortis：而我善于交际， 是个擅长讨大家欢心的『艺人的女儿』
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000132/data/adv_still_anime_000132/adv_still_anime_000132.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000133/data/adv_still_anime_000133/adv_still_anime_000133.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000134/data/adv_still_anime_000134/adv_still_anime_000134.webp）
+南：最初发现这点，应该是在她3岁的生日派对上。 阿隆似乎以为她只是情绪起伏比较大
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000135/data/adv_still_anime_000135/adv_still_anime_000135.webp）
+南：但我能看出，那些全都是演出来的
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000136/data/adv_still_anime_000136/adv_still_anime_000136.webp）
+南：哪怕只是坐着站着，这些简单的动作， 她都能演出不同的人格
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000137/data/adv_still_anime_000137/adv_still_anime_000137.webp）
+南：明明我都没教过她
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000134/data/adv_still_anime_000134/adv_still_anime_000134.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000135/data/adv_still_anime_000135/adv_still_anime_000135.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000136/data/adv_still_anime_000136/adv_still_anime_000136.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000137/data/adv_still_anime_000137/adv_still_anime_000137.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp）
+Mortis：——但是，睦遇见了吉他
+祥子：……
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp）
+Mortis：睦这个角色，拥有了『小睦』这个意识…… 其他角色全都消失了
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp）
+（背景切换）
+Mortis：我抓住了『帮助小睦』的角色， 才能活下来，成为Ave Mujica的Mortis
+Mortis：小祥子，是你创造出来的哦
+祥子：……
+Mortis：『小睦』和『<r=我>Mortis</r>』这样一个——
+（背景切换）
+南：『怪物』
+（背景切换）
+若麦：……
+南：连自己在表演都不曾察觉。 啊，不对，她人生的一切，可能都是表演
+南：整天和她待在一起的话，我会变得非常悲惨。 懂吗？你懂的吧？
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp）
+南：你尝试去接触的，就是这样一个孩子。 只是一起组过乐队就要逃避的话， 很遗憾，你恐怕不适合我们这一行吧？
+若麦：哈……
+Mortis：我必须帮助小睦。 所以需要Ave Mujica这个舞台
+（背景切换）
+Mortis：我要是消失了，小睦会很苦恼吧？ 所以，来组Ave Mujica吧
+祥子：也就是说……你希望睦 一直痛苦下去吗？
+（背景切换）
+Mortis：<size=175%>怎么就说到这个了！？
+Mortis：<size=175%>是这样没错，但不是这个意思！
+睦：……我想重组CRYCHIC
+Mortis：你在说什么！？CRYCHIC已经不存在了！
+Mortis：为什么你就是不懂？小祥子哭泣的理由 你总该懂吧！
+睦：我懂
+Mortis：你不懂！她的眼泪是CRYCHIC结束了的证据！
+睦：你又不属于CRYCHIC，你懂什么
+Mortis：但是CRYCHIC已经结束了啊！已经解散了！
+睦：解散的是Ave Mujica
+Mortis：！
+睦：祥拒绝了重组Ave Mujica的邀请。 她肯定会为我重组CRYCHIC
+Mortis：……！小睦总是满脑子总想着自己！ 你只看着自己想看的东西！
+Mortis：你也好好看看我啊！听我说话啊！
+Mortis：我一直以来扮演的角色， 承受了你所讨厌的一切！？
+Mortis：你想起来啊………你快要坏掉的时候， 我不是帮忙代替你了吗
+Mortis：Ave Mujica快要毁掉的时候， 我把大家聚到一起，友好相处…… 我守护了你的归宿啊！
+睦：你没能守护
+Mortis：……诶
+睦：你伤害了祥……还毁了Ave Mujica。 全部……都是我不希望你做的事
+睦：你是不需要的……
+Mortis：……！小睦才是不需要的！
+睦：<size=175%><cspace=0.2em>不需要的是<cspace=0.15em><voffset=0.2em>你<voffset=-0.1em>才<voffset=0.35em>对</voffset>
+Mortis：<size=140%>不要啊————！！ 不要不要！走开啊————！！！

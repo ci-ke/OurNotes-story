@@ -1,0 +1,70 @@
+1 10691:adv_script_home_10691 Member Talk
+
+(Background change)
+Taki: Here.
+Soyo: Huh? I'm not playing.
+Anon: Aww, giving up already, Rikki?
+Taki: I'm not. I just thought whoever's done eating could take a turn.
+Tomori: Rāna-chan, do you want to play?
+Rāna: Gonna play with the band.
+Anon: That's tomorrow! For now, let's enjoy the party~!
+
+
+2 10681:adv_script_home_10681 The 111th Anniversary
+
+(Background change)
+Taki: The shape's different... No, I guess not.
+
+
+3 10682:adv_script_home_10682 The 111th Anniversary
+
+(Background change)
+Taki: Isn't that all of them?
+
+
+4 10683:adv_script_home_10683 The 111th Anniversary
+
+(Background change)
+Anon: Believe it or not, there's more~
+
+
+5 10684:adv_script_home_10684 The 111th Anniversary
+
+(Background change)
+Anon: Wanna know? Should I tell you?
+
+
+6 10685:adv_script_home_10685 The 111th Anniversary
+
+(Background change)
+Tomori: Taki-chan, there are two more...!
+
+
+7 10686:adv_script_home_10686 The 111th Anniversary
+
+(Background change)
+Tomori: Ano-chan found them all, too.
+
+
+8 10687:adv_script_home_10687 The 111th Anniversary
+
+(Background change)
+Soyo: Why don't we just check the answers already?
+
+
+9 10688:adv_script_home_10688 The 111th Anniversary
+
+(Background change)
+Soyo: This one's trickier than it looks, isn't it?
+
+
+10 10689:adv_script_home_10689 The 111th Anniversary
+
+(Background change)
+Rāna: Soba noodles after a matcha parfait...
+
+
+11 10690:adv_script_home_10690 The 111th Anniversary
+
+(Background change)
+Rāna: Tasty.

@@ -1,0 +1,69 @@
+1 10781:adv_script_home_10781 メンバートーク
+
+(Background change)
+ののか: ん〜、音いい感じ！ このまま１曲、ののちゃんギターをお聴きください
+都子: ののかさん、リハはまだです
+ののか: ノンノン。これはののちゃんライブ！
+あられ: わ〜〜、ののちゃんさーん！
+律: ミラーボール使いますか？
+ユノ: ……それ、後にしない？
+
+
+2 10771:adv_script_home_10771 ライブじゅんびちゅう
+
+(Background change)
+都子: すみません、照明の調整を
+
+
+3 10772:adv_script_home_10772 ライブじゅんびちゅう
+
+(Background change)
+都子: 峰月さん、もう少し右でお願いします
+
+
+4 10773:adv_script_home_10773 ライブじゅんびちゅう
+
+(Background change)
+律: はい。こっちに寄せて……
+
+
+5 10774:adv_script_home_10774 ライブじゅんびちゅう
+
+(Background change)
+律: こう、ですか？
+
+
+6 10775:adv_script_home_10775 ライブじゅんびちゅう
+
+(Background change)
+あられ: じゃあこっちのライトも……
+
+
+7 10776:adv_script_home_10776 ライブじゅんびちゅう
+
+(Background change)
+あられ: この辺でどうでしょう！
+
+
+8 10777:adv_script_home_10777 ライブじゅんびちゅう
+
+(Background change)
+ユノ: 宮永さん、位置調整しよう
+
+
+9 10778:adv_script_home_10778 ライブじゅんびちゅう
+
+(Background change)
+ユノ: そのスピーカー、少し手前で
+
+
+10 10779:adv_script_home_10779 ライブじゅんびちゅう
+
+(Background change)
+ののか: らじゃー！
+
+
+11 10780:adv_script_home_10780 ライブじゅんびちゅう
+
+(Background change)
+ののか: ユノちゃん、サウンドチェック入りまーす

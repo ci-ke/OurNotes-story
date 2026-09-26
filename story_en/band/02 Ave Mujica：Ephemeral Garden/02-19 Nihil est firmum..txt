@@ -1,0 +1,242 @@
+10038:adv_script_mujica_002_1_19 Nihil est firmum.
+
+(This small world will surely come to an end someday. Like waking from a dream in the morning... all at once, whether I want it or not.)
+
+(Background change)
+(Background change)
+
+[Airport]
+
+Butler: Milady, we have arrived.
+Sakiko: So I'm heading to Switzerland right away. Do you plan to send me off with nothing but the clothes on my back?
+Butler: It's what the master instructed. If you have any requests, I'll be available later...
+Sakiko: ...
+Sakiko: (What an anticlimactic ending.)
+Sakiko: (Just as I had resolved to take on their lives without escaping...)
+Sakiko: (Is this the fate that God has decided? I'm always like this.)
+Sakiko: (No matter how much I struggle, no matter how much I fight, everything gets swept away by the raging current.)
+Sakiko: ...
+Butler: What's the matter, milady?
+Sakiko: I'm not getting on board.
+Sakiko: <size=150%>I have to go!
+(Background change)
+Butler: Sakiko-sama! It's dangerous! Stop!
+(Background change)
+Sakiko: Haa... Haa...!
+Sakiko: <size=175%>Ah!
+Sakiko: (There's no time to nurse my pain!)
+(Background change)
+Sakiko: Haa... Haa...!
+Sakiko: (Uika!)
+(Background change)
+
+[Port]
+
+(Background change)
+Sakiko: Thank you for calling out to me. I don't have much on me... so please take me as far as possible.
+Driver: I won't just leave the Togawa young lady behind. Where are you headed?
+Sakiko: Thank you. Could you direct me to the house of Misumi-san...?
+Driver: Yeah... They moved to the mainland. Maybe the older sister... Ah...
+Sakiko: Older sister? Where is she?
+(Background change)
+
+[Togawa Family's Villa]
+
+Sakiko: (Uika is here...?)
+Hatsune: Saki-chan...?
+Sakiko: Uika... thank goodness!
+Hatsune: !
+Sakiko: Wait, Uika! Hatsune-san...!
+Hatsune: ...!
+Hatsune: Saki-chan, you should go back now. You shouldn't be with me...
+Sakiko: I'm not going back.
+(Background change)
+Sakiko: Why didn't you reply? Was it my grandfather's order?
+Hatsune: No...
+Sakiko: Hatsune-san, what is your relationship with my grandfather?
+Hatsune: I'm... Sadaharu Togawa's daughter...
+Sakiko: Grandfather's daughter...?
+Hatsune: Yes. My mother used to be the caretaker here. She quit after I was born, so you've never met her, right?
+Sakiko: You're an illegitimate child?
+Hatsune: Legally, I'm considered a stranger, so the inheritance rights of the Togawa family won't be affected.
+Sakiko: I'm not talking about that.
+Sakiko: You are Hatsune-san, right? Is "Uika" your alias then?
+Hatsune: It's my younger sister's name.
+Sakiko: Eh?
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
+Hatsune: The girl who was more energetic than me, loved catching bugs, and wanted to become an idol... was the real Uika.
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
+Hatsune: I pretended to be Uika because I wanted to see you, Saki-chan.
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
+Hatsune: I'm sorry for lying all this time... I'm really sorry!
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
+Sakiko: What will you do from now on?
+Hatsune: Since I'll be working as a live-in caretaker, I think I'll transfer to a new school too.
+Sakiko: Are you really okay with that?
+Hatsune: Eh?
+Sakiko: What about sumimi? What about Ave Mujica?
+Hatsune: I knew that one day, it would come to an end.
+Hatsune: The idol life, the band life. I was just being let off the hook.
+Hatsune: It could end tomorrow, or even today. I was scared every day. Sometimes I thought it would be easier to just let go of everything...
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+Hatsune: It didn't work.
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
+Sakiko: Is it because I asked you...
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
+Hatsune: <size=175%>No! I was happy!
+Hatsune: Even if it was in place of someone else.
+Sakiko: ...!
+(Background change)
+(Background change)
+Sakiko: ...
+Hatsune: I was happy to be needed by Saki-chan. I wanted to help you forget everything...
+Hatsune: Even though it was impossible. A liar like me could never do it.
+Sakiko: Everyone has a secret or two. Even if you don't share everything, it doesn't mean you're betraying someone.
+Sakiko: Even I—
+Hatsune: I know.
+Hatsune: I know how you and your father have been living. Because it was all my fault—
+Sakiko: Eh?
+Hatsune: Now you understand, right? It's all... all my fault.
+Sakiko: ...
+(Background change)
+Hatsune: That's the last ferry.
+Sakiko: ...Come with me for a moment.
+(Background change)
+Hatsune: Haa... Haa... Saki-chan...! Saki-chan! What about the ferry? The last ferry is about to leave!
+Sakiko: Here we are. It almost seems like it's a different place in the daytime.
+Hatsune: This place... Ah, Saki-chan,don't sit there. You'll get your clothes dirty.
+Sakiko: I already slipped, you see.
+Hatsune: There's a bug.
+Sakiko: Are you afraid of bugs?
+Hatsune: Yeah...
+Sakiko: Who was it that screamed when catching bugs and got scared by the big spider?
+Hatsune: That wasn't me.
+Sakiko: Who was it that picked up the beautiful seashell on the beach?
+Hatsune: Not me.
+Sakiko: Who was it that ate cookies together under the shade of the rose bush?
+Hatsune: No...
+Sakiko: Well then...
+Hatsune: Most of your memories of playing with Uika belong to her.
+Hatsune: No... All of it. It's all Uika's.
+Sakiko: ...
+(Background change)
+Hatsune: This island isn't so bad. The stars are beautiful here. I was really... really happy to meet Saki-chan, and be able to spend even a little time together.
+Hatsune: Although I don't have the right to say that... But I think I can keep going because of these memories.
+Hatsune: So...
+(Background change)
+Sakiko: All you think about is yourself.
+Hatsune: ...
+Sakiko: But, there is one thing I've come to understand.
+(Background change)
+Sakiko: We watched the stars together here, didn't we? Was that you?
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
+Hatsune: <size=175%>...!
+Sakiko: I knew it. You're the one who loves the stars, Hatsune.
+Hatsune: ...!!
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
+(Background change)
+Sakiko: Phew...
+Hatsune: Saki-chan...?
+Sakiko: Hatsune, let's go back.
+Hatsune: Eh? To where?
+Sakiko: <size=150%>Of course, to Tokyo!
+Hatsune: Huh~?
+Sakiko: If we take the shortcut, we'll make it to the ferry in time. Let's run, Hatsune!
+(Background change)
+Hatsune: <size=150%>Hey, don't pull me. S-Saki-chan~~~~!
+(Background change)
+
+[On the Ferry]
+
+Sakiko: I'm glad we made it in time. Hehe, I'm completely drenched in sweat.
+Hatsune: Saki-chan...! I really can't go.
+Sakiko: You can just blame me for dragging you along.
+Hatsune: That's no good...
+Sakiko: Our destinies are one.
+Hatsune: !
+Sakiko: Didn't you give me your life?
+Hatsune: I betrayed you, Saki-chan! I... betrayed you...
+Sakiko: Shall we pretend it never happened?
+Hatsune: Eh... W-What do you mean?
+Sakiko: The misfortune and regret that surround you and me. All the entanglements.
+Hatsune: That is...
+Sakiko: Let's forget everything and pretend it never happened. That way, we won't be trapped by anything.
+Hatsune: That is... not possible. It's unforgivable.
+Sakiko: ...
+Hatsune: Saki-chan...? Leaning out that far is dangerous...
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
+Sakiko: <size=175%>I'm so sick of this......!!
+Hatsune: ...!
+Sakiko: Who's not forgiving you!? Who decided that? Why do I have to do what they say?
+Sakiko: Hatsune, you're the same! You... FOOL~~~!
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
+Hatsune: Saki-chan...
+Sakiko: What is it? I'm upset, you know. Don't take my determination lightly.
+Hatsune: Yeah...
+(Background change)
+Hatsune: ...
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp)
+Hatsune: ...
+Sakiko: Hmm...
+Hatsune: ...
+(Background change)
+Sakiko: Here it is...!
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000164/data/adv_still_anime_000164/adv_still_anime_000164.webp)
+Sakiko: At least this...
+Hatsune: ...
+Sadaharu: Acting like a sneaky thief...
+Sakiko: I just came to get my belongings.
+Sadaharu: Hatsune, I believe your role was done the moment you brought Sakiko back.
+Hatsune: Uh, um...
+Sadaharu: ...?
+Hatsune: Please let me stay by Saki-chan's side! I won't cause any trouble to you or the Togawa—
+Sadaharu: Are you planning to follow the same path as that man? Leave right now. Never again should you step foot inside the Togawa household.
+Sakiko: Togawa, Togawa... is it really that great? What exactly have we done?
+Sakiko: I simply cannot accept this!
+Sadaharu: You don't understand the terrifying power of the Togawa—
+Sakiko: <size=175%>You're the one who's afraid!
+Sadaharu: !
+Sakiko: I will leave as well. I won't be obedient to you anymore.
+Sakiko: <size=175%>I'll live with her!
+Hatsune: Saki-chan...!
+Sakiko: Please take care of my father!
+Sadaharu: ...
+(Background change)
+(Background change)
+Sakiko: Hehe! That face grandfather made! It's exactly like a deer in the headlights! Hehe.
+Sakiko: Thank you.
+Hatsune: ...
+Hatsune: I thought I was going to die.
+Sakiko: Me too... Oh, Hatsune. There's a bug on your shoulder...
+Hatsune: <size=175%>Whoa! A bug!?
+Sakiko: Stay still, I'll take it off. Here, hold still.
+Hatsune: Ugh...! H-Hurry...
+Sakiko: Look, I took it off. Are you really scared of such a tiny ladybug?
+Hatsune: I-It's a little scary~! Saki-chan, don't point it this way~
+Sakiko: Hehe, Hatsune.
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
+Hatsune: Mmm~ stop laughing~! Hehe...
+Sakiko: Hehe.
+Sakiko: <size=150%>Ahaha.
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
+(Background change)
+(Background change)
+Hatsune: What will we do from now on?
+Sakiko: This world is full of things that can't be helped...
+Sakiko: And there's nothing certain, nothing unshakeable.
+Sakiko: Are you scared?
+Hatsune: No, not as long as Saki-chan is with me.
+(message) Umiri: <color=#1877F2>@Sakiko</color> Did you find Misumi-san?
+(message) Umiri: Practice starts at 11
+(message) Umiri: Please make sure to come today😭
+Sakiko: I forgot. Uh... Now, really...?
+Hatsune: We gotta show up after all this time. I'll make coffee, so you can sleep a little longer.
+Hatsune: Saki-chan... I love you.
+Sakiko: ......
+Sakiko: (Even if I turn away from fate, from the world, nothing will change.)
+Sakiko: (This little world will eventually come to an end. Like waking up from a dream in the morning—Suddenly, without any choice.)
+Sakiko: (But, as much as I can, just a little longer, I want to stay lost in the drowsiness.)
+Sakiko: This smell... I hate it.

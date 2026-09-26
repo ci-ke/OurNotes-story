@@ -1,0 +1,242 @@
+10038:adv_script_mujica_002_1_19 Nihil est firmum.
+
+（この小さな世界はきっといつか終わる。 朝、夢から覚めるように——突然、否応なく）
+
+(Background change)
+(Background change)
+
+[空港]
+
+執事: お嬢様、到着いたしました
+祥子: このままスイス、というわけですのね。 着の身着のまま行かせるおつもり？
+執事: 旦那様のお言い付けです。ご用命があればのちほど……
+祥子: ……
+祥子: （あっけない幕切れですわ）
+祥子: （彼女たちの人生を逃げずに背負うと覚悟した矢先に——）
+祥子: （これが神様の決めた運命だとでも言うんですの。 わたくしはいつもそう）
+祥子: （抗っても、抗っても。すべて濁流に流される）
+祥子: ……
+執事: どうなさいました？　お嬢様
+祥子: ……乗りませんわ
+祥子: <size=150%>——行かなければっ！
+(Background change)
+執事: 祥子お嬢様！　危険です、お待ちください！
+(Background change)
+祥子: はぁっ……はぁ……！
+祥子: <size=175%>あっ！
+祥子: （痛がってる暇なんて、ありませんわ！）
+(Background change)
+祥子: はぁ……はぁ……っ！
+祥子: （——初華！）
+(Background change)
+
+[港]
+
+(Background change)
+祥子: 声をかけていただいて助かりましたわ。 手持ちが雀の涙でして……行けるところまでで
+運転手: 豊川のお嬢さんをほっぽるなんてしないよ。 どこいくの？
+祥子: ありがとうございます。三角さんと言う方のお宅は……？
+運転手: ああ……本土に引っ越したよ。 おねえちゃんなら……あ
+祥子: お姉さん？　その方はどちらに？
+(Background change)
+
+[豊川家 別荘]
+
+祥子: （ここに初華が……？）
+初音: さきちゃん……？
+祥子: 初華……よかった！
+初音: っ！
+祥子: 待って初華！　……初音さんっ！
+初音: ……！
+初音: ……さきちゃん、もう帰ったほうがいいよ。 私とは会わないほうが……
+祥子: 帰りません
+(Background change)
+祥子: どうしてお返事くださらなかったの？ おじいさまの言い付け？
+初音: ううん……
+祥子: 初音さんは、おじいさまとどういう関係ですの？
+初音: ……私は……豊川定治さんの娘
+祥子: おじいさまの娘……？
+初音: うん。お母さんがここの管理人をしてた。 私が生まれて辞めたから、さきちゃんは会ったことないよね
+祥子: ……隠し子、ということ
+初音: 戸籍上は他人だから、豊川の相続順位は侵されないよ
+祥子: そんな話、してませんわ
+祥子: あなたは初音さん、ですわよね？ 初華というのはいわゆる偽名？
+初音: 私の妹の名前
+祥子: ……え
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
+初音: 私より活発で、虫取りが好きで アイドルになりたかったのが……本物の初華
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
+初音: さきちゃんに会いたくて、初華のフリをしたんだ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
+初音: ずっと嘘ついてて……ごめん。 ……ごめんなさいっ！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
+祥子: ……これからどうなさるの？
+初音: 住み込みで管理人をさせてもらえることになったから 学校も転校すると思う
+祥子: それでいいんですの？
+初音: ……え
+祥子: sumimiは？　Ave Mujicaは？
+初音: ……いつか、終わりが来るってわかってた
+初音: アイドルも、バンドも、見逃しててもらえただけ
+初音: 明日終わるかも、今日かも、って毎日怖かった。 いっそ何もかも捨てて楽になりたいって 思ったこともあったけど……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+初音: ……だめだった
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
+祥子: わたくしが、声をかけてしまったから
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
+初音: <size=175%>違う！　嬉しかった！
+初音: ……誰かのかわりでも
+祥子: ……！
+(Background change)
+(Background change)
+祥子: ……
+初音: ……うれしかったんだ。さきちゃんに必要とされて。 私がぜんぶ忘れさせてあげたかった……
+初音: できるわけないのに。 嘘だらけの私が敵うはずないのに
+祥子: ……誰しも秘密のひとつやふたつ持ってますわ。 それをすべて共有しなくても裏切ってるなんて思わない
+祥子: わたくしだって——
+初音: 知ってる
+初音: さきちゃんがお父さんとどういう生活をしていたか。 私が元凶だから——
+祥子: ……え
+初音: ……これでわかったでしょ？ ぜんぶ、ぜんぶ私のせいなの
+祥子: ……
+(Background change)
+初音: 最後の便だよ
+祥子: ……ねえ、来てくださらない？
+(Background change)
+初音: はぁ……はぁ……さきちゃん……！ さきちゃん！　港は？　最終便出ちゃうよ？
+祥子: ……着きましたわ。 明るい時間だとなんだか違う場所みたいですわね
+初音: ここって…… あ、さきちゃんそんなとこ座ったら汚いよ……？
+祥子: すっ転んだあとですもの
+初音: 虫いるよ
+祥子: 虫、苦手ですの？
+初音: ……うん
+祥子: 虫取りのとき、大きな蜘蛛に驚いて叫んだのは？
+初音: ……私じゃない
+祥子: 浜辺できれいな貝殻を拾ったのは？
+初音: ちがう
+祥子: 薔薇の木陰でいっしょにクッキーを食べたのは？
+初音: ……ううん
+祥子: それじゃあ……
+初音: 初華と遊んだ思い出はほとんど初華のだよ
+初音: ううん……ぜんぶ初華の。私じゃない
+祥子: ……
+(Background change)
+初音: この島も悪くないんだ。星がきれいだから。 さきちゃんと出会えて、すこしでもいっしょにいられて すごく……すごくしあわせだった
+初音: しあわせなんて言える立場じゃないけど。 ……この思い出があるから生きていけると思う
+初音: だから……
+(Background change)
+祥子: ご自分のことばかりですのね
+初音: ……
+祥子: でも、わかったことがひとつありますわ
+(Background change)
+祥子: ここでいっしょに星を見ましたわね。 あれは……あなた？
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
+初音: <size=175%>……！
+祥子: やっぱり。星が好きなのは、初音ね
+初音: ！　……っ！！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
+(Background change)
+祥子: ……ふぅ
+初音: さきちゃん……？
+祥子: 初音、帰りますわよ
+初音: え？　どこに？
+祥子: <size=150%>東京に決まってますわ！
+初音: ええ〜？
+祥子: 近道使えばフェリーに間に合いますわ。 さぁ走りますわよ、初音！
+(Background change)
+初音: <size=150%>ちょ、引っ張らないで。 さ、さきちゃ〜〜〜〜ん！
+(Background change)
+
+[フェリー船上]
+
+祥子: 間に合ってよかったですわね。 ふふ、すっかり汗だくですわ
+初音: さきちゃん……！　私、やっぱり行けないよ
+祥子: 無理やりつれてこられた、ってわたくしのせいに すればいいですわ
+初音: そんなの……だめだよ
+祥子: ……わたくしたちは運命共同体
+初音: ！
+祥子: あなたの人生、くださったのではなくて？
+初音: さきちゃんを裏切ってたんだよ！？　私が……… さきちゃんを……
+祥子: なかったことにしません？
+初音: えっ……な、何を？
+祥子: あなたとわたくしを取り巻く不幸と後悔。 しがらみのすべて
+初音: それって……
+祥子: すべてを忘れて、なかったことにするんですわ。 そうすればなににも囚われない
+初音: そんなこと……できないよ。許されない
+祥子: ……
+初音: さきちゃん……？　そんなに乗り出したら危な……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
+祥子: <size=175%>いいかげんっ！　うんざりですわーーーっ！！
+初音: ……！
+祥子: 誰が許さないのっ！？　誰が決めたのっ！ どうして言うことをきかなくちゃいけないのっ！
+祥子: 初音も初音ですわ！　こんの、このっ……！ ばか〜〜〜っ！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
+初音: さきちゃん……
+祥子: なんですの。わたくし怒ってるんですの。 わたくしの覚悟を甘くみないでちょうだい
+初音: ……うん
+(Background change)
+初音: ……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp)
+初音: ……
+祥子: ぅ……ん
+初音: ……
+(Background change)
+祥子: ありましたわ……！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000164/data/adv_still_anime_000164/adv_still_anime_000164.webp)
+祥子: ……これだけは
+初音: ……
+定治: コソ泥のような真似を
+祥子: 荷物を取りにきただけですわ
+定治: 初音。祥子を連れてきた時点でお前の役割は 終わったはずだが？
+初音: ……あ、あのっ……
+定治: ……？
+初音: ………さきちゃんのそばにいさせてください！ あなたに、豊川の家に迷惑は——
+定治: あの男と同じ轍を踏むつもりか？ いますぐ出ていけ。金輪際豊川の敷居を跨いではならん
+祥子: 豊川、豊川ってそんなに偉いんですか？ わたくしたちが何をしたって言うんですの？
+祥子: 到底受け入れられません！
+定治: お前は豊川の家の恐ろしさを……
+祥子: <size=175%>怖気付いてるのはおじいさまでしょう！
+定治: っ！
+祥子: わたくしも出ていきます。 もうおじいさまの言いなりにはなりません
+祥子: <size=175%>ふたりで暮らします！
+初音: さきちゃん……！
+祥子: お父様のこと、よろしくお願いします！
+定治: ……
+(Background change)
+(Background change)
+祥子: ふふっ！　おじいさまの顔ったら！ 鳩に豆鉄砲とは、まさにあれですわっ！　ふふっ
+祥子: …………ありがとう
+初音: ……
+初音: 死んじゃうかと思った
+祥子: わたくしも…… あら、初音。肩のところに虫が……
+初音: <size=175%>うわぁあっ！　虫ぃ！？
+祥子: 動かないで、取ってさしあげますから。 ほら、じっとして
+初音: ……うぅっ！　は、はやく……
+祥子: ……ほら、取れましたわ。 こんなに小さいてんとう虫が怖いんですの？
+初音: こ、怖いんだって〜！　 さきちゃん、こっち向けないで〜
+祥子: ふふっ、初音ったら
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
+初音: も〜〜っ、笑わないでよ〜！ ……ふふっ
+祥子: ふふ
+祥子: <size=150%>あははっ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
+(Background change)
+(Background change)
+初音: これからどうする？
+祥子: …………この世界はどうにもならないことだらけで
+祥子: たしかなものなんて、 揺るぎのないものなんて、何一つありませんわ
+祥子: ……こわい？
+初音: ……ううん、さきちゃんと一緒なら
+(message) 海鈴: <color=#1877F2>＠祥子</color>　三角さん見つかりましたか？
+(message) 海鈴: 練習１１時からです
+(message) 海鈴: 今日こそ来てください😭
+祥子: 忘れてましたわ。ええ、これから……
+初音: さすがに顔出さないと。 コーヒー淹れるからもうちょっと寝てていいよ
+初音: さきちゃん……だいすき
+祥子: …………
+祥子: （運命に……世界に背を向けても なにかが変わるわけではありませんわ）
+祥子: （この小さな世界はきっといつか終わる。 朝、夢から覚めるように——突然、否応なく）
+祥子: （けれど、できるだけ。もう少しだけ微睡みに 浸っていたい）
+祥子: この匂い……嫌いですわ

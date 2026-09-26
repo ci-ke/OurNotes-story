@@ -1,0 +1,44 @@
+1 10655:adv_script_home_10655 Member Talk
+
+(Background change)
+Taki: We can't let animals inside.
+Rāna: But it's lost.
+Taki: Huh? Oh, it's got a collar...
+Anon: We can't just leave it here, can we? Should we try to find its owner?
+Taki: Fine... Then let's take it to a police station. I'll find the nearest one.
+
+
+2 10649:adv_script_home_10649 The Lost Cat
+
+(Background change)
+Anon: Ahaha, that's a biiig stretch. So cute~!
+
+
+3 10650:adv_script_home_10650 The Lost Cat
+
+(Background change)
+Anon: Huh? Is it wearing a collar?
+
+
+4 10651:adv_script_home_10651 The Lost Cat
+
+(Background change)
+Rāna: Probably lost.
+
+
+5 10652:adv_script_home_10652 The Lost Cat
+
+(Background change)
+Rāna: We were playing together.
+
+
+6 10653:adv_script_home_10653 The Lost Cat
+
+(Background change)
+Taki: Hey, you can't let it in!
+
+
+7 10654:adv_script_home_10654 The Lost Cat
+
+(Background change)
+Taki: It'll bother the other customers.

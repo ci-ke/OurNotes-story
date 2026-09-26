@@ -1,0 +1,69 @@
+1 10855:adv_script_home_10855 Member Talk
+
+(Background change)
+Natsume: Which one? The coolest one, obviously.
+Nagi: Okaaay, I'll give it a try.
+Houka: Hehe, a very clear explanation indeed.
+Natsume: What? If you've got something to say, just come out and say it.
+Mahoro: Okay, okay, that's enough! Let's start practicing. Right, Hotaru-chan?
+Hotaru: Yes!
+
+
+2 10845:adv_script_home_10845 Before It Begins
+
+(Background change)
+Natsume: Hey, for the phrase in the second half...
+
+
+3 10846:adv_script_home_10846 Before It Begins
+
+(Background change)
+Natsume: We're switching to the one I mentioned yesterday. Got it?
+
+
+4 10847:adv_script_home_10847 Before It Begins
+
+(Background change)
+Nagi: Yesterday... Wait, which one did we use?
+
+
+5 10848:adv_script_home_10848 Before It Begins
+
+(Background change)
+Nagi: There were, like, three different options, though.
+
+
+6 10849:adv_script_home_10849 Before It Begins
+
+(Background change)
+Mahoro: Hup... There we go!
+
+
+7 10850:adv_script_home_10850 Before It Begins
+
+(Background change)
+Mahoro: Now~ where's the tuner...?
+
+
+8 10851:adv_script_home_10851 Before It Begins
+
+(Background change)
+Houka: Mm... Phew.
+
+
+9 10852:adv_script_home_10852 Before It Begins
+
+(Background change)
+Houka: It's almost time.
+
+
+10 10853:adv_script_home_10853 Before It Begins
+
+(Background change)
+Hotaru: ...
+
+
+11 10854:adv_script_home_10854 Before It Begins
+
+(Background change)
+Hotaru: Hehe...

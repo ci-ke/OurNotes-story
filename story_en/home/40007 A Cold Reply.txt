@@ -1,0 +1,31 @@
+1 10888:adv_script_home_10888 Member Talk
+
+(Background change)
+Houka: Now, don't be so cold♪ We're only having a little chat, aren't we?
+Nagi: ...
+Houka: My, how cold you are. I only want us to be friends.
+Nagi: Friends, then...
+
+
+2 10884:adv_script_home_10884 A Cold Reply
+
+(Background change)
+Houka: How's the coffee?
+
+
+3 10885:adv_script_home_10885 A Cold Reply
+
+(Background change)
+Houka: Lovely weather today♪
+
+
+4 10886:adv_script_home_10886 A Cold Reply
+
+(Background change)
+Nagi: *Sigh*...
+
+
+5 10887:adv_script_home_10887 A Cold Reply
+
+(Background change)
+Nagi: We don't have to talk if there's nothing to talk about.

@@ -1,0 +1,70 @@
+1 10763:adv_script_home_10763 Member Talk
+
+(Background change)
+Nyamu: Okay, perfect. That came out great♪
+Uika: That gradient is so pretty...! It almost feels like a shame to mix it.
+Umiri: I imagine the mocktail would taste better mixed, though.
+Sakiko: Then... I shall mix it all together and drink every last drop. That is more fitting for us.
+Mutsumi: Then I'll mix mine too.
+Sakiko: I trust everyone has their glass. Then... here's to the moon tonight.
+Everyone: Cheers!
+
+
+2 10753:adv_script_home_10753 Tonight, Aboard the Ship
+
+(Background change)
+Uika: You've been here this whole time? Aren't you cold?
+
+
+3 10754:adv_script_home_10754 Tonight, Aboard the Ship
+
+(Background change)
+Uika: I just... couldn't help worrying.
+
+
+4 10755:adv_script_home_10755 Tonight, Aboard the Ship
+
+(Background change)
+Sakiko: Thank you, Uika. For what you did just now... and earlier as well.
+
+
+5 10756:adv_script_home_10756 Tonight, Aboard the Ship
+
+(Background change)
+Sakiko: You came to my aid both times.
+
+
+6 10757:adv_script_home_10757 Tonight, Aboard the Ship
+
+(Background change)
+Umiri: It might be nice to have a drink while we savor the afterglow.
+
+
+7 10758:adv_script_home_10758 Tonight, Aboard the Ship
+
+(Background change)
+Umiri: Let us toast with mocktails.
+
+
+8 10759:adv_script_home_10759 Tonight, Aboard the Ship
+
+(Background change)
+Nyamu: Come on, let's drink already~! I'm parched.
+
+
+9 10760:adv_script_home_10760 Tonight, Aboard the Ship
+
+(Background change)
+Nyamu: Umiko kept nagging me to wait until everyone was here.
+
+
+10 10761:adv_script_home_10761 Tonight, Aboard the Ship
+
+(Background change)
+Mutsumi: Thanks for all your hard work.
+
+
+11 10762:adv_script_home_10762 Tonight, Aboard the Ship
+
+(Background change)
+Mutsumi: It says we can help ourselves to the food inside, too.

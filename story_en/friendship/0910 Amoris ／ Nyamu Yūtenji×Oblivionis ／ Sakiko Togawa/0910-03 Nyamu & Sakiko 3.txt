@@ -1,0 +1,53 @@
+10518:adv_script_nyamu_sakiko_linkstory_3 Nyamu & Sakiko 3
+
+(Background change)
+
+[Inside the Taxi]
+
+Nyamu: Phew~ It's over...
+Sakiko: That posture is rather unladylike. Please sit deeper in your seat and close your legs.
+Nyamu: Oh, relax. The rehearsal ran long because someone here was so picky about the staging.
+Sakiko: It was necessary. Besides, we still have some fine details to adjust.
+Nyamu: Huh? We have to do more?
+Sakiko: Yes, I've booked time from tomorrow morning. That said, it'll just be me overseeing the final details.
+Nyamu: *Sigh*... So you're gonna keep working. And you've been going nonstop since this morning.
+Nyamu: Aren't you starving and gonna collapse right now?
+Sakiko: Oh dear, are you worried about me?
+Nyamu: Well, yeah~ It'd be a problem if you collapsed, right~?
+Nyamu: (I'm getting hungry too... I should eat something when I get home. What do I have in the fridge? Eggs, and...)
+Nyamu: (Ugh, I'm too tired to remember. And I can't be bothered to cook...)
+Nyamu: (I guess I'll just get delivery today.)
+Nyamu: (What did I order last time...? Oh right, the rice noodles. That was really good~ But I'm not in the mood for that now, so maybe something else... Huh?)
+Nyamu: <size=175%>Salad-Stuffed Chikuwa Tempura
+Sakiko: !?
+Nyamu: Yes, I'm definitely getting this! And then~
+Sakiko: Salad-Stuffed... What's that?
+Nyamu: Ah.
+Sakiko: It sounded like food.
+Nyamu: Ah...
+Nyamu: Yeah, from my hometown. Look, it looks like this.
+Sakiko: So it's tempura... made of chikuwa. It looks like something is stuffed inside.
+Nyamu: Potato salad. When you have leftovers, this is how you jazz it up.
+Nyamu: I’ve never seen it around here at all, so I was just surprised to find it on delivery.
+Sakiko: I see... You seemed very excited, did you eat it often?
+Nyamu: Well, yeah...
+Sakiko: Did you make it by yourself?
+Nyamu: No, frying things is such a hassle, you know?
+Nyamu: Wait, why are you so curious, Sakiko? You're suddenly asking so many questions.
+Sakiko: No, it's just that you don't usually talk about your hometown.
+Nyamu: Oh, I see. But everyone has that, right? The taste of home.
+Nyamu: Sakiko, you also... Oh wait, I guess for you, it's more like the taste of chefs?
+Sakiko: I guess so...
+Nyamu: So, there's nothing that feels nostalgic for you. Sorry, my bad.
+Sakiko: Don't worry about it. Besides...
+Sakiko: To long for something from home... That's just not something that would happen to me.
+Sakiko: Once a bird has left the nest, it will never return to it.
+Nyamu: I see...
+Sakiko: Still, delivery is rather expensive, isn't it? If you use it too often, won't your food costs add up?
+Sakiko: If it's tempura, you can actually make it at home if you know the techniques. For example...
+Nyamu: Oh, come on. I do cook, you know, it's just today~
+Nyamu: But... you actually do take care of yourself. I thought you just relied on Uiko for everything.
+Sakiko: Despite how I may appear, I do have a fair bit of knowledge about daily living.
+Nyamu: Haha, what the heck? You're hilarious.
+Nyamu: Well then, maybe I'll ask you to cook for me when I'm desperate~
+Sakiko: Sure. If the chance comes, I'll be happy to cook for you.

@@ -1,0 +1,45 @@
+1 10795:adv_script_home_10795 Member Talk
+
+(Background change)
+Ritsu: Does that feel any better...!?
+Miyako: W-Wait, turn it off! Sengoku-san is...!
+Yuno: ...
+Ritsu: She's not breathing...!
+Miyako: Anyone would after getting hit by a blast like that head-on.
+Ritsu: Yuno-san, stay with me! Yuno-saaaan!
+
+
+2 10789:adv_script_home_10789 Recovery Item
+
+(Background change)
+Yuno: Uuugh...
+
+
+3 10790:adv_script_home_10790 Recovery Item
+
+(Background change)
+Yuno: Nope. Can't move.
+
+
+4 10791:adv_script_home_10791 Recovery Item
+
+(Background change)
+Ritsu: Stay with me...!
+
+
+5 10792:adv_script_home_10792 Recovery Item
+
+(Background change)
+Ritsu: I've borrowed just the thing.
+
+
+6 10793:adv_script_home_10793 Recovery Item
+
+(Background change)
+Miyako: That's huge... What even is this...?
+
+
+7 10794:adv_script_home_10794 Recovery Item
+
+(Background change)
+Miyako: Where exactly did you borrow it from...?

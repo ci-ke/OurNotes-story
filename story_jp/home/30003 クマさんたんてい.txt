@@ -1,0 +1,45 @@
+1 10788:adv_script_home_10788 メンバートーク
+
+(Background change)
+あられ: 都子さん、未来が見えるんですか……！？
+ののか: あられんくん、慌てるでない！ 私がオトリになってるうちに、早く！
+都子: かっ、影分身……！？
+あられ: すごいです！　それどうやってやるんですか！？
+ののか: んーとね、す〜んごい速く動く！
+あられ: な……なるほど……！？
+
+
+2 10782:adv_script_home_10782 クマさんたんてい
+
+(Background change)
+ののか: むむ……今日のクマさんは〜……
+
+
+3 10783:adv_script_home_10783 クマさんたんてい
+
+(Background change)
+ののか: あられんくん、見えるかね！
+
+
+4 10784:adv_script_home_10784 クマさんたんてい
+
+(Background change)
+あられ: ののーむずさん、見えません！
+
+
+5 10785:adv_script_home_10785 クマさんたんてい
+
+(Background change)
+あられ: こうなったら接近戦で……！
+
+
+6 10786:adv_script_home_10786 クマさんたんてい
+
+(Background change)
+都子: させませんよ
+
+
+7 10787:adv_script_home_10787 クマさんたんてい
+
+(Background change)
+都子: あなたたちの手は読めています

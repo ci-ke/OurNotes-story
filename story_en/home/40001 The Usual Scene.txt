@@ -1,0 +1,68 @@
+1 10844:adv_script_home_10844 Member Talk
+
+(Background change)
+Nagi: Oh... Hey. Want some snacks?
+Mahoro: I think I will. Looks like they'll be at it for a while.
+Natsume: I'm not done yet!
+Kanata: Oh, yeah? Then... how's this?!
+Houka: Hehe...♡
+
+
+2 10836:adv_script_home_10836 The Usual Scene
+
+(Background change)
+Kanata: Huh~? Wasn't it your stomach a second ago?
+
+
+3 10837:adv_script_home_10837 The Usual Scene
+
+(Background change)
+Kanata: Well, fine by me.
+
+
+4 10840:adv_script_home_10840 The Usual Scene
+
+(Background change)
+Houka: Oh, why not keep going a little longer?
+
+
+5 10841:adv_script_home_10841 The Usual Scene
+
+(Background change)
+Houka: I could listen to Kanata-san play forever♡
+
+
+6 10838:adv_script_home_10838 The Usual Scene
+
+(Background change)
+Mahoro: Let's take a break for now, okay?
+
+
+7 10839:adv_script_home_10839 The Usual Scene
+
+(Background change)
+Mahoro: And I picked up some snacks!
+
+
+8 10842:adv_script_home_10842 The Usual Scene
+
+(Background change)
+Nagi: Doesn't look like they'll be done anytime soon...
+
+
+9 10843:adv_script_home_10843 The Usual Scene
+
+(Background change)
+Nagi: Let's take a break here.
+
+
+10 10834:adv_script_home_10834 The Usual Scene
+
+(Background change)
+Natsume: Ngh... One more time!
+
+
+11 10835:adv_script_home_10835 The Usual Scene
+
+(Background change)
+Natsume: My fingers just weren't cooperating that time!

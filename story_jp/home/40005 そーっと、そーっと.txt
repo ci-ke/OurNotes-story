@@ -1,0 +1,69 @@
+1 10878:adv_script_home_10878 メンバートーク
+
+(Background change)
+凪: ……セーフ
+蛍: すみません！ 助かりました……！
+なつめ: はぁ〜……肝が冷えたわ
+朋花: 可愛らしいじゃないですか、一生懸命で
+まほろ: 蛍ちゃんごめんね〜……！ 私がトレイ持つんだった
+蛍: いえ！　わたしが言い出したことなので……！ 次は気をつけますっ
+
+
+2 10868:adv_script_home_10868 そーっと、そーっと
+
+(Background change)
+蛍: そーっと、そーっと……
+
+
+3 10869:adv_script_home_10869 そーっと、そーっと
+
+(Background change)
+蛍: わわっ……！！
+
+
+4 10870:adv_script_home_10870 そーっと、そーっと
+
+(Background change)
+まほろ: 気をつけて……！
+
+
+5 10871:adv_script_home_10871 そーっと、そーっと
+
+(Background change)
+まほろ: ゆっくりでいいよっ
+
+
+6 10872:adv_script_home_10872 そーっと、そーっと
+
+(Background change)
+朋花: ……あら
+
+
+7 10873:adv_script_home_10873 そーっと、そーっと
+
+(Background change)
+朋花: 蛍さん、そんなに急いでは……
+
+
+8 10874:adv_script_home_10874 そーっと、そーっと
+
+(Background change)
+なつめ: ああ、もうっ
+
+
+9 10875:adv_script_home_10875 そーっと、そーっと
+
+(Background change)
+なつめ: 何してんのよ……！
+
+
+10 10876:adv_script_home_10876 そーっと、そーっと
+
+(Background change)
+凪: え？
+
+
+11 10877:adv_script_home_10877 そーっと、そーっと
+
+(Background change)
+凪: やば

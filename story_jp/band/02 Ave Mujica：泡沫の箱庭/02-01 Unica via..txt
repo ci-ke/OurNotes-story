@@ -1,0 +1,258 @@
+10020:adv_script_mujica_002_1_01 Unica via.
+
+だから……この胸の痛みは、わたくしへの罰なのですわ
+
+(Background change)
+語り部: ようこそ、少女たちのステージへ
+語り部: これからご覧にいれますのは—— 秘密を抱えた彼女の話にございます
+語り部: その先に待つは祝福か、破滅か。 幕の降りるその時まで、人形たちの歌劇を共に見届けましょう
+(Background change)
+ドロリス: ……
+オブリビオニス: ドロリス……さあ、目覚めの夜よ
+アモーリス: アタシが起こしてあげようか？
+ティモリス: 無理に起こせば魂が壊れてしまうかも
+モーティス: お姉さま
+オブリビオニス: 大丈夫。月の光が起こしてくれますわ
+オブリビオニス: 影に飲み込まれた月は息を吹き返し、 憐れな人形は再び仮初の命を宿す……
+ドロリス: ……！
+オブリビオニス: さあ始めましょう。今宵のマスカレードを！
+(Background change)
+
+[終演後]
+
+(Background change)
+記者: 今回も圧巻の演奏でした！ 次の武道館公演に向け、意気込みを聞かせていただけますか？
+祥子: わたくしたちの使命は、ゲストの皆様に夢を見ていただくこと
+祥子: 次の武道館でもAve Mujicaの世界に迷い込んで いただけましたら至上の喜びでございます
+初華: 武道館ってすごいよね
+海鈴: デビューから間もないですからね
+にゃむ: 『史上最速』って強調しておいて〜
+記者: は、はい。モーティスさんはいかがですか？
+睦: ！　……私は…… …………
+祥子: ご覧の通り、モーティスは少々人見知りでして。 モーティス、本日のお礼を
+睦: ……ありがとうございました
+記者: お時間ありがとうございました。 ではこれで失礼します
+祥子: 良い夜を
+にゃむ: ふぅ……やっと外せるわ〜
+祥子: 楽屋に戻るまでは外さないで。 誰が見ているかわかりませんから
+にゃむ: え〜、すっぱ抜かれちゃう？ アモーリスの正体は、配信者のにゃむち——
+祥子: アモーリス
+にゃむ: ……アタシ達ってさあ、これからもずっと仮面でいくの？ 顔と数字が台無しなんだけど
+祥子: ……
+にゃむ: sumimiの初華。 お笑いの大御所若葉と、演技派女優森みなみの娘
+にゃむ: 仮面を外すだけで世間の注目、ぜ〜んぶ取れるのに
+祥子: Ave Mujicaは安売りをいたしません。 まずは実績を重ね、音楽性の評価を——
+にゃむ: 『昨日好きでも、今日飽きた』
+祥子: ！
+にゃむ: 世の中って残酷だから、ちんたらしてたら 飽きられちゃうかもよ〜？
+睦: ……
+祥子: わたくしは、このバンドをいっときの 流行で終わらせるつもりはございません
+祥子: 言ったでしょう？　残りの人生、わたくしにくださいと
+初華: さきちゃん……
+にゃむ: ……ふーん
+祥子: カードの切りどころは心得ております。 仮面を外すのは最高の舞台、最高のタイミングで
+(Background change)
+初華: さきちゃん、待って。一緒に帰ろう
+祥子: 初華
+初華: さっき感動しちゃった。 Ave Mujicaのこと、すごく大切にしてくれてるんだーって
+祥子: それはそうですわ。皆さんの人生を預かるのですから
+初華: デビューしたばかりでこんなに人気になるなんて やっぱりさきちゃんはすごい
+祥子: 初華のおかげですわ
+祥子: Ave Mujicaのフロントとしてこれ以上は無いと思っています
+祥子: よろしかったんですの？ ……<ruby=・>あ</ruby><ruby=・>の</ruby><ruby=・>時</ruby>、なにも聞かずにわたくしの誘いに乗って
+初華: うん
+祥子: 初華は絶対、水晶とか買わされるタイプの人間ですわ
+初華: あ、ひどいな〜
+祥子: 同じ事務所とはいえ、sumimiと並行しての活動は大変 ですわよね。なるべく負担にならないように——
+初華: 負担じゃないよ、全然。 むしろ気分転換になってるし……ううん
+初華: さきちゃんと、ずっと一緒にいたいって夢が 叶ったから……
+祥子: ……初華
+祥子: 失礼…… ……！
+初華: 仕事？
+祥子: ……ええ。ではこれで
+(Background change)
+祥子: ほら、しっかり！　 警察にご厄介になるのこれで何度目ですの？
+清告: うう……俺なんていない方がいいんだ……
+祥子: 訳わからないこと言ってないで……！ ちゃんと布団で寝てください
+祥子: ……ふぅ
+祥子: ……
+祥子: （武道館までに４曲。初華の作詞の時間を考えると 最低でもこの週末に２曲……）
+祥子: （……わたくしにはもう——この道しかないのだから）
+祥子: 思い返せば、わたくしは本当に幸せな子どもでしたわ
+(Background change)
+(Background change)
+祥子: 優しい両親に囲まれ、大好きなピアノを弾く毎日…… 何の心配もなかったあの頃は、 本当にキラキラと輝いていた……
+祥子: けれどそんな日々は、 お母様が亡くなったことで終わりを告げましたわ
+祥子: お父様はわたくしを守ると、がんばってくださいましたが…… どうしても深い悲しみから立ち直れずにいた……
+祥子: けれど、そんなわたくしを救ったのは——
+(Background change)
+教師: 午後から音楽祭です。講堂に移動しましょう——
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
+睦: 祥、移動
+祥子: ……ええ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
+祥子: …… ！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+祥子: 睦、今の方々は？
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+睦: 月ノ森で初めてバンドを組んだ、高等部の先輩
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+祥子: バンド…… 睦、わたくし達もバンドをいたしましょう
+睦: え
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
+祥子: バンド、ですわ！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
+(Background change)
+(Background change)
+祥子: 長崎そよさん、素敵な方でよかったですわ。 あとはボーカル……
+燈: ……
+祥子: ？　……あの方、あんなに橋から乗り出して何を……？
+燈: ……あっ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
+祥子: <size=175%>！！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
+祥子: <size=175%>ダメですわ！！
+燈: う………
+祥子: いたた……大丈夫ですの？
+祥子: 突き飛ばしたのはごめんなさい…… でも、死ぬのはダメですわ！
+燈: え……？
+祥子: あなた、死のうとしたでしょう！？
+燈: ううん…… 持ってた花が風に飛ばされて……手を伸ばしただけ……
+祥子: 花……？
+祥子: <size=125%>花と命、どっちが大事ですの！？
+祥子: あ、いえ…… 花にも命がありますわね……
+燈: 落ちてた花だから死んでたと思う
+祥子: 死！？　え！？
+燈: ……
+祥子: ……わたくしの勘違いでしたの。 そういうつもりではなかったんですのね……
+(Background change)
+祥子: 彼女は立ち去ろうとするわたくしを引き留め、 怪我の手当てをと、ご自宅に誘ってくださいました
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
+祥子: 彼女の自室から歌詞ノートを見つけた時は、 本当に胸が高鳴りましたわ
+祥子: ……この時の出会いは、今でも運命だったと わたくしは思っています
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
+(Background change)
+祥子: ——♪
+燈: ……
+祥子: 『人間になりたいうた』……本当に素敵な歌詞ですわね……！
+祥子: 申し遅れました。 わたくし、豊川祥子と申します
+祥子: あなた、お名前は？
+燈: ……燈……
+祥子: 燈さん……わたくしとバンドを組んでくださらない？
+(Background change)
+祥子: これからわたくしたちは、バンド…… 共に音楽を奏でる運命共同体となるのです
+睦: ……
+祥子: それからは本当に毎日が楽しかった。 初めてスタジオで練習したり、カラオケに行ったり……
+祥子: 歩道橋の上から、思いの丈を叫ぶなんてことも しましたわ
+祥子: ワクワクするような日々のすべてが、 あの歌につながっていきました
+(Background change)
+(Background change)
+燈: これ……
+祥子: これは……？
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000074/data/adv_still_anime_000074/adv_still_anime_000074.webp)
+燈: 初めて、歌詞書いた
+祥子: ……わかりますわ。これは……
+祥子: ……っ……
+燈: <size=200%>！
+そよ: 大丈夫？　祥ちゃん
+祥子: 『春日影』は……わたくしたちの歌ですのね
+祥子: 燈の歌詞にふさわしい曲を書いてみせますわ
+(Background change)
+CRYCHIC: はぁ……はぁ……
+燈: ありがとう、ございました……
+祥子: （初華……観にきてくれたんですのね……！）
+祥子: （……？　お父様は？）
+(Background change)
+立希: は？　何この感想！？ 燈の歌のことなんもわかってない！
+立希: ブロックしてやる
+そよ: 立希ちゃん、ブロックよりミュートね
+祥子: （……お父様、どうしたのかしら？）
+(Background change)
+(message) 祥子: お父様いらしてます？
+(message) 豊川清告: もう一緒には暮らせない
+(message) 豊川清告: 祥子は幸せになってくれ
+(Background change)
+祥子: え……？
+睦: ……？
+(Background change)
+祥子: おじいさま、お父様はどこ！　知っているのでしょう？
+定治: アレはもう豊川の人間ではない。 詐欺にあった責任をとって辞めた
+祥子: 詐欺……？
+定治: １６８億の損失だ
+祥子: ！　そんな……
+定治: 運が悪かった。父のことは忘れて、私の娘になりなさい。 瑞穂の忘れ形見だ。苦労させたくない。
+祥子: ……！
+定治: 祥子！　お前のような箱入りが、どう生きていくつもりだ！
+(Background change)
+(Background change)
+(Background change)
+祥子: 飛び出して来てしまいましたが…… 形見のお人形だけは持ってこられてよかったですわ
+(Background change)
+祥子: こちらが……お父様の新しいお住まい……？
+祥子: ！　お酒の空き缶……
+清告: ……うぅ……
+祥子: お父様！　お父様しっかり！
+清告: んん……
+祥子: ……息、してますわね。よかった……
+祥子: それからは、とにかく必死でしたわ。 生活費を稼がねば、お父様の代わりに わたくしがなんとかしなければ、と……
+(Background change)
+祥子: 無理を言っていることはわかってます。 けれど、そこをどうか雇っていただけないでしょうか？
+店長: 『そう言われてもねえ、やっぱり中学生はダメよお。 親御さんは？　どうしてるの？』
+祥子: ……それは
+店長: 『申し訳ないけど、うちでは無理よ。ごめんなさい』
+祥子: はい……失礼します
+祥子: 残高もあとわずか…… 新聞配達を増やしても……雀の涙ですわ。これでは
+(Background change)
+(Background change)
+睦: 本当に辞めちゃうの？
+祥子: 睦はご存じ？　月ノ森の学費って、すごく高いんですのよ
+睦: ……CRYCHICは？
+祥子: ……
+祥子: なんとか時間を作りますから、まだ誰にも言わないで
+(Background change)
+祥子: メンバーには……迷惑も、心配もかけたくない。 絶対にCRYCHICだけは辞めたくない……！
+祥子: わたくしがなんとかしなくては。 わたくしが、わたくしが——！
+(Background change)
+祥子: 思ったより早く上がれましたわ。 まだ練習に間に合いますわね
+(message) そよ: 今日は来れそう？
+(message) 祥子: 今まで申し訳ございませんでした。 今日は行けま
+祥子: ？　一体どなた……？
+祥子: ……はい豊川です。 ……え？
+(Background change)
+祥子: どうしてお酒なんか……！
+清告: 祥子……お父さん、がんばるから……
+祥子: お父様………
+(message) そよ: みんな待ってるよ
+(message) そよ: どうしたの？
+(message) そよ: なにかあったら相談にのるから
+祥子: ……
+祥子: （もう…………これ以上……）
+(Background change)
+(Background change)
+祥子: 今日は言うことがあって来ましたの
+祥子: CRYCHICを、辞めさせていただきますわ
+立希: ……！
+そよ: え
+立希: てか、無責任じゃない？
+燈: でも、祥ちゃんがいないと——
+祥子: 甘ったれたことを言わないでちょうだい！ 燈は特に練習しないといけないのに、 今まで何をやっていたんですの？
+そよ: 待って……！　ちゃんと話し合おうよ、ね？ せっかく楽しくやってきたんだから…… 睦ちゃんもそう思うよね？
+睦: …………
+睦: 私は……バンド、楽しいって思ったこと一度もない
+祥子: ただ……胸が張り裂けそうだった
+祥子: 本当のことを言えたら、どんなによかったか。 CRYCHICを続けたいと言えたら、どんなによかったか
+祥子: みんなを傷つけた。 だから……この胸の痛みは、わたくしへの罰なのですわ
+(Background change)
+(Background change)
+祥子: <size=175%>わぁああああああ……
+(Background change)
+(Background change)
+祥子: （わたくしにはもう、Ave Mujicaしかない）
+祥子: （……だからこそ武道館は成功させなければ。 もう後戻りなど、できないのだから）
+祥子: （………早く、すべて忘れてしまいたい——）
+(Background change)

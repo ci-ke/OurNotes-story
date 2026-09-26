@@ -1,0 +1,43 @@
+1 10752:adv_script_home_10752 Member Talk
+
+(Background change)
+Sakiko: I cannot very well send one of our members home soaking wet.
+Umiri: Then I will take you up on your offer.
+Sakiko: Mutsumi, let us go.
+Mutsumi: Okay.
+
+
+2 10746:adv_script_home_10746 In the Falling Rain
+
+(Background change)
+Mutsumi: The rain...
+
+
+3 10747:adv_script_home_10747 In the Falling Rain
+
+(Background change)
+Mutsumi: It's getting heavier.
+
+
+4 10748:adv_script_home_10748 In the Falling Rain
+
+(Background change)
+Sakiko: Umiri, use this.
+
+
+5 10749:adv_script_home_10749 In the Falling Rain
+
+(Background change)
+Sakiko: I have a spare.
+
+
+6 10750:adv_script_home_10750 In the Falling Rain
+
+(Background change)
+Umiri: Thank you...
+
+
+7 10751:adv_script_home_10751 In the Falling Rain
+
+(Background change)
+Umiri: You don't miss much, do you?

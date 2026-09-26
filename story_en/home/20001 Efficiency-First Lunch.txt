@@ -1,0 +1,68 @@
+1 10702:adv_script_home_10702 Member Talk
+
+(Background change)
+Sakiko: Do the rest of you usually eat things like this?
+Uika: I used to eat these a lot back when I was short on time. They're convenient and actually quite tasty.
+Umiri: See, Misumi-san says the same thing.
+Nyamu: I'll pass. Why don't you give it to Muuko?
+Mutsumi: ...I'll give it a try.
+
+
+2 10692:adv_script_home_10692 Efficiency-First Lunch
+
+(Background change)
+Nyamu: So, this is what we're having for lunch?
+
+
+3 10693:adv_script_home_10693 Efficiency-First Lunch
+
+(Background change)
+Nyamu: Umiko, you've got seriously good taste, don't you?
+
+
+4 10694:adv_script_home_10694 Efficiency-First Lunch
+
+(Background change)
+Umiri: It's the most efficient option.
+
+
+5 10695:adv_script_home_10695 Efficiency-First Lunch
+
+(Background change)
+Umiri: Here, try one.
+
+
+6 10696:adv_script_home_10696 Efficiency-First Lunch
+
+(Background change)
+Uika: ...Plump and juicy peach flavor.
+
+
+7 10697:adv_script_home_10697 Efficiency-First Lunch
+
+(Background change)
+Uika: Now that you mention it, it does kind of taste like peach.
+
+
+8 10698:adv_script_home_10698 Efficiency-First Lunch
+
+(Background change)
+Sakiko: Good day, everyone.
+
+
+9 10699:adv_script_home_10699 Efficiency-First Lunch
+
+(Background change)
+Sakiko: Mutsumi, what is that?
+
+
+10 10700:adv_script_home_10700 Efficiency-First Lunch
+
+(Background change)
+Mutsumi: Protein...
+
+
+11 10701:adv_script_home_10701 Efficiency-First Lunch
+
+(Background change)
+Mutsumi: It's our lunch, apparently.

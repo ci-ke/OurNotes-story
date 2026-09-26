@@ -1,0 +1,190 @@
+10031:adv_script_mujica_002_1_12 Monstrum.
+
+あなたなんかいらない……
+
+(Background change)
+モーティス: 沈んでいく……
+(Background change)
+睦: 祥……ごめんなさい
+祥子: ……睦はなにもっ！　 わたくしこそ、ごめんなさい
+睦: ううん
+(Background change)
+(Background change)
+モーティス: 睦ちゃん、たのしそうだなぁ
+モーティス: 消える……消えたくない
+(Background change)
+海鈴: 私とも元サヤに戻りませんか？
+海鈴: もう一度、私とAve Mujicaをやりませんか？ ということです
+(Background change)
+モーティス: <size=175%>！！
+(Background change)
+海鈴: いかがでしょう。豊川さん
+モーティス: っ！　やだ、やだ、やだっ………！ しにたくないっ
+モーティス: <size=175%>やだ、やだ、やぁだ！　しにたくないっ
+(Background change)
+睦: 祥……
+祥子: Ave Mujicaは、もう……
+(Background change)
+モーティス: えっ……？
+(Background change)
+立希: ……えっと、スマホ
+海鈴: お先に失礼します
+立希: あ
+海鈴: ボロ泣きでしたね
+立希: え
+海鈴: 昨日のリハ。CRYCHICでしたっけ。 見せつけてくれますね
+立希: いたの？
+立希: ……
+立希: 前に言った『本当にムジカやってたの』ってアレ…… 私も自分のバンドできてなかった……から
+海鈴: ……！
+海鈴: 元サヤ、するんですか？
+立希: は？
+海鈴: CRYCHICです
+立希: 何言ってんの。あれはもう、終わったから
+海鈴: それを聞いて安心しました
+海鈴: 豊川さんも若葉さんも複数のバンドを掛け持ちできるほど 器用ではなさそうなので
+海鈴: Ave Mujica、やり直すつもりです
+立希: 海鈴が？　睦はどうすんの？
+海鈴: 誘いましたよ。振られましたけど
+立希: ……チッ
+海鈴: なんですか
+立希: そういうとこ。そりゃ振られるでしょ
+立希: 海鈴信用できないし
+海鈴: っ……！
+(Background change)
+(Background change)
+祥子: 今日はこのページまでにしましょうか。 勉強もだいぶ追いつきましたわね
+祥子: 月ノ森はもう少し先まで進んでいるようですから あともうひとがんばりですわ
+睦: 祥、学校は？
+祥子: 今は大事な時期ですもの。睦のそばにいますわ
+睦: ……
+(Background change)
+祥子: いい天気ですわね。 すこし、外に出ません？
+祥子: お日様の光を浴びるのはよいことですわ
+睦: ……うん
+(Background change)
+祥子: えっ
+睦: 行きたい
+祥子: ……っ
+(Background change)
+睦: ……カラオケ
+祥子: ここは……懐かしいですわね
+睦: 入ろう
+祥子: あっ……
+(Background change)
+祥子: 睦はPastel＊Palettesでしたっけ。 ええと……
+(Background change)
+睦: ……ふぅ
+祥子: 睦、上手ですわ
+睦: ……もう一回
+祥子: もう一回ですわね
+睦: 祥とCRYCHICやりたい
+祥子: ……えっ
+睦: もう一回
+モーティス: <size=175%>やらないって言ってるでしょ！
+祥子: ！
+モーティス: 祥子ちゃんも祥子ちゃんだよ。 ノコノコついてきちゃって！
+祥子: ……モーティス。 先日はCRYCHICをさせてくれてありがとう
+モーティス: は？
+祥子: あなたのおかげでまた睦と向き合うことができました。 睦が笑ってくれるのなら、わたくしなんでもする覚悟ですわ
+モーティス: ……CRYCHICも？
+祥子: あっ……
+モーティス: ……睦ちゃんぜんっぜんわかってないから。 CRYCHICはもうない、ってちゃんと言わないと
+祥子: ……わたくしがCRYCHICの代わりになります。 あなたが睦のために生きているのと同じ
+祥子: これからはわたくしも一緒に——
+モーティス: だれと
+祥子: え？
+モーティス: 祥子ちゃんもぜんっぜんわかってない。 『睦ちゃん』なんて最初からいないよ？
+祥子: ……どういうことですの？
+(Background change)
+
+[撮影所 休憩ルーム]
+
+みなみ: ……
+にゃむ: （あ、みなみさん……）
+にゃむ: あの〜……森さん。おつかれさまです〜
+みなみ: あ〜……にゃむちゃん、ひさしぶり。 バラエティ出ずっぱりで、すごいじゃない
+にゃむ: ありがとうございます〜！ みなみちゃんもまた映画の主演って
+みなみ: 舞台のオーディション断ったんだってね〜？ もうがっかり
+にゃむ: えっ
+みなみ: そういうのに利用するつもりでうちに来たと思ったから プロデューサーに推薦しといてあげたのに
+にゃむ: ……えっ！？ あれってみなみさんの推薦だったんですか？
+にゃむ: 学校はちゃんと行くって約束で上京させてもらってるから 親に申し訳なくって！
+みなみ: いいって別に。誤魔化さなくても。 ビビってるのわかってるから
+にゃむ: ……え
+みなみ: 怖いよねえ。あの子。私も怖いもん
+みなみ: 睦ちゃんが本気出したら私なんか一瞬で かき消されちゃうからね
+にゃむ: ええ……ええっと……
+みなみ: 睦ちゃんはね、生まれついての役者
+にゃむ: ……えっ
+(Background change)
+モーティス: 睦ちゃんも私もたくさんある役のひとつなの
+祥子: ……っ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000132/data/adv_still_anime_000132/adv_still_anime_000132.webp)
+モーティス: 睦ちゃんはこの家で生きるのにちょうどいい お人形さんのような子で
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000133/data/adv_still_anime_000133/adv_still_anime_000133.webp)
+モーティス: 私は社交性があって みんなが気に入るように振る舞う『芸能人の娘』
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000132/data/adv_still_anime_000132/adv_still_anime_000132.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000133/data/adv_still_anime_000133/adv_still_anime_000133.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000134/data/adv_still_anime_000134/adv_still_anime_000134.webp)
+みなみ: 最初に気づいたのは３歳のお誕生日パーティだったかなぁ。 たぁくんはムラっけの激しい子だと思ってたみたいだけど
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000135/data/adv_still_anime_000135/adv_still_anime_000135.webp)
+みなみ: 私にはぜんぶ演技だってわかるわけ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000136/data/adv_still_anime_000136/adv_still_anime_000136.webp)
+みなみ: 座ったり、立ったり、それだけの動きで 違う人間を演じ分けんのよ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000137/data/adv_still_anime_000137/adv_still_anime_000137.webp)
+みなみ: 教えてもいないのに
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000134/data/adv_still_anime_000134/adv_still_anime_000134.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000135/data/adv_still_anime_000135/adv_still_anime_000135.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000136/data/adv_still_anime_000136/adv_still_anime_000136.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000137/data/adv_still_anime_000137/adv_still_anime_000137.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp)
+モーティス: ——なのにギターに出会っちゃった
+祥子: ……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp)
+モーティス: 睦っていう役が『睦ちゃん』って意識を持って…… 他のみんなは消えちゃった
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp)
+(Background change)
+モーティス: 私は睦ちゃんを助ける役を掴めたから 生き残ってAve Mujicaのモーティスになれた
+モーティス: 祥子ちゃんが作り出したんだよ
+祥子: ……
+モーティス: 『睦ちゃん』と『<r=わ　た　し>モーティス</r>』っていう——
+(Background change)
+みなみ: 『バケモノ』
+(Background change)
+にゃむ: ……
+みなみ: 自分が演技してることにすら気づいてない。 あ、いえ。人生のすべてが演技かもしれない
+みなみ: あの子と四六時中いっしょにいると惨めになるのよ。 わかる？　……わかるよねえ？
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
+みなみ: あなたが手を出したのはそういう子なの。 一緒にバンドやったくらいで逃げちゃうんなら 残念だけど、この世界向いてないんじゃない？
+にゃむ: は……っ
+モーティス: 私は睦ちゃんを助けなくちゃいけない。 だからAve Mujicaって舞台が必要なの
+(Background change)
+モーティス: 私が消えちゃったら睦ちゃんが困るでしょ？ だからAve Mujicaやって
+祥子: それは……睦が苦しみ続けることを 望むということですの？
+(Background change)
+モーティス: <size=175%>なんでそうなるのっ！？
+モーティス: <size=175%>そうだけど、そうじゃない！
+睦: ……CRYCHICを、もう一度
+モーティス: 何言ってるの！？　CRYCHICはもうないのっ！
+モーティス: なんでわからないの？　祥子ちゃんが泣いた理由くらい わかるでしょ！
+睦: わかってる
+モーティス: わかってない！　あの涙はCRYCHICが終わった証拠なの！
+睦: CRYCHICじゃないのになにがわかるの
+モーティス: でも終わったの！　解散したの！
+睦: 解散したのはAve Mujicaだよ
+モーティス: っ！
+睦: 祥はAve Mujicaの誘いを断った。 きっとまたCRYCHICをやってくれる
+モーティス: ……っ！　睦ちゃんはいつも自分のことばっか！ 自分の見たいものしか見てないじゃない！
+モーティス: 私のこともちゃんと見てよ！　お話を聞いてよ！
+モーティス: 私は睦ちゃんのいやなことをぜんぶ引き受ける役を やってきたんだよ！？
+モーティス: 思い出してよ………睦ちゃんが壊れそうになった時 代わってあげたでしょ
+モーティス: Ave Mujicaが壊れそうな時は みんなをつないでなかよしにして…… 睦ちゃんの居場所を守ったじゃない！
+睦: 守れなかった
+モーティス: ……え
+睦: 祥を傷つけて……Ave Mujicaも壊した。 ぜんぶ、やってほしくないことばかりだった
+睦: あなたなんかいらない……
+モーティス: ……っ！　睦ちゃんなんていらないっ！
+睦: <size=175%><cspace=0.2em>いらないのは<cspace=0.15em><voffset=0.2em>あ<voffset=-0.1em>な<voffset=0.35em>た</voffset>
+モーティス: <size=140%>やだぁーーーーっ！！ いやだっいやだっ！　あっちにいけぇーーー！！！

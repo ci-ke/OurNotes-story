@@ -1,0 +1,200 @@
+10005:adv_script_mygo_001_1_06 たったひとつの
+
+『春日影』は……わたくしたちの歌ですのね
+
+(Background change)
+
+[カラオケ店 受付]
+
+祥子: ここが……
+そよ: カラオケだよ～。 もしかして初めて？
+祥子: 噂はかねがね……
+睦: 家にある
+そよ: え～、すご～い！ やっぱり芸能人さんとか来るの？
+睦: ……
+立希: ねえ、早く受付済ませたら
+そよ: あ、それもそうだね。 すみませ～ん――
+祥子: この機械にはいろんな飲み物が入ってますの？
+立希: ドリンクバー。 好きに持ってっていいやつ
+祥子: 立希さん、お詳しいのね
+立希: そういうわけじゃ……
+燈: （このボタンかな……？）
+祥子: 飲み物が出ましたわ！ 睦、今の見まして！？
+睦: うん
+祥子: 燈、どうすれば出ますの！？
+燈: えと……押した……
+祥子: ここですの？ ……あら？　出ませんわ……
+立希: 何やってんの…… 押すとこ違うんだけど
+そよ: 遊ばないでくださーい。 ほら、お部屋行こ
+(Background change)
+祥子: カラオケってなんて楽しいんですの！
+そよ: まだ歌ってないのに～。 ……あっ、曲始まる
+立希: ちょっ……何普通に歌おうとしてんの
+そよ: え？
+祥子: ……そうですわ！ 燈の歌の練習に連れて来てくださったのでは？
+そよ: だって、いきなり歌ってって言われても、 燈ちゃん、緊張しちゃうよね？
+燈: うん……
+そよ: だから、みんなも曲入れて？
+立希: ……私はいい
+そよ: だーめ♪
+祥子: では、わたくしはMorfonicaさんの曲にしますわ！
+そよ: メジャーデビューしてないから、 入ってないんじゃないかな～……
+祥子: そうなんですの……
+そよ: 曲もう始まっちゃってるし、立希ちゃん歌う？ 動画流すの試してみようかな
+立希: ……ヒトカラ派なんで。 祥子が歌えばいいじゃん
+祥子: わ、わたくし！？ 燈……歌います？
+燈: し、知らない曲……
+睦: 今はまだ～♪
+燈: え……！？
+立希: 歌った……
+祥子: まあ！　上手ですわ、睦！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000023/data/adv_still_anime_000023/adv_still_anime_000023.webp)
+燈: 眩しい
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000023/data/adv_still_anime_000023/adv_still_anime_000023.webp)
+そよ: ほーら、立希ちゃんも曲入れて？
+立希: 私はいいって。 ……燈。これ、検索したら曲出るから
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000024/data/adv_still_anime_000024/adv_still_anime_000024.webp)
+燈: 優しい
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000024/data/adv_still_anime_000024/adv_still_anime_000024.webp)
+燈: 曲が……出る……
+祥子: 立希さん、わたくしにも教えてくださる？
+立希: えっ……
+そよ: 立希ちゃん、ファイト～♪
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000025/data/adv_still_anime_000025/adv_still_anime_000025.webp)
+燈: 美しい
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000025/data/adv_still_anime_000025/adv_still_anime_000025.webp)
+祥子: とても素敵な歌声でしたわ、燈！
+そよ: 緊張も解けてきたんじゃない？
+立希: ……スタジオよりはマシ
+睦: よかった
+そよ: あっ、じゃあ次私〜♪
+祥子: 今度はそよの番ですわね！ ファイトですわ〜！
+立希: まだ歌始まってないから
+睦: ぶっ……！　ふふふ……！
+立希: 笑った……
+そよ: わぁ、睦ちゃんが笑ってる～
+祥子: 睦は笑いますわよ
+燈: ……ふふっ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000026/data/adv_still_anime_000026/adv_still_anime_000026.webp)
+燈: 温かい
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000026/data/adv_still_anime_000026/adv_still_anime_000026.webp)
+(Background change)
+
+[羽沢珈琲店]
+
+燈: えっと……どうかな
+祥子: これが、燈が書いた新しい歌詞……
+そよ: 曲名は『春日影』？
+燈: うん……
+祥子: ……わかりますわ。これは……
+祥子: ……っ……
+燈: え……
+睦: 祥
+立希: ……お前、泣いてるの……？
+祥子: 失礼……燈が感じたこと、想い…… ちゃんと伝わってきましたわ……
+祥子: 『春日影』は……わたくしたちの歌ですのね
+そよ: ……早く弾いてみたいな
+睦: うん
+立希: いい曲にしてよ？
+祥子: もちろん。 燈の歌詞にふさわしい曲を書いてみせますわ
+(Background change)
+
+[スタジオ]
+
+燈: ……っ、 どうだった……？
+祥子: 今の歌声、よかったですわよ！
+そよ: 『春日影』もだいぶ仕上がってきたね～。 この調子なら、ライブでもうまく歌えそうかな？
+立希: じゃあ次、本番。 エントリー用の動画撮らないと
+燈: ……もう撮るの？
+そよ: 次のライブのエントリー、間に合わなくなっちゃうから。 あ、バンド名どうしよっか？
+立希: 変じゃなければ何でもいい
+そよ: も～。ちゃんと考えて
+祥子: コホン……クライシック、などいかがかしら？
+睦: クラシック？
+祥子: いいえ、『CRYCHIC』ですわ
+祥子: クライは叫ぶ、シックは上品で洗練されたという意味……
+燈: あ……
+(Background change)
+燈: 心の、叫び……
+(Background change)
+祥子: わたくしたちの歌を皆さん聴いてと、 叫び出したいくらいですから
+祥子: 皆さん、準備はよろしくて？
+そよ: ちょっと待ってね、カメラの位置を調整しないと。 ……あ、睦ちゃん見切れちゃうよ～
+祥子: 睦、もう少し左ですわ。 真ん中に立つくらいの気持ちでいないと
+睦: うん……
+そよ: 立希ちゃんは？　ドラムの調整中？
+立希: ううん、もう終わった。準備オッケー
+そよ: そっか、それじゃあ……燈ちゃんは？
+燈: …………
+立希: 大丈夫なの？
+祥子: 燈、上手に歌おうとしなくていいですわ。 自分の思いが伝わればいいんですの
+そよ: それに、間違えたら撮り直せばいいから、 緊張しなくて大丈夫だよ～
+立希: 本気は一回しか出せない
+そよ: もう、立希ちゃんっ！ 燈ちゃん、がんばって！
+燈: うん……
+燈: CRYCHICです。 『春日影』やります
+(Background change)
+燈: はぁ……はぁ……
+(Background change)
+
+[ライブハウス 舞台袖]
+
+祥子: 燈……燈！ 大丈夫ですの！？
+燈: 私……
+立希: 燈……！　ほんとお前……ふええ……
+燈: え……？
+そよ: すごいよ～……すごいよCRYCHIC……！
+祥子: 言葉になりませんわ……っ。 こんな素晴らしいライブになるなんて……
+燈: ライブ……私、ちゃんと歌えた……？ 夢中になりすぎて、覚えてない……
+立希: はあ！？
+そよ: うそぉ……そんなに集中してたの？
+立希: なんだよもう、最高だったよ！
+祥子: ええ……ありがとうございます、燈……！
+祥子: あなたはわたくしたちの記念すべき日を…… CRYCHICの初ライブを、大成功へと導いてくれましたわ！
+睦: ……みんな、良かったね……
+祥子: ……また、必ずライブいたしましょう！
+一同: うん！
+祥子: 燈……いい顔してますわ！
+(Background change)
+そよ: ……あ、ねえみんな、SNS見て！ 燈ちゃんの歌、感動したって！
+立希: え、今日のライブ、もうコメント来てる？ 私も見たいんだけど
+そよ: ライブのタグにも結構感想あるよ。 みんないっぱい書いてくれてるね～。ほら燈ちゃんも！
+燈: ほんとだ……
+祥子: まぁ……！　コメントがこんなにたくさん……
+そよ: 『すごい感動しました』…… 『#CRYCHIC 今後が楽しみ！』…… 『涙がとまらない…』だって！
+そよ: それから…………あ
+立希: ……？　どうかした？
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000027/data/adv_still_anime_000027/adv_still_anime_000027.webp)
+燈: 『ボーカル必死過ぎ』……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000027/data/adv_still_anime_000027/adv_still_anime_000027.webp)
+立希: コイツ……！ 燈の歌のことなんもわかってない！ ブロックしてやる
+そよ: 立希ちゃん、ブロックよりミュートね？
+そよ: それにほら、他の人はほとんど褒めてるから――
+祥子: ……あ
+燈: 祥ちゃん……？
+祥子: …………
+燈: ……？
+(Background change)
+燈: また、何かがズレていたんだと思う
+燈: 私の歌がダメだったから、祥ちゃんもきっと……
+(Background change)
+祥子: 今日は言うことがあって来ましたの
+祥子: ……CRYCHICを、やめさせていただきますわ
+(Background change)
+燈: （きっと、私がずれてたから）
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000028/data/adv_still_anime_000028/adv_still_anime_000028.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000029/data/adv_still_anime_000029/adv_still_anime_000029.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000030/data/adv_still_anime_000030/adv_still_anime_000030.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000031/data/adv_still_anime_000031/adv_still_anime_000031.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000032/data/adv_still_anime_000032/adv_still_anime_000032.webp)
+燈: 自分だけ泣けないのはどうしてだろう
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000032/data/adv_still_anime_000032/adv_still_anime_000032.webp)
+燈: 冷たいのかな。何かが欠けているのかな。人間として
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000033/data/adv_still_anime_000033/adv_still_anime_000033.webp)
+燈: みんなみたいに、大事なものがない
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000033/data/adv_still_anime_000033/adv_still_anime_000033.webp)
+燈: みんなみたいに、涙するほど大事なものがほしい
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000034/data/adv_still_anime_000034/adv_still_anime_000034.webp)
+燈: あるとすれば、それは――
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
+燈: CRYCHICだった

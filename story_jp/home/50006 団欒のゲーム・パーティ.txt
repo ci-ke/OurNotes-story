@@ -1,0 +1,70 @@
+1 10934:adv_script_home_10934 メンバートーク
+
+(Background change)
+ちえり: 負けたまま終われません！　もう一回！
+蓬咲: 私にばっかりアイテム使わないでくださいよ〜……！
+蕾叶: じゃー心玖、私と交代しよ
+ちえり: 勝ち逃げですか！？
+心玖: あたしはいい。寧月と一緒にやってるし
+寧月: だが教わってばかりだ。心玖、半分こするか？
+心玖: 気持ちだけもらっとく。 蕾叶、次のゲーム始めて
+
+
+2 10924:adv_script_home_10924 団欒のゲーム・パーティ
+
+(Background change)
+ちえり: あ〜〜〜〜！！
+
+
+3 10925:adv_script_home_10925 団欒のゲーム・パーティ
+
+(Background change)
+ちえり: ずるいですよ、反則です！
+
+
+4 10926:adv_script_home_10926 団欒のゲーム・パーティ
+
+(Background change)
+蓬咲: わわっ……！　あああ！
+
+
+5 10927:adv_script_home_10927 団欒のゲーム・パーティ
+
+(Background change)
+蓬咲: 私も巻き込まれてます〜！
+
+
+6 10928:adv_script_home_10928 団欒のゲーム・パーティ
+
+(Background change)
+蕾叶: やった〜〜！
+
+
+7 10929:adv_script_home_10929 団欒のゲーム・パーティ
+
+(Background change)
+蕾叶: 一発逆転、大勝利〜〜♪
+
+
+8 10930:adv_script_home_10930 団欒のゲーム・パーティ
+
+(Background change)
+寧月: このボタンで……
+
+
+9 10931:adv_script_home_10931 団欒のゲーム・パーティ
+
+(Background change)
+寧月: ？　私は今どこにいるのだ？
+
+
+10 10932:adv_script_home_10932 団欒のゲーム・パーティ
+
+(Background change)
+心玖: ここからやり直しみたいだよ
+
+
+11 10933:adv_script_home_10933 団欒のゲーム・パーティ
+
+(Background change)
+心玖: このボタンを押すの

@@ -1,0 +1,43 @@
+1 10916:adv_script_home_10916 Member Talk
+
+(Background change)
+Chieri: Hehe! We're having a yakiniku party today!
+Shizuku: Are we to eat all of this in one sitting?
+Miku: We're not eating it all at once. That'd be such a waste.
+Chieri: Wha...! Chieri's the one who snagged all this meat! Chieri gets to decide what to do with it!
+
+
+2 10910:adv_script_home_10910 Best Bargain
+
+(Background change)
+Chieri: Well? What do you think of this mountain of treasure?!
+
+
+3 10911:adv_script_home_10911 Best Bargain
+
+(Background change)
+Chieri: I totally dominated the flash sale!
+
+
+4 10912:adv_script_home_10912 Best Bargain
+
+(Background change)
+Shizuku: You can really see how much effort went into this...
+
+
+5 10913:adv_script_home_10913 Best Bargain
+
+(Background change)
+Shizuku: Dealing with all that meat must be quite an undertaking.
+
+
+6 10914:adv_script_home_10914 Best Bargain
+
+(Background change)
+Miku: Huh. That actually is a pretty good deal.
+
+
+7 10915:adv_script_home_10915 Best Bargain
+
+(Background change)
+Miku: We could always cook some of it now and save it for later.

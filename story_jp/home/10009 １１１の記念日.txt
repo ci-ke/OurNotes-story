@@ -1,0 +1,70 @@
+1 10691:adv_script_home_10691 メンバートーク
+
+(Background change)
+立希: ……はい
+そよ: え？　私やらないよ
+愛音: あー！　りっきーギブアップ？
+立希: 別に、食べ終わった人で回せばいいと思っただけ
+燈: 楽奈ちゃん、やる？
+楽奈: バンドやる
+愛音: それは明日！ 今はパーティ楽しもうよ〜
+
+
+2 10681:adv_script_home_10681 １１１の記念日
+
+(Background change)
+立希: 形が違う……わけでもないのか
+
+
+3 10682:adv_script_home_10682 １１１の記念日
+
+(Background change)
+立希: もうこれで全部じゃないの？
+
+
+4 10683:adv_script_home_10683 １１１の記念日
+
+(Background change)
+愛音: まだあるんだな〜、これが
+
+
+5 10684:adv_script_home_10684 １１１の記念日
+
+(Background change)
+愛音: 教えてほしい？　教えてあげよっか！
+
+
+6 10685:adv_script_home_10685 １１１の記念日
+
+(Background change)
+燈: 立希ちゃん、あと２つ……！
+
+
+7 10686:adv_script_home_10686 １１１の記念日
+
+(Background change)
+燈: あのちゃんも、全部わかったんだ
+
+
+8 10687:adv_script_home_10687 １１１の記念日
+
+(Background change)
+そよ: もう答え合わせしたら？
+
+
+9 10688:adv_script_home_10688 １１１の記念日
+
+(Background change)
+そよ: これ、意外と難しいんだよね
+
+
+10 10689:adv_script_home_10689 １１１の記念日
+
+(Background change)
+楽奈: 抹茶パフェのあとのお蕎麦
+
+
+11 10690:adv_script_home_10690 １１１の記念日
+
+(Background change)
+楽奈: うまい

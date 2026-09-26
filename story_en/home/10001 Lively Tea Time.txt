@@ -1,0 +1,69 @@
+1 10621:adv_script_home_10621 Member Talk
+
+(Background change)
+Taki: Tomori, is black tea okay? There's coffee too if you'd rather.
+Tomori: Ah... Yeah.
+Anon: Hey, hey! Let's get a picture of all of us~!
+Soyo: Again?
+Rāna: Tasty.
+Anon: Aww! Rāna-chan, you already started eating~! I wanted to get a picture of all of us first~!
+
+
+2 10611:adv_script_home_10611 Lively Tea Time
+
+(Background change)
+Rāna: Matcha parfait...!
+
+
+3 10612:adv_script_home_10612 Lively Tea Time
+
+(Background change)
+Rāna: Gimme.
+
+
+4 10613:adv_script_home_10613 Lively Tea Time
+
+(Background change)
+Taki: H-Hey... Stray cat, quit it...!
+
+
+5 10614:adv_script_home_10614 Lively Tea Time
+
+(Background change)
+Taki: I'm putting it on the table now! Just be good and wait!
+
+
+6 10615:adv_script_home_10615 Lively Tea Time
+
+(Background change)
+Soyo: Eek... Hey, you two...!
+
+
+7 10616:adv_script_home_10616 Lively Tea Time
+
+(Background change)
+Soyo: Would you please stop struggling over it?
+
+
+8 10617:adv_script_home_10617 Lively Tea Time
+
+(Background change)
+Anon: This chocolate is so cute~!
+
+
+9 10618:adv_script_home_10618 Lively Tea Time
+
+(Background change)
+Anon: Ehehe! I'm so posting this on social media~!
+
+
+10 10619:adv_script_home_10619 Lively Tea Time
+
+(Background change)
+Tomori: Oh... It's already showing up.
+
+
+11 10620:adv_script_home_10620 Lively Tea Time
+
+(Background change)
+Tomori: Looks like fun...

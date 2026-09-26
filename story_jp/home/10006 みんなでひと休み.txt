@@ -1,0 +1,68 @@
+1 10666:adv_script_home_10666 メンバートーク
+
+(Background change)
+立希: まったく……ホント野良猫は
+愛音: 飴もあげたのにね〜
+燈: 飴……ちゃんと、持ってる
+そよ: もう少しだけ寝かせてあげたら？
+楽奈: ……すぅ……
+
+
+2 10656:adv_script_home_10656 みんなでひと休み
+
+(Background change)
+楽奈: ……すぅ……
+
+
+3 10657:adv_script_home_10657 みんなでひと休み
+
+(Background change)
+楽奈: んん……すぅ……
+
+
+4 10658:adv_script_home_10658 みんなでひと休み
+
+(Background change)
+愛音: ……ん？
+
+
+5 10659:adv_script_home_10659 みんなでひと休み
+
+(Background change)
+愛音: あ、楽奈ちゃん寝ちゃってる〜
+
+
+6 10660:adv_script_home_10660 みんなでひと休み
+
+(Background change)
+立希: ここで寝ない
+
+
+7 10661:adv_script_home_10661 みんなでひと休み
+
+(Background change)
+立希: ちょっと。野良猫、起きて
+
+
+8 10662:adv_script_home_10662 みんなでひと休み
+
+(Background change)
+燈: ほんとだ……
+
+
+9 10663:adv_script_home_10663 みんなでひと休み
+
+(Background change)
+燈: ……気持ちよさそう
+
+
+10 10664:adv_script_home_10664 みんなでひと休み
+
+(Background change)
+そよ: ……
+
+
+11 10665:adv_script_home_10665 みんなでひと休み
+
+(Background change)
+そよ: ……ん。よし

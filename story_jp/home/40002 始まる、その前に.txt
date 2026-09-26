@@ -1,0 +1,69 @@
+1 10855:adv_script_home_10855 メンバートーク
+
+(Background change)
+なつめ: どれって、一番クールなやつに決まってるでしょ
+凪: ……やってみまーす
+朋花: ふふ、わかりやすい説明ですね
+なつめ: 何？　言いたいことあるならはっきり言いなさいよ
+まほろ: あーあー、ストップ！ 練習始めようっ。ね、蛍ちゃん
+蛍: はいっ
+
+
+2 10845:adv_script_home_10845 始まる、その前に
+
+(Background change)
+なつめ: ねえ、後半のフレーズ
+
+
+3 10846:adv_script_home_10846 始まる、その前に
+
+(Background change)
+なつめ: 昨日言った方に変えるから。いいわね
+
+
+4 10847:adv_script_home_10847 始まる、その前に
+
+(Background change)
+凪: 昨日……え、どれですか？
+
+
+5 10848:adv_script_home_10848 始まる、その前に
+
+(Background change)
+凪: ３パターンくらいありましたけど
+
+
+6 10849:adv_script_home_10849 始まる、その前に
+
+(Background change)
+まほろ: よい、しょっと
+
+
+7 10850:adv_script_home_10850 始まる、その前に
+
+(Background change)
+まほろ: チューナーは〜……
+
+
+8 10851:adv_script_home_10851 始まる、その前に
+
+(Background change)
+朋花: ん……ふぅ
+
+
+9 10852:adv_script_home_10852 始まる、その前に
+
+(Background change)
+朋花: そろそろ時間ですね
+
+
+10 10853:adv_script_home_10853 始まる、その前に
+
+(Background change)
+蛍: …………
+
+
+11 10854:adv_script_home_10854 始まる、その前に
+
+(Background change)
+蛍: ……ふふ

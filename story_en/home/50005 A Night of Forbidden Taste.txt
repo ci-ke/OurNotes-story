@@ -1,0 +1,43 @@
+1 10923:adv_script_home_10923 Member Talk
+
+(Background change)
+Shizuku: Has it been three minutes yet?
+Raika: Wait, when did we put the hot water in?
+Yomogi: Geez, it's been way over three minutes already! The noodles are gonna get soggyyy!
+Raika: What!? Yomogi, you were here!? You should've said something!
+
+
+2 10917:adv_script_home_10917 A Night of Forbidden Taste
+
+(Background change)
+Shizuku: It smells wonderful...
+
+
+3 10918:adv_script_home_10918 A Night of Forbidden Taste
+
+(Background change)
+Shizuku: To think a meal can be made with nothing but hot water...
+
+
+4 10919:adv_script_home_10919 A Night of Forbidden Taste
+
+(Background change)
+Raika: Just wait three minutes and it'll be ready!
+
+
+5 10920:adv_script_home_10920 A Night of Forbidden Taste
+
+(Background change)
+Raika: This one's really good~
+
+
+6 10921:adv_script_home_10921 A Night of Forbidden Taste
+
+(Background change)
+Yomogi: Gulp...
+
+
+7 10922:adv_script_home_10922 A Night of Forbidden Taste
+
+(Background change)
+Yomogi: Sinfully indulgent... You just know it's gonna be delicious...!

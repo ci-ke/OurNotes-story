@@ -1,0 +1,43 @@
+1 10673:adv_script_home_10673 Member Talk
+
+(Background change)
+Anon: Even if I do, she's totally gonna get mad...
+Tomori: But Taki-chan is kind.
+Soyo: ...That's true. If you explain it, she might understand...
+Anon: Hmm... Nah, I won't tell her after all!
+
+
+2 10667:adv_script_home_10667 Hardworking Fingertips
+
+(Background change)
+Anon: We've got practice again today, huh...
+
+
+3 10668:adv_script_home_10668 Hardworking Fingertips
+
+(Background change)
+Anon: Could it be a bit shorter? For my fingers' sake?
+
+
+4 10669:adv_script_home_10669 Hardworking Fingertips
+
+(Background change)
+Tomori: Anon-chan! Band-aids...!
+
+
+5 10670:adv_script_home_10670 Hardworking Fingertips
+
+(Background change)
+Tomori: I've got lots of other designs, too...!
+
+
+6 10671:adv_script_home_10671 Hardworking Fingertips
+
+(Background change)
+Soyo: Why don't you talk to Taki-chan about it?
+
+
+7 10672:adv_script_home_10672 Hardworking Fingertips
+
+(Background change)
+Soyo: Your fingers must really hurt, huh?

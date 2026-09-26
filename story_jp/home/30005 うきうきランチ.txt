@@ -1,0 +1,69 @@
+1 10806:adv_script_home_10806 メンバートーク
+
+(Background change)
+ののか: ユノちゃんのお昼は〜？
+ユノ: いつもの
+律: 都子さんもいつものですよね
+都子: すべて消費するまでは、そうですね
+あられ: くぅ〜、その気持ちわかります！ ぼくもまだ全部食べ切れなくて……
+都子: お互い頑張りましょう……！
+
+
+2 10796:adv_script_home_10796 うきうきランチ
+
+(Background change)
+あられ: ユノさんちゃん、見えますか？
+
+
+3 10797:adv_script_home_10797 うきうきランチ
+
+(Background change)
+あられ: こっちはくっきりはっきり見えてます！
+
+
+4 10798:adv_script_home_10798 うきうきランチ
+
+(Background change)
+ののか: 仲良しこよし・おかず交換タイムだよ〜
+
+
+5 10799:adv_script_home_10799 うきうきランチ
+
+(Background change)
+ののか: りっちゃんの肉まん、餡がみっちり！
+
+
+6 10800:adv_script_home_10800 うきうきランチ
+
+(Background change)
+律: ののちゃんのおにぎりも具沢山で美味しいです
+
+
+7 10801:adv_script_home_10801 うきうきランチ
+
+(Background change)
+律: 今度はユノさんも交換しましょう
+
+
+8 10802:adv_script_home_10802 うきうきランチ
+
+(Background change)
+ユノ: おかず交換ってレベルじゃなくない？
+
+
+9 10803:adv_script_home_10803 うきうきランチ
+
+(Background change)
+ユノ: てかそれ、食べ切れるんだ……
+
+
+10 10804:adv_script_home_10804 うきうきランチ
+
+(Background change)
+都子: ……見てるだけで胃が苦しくなります
+
+
+11 10805:adv_script_home_10805 うきうきランチ
+
+(Background change)
+都子: サイズ感、狂ってる……

@@ -1,0 +1,45 @@
+1 10727:adv_script_home_10727 Member Talk
+
+(Background change)
+Nyamu: Can you not kill my vibe like that?
+Umiri: I was only sharing some information. No need to let it bother you.
+Nyamu: I mean, I got it with half the sweetness and half the ice. Gotta customize the flavor and calorie count♪
+Sakiko: I was not aware that was an option.
+Nyamu: Ooh, what's this? Are you interested?
+Sakiko: It was merely an observation.
+
+
+2 10721:adv_script_home_10721 A Quick Pic Before the Meeting
+
+(Background change)
+Nyamu: The new drink that came out today~!
+
+
+3 10722:adv_script_home_10722 A Quick Pic Before the Meeting
+
+(Background change)
+Nyamu: Maybe I'll post this later~
+
+
+4 10723:adv_script_home_10723 A Quick Pic Before the Meeting
+
+(Background change)
+Sakiko: How long do you intend to keep that up?
+
+
+5 10724:adv_script_home_10724 A Quick Pic Before the Meeting
+
+(Background change)
+Sakiko: We are starting the meeting now.
+
+
+6 10725:adv_script_home_10725 A Quick Pic Before the Meeting
+
+(Background change)
+Umiri: Drinks like that are pretty high in calories, aren't they?
+
+
+7 10726:adv_script_home_10726 A Quick Pic Before the Meeting
+
+(Background change)
+Umiri: And I hear all that sugar isn't great for your skin, either.

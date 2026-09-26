@@ -1,0 +1,32 @@
+1 10811:adv_script_home_10811 Member Talk
+
+(Background change)
+Arale: If you'd been there, Ricchan, maybe I wouldn't have messed up like that.
+Ritsu: You think so~?
+Ritsu: Huh, is it that late already?
+Arale: Time just flew by~
+Ritsu: Yeah. We should probably head home.
+
+
+2 10807:adv_script_home_10807 Evening Glow
+
+(Background change)
+Arale: And then, we spread out this huge pile of reservation slips!
+
+
+3 10808:adv_script_home_10808 Evening Glow
+
+(Background change)
+Arale: The staff-san and I must've looked like we were playing Concentration with all those slips.
+
+
+4 10809:adv_script_home_10809 Evening Glow
+
+(Background change)
+Ritsu: Hehehe!
+
+
+5 10810:adv_script_home_10810 Evening Glow
+
+(Background change)
+Ritsu: I wish I'd gotten to see that.

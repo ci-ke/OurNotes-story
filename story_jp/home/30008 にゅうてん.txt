@@ -1,0 +1,70 @@
+1 10833:adv_script_home_10833 メンバートーク
+
+(Background change)
+あられ: ののちゃんさんっ、ユノさんちゃん捕獲しました！
+ユノ: ……そんな珍獣みたいに……
+ののか: べりべりよろしい〜！ ほら〜、都子ちゃんも行きたくなってきたでしょ〜？
+都子: ……行けばいいんでしょう、行けば
+ののか: やった〜〜♪
+あられ: りっちゃんもお店入ろうっ。 メニュー、席でゆっくり見ようよ
+律: そうだね。いこう
+
+
+2 10823:adv_script_home_10823 にゅうてん
+
+(Background change)
+あられ: 入りましょうよ〜〜！
+
+
+3 10824:adv_script_home_10824 にゅうてん
+
+(Background change)
+あられ: ここまで一緒に来た仲じゃないですかぁ〜〜！
+
+
+4 10825:adv_script_home_10825 にゅうてん
+
+(Background change)
+ユノ: わかった、わかったから離して
+
+
+5 10826:adv_script_home_10826 にゅうてん
+
+(Background change)
+ユノ: はぁ〜……行くか……
+
+
+6 10827:adv_script_home_10827 にゅうてん
+
+(Background change)
+都子: 押さないでください……！
+
+
+7 10828:adv_script_home_10828 にゅうてん
+
+(Background change)
+都子: 私は打ち上げ欠席でいいんですが……！
+
+
+8 10829:adv_script_home_10829 にゅうてん
+
+(Background change)
+ののか: ノンノン！　全員参加はマストなのです〜
+
+
+9 10830:adv_script_home_10830 にゅうてん
+
+(Background change)
+ののか: ゆめみたわくわくディナーにご招待〜！
+
+
+10 10831:adv_script_home_10831 にゅうてん
+
+(Background change)
+律: ハンバーグとステーキのコンボなら……
+
+
+11 10832:adv_script_home_10832 にゅうてん
+
+(Background change)
+律: パスタはペペロン……いや、クリーム系……

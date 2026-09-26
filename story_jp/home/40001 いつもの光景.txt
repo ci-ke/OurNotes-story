@@ -1,0 +1,68 @@
+1 10844:adv_script_home_10844 メンバートーク
+
+(Background change)
+凪: ……あ。いらっしゃい。 お菓子開ける？
+まほろ: 食べようかなあ。 しばらく続きそうだもんね
+なつめ: ――まだ負けてない！
+奏多: 言ったな？　それじゃー……これでどーよ！
+朋花: ふふ……♡
+
+
+2 10836:adv_script_home_10836 いつもの光景
+
+(Background change)
+奏多: あれ〜〜？　さっきはお腹だったよな？
+
+
+3 10837:adv_script_home_10837 いつもの光景
+
+(Background change)
+奏多: まー、わたしはいいけどさっ
+
+
+4 10840:adv_script_home_10840 いつもの光景
+
+(Background change)
+朋花: あら、もう少し続けてみては？
+
+
+5 10841:adv_script_home_10841 いつもの光景
+
+(Background change)
+朋花: 奏多さんの演奏、ずっと聴いていたいので♡
+
+
+6 10838:adv_script_home_10838 いつもの光景
+
+(Background change)
+まほろ: 一旦休憩にしよう。ね？
+
+
+7 10839:adv_script_home_10839 いつもの光景
+
+(Background change)
+まほろ: お菓子も買ってきたからっ
+
+
+8 10842:adv_script_home_10842 いつもの光景
+
+(Background change)
+凪: ……まだ長引きそう
+
+
+9 10843:adv_script_home_10843 いつもの光景
+
+(Background change)
+凪: ここで休んどこ
+
+
+10 10834:adv_script_home_10834 いつもの光景
+
+(Background change)
+なつめ: ……っ、もう１回！
+
+
+11 10835:adv_script_home_10835 いつもの光景
+
+(Background change)
+なつめ: 今のは指の調子が悪かっただけ！

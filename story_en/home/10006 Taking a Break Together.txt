@@ -1,0 +1,68 @@
+1 10666:adv_script_home_10666 Member Talk
+
+(Background change)
+Taki: Seriously... That stray cat.
+Anon: And we even gave her some candy~
+Tomori: She's... still holding the candy.
+Soyo: Why don't we let her sleep a little longer?
+Rāna: Zzz...
+
+
+2 10656:adv_script_home_10656 Taking a Break Together
+
+(Background change)
+Rāna: Zzz...
+
+
+3 10657:adv_script_home_10657 Taking a Break Together
+
+(Background change)
+Rāna: Mmm... Zzz...
+
+
+4 10658:adv_script_home_10658 Taking a Break Together
+
+(Background change)
+Anon: Hm...?
+
+
+5 10659:adv_script_home_10659 Taking a Break Together
+
+(Background change)
+Anon: Oh, Rāna-chan's asleep~
+
+
+6 10660:adv_script_home_10660 Taking a Break Together
+
+(Background change)
+Taki: Don't sleep here.
+
+
+7 10661:adv_script_home_10661 Taking a Break Together
+
+(Background change)
+Taki: Hey, stray cat. Wake up.
+
+
+8 10662:adv_script_home_10662 Taking a Break Together
+
+(Background change)
+Tomori: She really is...
+
+
+9 10663:adv_script_home_10663 Taking a Break Together
+
+(Background change)
+Tomori: She looks so peaceful...
+
+
+10 10664:adv_script_home_10664 Taking a Break Together
+
+(Background change)
+Soyo: ...
+
+
+11 10665:adv_script_home_10665 Taking a Break Together
+
+(Background change)
+Soyo: Hmm... All right.

@@ -1,0 +1,148 @@
+10081:adv_script_kadan_005_1_02 This is my family!!
+
+(I can seize my own happiness myself.)
+
+(Background change)
+
+[One Month Later]
+
+Miku: Um... Where am I supposed to pick up the dorm key?
+Miku: I think I pinned it on the map...
+Miku: (Oh... It's from Mother.)
+(message) Mother: Miku-chan, have you arrived at the dorm?
+(message) Mother: Let me know when you arrive. Your father and Hiro-kun will be worried, you know.
+Miku: Worried, huh...
+(message) Miku (Miku): Thank you! I'll let you know once I arrive at the dorm and finish unpacking🍀
+Miku: (<r=My>My</r> <r=father>father-in-law</r> and <r=brother>brother-in-law</r> will not be worried about me anyway.)
+Miku: (Actually, even mother...)
+(Background change)
+Miku: The move... That's quite far away.
+Miku's Mother: Apparently, the club team that scouted Hiro-kun has their home ground there.
+Miku's Mother: This time, we can live in a big detached house, and we've also found a new school for you.
+Miku's Mother: I heard that the school provides plenty of support for both studies and extracurricular activities...
+Miku: ...
+Miku's Mother: It was so sudden, so you must have been surprised.
+Miku's Mother: But... we have too many painful memories in this town, right? So I think this is a good opportunity.
+Miku's Mother: From now on, I won't let you suffer anymore, Miku-chan. So feel free to rely on Mama.
+Miku's Mother: Because you're also my child, Miku-chan.
+(Background change)
+Miku: (She probably wants to be more like a family, and more like a mother to me.)
+Miku: (But I'm already...)
+Miku: (My happiness... I'll just seize it on my own.)
+Miku: (From today on, I won't be pushed around by "family" anymore. A quiet, peaceful new life begins now.)
+Miku: Hehe...
+Miku: ! Ahem...
+Miku: Um... Right, pick up the key. The place is...
+(Background change)
+Miku: Huh, underground?
+Miku: Live house "Roarin' Nest..." It's here, but...
+Miku: ...
+Miku: *Inhale*... *Exhale*... Okay—
+???: Hey!! Excuse me!
+Miku: (That scared me... A woman in a suit... some kind of salesperson...?)
+The woman in a suit: Hello, are you interested in being an idol!?
+Miku: Huh? Um, who are you?
+The woman in a suit: Oh, sorry! I'm from the idol division of Neuland Music.
+The woman in a suit: You have a great face and a great figure. I'm sure you'll make a wonderful idol!
+Miku: (Sounds suspicious...)
+The woman in a suit: Oh! Are you already signed to an agency!?
+Miku: Well, no, but...
+The woman in a suit: Oh, good! Then please be our idol—
+Raika: Argh~~~~!! You came here again!?
+Miku: Huh?
+Raika: Not you, the one in the suit! Stay away from her! Come over here!
+Miku: Whoa!? Hey, don't pull me...!
+Raika: Stay behind me!
+Miku: (Ugh... What's going on here...!?)
+Raika: First you tried to take away my "home," and now you're messing with this girl... You demon!!
+The woman in a suit: Demon...!? I'm just making proposals that would make every one of you happy!
+Raika: Whoa~ You're lying! You only think about yourself~!
+Raika: Besides, you don't know what makes her happy! Only she knows!
+Miku: !
+Raika: And my happiness is living and laughing with my "family" at my "home!" I've already said that before!
+The woman in a suit: Family... How many times are you going to say that?
+Raika: I'll keep saying that until you understand, Ms. Demon~!
+Raika: If it's for the sake of my family's smiles, I'll become Issun-bōshi or Momotarō! Whatever it takes!!
+Miku: ...
+Raika: Got it? Now go home! Here! Demons out~! Fortune in~!
+The woman in a suit: ~~~! Don't think I'll just back down like this!
+Raika: *Sigh*... Seriously, don't come back again~
+Miku: Hey...
+Raika: Oh, are you okay!? Did she say anything weird to you!?
+Miku: Yeah, I was asked if I'm interested in being an idol...
+Miku: But I didn't know how to refuse her. Thank you very much♪
+Raika: Ahaha, you're welcome! It's just that I don't like her!
+Miku: Huh, is that so~ Well then, I'll be going now.
+Raika: Wait, you came to our live house for something, right?
+Miku: Huh? Yeah, I came to pick up the dorm key...
+Raika: Ah~~!! You're Miku-chan! Right!? I was waiting for you~~!
+Raika: We're the same age! Can I call you Miku?
+Miku: (Whoa, she's overly familiar...!)
+Raika: Oh! You're carrying a guitar case! It looks quite old, was it a gift from someone?
+Miku: Th-This is...!
+Raika: This guitar... It's love.
+Miku: Huh...?
+Raika: It's the same as my "home!" It was raised with care and then passed on to you. Right?
+Miku: A-Anyway... Are you the manager?
+Raika: Oh, no, not me! Just come in first!
+Raika: Fortune in~! I'll carry your luggage, pass it to me!
+Miku: Huh, um...
+Miku: (Wh-What's up with this girl...!?)
+(Background change)
+Raika: Okay, there we go! I'll put your luggage here.
+Miku: Sorry, thank you very much~
+Raika: It's fine, I just wanted to do it!
+Raika: Huh...? That's strange. She was right here a moment ago...
+Miku: I have her number, so I'll give her a call.
+Raika: Oh, that person never answers the phone. I'll find her.
+Raika: And I have something to show you~! So please wait here!
+Miku: *Sigh*...
+Miku: (Maybe today is an unlucky day...?)
+Miku: (First I got approached by a suspicious adult, and then I ran into a pushy girl who won't listen to me.)
+Miku: (I just came here to pick up the key though...)
+Yori: Hey there. You're Uma-something-san, right?
+Miku: Uma...? Oh no, I'm Mahashi. Miku Mahashi.
+Yori: Oh, yeah, okay. I'm the deputy manager of the dorm and this place. My name is Yori Kanno~ Please call me the deputy manager.
+Miku: Deputy manager?
+Yori: Yeah. The manager's off traveling abroad right now. That powerful hyperactive old lady really works people hard...
+Yori: Well, ask Raika for the details. This place and the dorm basically belong to her.
+Miku: Excuse me, who's this "Raika-san...?"
+Yori: Huh? The girl who brought you here. What, you two haven't even introduced yourselves?
+Miku: Ahaha... sorry. Then, could I have the dorm key?
+Yori: As I said, you should ask Raika for that~
+Miku: Okay, where is Raika-san now...?
+Yori: Stage.
+(Background change)
+Raika: Miku~~ Sorry for the wait~~~!
+Miku: Huh... Guitar...?
+Raika: You two, hurry to the stage too!
+(Background change)
+Chieri: Argh, seriously!! You're just tall and get in the way! Don't block Chieri's path!
+Yomogi: Gyaaah! Don't push, don't push me!! I'm gonna get pushed off the wing...!
+Raika: Yomogi, you're playing from there again today? You should come out~
+Yomogi: Playing here is already my limit...
+Chieri: Then keep playing all gloomy over there! Chieri's gonna have all the stage lights!
+(Background change)
+Chieri: Ta-da!! Here comes the leader of the Chieri Union, Chieri Umezato!
+Chieri: A big round of applause is more than welcome!
+Miku: (Union? Leader? What's that? So childish...)
+Chieri: Hehe, speechless before my overwhelming aura, are you? Well, it happens. That's what they call being intimidated.
+Raika: You're so cool, Cherie~~! That's the spirit! I'm counting on your drumming today too!
+Chieri: Chieri's the only one who can handle this massive instrument! So Chieri'll do it for you!
+Yomogi: Ugh~ How can you be positive so easily...!?
+Raika: Yomogi, you're awesome too! You're standing 2 centimeters closer to the stage than last time!
+Yomogi: Th-That's because Cherie-san keeps pushing me forward...!
+Yomogi: At first I managed to avoid being in the band, but then Cherie-san betrayed me...
+Yomogi: And if Raika-san hadn't said that, I wouldn't be doing this...!
+Raika: Huh? What? Yomogi, say it more loudly!
+Yomogi: No no no, nothing! I didn't say anything~~!!
+Miku: (I dunno... The air coming from the stage wing is weird.)
+Miku: (Actually, what's this?)
+Raika: Ahaha, glad to see you're fine! Well then, Miku, please hear us out for one song.
+Raika: This is my family!
+Miku: (Whoa...)
+Miku: (The sound's a total mess. No one's listening to anyone else.)
+Miku: (Well, that makes sense, considering their conversation just now.)
+Miku: (But...)
+Raika: —♪
+Miku: Huh...

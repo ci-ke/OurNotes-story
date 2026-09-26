@@ -1,0 +1,70 @@
+1 10934:adv_script_home_10934 Member Talk
+
+(Background change)
+Chieri: I'm not ending this on a loss! One more round!
+Yomogi: Please stop using every item on meee...!
+Raika: Okay, Miku, wanna switch with me?
+Chieri: You're quitting while you're ahead!?
+Miku: I'm good. I'm already playing with Shizuku.
+Shizuku: But you have spent this whole time teaching me. Miku, shall we take turns?
+Miku: I appreciate the thought. Raika, start the next game.
+
+
+2 10924:adv_script_home_10924 Game Party Get-Together
+
+(Background change)
+Chieri: Aaaaaah!!
+
+
+3 10925:adv_script_home_10925 Game Party Get-Together
+
+(Background change)
+Chieri: No fair! That's cheating!
+
+
+4 10926:adv_script_home_10926 Game Party Get-Together
+
+(Background change)
+Yomogi: W-Whoa...! Aaaah!
+
+
+5 10927:adv_script_home_10927 Game Party Get-Together
+
+(Background change)
+Yomogi: I'm getting dragged into this too~!
+
+
+6 10928:adv_script_home_10928 Game Party Get-Together
+
+(Background change)
+Raika: Yaaay~!
+
+
+7 10929:adv_script_home_10929 Game Party Get-Together
+
+(Background change)
+Raika: Turned it all around for a huge wiiin~♪
+
+
+8 10930:adv_script_home_10930 Game Party Get-Together
+
+(Background change)
+Shizuku: And with this button...
+
+
+9 10931:adv_script_home_10931 Game Party Get-Together
+
+(Background change)
+Shizuku: Hm? Where am I?
+
+
+10 10932:adv_script_home_10932 Game Party Get-Together
+
+(Background change)
+Miku: Looks like we have to try again from here.
+
+
+11 10933:adv_script_home_10933 Game Party Get-Together
+
+(Background change)
+Miku: You just press this button.

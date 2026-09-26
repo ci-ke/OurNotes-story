@@ -1,0 +1,43 @@
+1 10673:adv_script_home_10673 メンバートーク
+
+(Background change)
+愛音: 相談しても絶対怒られそー
+燈: 立希ちゃん、優しいよ
+そよ: ……そうだね。理由も伝えたら 納得してくれるかもしれないし……
+愛音: んー……やっぱ言うのやめとく！
+
+
+2 10667:adv_script_home_10667 がんばった指先
+
+(Background change)
+愛音: 今日も練習か〜
+
+
+3 10668:adv_script_home_10668 がんばった指先
+
+(Background change)
+愛音: この指に免じて短くならないかな〜
+
+
+4 10669:adv_script_home_10669 がんばった指先
+
+(Background change)
+燈: 愛音ちゃん。絆創膏……！
+
+
+5 10670:adv_script_home_10670 がんばった指先
+
+(Background change)
+燈: 他の柄も、たくさんあるよ……！
+
+
+6 10671:adv_script_home_10671 がんばった指先
+
+(Background change)
+そよ: 立希ちゃんに相談してみる？
+
+
+7 10672:adv_script_home_10672 がんばった指先
+
+(Background change)
+そよ: 結構痛いよね、指

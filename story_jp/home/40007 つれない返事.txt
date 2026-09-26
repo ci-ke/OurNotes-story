@@ -1,0 +1,31 @@
+1 10888:adv_script_home_10888 メンバートーク
+
+(Background change)
+朋花: そんな冷たいことおっしゃらず♪ ただのお喋りじゃないですか
+凪: ……
+朋花: つれないですねえ。 仲良くしたいだけなのに
+凪: ……仲良く、ねえ
+
+
+2 10884:adv_script_home_10884 つれない返事
+
+(Background change)
+朋花: コーヒー美味しいですか？
+
+
+3 10885:adv_script_home_10885 つれない返事
+
+(Background change)
+朋花: いい天気ですね♪
+
+
+4 10886:adv_script_home_10886 つれない返事
+
+(Background change)
+凪: ……はぁ
+
+
+5 10887:adv_script_home_10887 つれない返事
+
+(Background change)
+凪: 話すことないなら話さないでいいんだけど

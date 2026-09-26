@@ -1,0 +1,68 @@
+1 10702:adv_script_home_10702 メンバートーク
+
+(Background change)
+祥子: 皆さんも普段食事にこういうものを？
+初華: 昔、時間がない時はよく食べたな。 手軽だしけっこう美味しいよ
+海鈴: ほら、三角さんもこう言ってますよ
+にゃむ: アタシはパス。ムーコもらったら？
+睦: ……食べてみる
+
+
+2 10692:adv_script_home_10692 効率重視のお昼ご飯
+
+(Background change)
+にゃむ: 用意した昼ご飯って、これ？
+
+
+3 10693:adv_script_home_10693 効率重視のお昼ご飯
+
+(Background change)
+にゃむ: ウミコのセンス、やばくない？
+
+
+4 10694:adv_script_home_10694 効率重視のお昼ご飯
+
+(Background change)
+海鈴: 一番効率が良いので
+
+
+5 10695:adv_script_home_10695 効率重視のお昼ご飯
+
+(Background change)
+海鈴: おひとつどうぞ
+
+
+6 10696:adv_script_home_10696 効率重視のお昼ご飯
+
+(Background change)
+初華: ……ぴちぴちピーチ味
+
+
+7 10697:adv_script_home_10697 効率重視のお昼ご飯
+
+(Background change)
+初華: 言われてみればピーチかも……？
+
+
+8 10698:adv_script_home_10698 効率重視のお昼ご飯
+
+(Background change)
+祥子: 皆さん、ごきげんよ……
+
+
+9 10699:adv_script_home_10699 効率重視のお昼ご飯
+
+(Background change)
+祥子: 睦、それは？
+
+
+10 10700:adv_script_home_10700 効率重視のお昼ご飯
+
+(Background change)
+睦: ……プロテイン
+
+
+11 10701:adv_script_home_10701 効率重視のお昼ご飯
+
+(Background change)
+睦: 私たちのお昼ご飯だって

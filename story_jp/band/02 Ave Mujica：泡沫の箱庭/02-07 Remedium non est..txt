@@ -1,0 +1,173 @@
+10026:adv_script_mujica_002_1_07 Remedium non est.
+
+（わたくしはどこまでも……愚かですわ）
+
+(Background change)
+そよ: （睦ちゃん……学校にも来ないし、 どうしてるんだろう……）
+(Background change)
+: <align="center">Ave Mujica　モ<color=#000000><mark=#C0C0C080>ーティス
+: <align="center">モーティス<color=#000000><mark=#C0C0C080>　睦ちゃん
+: <align="center">モーティス<color=#000000><mark=#C0C0C080>　死亡
+: <align="center">モーティス<color=#000000><mark=#C0C0C080>　消えた
+(Background change)
+そよ: っ……！
+そよ: （……睦ちゃんに……会いに行かなくちゃ……）
+(Background change)
+
+[羽丘女子学園 校門前]
+
+愛音: あ、ともりん。あれ見て！
+燈: ……祥ちゃん
+運転手: おかえりなさいませ、お嬢様
+祥子: ……
+愛音: すっごー！　ほんとにお嬢様だったんだ
+愛音: デビューした時話題になったもんね。 オブリビオニスは豊川グループの……
+燈: とがわ、グループ……
+愛音: え〜？　CMで森みなみもやってたじゃん。 と・が・わ、グループ♪
+燈: ……
+(Background change)
+
+[高松家 燈の部屋]
+
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000119/data/adv_still_anime_000119/adv_still_anime_000119.webp)
+燈: ……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000119/data/adv_still_anime_000119/adv_still_anime_000119.webp)
+(Background change)
+燈: えっと……
+祥子: これはギターパートなので睦が弾きますわ。 次はキーボードなのでわたくしが
+燈: ……うん
+祥子: で、その下がそよ。ベースですわね。 一番下が立希のパートですわ
+祥子: わからないことがあったらいつでも聞いてくださいな
+(Background change)
+祥子: まあ、いい眺めですわね。 あ、ここからあの歩道橋が見えるんですのね
+燈: うん……
+祥子: 前にあの歩道橋で叫びましたわね。 あんなことをしたのは生まれてはじめてでしたわ
+祥子: 毎日が楽しくて、練習が待ち遠しくて この５人でCRYCHICをできることが 本当に幸せで……
+燈: ……
+祥子: バンド名のとおり、 わたくしたちの歌を聞いて〜！　と叫び出してしまいそう
+(Background change)
+燈: ……祥ちゃん
+(Background change)
+
+[翌日 放課後]
+
+(Background change)
+
+[羽丘女子学園 昇降口]
+
+祥子: （！　……またですの！？）
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000120/data/adv_still_anime_000120/adv_still_anime_000120.webp)
+祥子: ……っ
+愛音: ——それでね、ともりん
+愛音: え。なに、今の音
+燈: ……？
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000121/data/adv_still_anime_000121/adv_still_anime_000121.webp)
+燈: ！　 待って、祥ちゃん！　祥ちゃん！
+愛音: ちょっと、どういうこと？
+(Background change)
+祥子: （——もういい加減にして！）
+祥子: （わたくしがしあわせ？　わたくしのことを知りたい？ 今までわたくしがどんな気持ちでいたと思っていますの！？）
+祥子: （あなたには、わからない！　わかりっこありませんわ！　 幸せなバンドを続けている、あなたには！）
+燈: 待って、祥ちゃ……っ！
+祥子: （燈……）
+燈: ……っ！　祥ちゃん……
+愛音: ともりん、大丈夫？ あれ、あそこにいるの祥子ちゃん？
+祥子: （……どうして？　 転んでも傷ついても、あなたは……）
+祥子: （あなたは……！）
+執事: お嬢様？
+祥子: ……いえなんでも
+燈: 待って……！
+愛音: ……まかせて。 私中学３年間、クラスでアンカーだったから！
+(Background change)
+祥子: ……出してちょうだい
+愛音: <size=150%>すみません、ちょっと待ってください！
+執事: 恐れ入りますが——
+愛音: 私、友達ですっ
+祥子: ……
+愛音: お邪魔します。 あっ、ともりん、こっちこっち
+燈: はぁ……はぁ……はぁ……
+執事: 出発いたします
+祥子: ええ
+祥子: （……勝手についてきてどういうつもりですの）
+祥子: （……もう終わっているというのに。 もうどうにもならないというのに……）
+(Background change)
+(Background change)
+愛音: すっご〜い……でかくない？ 庭に薔薇も咲いてたし、貴族じゃん！
+愛音: わっ、この部屋ビリヤードある！　ヤバくない？
+祥子: ……燈、話があって来たのでしょう？
+燈: ……っ
+燈: <size=150%>さきちゃん……っ！　バンドやろうっ！
+愛音: えっ……
+祥子: （……わたくしは何を期待していたというの。 こうなることはわかっていたはず。 なのに、おとなしく連れて来たりして——）
+祥子: （本当に、本当に……自分が嫌になりますわ）
+燈: また、前みたいに一緒にバンドして……それでっ……
+祥子: ——もうやめて、と伝えたはずですわ
+燈: でも、祥ちゃん泣いて……
+祥子: あなたにわたくしの何がわかるというんです？
+祥子: バンドをやれば幸せになれるとでも おっしゃりたいんですの？
+祥子: だとすれば思い違いも甚だしいですわ。 話は終わりです
+燈: あ……
+祥子: お帰りになって……！
+燈: ……
+愛音: ……行こ、ともりん
+祥子: ……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000122/data/adv_still_anime_000122/adv_still_anime_000122.webp)
+祥子: ……
+祥子: （期待して拒絶して、それでも尚—— 燈の言葉は捨てられないでいる。 わたくしはどこまでも……愚かですわ）
+(Background change)
+(Background change)
+
+[RiNG スタジオ]
+
+愛音: ごめ〜ん、遅れたー！
+立希: 遅い！　ライブ近いのわかってんの？
+愛音: だからごめんって。そよりんは？
+立希: まだ
+愛音: よかった〜
+立希: ったく…… ……燈、どうかした？
+燈: ……
+愛音: あ〜…… ともりん、今日ちょっとお疲れ気味かも
+立希: なんかあったの？
+愛音: さっき祥子ちゃん家で『バンドやろう』って言って。 でも追い返されちゃって……
+立希: ……燈、今の話本当？
+燈: 祥ちゃんと、話したくて
+立希: 話すとか、しなくていいと思う
+燈: えっ
+立希: ……首突っ込んで燈が傷つくのいやだから
+燈: あっ……
+愛音: <size=175%>っ！？
+楽奈: バンドしよ
+愛音: ちょっと〜、そよりんまだだよ
+立希: そのうち来るでしょ
+燈: ……
+
+[放課後]
+
+(Background change)
+(Background change)
+
+[若葉家 睦の部屋]
+
+そよ: 睦ちゃん……？　いるの？　 ……入るね
+モーティス: ——はい、はい……
+そよ: （誰かと電話してる……？）
+モーティス: そうなんです………いえ、ずっと眠ったままで
+モーティス: もしもし、お医者さんですか？ はい………はい、睦ちゃんが起きないんです
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
+モーティス: はい、はい……ずっと寝たままなんです
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
+そよ: 睦ちゃん？
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp)
+そよ: <size=175%>！？
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp)
+モーティス: ……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp)
+そよ: ひっ……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000128/data/adv_still_anime_000128/adv_still_anime_000128.webp)
+モーティス: そよちゃん…… そよちゃん、睦ちゃんを起こして……

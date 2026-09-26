@@ -1,0 +1,69 @@
+1 10878:adv_script_home_10878 Member Talk
+
+(Background change)
+Nagi: That was close...
+Hotaru: I'm so sorry! You really saved me there...!
+Natsume: Phew... That nearly gave me a heart attack.
+Houka: Isn't it adorable how hard she's trying?
+Mahoro: I'm sorry, Hotaru-chan...! I should've been the one carrying the tray.
+Hotaru: No! I was the one who volunteered to carry it...! I'll be more careful next time!
+
+
+2 10868:adv_script_home_10868 Nice and Easy... Nice and Easy...
+
+(Background change)
+Hotaru: Nice and easy... Nice and easy...
+
+
+3 10869:adv_script_home_10869 Nice and Easy... Nice and Easy...
+
+(Background change)
+Hotaru: W-Wah...!!
+
+
+4 10870:adv_script_home_10870 Nice and Easy... Nice and Easy...
+
+(Background change)
+Mahoro: Careful...!
+
+
+5 10871:adv_script_home_10871 Nice and Easy... Nice and Easy...
+
+(Background change)
+Mahoro: Take it nice and slow!
+
+
+6 10872:adv_script_home_10872 Nice and Easy... Nice and Easy...
+
+(Background change)
+Houka: Oh my...
+
+
+7 10873:adv_script_home_10873 Nice and Easy... Nice and Easy...
+
+(Background change)
+Houka: There's no need to rush, Hotaru-san...
+
+
+8 10874:adv_script_home_10874 Nice and Easy... Nice and Easy...
+
+(Background change)
+Natsume: Oh, honestly!
+
+
+9 10875:adv_script_home_10875 Nice and Easy... Nice and Easy...
+
+(Background change)
+Natsume: What are you doing...?!
+
+
+10 10876:adv_script_home_10876 Nice and Easy... Nice and Easy...
+
+(Background change)
+Nagi: Huh?
+
+
+11 10877:adv_script_home_10877 Nice and Easy... Nice and Easy...
+
+(Background change)
+Nagi: Whoa!

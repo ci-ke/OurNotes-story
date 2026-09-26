@@ -1,0 +1,69 @@
+1 10643:adv_script_home_10643 メンバートーク
+
+(Background change)
+そよ: 楽奈ちゃん、それ燈ちゃんに返してあげて。 もう終わったから
+楽奈: ん。ねこの、いっぱいあった
+愛音: へえ、これは海の生きものじゃないんだ
+燈: うん、どうぶつシリーズ……！ 犬も猫も種類がいろいろあって……！
+立希: はい、飲み物ここに置いたから。 自分で持ってって
+愛音: えー、それ職務怠慢じゃない？
+
+
+2 10633:adv_script_home_10633 かわいいどうぶつ、見つけた
+
+(Background change)
+そよ: 自分で貼れるって言ったのに
+
+
+3 10634:adv_script_home_10634 かわいいどうぶつ、見つけた
+
+(Background change)
+そよ: でも……ありがとう、燈ちゃん
+
+
+4 10635:adv_script_home_10635 かわいいどうぶつ、見つけた
+
+(Background change)
+愛音: あっ。そよりん、指かわいー！
+
+
+5 10636:adv_script_home_10636 かわいいどうぶつ、見つけた
+
+(Background change)
+愛音: これは何ペンギン？
+
+
+6 10637:adv_script_home_10637 かわいいどうぶつ、見つけた
+
+(Background change)
+燈: あ、あのちゃん……！
+
+
+7 10638:adv_script_home_10638 かわいいどうぶつ、見つけた
+
+(Background change)
+燈: これは、マゼランペンギン……
+
+
+8 10639:adv_script_home_10639 かわいいどうぶつ、見つけた
+
+(Background change)
+立希: あんまり騒がないで
+
+
+9 10640:adv_script_home_10640 かわいいどうぶつ、見つけた
+
+(Background change)
+立希: 野良猫も、店広げるならこっちでやって
+
+
+10 10641:adv_script_home_10641 かわいいどうぶつ、見つけた
+
+(Background change)
+楽奈: ねこと、ねこ
+
+
+11 10642:adv_script_home_10642 かわいいどうぶつ、見つけた
+
+(Background change)
+楽奈: ねこ、いっぱい

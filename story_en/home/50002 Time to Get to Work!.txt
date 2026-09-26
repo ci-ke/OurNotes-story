@@ -1,0 +1,70 @@
+1 10906:adv_script_home_10906 Member Talk
+
+(Background change)
+Raika: Aaah~! It tastes even better because Miku brought it!
+Miku: It tastes the same no matter who brings it~
+Chieri: I finally got it untangled! Geez, what did you even do to get it this tangled?
+Shizuku: I do not know. It wrapped itself around me when I tried to untangle it.
+Yomogi: It wrapped itself around you...!?
+Raika: Yeah, that happens sometimes!
+Yomogi: That happens!?
+
+
+2 10896:adv_script_home_10896 Time to Get to Work!
+
+(Background change)
+Raika: Phew...!
+
+
+3 10897:adv_script_home_10897 Time to Get to Work!
+
+(Background change)
+Raika: The floor's sparkling clean! Next up~
+
+
+4 10898:adv_script_home_10898 Time to Get to Work!
+
+(Background change)
+Shizuku: ...?
+
+
+5 10899:adv_script_home_10899 Time to Get to Work!
+
+(Background change)
+Shizuku: I cannot seem to free myself.
+
+
+6 10900:adv_script_home_10900 Time to Get to Work!
+
+(Background change)
+Chieri: Honestly, what am I going to do with you~
+
+
+7 10901:adv_script_home_10901 Time to Get to Work!
+
+(Background change)
+Chieri: Chieri will get you untangled!
+
+
+8 10902:adv_script_home_10902 Time to Get to Work!
+
+(Background change)
+Yomogi: You're all tangled up...
+
+
+9 10903:adv_script_home_10903 Time to Get to Work!
+
+(Background change)
+Yomogi: W-When did that happen...?
+
+
+10 10904:adv_script_home_10904 Time to Get to Work!
+
+(Background change)
+Miku: Everyone, I brought some water~
+
+
+11 10905:adv_script_home_10905 Time to Get to Work!
+
+(Background change)
+Miku: Wanna take a little break?

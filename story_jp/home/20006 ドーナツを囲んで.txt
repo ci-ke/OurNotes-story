@@ -1,0 +1,69 @@
+1 10745:adv_script_home_10745 メンバートーク
+
+(Background change)
+初華: 睦ちゃんは？　いちご、おすすめだよ
+睦: ……じゃあいちごにする
+にゃむ: この黄色いの、何味？
+海鈴: シナモンじゃないですか？
+にゃむ: じゃーそれにしよっと
+祥子: 食べ終わりましたら、会議を始めますから
+
+
+2 10735:adv_script_home_10735 ドーナツを囲んで
+
+(Background change)
+初華: 前の現場でもらったんだ。みんな好きなの食べて
+
+
+3 10736:adv_script_home_10736 ドーナツを囲んで
+
+(Background change)
+初華: さきちゃん、どれにする？
+
+
+4 10737:adv_script_home_10737 ドーナツを囲んで
+
+(Background change)
+祥子: ええ、あとでいただきますわ
+
+
+5 10738:adv_script_home_10738 ドーナツを囲んで
+
+(Background change)
+祥子: わたくしは先に作業を終わらせますので
+
+
+6 10739:adv_script_home_10739 ドーナツを囲んで
+
+(Background change)
+海鈴: 有名なドーナツ店のですよね
+
+
+7 10740:adv_script_home_10740 ドーナツを囲んで
+
+(Background change)
+海鈴: では、私はこれを
+
+
+8 10741:adv_script_home_10741 ドーナツを囲んで
+
+(Background change)
+にゃむ: あー、アタシもそれがよかった！
+
+
+9 10742:adv_script_home_10742 ドーナツを囲んで
+
+(Background change)
+にゃむ: ウミコずる〜
+
+
+10 10743:adv_script_home_10743 ドーナツを囲んで
+
+(Background change)
+睦: 初華、ありがとう
+
+
+11 10744:adv_script_home_10744 ドーナツを囲んで
+
+(Background change)
+睦: ……どれもおいしそう

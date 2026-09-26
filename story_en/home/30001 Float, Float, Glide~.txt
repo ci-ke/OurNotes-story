@@ -1,0 +1,43 @@
+1 10770:adv_script_home_10770 Member Talk
+
+(Background change)
+Nonoka: Yuno-chaaaan~~! Come over here~
+Yuno: I'm good. Everyone'll be here soon anyway.
+Arale: Oh, right! Wait, how do I get down from heeere...?
+Nonoka: Stay calm. Deep breaths~
+
+
+2 10764:adv_script_home_10764 Float, Float, Glide~
+
+(Background change)
+Nonoka: Mmm~ streeetch...
+
+
+3 10765:adv_script_home_10765 Float, Float, Glide~
+
+(Background change)
+Nonoka: Zooooom!
+
+
+4 10766:adv_script_home_10766 Float, Float, Glide~
+
+(Background change)
+Arale: A-Aaah, I can't keep my balance...!
+
+
+5 10767:adv_script_home_10767 Float, Float, Glide~
+
+(Background change)
+Arale: Isn't this sooo hard~!?
+
+
+6 10768:adv_script_home_10768 Float, Float, Glide~
+
+(Background change)
+Yuno: ...
+
+
+7 10769:adv_script_home_10769 Float, Float, Glide~
+
+(Background change)
+Yuno: You've got way too much energy.

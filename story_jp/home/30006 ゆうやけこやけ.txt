@@ -1,0 +1,32 @@
+1 10811:adv_script_home_10811 メンバートーク
+
+(Background change)
+あられ: りっちゃんがいたらあんな失敗してなかったかも
+律: そうかな〜
+律: あれ、もうそんな時間？
+あられ: 時間経つの、早〜
+律: ね。そろそろ帰ろっか
+
+
+2 10807:adv_script_home_10807 ゆうやけこやけ
+
+(Background change)
+あられ: でね、大量の予約票を全部広げたの！
+
+
+3 10808:adv_script_home_10808 ゆうやけこやけ
+
+(Background change)
+あられ: 店員さんもぼくも神経衰弱してるみたいでさ
+
+
+4 10809:adv_script_home_10809 ゆうやけこやけ
+
+(Background change)
+律: ふふふっ
+
+
+5 10810:adv_script_home_10810 ゆうやけこやけ
+
+(Background change)
+律: それ、見たかったなぁ

@@ -1,0 +1,45 @@
+1 10795:adv_script_home_10795 メンバートーク
+
+(Background change)
+律: これで楽になりましたか……！？
+都子: ちょっ、止めてください。千石さんが……っ
+ユノ: …………
+律: 呼吸が、止まってる……！
+都子: そんな突風を直で受けたらそうなります
+律: ユノさん、しっかり！　ユノさーん！
+
+
+2 10789:adv_script_home_10789 かいふくアイテム
+
+(Background change)
+ユノ: うぅ〜〜……
+
+
+3 10790:adv_script_home_10790 かいふくアイテム
+
+(Background change)
+ユノ: 無理。動けない
+
+
+4 10791:adv_script_home_10791 かいふくアイテム
+
+(Background change)
+律: 気をたしかに……！
+
+
+5 10792:adv_script_home_10792 かいふくアイテム
+
+(Background change)
+律: ちょうどいいものを拝借しました
+
+
+6 10793:adv_script_home_10793 かいふくアイテム
+
+(Background change)
+都子: デカ……なんですか、これ……
+
+
+7 10794:adv_script_home_10794 かいふくアイテム
+
+(Background change)
+都子: どこから拝借したんですか……？

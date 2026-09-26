@@ -1,0 +1,70 @@
+1 10763:adv_script_home_10763 メンバートーク
+
+(Background change)
+にゃむ: はい、オッケー。 いい感じに撮れた♪
+初華: 綺麗なグラデーションだよね……！ 混ぜちゃうのもったいないな
+海鈴: モクテルは混ぜた方が味は良くなると思いますが
+祥子: ……全て混ぜて飲み干しますわ。 その方がわたくしたちに合ってますから
+睦: じゃあ私も混ぜるよ
+祥子: 皆さん、グラスは持っていますわね。 では……今宵の月に
+一同: 乾杯
+
+
+2 10753:adv_script_home_10753 今宵、船上にて
+
+(Background change)
+初華: ずっとここにいたの？　体、冷えてない？
+
+
+3 10754:adv_script_home_10754 今宵、船上にて
+
+(Background change)
+初華: ……やっぱり心配で
+
+
+4 10755:adv_script_home_10755 今宵、船上にて
+
+(Background change)
+祥子: ありがとう、初華。今も……さっきも
+
+
+5 10756:adv_script_home_10756 今宵、船上にて
+
+(Background change)
+祥子: あなたに助けられましたわ
+
+
+6 10757:adv_script_home_10757 今宵、船上にて
+
+(Background change)
+海鈴: この余韻に浸りながら飲むのも一興かと
+
+
+7 10758:adv_script_home_10758 今宵、船上にて
+
+(Background change)
+海鈴: モクテルで乾杯といきましょう
+
+
+8 10759:adv_script_home_10759 今宵、船上にて
+
+(Background change)
+にゃむ: 早く飲もうよ〜。喉カラカラ
+
+
+9 10760:adv_script_home_10760 今宵、船上にて
+
+(Background change)
+にゃむ: 全員揃わないとって、ウミコがうるさくて
+
+
+10 10761:adv_script_home_10761 今宵、船上にて
+
+(Background change)
+睦: お疲れさま
+
+
+11 10762:adv_script_home_10762 今宵、船上にて
+
+(Background change)
+睦: 中にある食べ物もご自由に、だって

@@ -1,0 +1,119 @@
+10066:adv_script_millsage_004_1_07 With my music
+
+A future where everyone gets to be happy.
+
+(Background change)
+
+[A Few Days Later]
+
+[Café]
+
+Houka: Please, choose anything that catches your eye♪
+Hotaru: Y-yes...
+Houka: Shiomi-san...? Your menu is upside down~
+Hotaru: What...?  Ah! I-I'm so sorry...!
+Houka: Hehe. There is no need to be so tense. Plenty of students come here as well.
+Hotaru: O-oh, I see...
+Hotaru: Actually, um... this is my first time going somewhere with someone outside my family...!
+Houka: My, then I am truly honored♪
+Houka: If you are comfortable with it, Shiomi-san, shall we order a few things to share?
+Hotaru: May I...!?
+Houka: Of course♪
+Houka: I do have rather discerning tastes, and this café is especially renowned for its pancakes.
+Hotaru: Pancakes...!
+Houka: Hehe. Then let us place our order first.
+Houka: Now then... shall we turn to the subject that brought us here today?
+Houka: About millsage... you said you hoped to help us somehow...
+Hotaru: Y-yes...!
+Houka: What exactly did you have in mind?
+Hotaru: Um... After I went home yesterday, I thought about what I might be able to do...
+Hotaru: Like... if you ever needed me for an important rehearsal or live show, I could play piano...
+Hotaru: and maybe that would bring your sound a little closer... to how it was when there were five of you...
+Houka: I see. So you would be helping us as a support member.
+Hotaru: Support...?
+Houka: A support member is not a formal member of the band, but someone who joins in when needed to help with performances.
+Hotaru: Yes...! I think that's exactly what I meant!
+Houka: That is a very generous offer. Truly.
+Houka: If there were any way for us to avoid disbanding, I wanted to find it as well.
+Hotaru: I'm so relieved...!
+Houka: However... I am afraid that alone would not be enough to change where we stand.
+Hotaru: Huh...?
+Houka: Allow me to explain where millsage stands at the moment.
+Houka: The main reason was the departure of Kanata-san and Natsume-san... Natsume-san was our lead guitarist. Losing both of them had a major impact.
+Houka: As a result, music that was once performed by five people is now being carried by three.
+Houka: We have managed to cover the guitar and piano parts with programmed tracks, but...
+Houka: The vocals, however, are different. Someone still needs to take on that role.
+(Background change)
+Houka: That was when Mahoro-san volunteered to sing.
+Houka: Nagi-san said singing was not her strength, and in my case... handling vocals while drumming would not be realistic.
+Houka: Even if it was by process of elimination, Mahoro-san was the only real option.
+(Background change)
+Houka: But... millsage's songs were written around Kanata-san's voice.
+Houka: To be frank, Kanata-san was in a class of her own, both in her piano playing and her vocal performance.
+Houka: Mahoro-san is giving it everything she has, but she also began learning bass with no prior experience...
+Houka: Between the thinner sound I mentioned earlier and the absence of Kanata-san's presence, the audience has judged us rather severely.
+Hotaru: ...!
+Hotaru: (That must be why yesterday's audience felt so distant...)
+Houka: And... there is another difficulty.
+Houka: With Natsume-san, who composed our songs, gone as well, work on new music has come to a halt.
+Houka: Of course, it would be possible for us to continue performing lives with only the songs we already have, but...
+Houka: In other words, that would amount to little more than maintaining the status quo. We would not be moving forward, merely standing still.
+Houka: If we were to continue under such circumstances, we would only wear ourselves down little by little.
+Hotaru: ...
+Hotaru: (So... just playing piano would not be enough.)
+Hotaru: (Mahoro-san's burden, the new songs... We would have to solve both of those problems...)
+Houka: ...
+Houka: Please don't worry. There is indeed a way.
+Houka: We simply need to have Natsume-san come back to us♪
+Hotaru: Huh...?
+Houka: With Natsume-san back with us, we would be able to resume work on new songs.
+Houka: And as for Mahoro-san, we could ease her burden as well by having Natsume-san adjust the bass part accordingly.
+Hotaru: That's true...!
+Hotaru: Wait... But if that is the case, wouldn't that mean you don't need me...?
+Houka: No, that is not the case at all. The piano remains an essential part of this band, and that has not changed.
+Houka: Besides, Shiomi-san, there is a task of the utmost importance that I would like to entrust to you: persuading Natsume-san.
+Hotaru: M-Me? You want me to persuade her!?
+Houka: Yes. You, Shiomi-san♪
+Hotaru: But Natsume-san... stopped even coming to practice, didn't she...?
+Houka: If you were to join us as a support member, Shiomi-san, that would change matters entirely. I am certain she would agree to sit down and speak with us.
+Hotaru: B-but would she really listen to someone like me, when we have never even met...?
+Houka: There is no need for concern. I have every confidence that you can do it.
+Houka: You are the "Angel of the Music World," after all.
+Hotaru: !
+Houka: I understand you were held in exceptionally high regard in the classical music world, Shiomi-san.
+Houka: Forgive my presumption, but I took the liberty of watching the video of your street piano performance.
+Houka: It was so... truly beautiful♡
+Hotaru: U-um...
+Houka: With your music, I truly believe we can make it a reality.
+Houka: "A future where everyone can be happy."
+Hotaru: With... my music...?
+(Background change)
+Kanata: But y'know, "music that makes everyone happy..."
+Kanata: If anyone can make that happen, it's you, Hotaru!
+(Background change)
+Hotaru: ...
+Hotaru: (I still don't know what I can do... or whether I can really do it properly...)
+Hotaru: (But if it would help everyone...)
+Hotaru: (then I want to try believing in Houka-san.)
+Hotaru: All right... I'll give it a try!
+Houka: My, thank you very much♪
+Houka: Let us strive together, shall we?
+(Background change)
+
+[Izawa House - Natsume's Room]
+
+Natsume: ...
+Natsume: (I haven't touched my guitar at all lately.)
+Natsume: (Every time I so much as touch music, my chest starts to hurt.)
+Natsume: (Maybe I should just... leave things as they are.)
+Natsume: ...? From Houka?
+(message) Houka: Hey, hope you’re doing well.
+(message) Houka: We had a rather unusual guest at our live the other day.
+(message) Houka: Hotaru Shiomi-san.
+(message) Houka: The girl Kanata-san mentioned before, if I recall correctly.
+(message) Houka: Apparently she's really good at piano🎹
+Natsume: ...?
+Natsume: What is this supposed to be? Some kind of report? This has nothing to do with me...
+Natsume: I don't get it. Whatever. I'm ignoring this...
+(message) Houka: I am thinking of having Shiomi-san join millsage.
+Natsume: What...?

@@ -1,0 +1,30 @@
+1 10648:adv_script_home_10648 Member Talk
+
+(Background change)
+Soyo: Huh? Rāna-chan, where are you going?
+Rāna: Gonna play guitar till it cools down.
+Soyo: It'll probably be cold by the time you're done playing...
+
+
+2 10644:adv_script_home_10644 Fwoo, Fwoo, Fwoo...
+
+(Background change)
+Rāna: Ngh... Hot.
+
+
+3 10645:adv_script_home_10645 Fwoo, Fwoo, Fwoo...
+
+(Background change)
+Rāna: Fwoo, fwoo... fwoo...
+
+
+4 10646:adv_script_home_10646 Fwoo, Fwoo, Fwoo...
+
+(Background change)
+Soyo: You'd think it'd be cool enough by now...
+
+
+5 10647:adv_script_home_10647 Fwoo, Fwoo, Fwoo...
+
+(Background change)
+Soyo: Then again... it's Rāna-chan.

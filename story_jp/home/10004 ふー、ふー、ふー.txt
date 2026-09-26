@@ -1,0 +1,30 @@
+1 10648:adv_script_home_10648 メンバートーク
+
+(Background change)
+そよ: えっ、楽奈ちゃんどこ行くの？
+楽奈: 冷めるまで、ギター弾く
+そよ: ……弾き終わる頃には冷たくなってると思うよ
+
+
+2 10644:adv_script_home_10644 ふー、ふー、ふー
+
+(Background change)
+楽奈: ……っ。あつい
+
+
+3 10645:adv_script_home_10645 ふー、ふー、ふー
+
+(Background change)
+楽奈: ふー、ふー……ふー……
+
+
+4 10646:adv_script_home_10646 ふー、ふー、ふー
+
+(Background change)
+そよ: もう充分冷めてそうなのに……
+
+
+5 10647:adv_script_home_10647 ふー、ふー、ふー
+
+(Background change)
+そよ: ……ま、楽奈ちゃんだもんね

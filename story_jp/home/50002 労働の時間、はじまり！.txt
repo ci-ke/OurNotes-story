@@ -1,0 +1,70 @@
+1 10906:adv_script_home_10906 メンバートーク
+
+(Background change)
+蕾叶: ぷはぁ〜！　心玖が持ってきてくれたからおいしい！
+心玖: 誰が持ってきても同じ味だよ〜
+ちえり: やーっと、ほどけました！ も〜、何をどうしたらこうなるんですか
+寧月: わからない。解こうとしたら巻きついてきたのだ
+蓬咲: 巻きついてきた……！？
+蕾叶: あるよね〜、そういうこと！
+蓬咲: あるんですか！？
+
+
+2 10896:adv_script_home_10896 労働の時間、はじまり！
+
+(Background change)
+蕾叶: ふぅ〜……！
+
+
+3 10897:adv_script_home_10897 労働の時間、はじまり！
+
+(Background change)
+蕾叶: 床はぴかぴか！　次は〜……
+
+
+4 10898:adv_script_home_10898 労働の時間、はじまり！
+
+(Background change)
+寧月: ……？
+
+
+5 10899:adv_script_home_10899 労働の時間、はじまり！
+
+(Background change)
+寧月: どうにもならなくなってしまった
+
+
+6 10900:adv_script_home_10900 労働の時間、はじまり！
+
+(Background change)
+ちえり: まったく、仕方ないですね〜
+
+
+7 10901:adv_script_home_10901 労働の時間、はじまり！
+
+(Background change)
+ちえり: ちえりがほどいてあげますっ
+
+
+8 10902:adv_script_home_10902 労働の時間、はじまり！
+
+(Background change)
+蓬咲: すごい絡まり方してる……
+
+
+9 10903:adv_script_home_10903 労働の時間、はじまり！
+
+(Background change)
+蓬咲: い……いつからそんなことに……？
+
+
+10 10904:adv_script_home_10904 労働の時間、はじまり！
+
+(Background change)
+心玖: みんな、お水持ってきたよ〜
+
+
+11 10905:adv_script_home_10905 労働の時間、はじまり！
+
+(Background change)
+心玖: ちょっと休憩にしよっか

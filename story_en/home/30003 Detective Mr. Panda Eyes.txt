@@ -1,0 +1,45 @@
+1 10788:adv_script_home_10788 Member Talk
+
+(Background change)
+Arale: Miyako-san, can you see the future...!?
+Nonoka: Do not panic, Araren-kun! Quick, while I keep her distracted!
+Miyako: A-A shadow clone...!?
+Arale: That's amazing! How do you do that!?
+Nonoka: Umm... I just move suuuper fast!
+Arale: I... I see...!?
+
+
+2 10782:adv_script_home_10782 Detective Mr. Panda Eyes
+
+(Background change)
+Nonoka: Hmm... How's Mr. Panda Eyes looking today...?
+
+
+3 10783:adv_script_home_10783 Detective Mr. Panda Eyes
+
+(Background change)
+Nonoka: Can you see him, Araren-kun?!
+
+
+4 10784:adv_script_home_10784 Detective Mr. Panda Eyes
+
+(Background change)
+Arale: Nono-Holmes-san, I can't see him!
+
+
+5 10785:adv_script_home_10785 Detective Mr. Panda Eyes
+
+(Background change)
+Arale: Then I'll have to move in for a close-up inspection...!
+
+
+6 10786:adv_script_home_10786 Detective Mr. Panda Eyes
+
+(Background change)
+Miyako: Not so fast.
+
+
+7 10787:adv_script_home_10787 Detective Mr. Panda Eyes
+
+(Background change)
+Miyako: I know exactly what you two are up to.

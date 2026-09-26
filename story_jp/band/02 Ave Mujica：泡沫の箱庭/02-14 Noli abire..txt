@@ -1,0 +1,194 @@
+10033:adv_script_mujica_002_1_14 Noli abire.
+
+身勝手なのはわかっています。それでも Ave Mujicaを復活させたいんです！
+
+(Background change)
+(Background change)
+まな: ——でね。まな舞台はじめてでしょ？ みなみさんが色々教えてくれて
+初華: ……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000141/data/adv_still_anime_000141/adv_still_anime_000141.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000142/data/adv_still_anime_000142/adv_still_anime_000142.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000143/data/adv_still_anime_000143/adv_still_anime_000143.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000142/data/adv_still_anime_000142/adv_still_anime_000142.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000143/data/adv_still_anime_000143/adv_still_anime_000143.webp)
+初華: ……
+まな: 今日も仕事終わりにご飯行く約束してるんだ。 ういちゃんもよかったら一緒に——
+まな: ういちゃん？　大丈夫？
+初華: ……え？　……うん
+(Background change)
+モーティス: ——♪ もう一度最初から再生………
+睦: お願いだからやめて……
+モーティス: やめなーい。集中してるのに邪魔しないでくれる
+睦: ……ギター返して。『弾くフリ』なんてやめて
+モーティス: じゃあAve Mujicaやって。 睦ちゃんがギター弾いてくれるなら返してあげてもいいよ
+睦: 言ったはず、私は…… CRYCHICをもう一度……
+モーティス: ……っ！　だから！　CRYCHICはもう終わったんだって！ 何度も言わせないで！
+睦: CRYCHICの祥はいつもしあわせそうだった。 だけどAve Mujicaの祥は……ずっと苦しそうで……
+モーティス: だから私が消えてもいいって？
+睦: ……
+モーティス: ……っ！　睦ちゃんも祥子ちゃんもなぁんにもわかってない！ 私がいないと困るの睦ちゃんなんだよ！？
+睦: モーティス、わかって
+モーティス: <size=175%>わからないっ！
+(Background change)
+モーティス: はぁ………はぁ…… ぜったいにわかってあげない……
+(Background change)
+祥子: （モーティスは、 睦がAve Mujicaをやり続けることを望んでいる）
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
+祥子: （睦が苦しみ、壊れてしまったあの日々を この先もずっと……）
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
+祥子: （そんなこと……… わたくしはAve Mujicaだけはできない）
+祥子: （してはいけない）
+家政婦: 申し訳ございません。お嬢様ですが 本日はギターを弾きたいとのことでして
+祥子: ギターを……
+(Background change)
+睦: ……もう一回
+睦: 祥とCRYCHICやりたい
+(Background change)
+祥子: （……睦、本気で……）
+祥子: （なら、わたくしが睦のためにできることは……）
+(Background change)
+
+[放課後]
+
+(Background change)
+(Background change)
+
+[羽丘女子学園 カフェテリア]
+
+祥子: 燈、愛音さん。 急にお呼びたてして申し訳ありません
+愛音: それはいいけど……話って？
+燈: ……
+祥子: 単刀直入に申します
+祥子: 燈、わたくしとCRYCHICをもう一度 やっていただけませんか？
+愛音: <size=175%>……！
+祥子: わたくしも……わたくしも睦も本気ですわ
+燈: 睦ちゃん……
+祥子: ええ……CRYCHIC復活は睦の望み
+祥子: わたくしは苦しみに気づきながらも手を差し伸べず、 挙句Ave Mujicaに利用した
+祥子: 睦の願いがCRYCHICであるならば わたくしはそれを叶えたい
+愛音: そ、それって
+祥子: もちろん、MyGO!!!!!に迷惑はかけません。 すぐに返事ができないことも重々承知ですわ
+祥子: 立希とそよともこれから話をするつもりです
+愛音: ……
+(Background change)
+(Background change)
+そよ: ごきげんよう。また明日ね
+(message) 立希: ライブ終わって最近たるんでる
+(message) そよ: そうかな？
+(message) 立希: 絶対そう、次決めないと
+(message) 愛音: ごめん、ちょっといい？
+(message) 愛音: 祥子ちゃんが睦ちゃんのために CRYCHIC復活させたいって
+そよ: ……
+(Background change)
+
+[羽丘女子学園 天文部部室]
+
+愛音: 全員既読無視って………も〜何か言ってよ
+愛音: え？　DM？　誰？
+(Background change)
+初華: 『二人で会えるかな？』
+(Background change)
+愛音: え？　初華！？ えっえっ、なんで！？　ええぇ〜？
+燈: ……
+(Background change)
+
+[羽沢珈琲店]
+
+愛音: ええと……
+初華: 愛音ちゃん、こっち
+愛音: あっ！　初華ちゃん。 すみません、待たせちゃって
+初華: ううん、私も急に呼び出して
+愛音: ぜんぜん！　ここ入ってみたかったんだ〜。 あ、それなんですか？
+初華: 羽沢ブレンド……
+愛音: 私もそれにしよ〜！ すみませ〜ん、羽沢ブレンドくださ〜い
+愛音: 初華ちゃんから連絡きてびっくりしちゃった。 今日はどうして……
+初華: うん……CRYCHICのこと聞きたくて。これ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp)
+初華: なにか知ってる……？
+愛音: そよりんがあげたやつかな。この前ライブやったんだ〜 これその時の写真なんだけど
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp)
+初華: <size=175%>……っ！
+愛音: ともりんが新しく歌詞書いて、 それだったら、ってMyGO!!!!!のリハ時間使って——
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp)
+初華: （さきちゃん……すごくしあわせそう…… こんな顔、Ave Mujicaの時は——）
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp)
+愛音: 祥子ちゃんCRYCHIC続けたいんだって〜
+初華: ……え
+愛音: でもなんで初華ちゃんCRYCHICのこと……
+初華: ……
+(Background change)
+
+[数日後]
+
+(Background change)
+
+[オーディション会場]
+
+面接官: はい、次の方
+にゃむ: Win-Wing-Production所属、祐天寺にゃむ。 よろしくお願いします
+候補者A: ハードランディング所属 御家林さくらです！
+面接官: では、はじめてください
+候補者A: 『だから言ったじゃん。やめときなって。 不幸になるのはアンタだよ！』
+にゃむ: （あ……！）
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
+にゃむ: ……わっ、わ…… 『わかってる……それでも』………
+候補者A: ……？
+にゃむ: 『私は……』
+面接官: 祐天寺さん？　大丈夫ですか？
+にゃむ: は……はぁ……はぁ……
+(Background change)
+にゃむ: <size=175%>……っ！！
+にゃむ: （なさけなか！！　 一番大事な時にどうしてあんな……！）
+にゃむ: （バンドは終わったんだから……！ なんでも踏み台にして、先に進まなきゃって……！）
+候補者A: もうサイアク！　相手役の子が固まっちゃってさ〜
+候補者B: えーマジだるい。それ、にゃむちでしょ？
+候補者A: バンドダメになったからって軽い気持ちで来んなよ
+にゃむ: <size=175%>……っ！！　〜〜〜っ！！
+(Background change)
+(message) 海鈴: 若葉さんの参加が決まりました
+(Background change)
+にゃむ: ……あ
+(Background change)
+(Background change)
+
+[花咲川女子学園 校舎裏]
+
+海鈴: なんです？　用がないなら帰ります
+立希: え………さ、最近どう？
+海鈴: あなたに言われてがんばっています
+立希: あ、うん……なんか聞いてる？
+海鈴: なんか、とは？
+立希: ……睦に、なんかした？
+海鈴: ……っ！　なんかってなんですか？
+初華: <size=175%>海鈴ちゃん！　私、Ave Mujicaやるから！
+海鈴: え、はい
+立希: ……？
+初華: ……っ！　……それだけ
+立希: え、なに……？
+海鈴: あなたなにかしたんですか？ 三角さんに睨まれるなんて相当ですね
+立希: は？
+(Background change)
+初華: <size=175%>社長お願いします！
+勝浦社長: 初華ちゃん、顔をあげて
+初華: 身勝手なのはわかっています。それでも Ave Mujicaを復活させたいんです！
+勝浦社長: ……ふぅ。初華ちゃんの気持ちはよくわかりました。 それでも許可はできません
+初華: ……
+勝浦社長: Ave Mujicaの復活は事務所の一存じゃ決められないの
+勝浦社長: 『上』から止められている、 そう言えば初華ちゃんならわかるでしょ？
+初華: はっ……！ それじゃ……私の……
+初華: ……っ！
+(Background change)
+スタッフ: え？　衣装ですか？ Ave Mujicaの衣装は廃棄だと言われていて
+初華: ……っ！
+スタッフ: まだ倉庫にあるかな……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000145/data/adv_still_anime_000145/adv_still_anime_000145.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000146/data/adv_still_anime_000146/adv_still_anime_000146.webp)
+初華: ……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000147/data/adv_still_anime_000147/adv_still_anime_000147.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000146/data/adv_still_anime_000146/adv_still_anime_000146.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000147/data/adv_still_anime_000147/adv_still_anime_000147.webp)
+(Background change)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000148/data/adv_still_anime_000148/adv_still_anime_000148.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000149/data/adv_still_anime_000149/adv_still_anime_000149.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+初華: さき、ちゃん……っ！

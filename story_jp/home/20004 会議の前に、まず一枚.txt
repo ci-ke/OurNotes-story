@@ -1,0 +1,45 @@
+1 10727:adv_script_home_10727 メンバートーク
+
+(Background change)
+にゃむ: 気分下がること言わないでくれる？
+海鈴: ただの情報です。お気になさらず
+にゃむ: てか甘さと氷、半分にしてもらったし。 味もカロリーもカスタムしないと♪
+祥子: そういうこともできるんですのね
+にゃむ: え、なになに興味あんの？
+祥子: ただの感想ですわ
+
+
+2 10721:adv_script_home_10721 会議の前に、まず一枚
+
+(Background change)
+にゃむ: 今日発売のドリンク〜！
+
+
+3 10722:adv_script_home_10722 会議の前に、まず一枚
+
+(Background change)
+にゃむ: あとでアップしよっかなー
+
+
+4 10723:adv_script_home_10723 会議の前に、まず一枚
+
+(Background change)
+祥子: いつまでやってるんですの？
+
+
+5 10724:adv_script_home_10724 会議の前に、まず一枚
+
+(Background change)
+祥子: 会議を始めますわよ
+
+
+6 10725:adv_script_home_10725 会議の前に、まず一枚
+
+(Background change)
+海鈴: そういう飲み物、高カロリーですよね
+
+
+7 10726:adv_script_home_10726 会議の前に、まず一枚
+
+(Background change)
+海鈴: 糖分過多で肌にもよくないとか

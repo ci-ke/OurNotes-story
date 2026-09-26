@@ -1,0 +1,32 @@
+1 10883:adv_script_home_10883 メンバートーク
+
+(Background change)
+蛍: ……美味しいですね、朋花さん
+朋花: ふふ、でしょう？
+蛍: フランスのケーキでしたっけ？
+朋花: フランスとイタリア……どちらが起源か 正確なことはわかっていないそうですよ
+蛍: へえ……！　そうなんですね
+
+
+2 10879:adv_script_home_10879 本物を味わって
+
+(Background change)
+朋花: 本場の味を再現しているそうです
+
+
+3 10880:adv_script_home_10880 本物を味わって
+
+(Background change)
+朋花: 本物の味、一口いかがですか？
+
+
+4 10881:adv_script_home_10881 本物を味わって
+
+(Background change)
+蛍: そうなんですね……！
+
+
+5 10882:adv_script_home_10882 本物を味わって
+
+(Background change)
+蛍: ……じゃあ、いただきます

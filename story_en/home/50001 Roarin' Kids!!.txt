@@ -1,0 +1,42 @@
+1 10895:adv_script_home_10895 Member Talk
+
+(Background change)
+Raika: Come on, Yomogi! Make some noise!
+Chieri: It's a subordinate's job to liven things up!
+Yomogi: Eeeeeek!! Don't put me on the spot! My heart can't take iiiit!
+
+
+2 10889:adv_script_home_10889 Roarin' Kids!!
+
+(Background change)
+Raika: I'm hooome, "Nest"!
+
+
+3 10890:adv_script_home_10890 Roarin' Kids!!
+
+(Background change)
+Raika: Let's get fired uuuup!
+
+
+4 10891:adv_script_home_10891 Roarin' Kids!!
+
+(Background change)
+Chieri: Chieri Union~~!
+
+
+5 10892:adv_script_home_10892 Roarin' Kids!!
+
+(Background change)
+Chieri: A big round of applause for Chieri!
+
+
+6 10893:adv_script_home_10893 Roarin' Kids!!
+
+(Background change)
+Yomogi: Eep...!
+
+
+7 10894:adv_script_home_10894 Roarin' Kids!!
+
+(Background change)
+Yomogi: Um... I'm the only one doing any cleaning...

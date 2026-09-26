@@ -1,0 +1,42 @@
+1 10895:adv_script_home_10895 メンバートーク
+
+(Background change)
+蕾叶: ほらほら蓬咲、声出して！
+ちえり: 部下なら盛り上げるものですよっ
+蓬咲: ぎゃーーーっ！！ 注目しないでくださいっ、心臓が〜〜〜！
+
+
+2 10889:adv_script_home_10889 Roarin' Kids!!
+
+(Background change)
+蕾叶: ただいま、『Nest』〜〜！
+
+
+3 10890:adv_script_home_10890 Roarin' Kids!!
+
+(Background change)
+蕾叶: 盛り上がっていくぞ〜〜！
+
+
+4 10891:adv_script_home_10891 Roarin' Kids!!
+
+(Background change)
+ちえり: ちえり連合〜〜！
+
+
+5 10892:adv_script_home_10892 Roarin' Kids!!
+
+(Background change)
+ちえり: ちえりに大きな拍手を！
+
+
+6 10893:adv_script_home_10893 Roarin' Kids!!
+
+(Background change)
+蓬咲: ひぃっ……！
+
+
+7 10894:adv_script_home_10894 Roarin' Kids!!
+
+(Background change)
+蓬咲: あの、掃除……私しかやってない……

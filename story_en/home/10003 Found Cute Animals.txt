@@ -1,0 +1,69 @@
+1 10643:adv_script_home_10643 Member Talk
+
+(Background change)
+Soyo: Rāna-chan, give that back to Tomori-chan. We're all done now.
+Rāna: Mm. Lots of cat ones.
+Anon: Oh, so this one isn't a sea creature.
+Tomori: Yeah, these are from the animal series...! There are lots of different dog and cat breeds...!
+Taki: Here, I put the drinks down. Come grab your own.
+Anon: What? Isn't that kinda slacking off on the job?
+
+
+2 10633:adv_script_home_10633 Found Cute Animals
+
+(Background change)
+Soyo: I told you I could do it myself.
+
+
+3 10634:adv_script_home_10634 Found Cute Animals
+
+(Background change)
+Soyo: Still... thank you, Tomori-chan.
+
+
+4 10635:adv_script_home_10635 Found Cute Animals
+
+(Background change)
+Anon: Oh! Soyorin, your finger looks so cute!
+
+
+5 10636:adv_script_home_10636 Found Cute Animals
+
+(Background change)
+Anon: What kind of penguin is that?
+
+
+6 10637:adv_script_home_10637 Found Cute Animals
+
+(Background change)
+Tomori: Ah, Ano-chan...!
+
+
+7 10638:adv_script_home_10638 Found Cute Animals
+
+(Background change)
+Tomori: It's called a Magellanic penguin...
+
+
+8 10639:adv_script_home_10639 Found Cute Animals
+
+(Background change)
+Taki: Keep it down.
+
+
+9 10640:adv_script_home_10640 Found Cute Animals
+
+(Background change)
+Taki: And you, stray cat, if you're gonna spread the stuff out, do it over here.
+
+
+10 10641:adv_script_home_10641 Found Cute Animals
+
+(Background change)
+Rāna: One cat... and another cat.
+
+
+11 10642:adv_script_home_10642 Found Cute Animals
+
+(Background change)
+Rāna: Lots of cats.

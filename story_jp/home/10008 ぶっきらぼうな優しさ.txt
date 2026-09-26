@@ -1,0 +1,43 @@
+1 10680:adv_script_home_10680 メンバートーク
+
+(Background change)
+立希: 燈、疲れてない？　大丈夫？
+燈: うん……
+愛音: ほんと、ともりんには甘いよね〜
+立希: ボーカルは大変なの。気遣うのは当然でしょ
+
+
+2 10674:adv_script_home_10674 ぶっきらぼうな優しさ
+
+(Background change)
+燈: あ……立希ちゃん
+
+
+3 10675:adv_script_home_10675 ぶっきらぼうな優しさ
+
+(Background change)
+燈: ありがとう……
+
+
+4 10676:adv_script_home_10676 ぶっきらぼうな優しさ
+
+(Background change)
+愛音: りっきー、私の分は？
+
+
+5 10677:adv_script_home_10677 ぶっきらぼうな優しさ
+
+(Background change)
+愛音: つめた〜いお茶、ほしいな〜
+
+
+6 10678:adv_script_home_10678 ぶっきらぼうな優しさ
+
+(Background change)
+立希: 自分で買えば？
+
+
+7 10679:adv_script_home_10679 ぶっきらぼうな優しさ
+
+(Background change)
+立希: 燈の分しかないから

@@ -1,0 +1,18 @@
+name: Update All
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+
+jobs:
+  update:
+    uses: ci-ke/ProjectSekai-BangDream-story-crawler/.github/workflows/common-update.yml@main
+    permissions:
+      contents: write
+    with:
+      run_command: "uv run --no-dev -m action.all_bdon"
+      commit_message: "Update all"
+      assets_repo: story-assets-bdon
+    secrets:
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}

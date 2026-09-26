@@ -1,0 +1,70 @@
+1 10833:adv_script_home_10833 Member Talk
+
+(Background change)
+Arale: Nono-chan-san! I've captured Yuno-san-chan!
+Yuno: Like I'm some kind of rare animal...
+Nonoka: Very, very good~! See~? Now you want to come too, don't you, Miyako-chan~?
+Miyako: Fine... I'll go, okay? I'll go...
+Nonoka: Yaaay♪
+Arale: Ricchan, let's go in too! We can take our time with the menu once we sit down.
+Ritsu: Yeah. Let's go.
+
+
+2 10823:adv_script_home_10823 Entering the Shop
+
+(Background change)
+Arale: Come ooon, let's go in!
+
+
+3 10824:adv_script_home_10824 Entering the Shop
+
+(Background change)
+Arale: We've come this far together, haven't weee?!
+
+
+4 10825:adv_script_home_10825 Entering the Shop
+
+(Background change)
+Yuno: Okay, okay, I'll go. Now let go of me.
+
+
+5 10826:adv_script_home_10826 Entering the Shop
+
+(Background change)
+Yuno: *Sigh*... Guess I'll go...
+
+
+6 10827:adv_script_home_10827 Entering the Shop
+
+(Background change)
+Miyako: Please stop pushing me...!
+
+
+7 10828:adv_script_home_10828 Entering the Shop
+
+(Background change)
+Miyako: I'm perfectly fine sitting out the after-party...!
+
+
+8 10829:adv_script_home_10829 Entering the Shop
+
+(Background change)
+Nonoka: No, no! Everyone has to come~!
+
+
+9 10830:adv_script_home_10830 Entering the Shop
+
+(Background change)
+Nonoka: You're invited to a fun-filled YMMT dinner~!
+
+
+10 10831:adv_script_home_10831 Entering the Shop
+
+(Background change)
+Ritsu: Then again, there's the Hamburg steak and beef steak combo...
+
+
+11 10832:adv_script_home_10832 Entering the Shop
+
+(Background change)
+Ritsu: For pasta, maybe peperoncino... No, something creamy...

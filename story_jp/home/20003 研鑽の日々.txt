@@ -1,0 +1,70 @@
+1 10720:adv_script_home_10720 メンバートーク
+
+(Background change)
+祥子: ……ということで、間を意識していただけたら
+初華: うん、やってみる
+にゃむ: てかムーコ、さっきと違くない？
+睦: こっちの方が合わせやすいと思って
+にゃむ: ……っ。はいはい、わかりました
+海鈴: 豊川さん、もう一度アタマから通しますか？
+祥子: ええ、そうしましょう
+
+
+2 10710:adv_script_home_10710 研鑽の日々
+
+(Background change)
+初華: 僕は悲しみの騎士ドロリス
+
+
+3 10711:adv_script_home_10711 研鑽の日々
+
+(Background change)
+初華: 女神オブリビオニスに仕えるためにきた
+
+
+4 10712:adv_script_home_10712 研鑽の日々
+
+(Background change)
+海鈴: 我々も同じだ、ドロリス
+
+
+5 10713:adv_script_home_10713 研鑽の日々
+
+(Background change)
+海鈴: 私は恐れの騎士、ティモリス
+
+
+6 10714:adv_script_home_10714 研鑽の日々
+
+(Background change)
+にゃむ: 愛の騎士アモーリス
+
+
+7 10715:adv_script_home_10715 研鑽の日々
+
+(Background change)
+にゃむ: そんであっちは……
+
+
+8 10716:adv_script_home_10716 研鑽の日々
+
+(Background change)
+睦: 聞いてる
+
+
+9 10717:adv_script_home_10717 研鑽の日々
+
+(Background change)
+睦: 世界が壊れる音
+
+
+10 10718:adv_script_home_10718 研鑽の日々
+
+(Background change)
+祥子: そこまで
+
+
+11 10719:adv_script_home_10719 研鑽の日々
+
+(Background change)
+祥子: シーン冒頭から振り返りましょう

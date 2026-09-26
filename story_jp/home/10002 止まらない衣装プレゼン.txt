@@ -1,0 +1,69 @@
+1 10632:adv_script_home_10632 メンバートーク
+
+(Background change)
+愛音: 楽奈ちゃんはこれとかどう？　かわいいよね！
+楽奈: なんでもいい。 ギター弾く
+愛音: 『なんでもいい』って〜……！
+そよ: ほら行くよ。もう時間でしょ
+立希: 燈、行こう
+燈: うん……！
+
+
+2 10622:adv_script_home_10622 止まらない衣装プレゼン
+
+(Background change)
+愛音: じゃあ路線を変えて……こっちは？
+
+
+3 10623:adv_script_home_10623 止まらない衣装プレゼン
+
+(Background change)
+愛音: トレンドも押さえた自信作！
+
+
+4 10624:adv_script_home_10624 止まらない衣装プレゼン
+
+(Background change)
+立希: 動きにくいでしょ、こんなの
+
+
+5 10625:adv_script_home_10625 止まらない衣装プレゼン
+
+(Background change)
+立希: 衣装は今のでいいってば
+
+
+6 10626:adv_script_home_10626 止まらない衣装プレゼン
+
+(Background change)
+燈: デザイン……こんなにたくさん
+
+
+7 10627:adv_script_home_10627 止まらない衣装プレゼン
+
+(Background change)
+燈: あのちゃん、すごい
+
+
+8 10628:adv_script_home_10628 止まらない衣装プレゼン
+
+(Background change)
+そよ: この話、いつまで続くの？
+
+
+9 10629:adv_script_home_10629 止まらない衣装プレゼン
+
+(Background change)
+そよ: 愛音ちゃん、ほんと諦めないよね
+
+
+10 10630:adv_script_home_10630 止まらない衣装プレゼン
+
+(Background change)
+楽奈: ……ん
+
+
+11 10631:adv_script_home_10631 止まらない衣装プレゼン
+
+(Background change)
+楽奈: うまい

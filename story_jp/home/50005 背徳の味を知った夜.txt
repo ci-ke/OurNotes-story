@@ -1,0 +1,43 @@
+1 10923:adv_script_home_10923 メンバートーク
+
+(Background change)
+寧月: もう３分経っただろうか？
+蕾叶: あれ、いつお湯入れたっけ？
+蓬咲: もっ、もうとっくに経ってます！ 伸びちゃいますよ〜〜！
+蕾叶: ええっ、蓬咲！？　居たなら言ってよ〜！
+
+
+2 10917:adv_script_home_10917 背徳の味を知った夜
+
+(Background change)
+寧月: ……よい香りだ
+
+
+3 10918:adv_script_home_10918 背徳の味を知った夜
+
+(Background change)
+寧月: お湯だけで料理が出来上がるとは……
+
+
+4 10919:adv_script_home_10919 背徳の味を知った夜
+
+(Background change)
+蕾叶: ３分待ったら完成だよ
+
+
+5 10920:adv_script_home_10920 背徳の味を知った夜
+
+(Background change)
+蕾叶: これ、おいしいんだ〜
+
+
+6 10921:adv_script_home_10921 背徳の味を知った夜
+
+(Background change)
+蓬咲: ……ごくり
+
+
+7 10922:adv_script_home_10922 背徳の味を知った夜
+
+(Background change)
+蓬咲: 背徳の味……絶対美味しいやつだ〜……！

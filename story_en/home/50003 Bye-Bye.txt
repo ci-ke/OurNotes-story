@@ -1,0 +1,17 @@
+1 10909:adv_script_home_10909 Member Talk
+
+(Background change)
+Raika: All right, then. Shall we head home?
+Raika: Thanks...
+
+
+2 10907:adv_script_home_10907 Bye-Bye
+
+(Background change)
+Raika: We had nothing but good times, huh...
+
+
+3 10908:adv_script_home_10908 Bye-Bye
+
+(Background change)
+Raika: Guess it's time to say goodbye...

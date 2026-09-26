@@ -1,0 +1,69 @@
+1 10621:adv_script_home_10621 メンバートーク
+
+(Background change)
+立希: 燈、紅茶でよかった？　コーヒーもあるけど
+燈: あ……うん
+愛音: ねえねえ、みんなで写真撮ろ〜
+そよ: また？
+楽奈: うまい
+愛音: あ〜！　楽奈ちゃんもう食べてる〜。 みんなで撮りたかったのに〜
+
+
+2 10611:adv_script_home_10611 にぎやかなティータイム
+
+(Background change)
+楽奈: 抹茶パフェ……！
+
+
+3 10612:adv_script_home_10612 にぎやかなティータイム
+
+(Background change)
+楽奈: ちょーだい
+
+
+4 10613:adv_script_home_10613 にぎやかなティータイム
+
+(Background change)
+立希: ちょっ……野良猫、やめっ……！
+
+
+5 10614:adv_script_home_10614 にぎやかなティータイム
+
+(Background change)
+立希: 今テーブルに置くから！　大人しく待ってて
+
+
+6 10615:adv_script_home_10615 にぎやかなティータイム
+
+(Background change)
+そよ: きゃっ……ちょっと２人とも……っ
+
+
+7 10616:adv_script_home_10616 にぎやかなティータイム
+
+(Background change)
+そよ: もう、暴れないでくれる？
+
+
+8 10617:adv_script_home_10617 にぎやかなティータイム
+
+(Background change)
+愛音: このチョコかわいい〜
+
+
+9 10618:adv_script_home_10618 にぎやかなティータイム
+
+(Background change)
+愛音: えへへっ、SNSに載せちゃお〜
+
+
+10 10619:adv_script_home_10619 にぎやかなティータイム
+
+(Background change)
+燈: ……あ、もう来てる
+
+
+11 10620:adv_script_home_10620 にぎやかなティータイム
+
+(Background change)
+燈: ……楽しそう

@@ -1,0 +1,43 @@
+1 10734:adv_script_home_10734 メンバートーク
+
+(Background change)
+祥子: ではその手筈で
+初華: うん。いいライブにしようね
+海鈴: 若葉さんと祐天寺さんにも変更を伝えますが 他にお伝えすることは？
+祥子: ありません。 お願いしますわ
+
+
+2 10728:adv_script_home_10728 万全を期して
+
+(Background change)
+祥子: 福岡の入り時間を早めようかと
+
+
+3 10729:adv_script_home_10729 万全を期して
+
+(Background change)
+祥子: これは現地で確認をしないといけませんから
+
+
+4 10730:adv_script_home_10730 万全を期して
+
+(Background change)
+初華: sumimiの収録次第かな……
+
+
+5 10731:adv_script_home_10731 万全を期して
+
+(Background change)
+初華: マネージャーさんに調整お願いしてみるね
+
+
+6 10732:adv_script_home_10732 万全を期して
+
+(Background change)
+海鈴: となると、搬入も時間が変わりますね
+
+
+7 10733:adv_script_home_10733 万全を期して
+
+(Background change)
+海鈴: 各所に連絡しておきます

@@ -1,0 +1,17 @@
+1 10909:adv_script_home_10909 メンバートーク
+
+(Background change)
+蕾叶: さて、と。帰りますか
+蕾叶: ……ありがとね
+
+
+2 10907:adv_script_home_10907 ばいばい
+
+(Background change)
+蕾叶: 楽しいことばっかりだったな〜
+
+
+3 10908:adv_script_home_10908 ばいばい
+
+(Background change)
+蕾叶: ……もう、さよならだ

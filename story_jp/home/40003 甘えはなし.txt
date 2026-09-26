@@ -1,0 +1,31 @@
+1 10860:adv_script_home_10860 メンバートーク
+
+(Background change)
+まほろ: う〜……覚えること多すぎない？
+なつめ: 普通よ、これくらい
+まほろ: 何か覚えるコツとかって……
+なつめ: 甘えないで。 あんたに教えるためにいるんじゃないのよ
+
+
+2 10856:adv_script_home_10856 甘えはなし
+
+(Background change)
+まほろ: で、この数字を方程式に当てはめて……あれ？
+
+
+3 10857:adv_script_home_10857 甘えはなし
+
+(Background change)
+まほろ: なんか違うなぁ……なつめちゃん、わかる？
+
+
+4 10858:adv_script_home_10858 甘えはなし
+
+(Background change)
+なつめ: ……あんた、本気？
+
+
+5 10859:adv_script_home_10859 甘えはなし
+
+(Background change)
+なつめ: 公式くらいきっちり覚えなさいよ

@@ -1,0 +1,68 @@
+1 10945:adv_script_home_10945 メンバートーク
+
+(Background change)
+蕾叶: はいっ、心玖はヨーグルトだよね？
+心玖: うん
+ちえり: ちょっと蓬咲！　寧月のスカート見てください！
+蓬咲: ああっ、めちゃくちゃ零してる！？　すみませ〜ん！
+寧月: 大丈夫だ。言われるまで気づかなかった
+
+
+2 10935:adv_script_home_10935 アイスはみんなで
+
+(Background change)
+蕾叶: アイス食べよ〜〜！
+
+
+3 10936:adv_script_home_10936 アイスはみんなで
+
+(Background change)
+蕾叶: 何味にするー？
+
+
+4 10937:adv_script_home_10937 アイスはみんなで
+
+(Background change)
+ちえり: オレンジ一択です！
+
+
+5 10938:adv_script_home_10938 アイスはみんなで
+
+(Background change)
+ちえり: ちえりといえばオレンジでしょう！
+
+
+6 10939:adv_script_home_10939 アイスはみんなで
+
+(Background change)
+蓬咲: お茶、どうぞ……！
+
+
+7 10940:adv_script_home_10940 アイスはみんなで
+
+(Background change)
+蓬咲: 慎重に、丁寧に〜……っ！
+
+
+8 10941:adv_script_home_10941 アイスはみんなで
+
+(Background change)
+寧月: ありがとう
+
+
+9 10942:adv_script_home_10942 アイスはみんなで
+
+(Background change)
+寧月: 蓬咲……手の震えが止まらないな
+
+
+10 10943:adv_script_home_10943 アイスはみんなで
+
+(Background change)
+心玖: ふぅ……
+
+
+11 10944:adv_script_home_10944 アイスはみんなで
+
+(Background change)
+心玖: ……あれ、金星かな

@@ -1,0 +1,43 @@
+1 10916:adv_script_home_10916 メンバートーク
+
+(Background change)
+ちえり: ふふん、今日は焼肉パーティですよ！
+寧月: この量を、一度で食べ切るのか？
+心玖: そんなもったいないことしないから
+ちえり: なっ……！　お肉を勝ち取ったのはちえりです！ ちえりが決めるものですよー！
+
+
+2 10910:adv_script_home_10910 最安価格のお宝
+
+(Background change)
+ちえり: どーですか、この宝の山！！
+
+
+3 10911:adv_script_home_10911 最安価格のお宝
+
+(Background change)
+ちえり: タイムセールで無双しました！
+
+
+4 10912:adv_script_home_10912 最安価格のお宝
+
+(Background change)
+寧月: ……すごい努力の跡だ
+
+
+5 10913:adv_script_home_10913 最安価格のお宝
+
+(Background change)
+寧月: きっと大変なことなのだな
+
+
+6 10914:adv_script_home_10914 最安価格のお宝
+
+(Background change)
+心玖: へえ、確かにお得じゃない
+
+
+7 10915:adv_script_home_10915 最安価格のお宝
+
+(Background change)
+心玖: 作り置きするのもありかも

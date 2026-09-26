@@ -1,0 +1,43 @@
+1 10680:adv_script_home_10680 Member Talk
+
+(Background change)
+Taki: Tomori, are you tired? You okay?
+Tomori: I'm okay...
+Anon: You really are soft on Tomorin, huh~?
+Taki: Being the vocalist is tough. Of course I'd look out for her.
+
+
+2 10674:adv_script_home_10674 Gruff Kindness
+
+(Background change)
+Tomori: Ah... Taki-chan.
+
+
+3 10675:adv_script_home_10675 Gruff Kindness
+
+(Background change)
+Tomori: Thank you...
+
+
+4 10676:adv_script_home_10676 Gruff Kindness
+
+(Background change)
+Anon: Rikki, where's mine?
+
+
+5 10677:adv_script_home_10677 Gruff Kindness
+
+(Background change)
+Anon: I want some nice, cold tea~
+
+
+6 10678:adv_script_home_10678 Gruff Kindness
+
+(Background change)
+Taki: Why don't you buy your own?
+
+
+7 10679:adv_script_home_10679 Gruff Kindness
+
+(Background change)
+Taki: I only got one for Tomori.

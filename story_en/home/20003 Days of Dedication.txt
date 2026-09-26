@@ -1,0 +1,70 @@
+1 10720:adv_script_home_10720 Member Talk
+
+(Background change)
+Sakiko: So, I'd like you to be more mindful of your pauses.
+Uika: Okay, I'll give it a try.
+Nyamu: Wait, Muuko, wasn't that different from before?
+Mutsumi: I thought we'd be more in sync this way.
+Nyamu: Ugh... Fine, fine. I get it.
+Umiri: Togawa-san, shall we run through it from the top again?
+Sakiko: Yes, let's do that.
+
+
+2 10710:adv_script_home_10710 Days of Dedication
+
+(Background change)
+Uika: I am Doloris, the Knight of Sorrow.
+
+
+3 10711:adv_script_home_10711 Days of Dedication
+
+(Background change)
+Uika: I have come to serve the goddess, Oblivionis.
+
+
+4 10712:adv_script_home_10712 Days of Dedication
+
+(Background change)
+Umiri: We are the same, Doloris.
+
+
+5 10713:adv_script_home_10713 Days of Dedication
+
+(Background change)
+Umiri: I am Timoris, the Knight of Fear.
+
+
+6 10714:adv_script_home_10714 Days of Dedication
+
+(Background change)
+Nyamu: Amoris, the Knight of Love.
+
+
+7 10715:adv_script_home_10715 Days of Dedication
+
+(Background change)
+Nyamu: And there...
+
+
+8 10716:adv_script_home_10716 Days of Dedication
+
+(Background change)
+Mutsumi: I can hear it...
+
+
+9 10717:adv_script_home_10717 Days of Dedication
+
+(Background change)
+Mutsumi: The sound of the world breaking.
+
+
+10 10718:adv_script_home_10718 Days of Dedication
+
+(Background change)
+Sakiko: That will do.
+
+
+11 10719:adv_script_home_10719 Days of Dedication
+
+(Background change)
+Sakiko: Let us go over the scene from the beginning.

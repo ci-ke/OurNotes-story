@@ -1,0 +1,44 @@
+1 10655:adv_script_home_10655 メンバートーク
+
+(Background change)
+立希: 動物を店内に入れない
+楽奈: ？　でも迷子
+立希: え？　あ、首輪……
+愛音: このまま放っておくの可哀想じゃない？ 私たちで飼い主探す？
+立希: はぁ……じゃあ交番。 ここから一番近いとこ探すから
+
+
+2 10649:adv_script_home_10649 迷子のねこ
+
+(Background change)
+愛音: あはは、めっちゃ伸びてる。かわい〜
+
+
+3 10650:adv_script_home_10650 迷子のねこ
+
+(Background change)
+愛音: あれ、首輪してる？
+
+
+4 10651:adv_script_home_10651 迷子のねこ
+
+(Background change)
+楽奈: たぶん迷子
+
+
+5 10652:adv_script_home_10652 迷子のねこ
+
+(Background change)
+楽奈: 一緒に遊んでた
+
+
+6 10653:adv_script_home_10653 迷子のねこ
+
+(Background change)
+立希: ちょっと、中には入れちゃダメ！
+
+
+7 10654:adv_script_home_10654 迷子のねこ
+
+(Background change)
+立希: 他のお客さんに迷惑でしょ

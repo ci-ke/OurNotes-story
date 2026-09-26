@@ -1,0 +1,32 @@
+1 10883:adv_script_home_10883 Member Talk
+
+(Background change)
+Hotaru: This is delicious, Houka-san...
+Houka: Hehe, isn't it?
+Hotaru: It's a French dessert, right?
+Houka: Apparently, no one knows for certain whether it originated in France or Italy.
+Hotaru: Oh...! I didn't know that.
+
+
+2 10879:adv_script_home_10879 Savor the Real Thing
+
+(Background change)
+Houka: Apparently, it's made to recreate the authentic flavor.
+
+
+3 10880:adv_script_home_10880 Savor the Real Thing
+
+(Background change)
+Houka: Would you care for a taste of the real thing?
+
+
+4 10881:adv_script_home_10881 Savor the Real Thing
+
+(Background change)
+Hotaru: I see...!
+
+
+5 10882:adv_script_home_10882 Savor the Real Thing
+
+(Background change)
+Hotaru: Well then... I'll have a taste.

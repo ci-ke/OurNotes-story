@@ -1,0 +1,69 @@
+1 10806:adv_script_home_10806 Member Talk
+
+(Background change)
+Nonoka: What are you having for lunch, Yuno-chan~?
+Yuno: The usual.
+Ritsu: You're having the usual too, right, Miyako-san?
+Miyako: Until I've gotten through all of it, yes.
+Arale: Ngh, I know exactly how you feel! I still haven't gotten through all of mine either...
+Miyako: Let's both keep at it...!
+
+
+2 10796:adv_script_home_10796 A Joyful Lunch
+
+(Background change)
+Arale: Yuno-san-chan, can you see me?
+
+
+3 10797:adv_script_home_10797 A Joyful Lunch
+
+(Background change)
+Arale: I can see you crystal clear!
+
+
+4 10798:adv_script_home_10798 A Joyful Lunch
+
+(Background change)
+Nonoka: It's bestie side dish swap time~!
+
+
+5 10799:adv_script_home_10799 A Joyful Lunch
+
+(Background change)
+Nonoka: Ricchan's meat bun is packed with filling!
+
+
+6 10800:adv_script_home_10800 A Joyful Lunch
+
+(Background change)
+Ritsu: Nono-chan's rice balls have all kinds of fillings, too. And they're delicious.
+
+
+7 10801:adv_script_home_10801 A Joyful Lunch
+
+(Background change)
+Ritsu: You should swap with us next time too, Yuno-san.
+
+
+8 10802:adv_script_home_10802 A Joyful Lunch
+
+(Background change)
+Yuno: Isn't that way beyond just swapping side dishes?
+
+
+9 10803:adv_script_home_10803 A Joyful Lunch
+
+(Background change)
+Yuno: Wait, you can actually finish all that...?
+
+
+10 10804:adv_script_home_10804 A Joyful Lunch
+
+(Background change)
+Miyako: I feel stuffed just looking at it...
+
+
+11 10805:adv_script_home_10805 A Joyful Lunch
+
+(Background change)
+Miyako: That portion is absurd...

@@ -1,0 +1,43 @@
+1 10770:adv_script_home_10770 メンバートーク
+
+(Background change)
+ののか: ユノちゃ〜〜ん。こっちおいで〜
+ユノ: いい。もうすぐみんな揃う時間だし
+あられ: ！　そうですよね。 あれっ、どうやって降りればばばば……
+ののか: 落ち着いて、深呼吸〜
+
+
+2 10764:adv_script_home_10764 ふよふよ、すい〜
+
+(Background change)
+ののか: ん〜のびのび〜〜……
+
+
+3 10765:adv_script_home_10765 ふよふよ、すい〜
+
+(Background change)
+ののか: ぴゅーーーーん！
+
+
+4 10766:adv_script_home_10766 ふよふよ、すい〜
+
+(Background change)
+あられ: あううっ、バランスが……っ
+
+
+5 10767:adv_script_home_10767 ふよふよ、すい〜
+
+(Background change)
+あられ: これ、難しくないですか〜〜！？
+
+
+6 10768:adv_script_home_10768 ふよふよ、すい〜
+
+(Background change)
+ユノ: ……
+
+
+7 10769:adv_script_home_10769 ふよふよ、すい〜
+
+(Background change)
+ユノ: 元気すぎるでしょ

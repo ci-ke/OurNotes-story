@@ -1,0 +1,69 @@
+1 10781:adv_script_home_10781 Member Talk
+
+(Background change)
+Nonoka: Mmm, sounding good! And now, please enjoy a song performed by Nono-chan on guitar!
+Miyako: Nonoka-san, rehearsal hasn't started yet.
+Nonoka: Non-non! This is the Nono-chan Live Show!
+Arale: Wooo~~! Nono-chan-saaaan~!
+Ritsu: Should we use the disco ball?
+Yuno: Can we... save that for later?
+
+
+2 10771:adv_script_home_10771 Getting Ready for the Live
+
+(Background change)
+Miyako: Excuse me, could you adjust the lighting?
+
+
+3 10772:adv_script_home_10772 Getting Ready for the Live
+
+(Background change)
+Miyako: Minetsuki-san, could you move a little to the right, please?
+
+
+4 10773:adv_script_home_10773 Getting Ready for the Live
+
+(Background change)
+Ritsu: Okay. A little more this way...
+
+
+5 10774:adv_script_home_10774 Getting Ready for the Live
+
+(Background change)
+Ritsu: Like this?
+
+
+6 10775:adv_script_home_10775 Getting Ready for the Live
+
+(Background change)
+Arale: Then this light over here...
+
+
+7 10776:adv_script_home_10776 Getting Ready for the Live
+
+(Background change)
+Arale: How about right around here?
+
+
+8 10777:adv_script_home_10777 Getting Ready for the Live
+
+(Background change)
+Yuno: Miyanaga-san, let's adjust the speaker placement.
+
+
+9 10778:adv_script_home_10778 Getting Ready for the Live
+
+(Background change)
+Yuno: Move that one a little farther forward.
+
+
+10 10779:adv_script_home_10779 Getting Ready for the Live
+
+(Background change)
+Nonoka: Roger that!
+
+
+11 10780:adv_script_home_10780 Getting Ready for the Live
+
+(Background change)
+Nonoka: Yuno-chan, you're up for sound check!

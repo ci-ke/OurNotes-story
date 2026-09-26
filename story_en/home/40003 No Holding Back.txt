@@ -1,0 +1,31 @@
+1 10860:adv_script_home_10860 Member Talk
+
+(Background change)
+Mahoro: Ugh... Isn't there way too much to remember?
+Natsume: This much is perfectly normal.
+Mahoro: Do you have any tips for remembering all this...?
+Natsume: Don't expect me to hold your hand. I'm not here to teach you.
+
+
+2 10856:adv_script_home_10856 No Holding Back
+
+(Background change)
+Mahoro: Then I plug this number into the equation... Huh?
+
+
+3 10857:adv_script_home_10857 No Holding Back
+
+(Background change)
+Mahoro: Something doesn't seem right... Natsume-chan, can you tell what I'm doing wrong?
+
+
+4 10858:adv_script_home_10858 No Holding Back
+
+(Background change)
+Natsume: You're... serious?
+
+
+5 10859:adv_script_home_10859 No Holding Back
+
+(Background change)
+Natsume: At least make sure you know the formulas by heart.

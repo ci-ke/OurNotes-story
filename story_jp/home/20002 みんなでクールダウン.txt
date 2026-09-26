@@ -1,0 +1,44 @@
+1 10709:adv_script_home_10709 メンバートーク
+
+(Background change)
+にゃむ: は〜、生き返る〜……
+初華: 私もお茶もらってもいい？
+睦: うん
+にゃむ: てかサキコとウミコは？
+初華: もうすぐ来るって、さっき連絡もらったよ
+
+
+2 10703:adv_script_home_10703 みんなでクールダウン
+
+(Background change)
+にゃむ: あ〜〜……あっつい
+
+
+3 10704:adv_script_home_10704 みんなでクールダウン
+
+(Background change)
+にゃむ: 汗止まんないんだけど
+
+
+4 10705:adv_script_home_10705 みんなでクールダウン
+
+(Background change)
+初華: ハンディファンあるよ
+
+
+5 10706:adv_script_home_10706 みんなでクールダウン
+
+(Background change)
+初華: 今日暑いよね
+
+
+6 10707:adv_script_home_10707 みんなでクールダウン
+
+(Background change)
+睦: ……お茶
+
+
+7 10708:adv_script_home_10708 みんなでクールダウン
+
+(Background change)
+睦: みんなにどうぞって

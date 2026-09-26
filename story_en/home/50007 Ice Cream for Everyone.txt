@@ -1,0 +1,68 @@
+1 10945:adv_script_home_10945 Member Talk
+
+(Background change)
+Raika: Okay! Yogurt for you, right, Miku?
+Miku: Mm-hm.
+Chieri: Hey, Yomogi! Look at Shizuku's skirt!
+Yomogi: Aah! I got it all over your skirt!? I'm so sorryyy!
+Shizuku: It is all right. I did not even notice until you pointed it out.
+
+
+2 10935:adv_script_home_10935 Ice Cream for Everyone
+
+(Background change)
+Raika: Let's have some ice cream~~!
+
+
+3 10936:adv_script_home_10936 Ice Cream for Everyone
+
+(Background change)
+Raika: What flavor do you want?
+
+
+4 10937:adv_script_home_10937 Ice Cream for Everyone
+
+(Background change)
+Chieri: It's gotta be orange!
+
+
+5 10938:adv_script_home_10938 Ice Cream for Everyone
+
+(Background change)
+Chieri: When you think of Chieri, you think orange!
+
+
+6 10939:adv_script_home_10939 Ice Cream for Everyone
+
+(Background change)
+Yomogi: Here, have some tea...!
+
+
+7 10940:adv_script_home_10940 Ice Cream for Everyone
+
+(Background change)
+Yomogi: Careful... Nice and steady...!
+
+
+8 10941:adv_script_home_10941 Ice Cream for Everyone
+
+(Background change)
+Shizuku: Thank you.
+
+
+9 10942:adv_script_home_10942 Ice Cream for Everyone
+
+(Background change)
+Shizuku: Yomogi... Your hands are still trembling.
+
+
+10 10943:adv_script_home_10943 Ice Cream for Everyone
+
+(Background change)
+Miku: Phew...
+
+
+11 10944:adv_script_home_10944 Ice Cream for Everyone
+
+(Background change)
+Miku: Is that... Venus?

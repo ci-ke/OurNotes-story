@@ -1,0 +1,70 @@
+1 10822:adv_script_home_10822 メンバートーク
+
+(Background change)
+律: そういえば今朝、新曲のラフが届いてましたね
+ののか: 朝までコースだったのかな〜
+都子: ……あの、千石さんのスマホが
+あられ: あわわっ、落ちちゃう……！ ぼくが受け止めますっ
+ユノ: ……ん……すぅ……
+あられ: せ……セーフ……！
+ののか: ユノちゃんの安眠は保たれました〜
+
+
+2 10812:adv_script_home_10812 おつかれ、おやすみ
+
+(Background change)
+あられ: 都子さんには……これ
+
+
+3 10813:adv_script_home_10813 おつかれ、おやすみ
+
+(Background change)
+あられ: そろそろ一息入れる頃かな〜って……！
+
+
+4 10814:adv_script_home_10814 おつかれ、おやすみ
+
+(Background change)
+都子: ありがとうございます
+
+
+5 10815:adv_script_home_10815 おつかれ、おやすみ
+
+(Background change)
+都子: 頭、すっきりさせないと
+
+
+6 10816:adv_script_home_10816 おつかれ、おやすみ
+
+(Background change)
+律: ユノさん、もしかして……
+
+
+7 10817:adv_script_home_10817 おつかれ、おやすみ
+
+(Background change)
+律: 疲れちゃったんですかね
+
+
+8 10818:adv_script_home_10818 おつかれ、おやすみ
+
+(Background change)
+ののか: ユノちゃん、すやすやタイム〜
+
+
+9 10819:adv_script_home_10819 おつかれ、おやすみ
+
+(Background change)
+ののか: だから、しー
+
+
+10 10820:adv_script_home_10820 おつかれ、おやすみ
+
+(Background change)
+ユノ: ……すぅ……
+
+
+11 10821:adv_script_home_10821 おつかれ、おやすみ
+
+(Background change)
+ユノ: んん……てーしゅつ……すぅ……

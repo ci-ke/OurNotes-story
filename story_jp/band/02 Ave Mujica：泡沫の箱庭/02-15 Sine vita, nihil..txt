@@ -1,0 +1,213 @@
+10034:adv_script_mujica_002_1_15 Sine vita, nihil.
+
+幸せである必要あるんですか？
+
+(Background change)
+にゃむ: こんばんにゃむにゃむ〜♪
+にゃむ: 最近更新できなくてごめんね〜。今日はね！ 今日は〜……
+にゃむ: ……はぁ〜……
+(Background change)
+アカウントA: にゃむち、最近見ないね
+アカウントB: にゃむち更新ないし違う人見てる〜
+アカウントC: にゃむち好きだったけど、もういい　かな
+にゃむ: ……『昨日好きでも、今日飽きた』
+(Background change)
+(message) うみこ: 三角さんの参加も決まりました
+(message) うみこ: つきましては週末RiNGに来てください
+(message) うみこ: 豊川さんのこと話し合います
+(Background change)
+にゃむ: うぅ……
+(Background change)
+にゃむ: 宅配なんか頼んだっけ？　はぁ〜い……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
+にゃむ: う゛ぇ゛……ウミコじゃん。 家に来るとかマジめんど。無視無視……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
+にゃむ: <size=175%>あ〜〜〜もう！！！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
+(Background change)
+海鈴: ここだけ綺麗ですね
+にゃむ: ああ？　で、なに？
+海鈴: 先日のメッセージ、お返事いただけないようでしたので、 直接伺いました
+にゃむ: アタシにもいろいろあんの〜
+海鈴: 約束どおり若葉さんを連れてきましたよ。 Ave Mujicaやるって約束ですよね
+にゃむ: どうやって連れてきたの？
+海鈴: そんなこといいじゃないですか。 私のこと信用して来てください
+にゃむ: なにしたの？
+海鈴: ……
+にゃむ: ……はぁ〜。ウミコのことやっぱり信用できない
+海鈴: ！
+にゃむ: アタシには仕事があんの。 それなりに勝算がないとやれるわけないし
+にゃむ: <size=150%>アタシ、アンタみたいなドMじゃないからっ！
+海鈴: あ、そんなに押さないでください
+にゃむ: <size=175%>い〜から帰って！
+にゃむ: ……
+(Background change)
+モーティス: ——♪
+海鈴: ……
+海鈴: （まだ信用されませんか……）
+海鈴: （ムジカ復活のために、こんなにも尽力しているというのに……）
+モーティス: どうっ？　もう完璧でしょ？
+海鈴: いいですね。３曲すべていい出来です
+モーティス: えへへっ
+海鈴: ですが、微妙に音と合っていません。 もっと迫真の演技をお願いします
+モーティス: む〜……！
+海鈴: では今日はこれで解散ですね。 お伝えしましたが、このあとディスラプションの練習があるので
+モーティス: 私、本気でやってんのに
+海鈴: えっ……！
+海鈴: ……
+(Background change)
+乗客A: ねえ、あれさ。やっぱそうだよね睦ちゃんだ〜！
+乗客B: ギター持ってる。かわいい〜
+モーティス: ちがうもん……私は……
+モーティス: ……すぅ……すぅ
+電車アナウンス: まもなく経堂、経堂です——
+睦: ……降りなきゃ
+(Background change)
+睦: （たしか……燈の家は……）
+睦: ……あ
+燈: ……睦ちゃん
+(Background change)
+燈: ……星。いっしょに、見る？
+睦: うん……
+(Background change)
+場内アナウンス: 火球と呼ばれる明るい流星が流れてきました。 牡牛座南流星群です——
+初華: ……
+場内アナウンス: 放射点が南と北、ふたつに分かれています——
+(Background change)
+初華: ……あ
+燈: ……！
+初華: 睦ちゃん……？　どうしてふたりが……
+睦: 燈、いこう
+初華: 待って！　ふたりはCRYCHICやるの？
+睦: えっ……
+(Background change)
+モーティス: いま、なんて……？
+初華: さきちゃんが、CRYCHIC復活させたいって聞いて
+(Background change)
+燈: 私は……
+睦: 燈、本当に祥が言ったの？
+燈: ……うん
+燈: 私は、まだ……わからなくて…… CRYCHICのこと
+燈: だから……これ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp)
+初華: これって……
+燈: 歌はつたわる、って
+初華: ……っ
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp)
+初華: （この歌詞……この歌詞だから、さきちゃんは……）
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp)
+睦: 祥もおなじだった。燈の歌詞に出会って 祥はCRYCHICを作ったから
+睦: CRYCHICが祥の大事なバンドになって ずっと忘れられなくて
+(Background change)
+睦: でも忘れたかったからムジカができた……
+(Background change)
+初華: <size=175%>……！！
+(Background change)
+祥子: ぜんぶ忘れさせて……
+(Background change)
+初華: じゃあ…………あれは………
+初華: ——この歌は違うね。CRYCHICじゃない。 いまの燈ちゃんの、MyGO!!!!!の歌だよ
+睦: 初華、黙ってて。 燈、CRYCHICやろう。祥もその方が幸せだから
+睦: <size=150%>だからっ！　もう一度——
+初華: <size=175%>っ！！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+初華: <size=175%>私からさきちゃん取らないで！
+初華: <size=175%>！！
+燈: ？
+初華: ……ごめん……先に帰るね……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp)
+睦: お願い、燈。もう一度CRYCHICを……！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp)
+mutsumi: 私の……
+mortis: ！　返してっ……！
+mutsumi: 言ったでしょ、祥はCRYCHICをやってくれるって！
+mortis: やだやだ、Ave Mujicaやるんだもん！
+mortis: ギターの練習だってこんなに――！
+mutsumi: っ！　私の役取らないで！
+mortis: あ……
+mortis: え……
+mutsumi_many: おお〜〜〜っ！
+燈: ……睦ちゃん………？
+モーティス: はっ！　……はぁ……はぁ……！
+燈: ……あ
+(Background change)
+(Background change)
+モーティス: 睦ちゃんがしんじゃった！　しんじゃった！ しんじゃった！
+モーティス: もしもし。もしもしっ！　お医者さんですか？
+モーティス: ……もうっ！
+
+[翌日]
+
+(Background change)
+
+[RiNG カフェテリア]
+
+祥子: 今日はお集まりいただき、ありがとうございます
+愛音: ……
+立希: いいけど。なんでCRYCHIC復活なの？
+祥子: 睦のためですわ
+立希: 祥子はどうなの？　 本気でCRYCHICやりたいと思ってんの？
+祥子: …………ええ
+立希: ……
+そよ: もうあの頃にはきっと戻れない
+そよ: 本当にそれが睦ちゃんのしあわせなのかな？ モーティスちゃんはなんて言ってるの？
+祥子: モーティスは……
+海鈴: やっぱり元サヤするんですね
+祥子: モーティス…… あなたの願いは睦を苦しめることですわ
+モーティス: ……っ
+海鈴: どういうことですか
+祥子: モーティスは苦しむ睦を助けるために生まれた。 だから睦が苦しみ続けることになるAve Mujicaの 復活を望んでいるのです
+祥子: ——自分が消えないために
+モーティス: ……
+祥子: わたくしは睦を苦しめる選択など絶対にしない。 幸せにしなくては
+海鈴: 幸せである必要あるんですか？
+初華: ！
+海鈴: 満たされたら終わりじゃないですか。 Ave Mujicaをすればモーティスさんは生きられる
+海鈴: ふたりとも生き続けられる。 生きていないとしあわせにだってなれないんですよ
+祥子: それでもわたくしに、Ave Mujicaは選べませんわ
+モーティス: ……
+(Background change)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
+モーティス: 私は睦ちゃんを助ける役で、でも睦ちゃんはいなくて…… そしたら私は……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
+睦たち: くすくす……くすくす……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
+モーティス: うっ……
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp)
+(Background change)
+モーティス: やだやだ、消えたくないっ！　ぜったいに消えないもん！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
+『睦』: <size=175%>私の役、取らないで！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
+モーティス: ……！　 睦ちゃんがいないなら、私がその役をやればいい
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
+モーティス: 『私』が……！　『若葉睦』を！
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
+(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
+(Background change)
+モーティス: ……
+海鈴: 豊川さんはモーティスさんを見殺しにするんですか？
+祥子: 覚悟の上ですわ
+海鈴: 覚悟なら私だって！ ……掛け持ちしていたバンド、すべて辞めてきました
+立希: っ！
+海鈴: これでも信用できませんか？　私だって本気なんです。 ……Ave Mujicaをやりたいんです！
+海鈴: 信じ合いたいんです！　うぅ……
+モーティス: 祥……モーティス消えたくないって
+祥子: え……
+モーティス: 私も、祥が私を選んで苦しむ姿を見たくない。 祥が思ってくれてるように私も祥を思ってるから
+初華: ……っ
+モーティス: CRYCHICじゃなくてもいい。 祥とバンドができれば、それで……
+楽奈: ふっ……おもしれー女の子
+祥子: 睦……
+にゃむ: なにそれ……
+にゃむ: きんも

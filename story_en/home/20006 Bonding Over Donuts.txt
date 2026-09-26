@@ -1,0 +1,69 @@
+1 10745:adv_script_home_10745 Member Talk
+
+(Background change)
+Uika: How about you, Mutsumi-chan? The strawberry one's really good.
+Mutsumi: Then... I'll have the strawberry one.
+Nyamu: What flavor is this yellow one?
+Umiri: I believe that's cinnamon.
+Nyamu: Then I'll go with that one~!
+Sakiko: We will begin the meeting once everyone has finished eating.
+
+
+2 10735:adv_script_home_10735 Bonding Over Donuts
+
+(Background change)
+Uika: I got these at my last shoot. Everyone, help yourselves.
+
+
+3 10736:adv_script_home_10736 Bonding Over Donuts
+
+(Background change)
+Uika: Saki-chan, which one do you want?
+
+
+4 10737:adv_script_home_10737 Bonding Over Donuts
+
+(Background change)
+Sakiko: Yes, I will have one later.
+
+
+5 10738:adv_script_home_10738 Bonding Over Donuts
+
+(Background change)
+Sakiko: I would like to finish my work first.
+
+
+6 10739:adv_script_home_10739 Bonding Over Donuts
+
+(Background change)
+Umiri: These are from that famous donut shop, aren't they?
+
+
+7 10740:adv_script_home_10740 Bonding Over Donuts
+
+(Background change)
+Umiri: Then I'll have this one.
+
+
+8 10741:adv_script_home_10741 Bonding Over Donuts
+
+(Background change)
+Nyamu: Aww, I wanted that one too!
+
+
+9 10742:adv_script_home_10742 Bonding Over Donuts
+
+(Background change)
+Nyamu: No fair, Umiko~!
+
+
+10 10743:adv_script_home_10743 Bonding Over Donuts
+
+(Background change)
+Mutsumi: Thanks, Uika...
+
+
+11 10744:adv_script_home_10744 Bonding Over Donuts
+
+(Background change)
+Mutsumi: They all look delicious.

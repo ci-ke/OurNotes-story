@@ -1,0 +1,44 @@
+1 10709:adv_script_home_10709 Member Talk
+
+(Background change)
+Nyamu: Aaah... I feel alive again...
+Uika: Could I have some tea, too?
+Mutsumi: Mm-hm.
+Nyamu: Wait, where are Sakiko and Umiko?
+Uika: I just heard from them. They'll be here soon.
+
+
+2 10703:adv_script_home_10703 Cooling Down Together
+
+(Background change)
+Nyamu: Aaaah... It's sooo hot.
+
+
+3 10704:adv_script_home_10704 Cooling Down Together
+
+(Background change)
+Nyamu: I can't stop sweating.
+
+
+4 10705:adv_script_home_10705 Cooling Down Together
+
+(Background change)
+Uika: I've got a handheld fan.
+
+
+5 10706:adv_script_home_10706 Cooling Down Together
+
+(Background change)
+Uika: It's hot today, isn't it?
+
+
+6 10707:adv_script_home_10707 Cooling Down Together
+
+(Background change)
+Mutsumi: Have some tea...
+
+
+7 10708:adv_script_home_10708 Cooling Down Together
+
+(Background change)
+Mutsumi: They said it's for everyone.

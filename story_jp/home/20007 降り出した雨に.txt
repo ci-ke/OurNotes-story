@@ -1,0 +1,43 @@
+1 10752:adv_script_home_10752 メンバートーク
+
+(Background change)
+祥子: メンバーを濡れ鼠にして帰すわけにはいきませんわ
+海鈴: ではお言葉に甘えて
+祥子: 睦、帰りましょう
+睦: うん
+
+
+2 10746:adv_script_home_10746 降り出した雨に
+
+(Background change)
+睦: ……雨
+
+
+3 10747:adv_script_home_10747 降り出した雨に
+
+(Background change)
+睦: 強くなってきたよ
+
+
+4 10748:adv_script_home_10748 降り出した雨に
+
+(Background change)
+祥子: 海鈴、これを
+
+
+5 10749:adv_script_home_10749 降り出した雨に
+
+(Background change)
+祥子: わたくしは予備がありますから
+
+
+6 10750:adv_script_home_10750 降り出した雨に
+
+(Background change)
+海鈴: ありがとうございます
+
+
+7 10751:adv_script_home_10751 降り出した雨に
+
+(Background change)
+海鈴: ……よく見てますね

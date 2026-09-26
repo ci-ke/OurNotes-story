@@ -1,0 +1,43 @@
+1 10734:adv_script_home_10734 Member Talk
+
+(Background change)
+Sakiko: Very well. Let us proceed accordingly.
+Uika: Yeah. Let's make it a great live.
+Umiri: I'll let Wakaba-san and Yūtenji-san know about the change as well. Is there anything else you would like me to pass along?
+Sakiko: No, that will be all. Thank you.
+
+
+2 10728:adv_script_home_10728 Leaving Nothing to Chance
+
+(Background change)
+Sakiko: I was thinking we could move up our call time in Fukuoka.
+
+
+3 10729:adv_script_home_10729 Leaving Nothing to Chance
+
+(Background change)
+Sakiko: This is something we will need to check on-site.
+
+
+4 10730:adv_script_home_10730 Leaving Nothing to Chance
+
+(Background change)
+Uika: I guess it depends on sumimi's recording schedule...
+
+
+5 10731:adv_script_home_10731 Leaving Nothing to Chance
+
+(Background change)
+Uika: I'll see if our manager can work something out.
+
+
+6 10732:adv_script_home_10732 Leaving Nothing to Chance
+
+(Background change)
+Umiri: In that case, we'll need to change the load-in time as well.
+
+
+7 10733:adv_script_home_10733 Leaving Nothing to Chance
+
+(Background change)
+Umiri: I'll contact the relevant parties.

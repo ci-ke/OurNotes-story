@@ -1,0 +1,70 @@
+1 10822:adv_script_home_10822 Member Talk
+
+(Background change)
+Ritsu: By the way, the rough demo for the new song came in this morning.
+Nonoka: Think she was up all night working on it~?
+Miyako: Um... Sengoku-san's phone is...
+Arale: Whoa, it's gonna fall...! I'll catch it!
+Yuno: Mmm... Zzz...
+Arale: Th-That was close...!
+Nonoka: Yuno-chan's peaceful slumber remains undisturbed~!
+
+
+2 10812:adv_script_home_10812 Good Work Today. Good Night.
+
+(Background change)
+Arale: And for you, Miyako-san... this one!
+
+
+3 10813:adv_script_home_10813 Good Work Today. Good Night.
+
+(Background change)
+Arale: I was thinking it might be about time for a break...!
+
+
+4 10814:adv_script_home_10814 Good Work Today. Good Night.
+
+(Background change)
+Miyako: Thank you.
+
+
+5 10815:adv_script_home_10815 Good Work Today. Good Night.
+
+(Background change)
+Miyako: I need to clear my head.
+
+
+6 10816:adv_script_home_10816 Good Work Today. Good Night.
+
+(Background change)
+Ritsu: Could Yuno-san have...?
+
+
+7 10817:adv_script_home_10817 Good Work Today. Good Night.
+
+(Background change)
+Ritsu: She must've worn herself out.
+
+
+8 10818:adv_script_home_10818 Good Work Today. Good Night.
+
+(Background change)
+Nonoka: It's snooze time for Yuno-chan~!
+
+
+9 10819:adv_script_home_10819 Good Work Today. Good Night.
+
+(Background change)
+Nonoka: So, shhh...
+
+
+10 10820:adv_script_home_10820 Good Work Today. Good Night.
+
+(Background change)
+Yuno: Zzz...
+
+
+11 10821:adv_script_home_10821 Good Work Today. Good Night.
+
+(Background change)
+Yuno: Mmm... gotta submit it... Zzz...
