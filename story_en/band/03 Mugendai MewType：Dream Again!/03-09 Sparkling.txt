@@ -4,12 +4,12 @@ If this encounter is fate... I hope it lasts.
 
 (Background change)
 Manager: First things first! I have an important update about Nakamachi-san.
-Arale: I knew it... I'm fired!
+Arale: I knew it... <size=150%>I'm fired!
 Manager: No, you're not.
 Arale: I swear I'll never cause any of you trouble again! Any of you... any of you... any of yooou...!
 Manager: Not a great ending, not a terrible one. Just a decent way to put this mess to bed.
 Manager: Ritsu Minetsuki will be joining MewType.
-Arale: !!?!?!???
+Arale: <size=200%>!!?!?!???
 Yuno: Huh...
 Nonoka: Ooooh~
 Miyako: ...
@@ -30,23 +30,23 @@ Nonoka: Leave it to meee!
 Arale: (This is only going to fan the flames...)
 (Background change)
 Miyako: (I-It's finally here...)
-Miyako: (My! First! Tankōbon! Release! Day!!!)
+Miyako: <size=200%>(My! First! Tankōbon! Release! Day!!!)
 Miyako: (My editor said it's off to a good start, but...)
 Customer A: This one! It just came out today! I've been following it since the very first chapter!
-Miyako: !!!!!!
+Miyako: <size=300%>!!!!!!
 Customer B: Huh, the art's cute.
 Customer A: The art's great, but the story is soooo good...! You seriously have to read it!
-Miyako: (Ah~ Dear readers, thank youuu! Knowing you're enjoying it has Miyako too moved for words!!)
+Miyako: <size=150%>(Ah~ Dear readers, thank youuu! Knowing you're enjoying it has Miyako too moved for words!!)
 Customer A: Actually, I'll lend it to you. Can I bring it to school tomorrow?
-Miyako: ♡♡♡
+Miyako: <size=200%>♡♡♡
 Viola: Sensei?
-Miyako: !!!????
+Miyako: <size=150%>!!!????
 Miyako: Oh! Y-You're the one from before...!
 Viola: Hehe. What a coincidence, seeing you again.
 Viola: If this encounter is fate... I hope it lasts.
 Miyako: That line...!
 Viola: Like fireworks...
-Miyako & Viola: I won't let this end in one fleeting moment— —I won't let this end in one fleeting moment.
+Miyako & Viola: <align="left">I won't let this end in one fleeting moment—</align> <align="right">—I won't let this end in one fleeting moment.</align>
 Viola: I love that line.
 Miyako: You really do know my work... Even though that was only a one-shot...
 Viola: It was from before the series started, so I thought I'd never get to read it again... But then I found it in the tankōbon.
@@ -58,7 +58,7 @@ Miyako: (That's why they make me so angry...)
 Viola: And yet, you can't look away.
 Viola: Even when you close your eyes, their light spills in uninvited.
 Viola: ...
-Miyako & Viola: —It hurts. (It hurts.)
+Miyako & Viola: <align="right">—It hurts.</align> <align="left">(It hurts.)</align>
 Viola: But your stories make me feel like... it's okay to be that way.
 Miyako: (She...)
 Miyako: (She sees who I am through my work...)

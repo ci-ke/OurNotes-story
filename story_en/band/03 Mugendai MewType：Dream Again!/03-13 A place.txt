@@ -17,7 +17,7 @@ Arale: Huh? Ah...
 Arale: Ugh... Grrr...
 Ritsu: Arale-chan...
 Arale: Grrrrrrrrrrrr...
-Arale: Understood!
+Arale: <size=175%>Understood!
 Arale: I want to talk more! I want to know more about everyone!
 (Background change)
 Arale: Because I didn't know anything about Yuno-san-chan. What she likes, or where she would go.
@@ -28,7 +28,7 @@ Arale: So...
 (Caption): 夢みた9話　マジるる変身イメージシーン
 (Subtitle) arale・ritsu: Body Make Pump Up~~~~~!
 (Background change)
-Arale: We can transform!
+Arale: <size=150%>We can transform!
 Ritsu: Yeah.
 Ritsu: We MewType surely can transform.
 Arale: Yeah!
@@ -36,7 +36,7 @@ Arale: Yeah!
 Bell: We want everyone to have dreams with us... That's what we're working hard for.
 Popo: Dreams that never end...
 Popo: That's it...
-Bell & Popo: Kyahahaha!!
+Bell & Popo: <size=175%>Kyahahaha!!
 Popo: It was so hard to hold back my laughter.
 Viola: ...
 Viola: (DM...?)
@@ -97,7 +97,7 @@ Miyako: Ah...
 Ritsu: Wait... Are you going to meet Viola...?
 Miyako: !
 Ritsu: No... Don't...! That's...
-Miyako: ...!
+Miyako: <size=150%>...!
 Ritsu: Ah, wait! ...!
 Arale: "Ricchan?"
 Ritsu: I found Miyako-san.
@@ -160,7 +160,7 @@ Miyako: I understand that she's passionate and gives everything her all...
 Miyako: But! She's so intense and scary that she loses sight of everyone around her!
 Miyako: She just keeps talking, completely ignoring everyone else, and being satisfied all by herself!
 Miyako: Arale-san is so selfish, so self-absorbed! And besides, Arale-san is...
-Miyako: Arale-san is...!
+Miyako: <size=175%>Arale-san is...!
 Viola: ...
 (Background change)
 Miyako: Huh...!?

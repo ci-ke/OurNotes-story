@@ -6,7 +6,7 @@ Isn't it kind of infuriating to convince yourself of that?
 
 [One Hour Later]
 
-Raika: Everyone, good morning...!! Breakfast is ready~~~!!
+Raika: <size=150%>Everyone, good morning...!! Breakfast is ready~~~!!</size>
 (Background change)
 Raika: Today we've got clay pot rice! And I cooked it perfectly—
 Chieri: Raika! What happened to the spare toothpaste?
@@ -169,7 +169,7 @@ Yomogi: That's it, that's how people change...!!
 Raika: Miku~ Yomogi~ Please send flyers over there—
 Yomogi: I promise you, Miku-san!!
 (Background change)
-Yomogi: One day, I'll show you a stronger version of me!!
+Yomogi: <size=120%>One day, I'll show you a stronger version of me!!</size>
 (Background change)
 Miku: Uh, well...
 Raika: What happened, Yomogi~~~!! That was really cool!

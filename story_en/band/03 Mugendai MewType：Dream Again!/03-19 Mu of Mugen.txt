@@ -50,7 +50,7 @@ Popo: *Sigh*... If it hadn't come to this, Fairy Bouquet could've gone even—
 Viola: It's impossible, you know?
 Viola: For me, and you two, it's impossible.
 Popo: ...
-Bell: Huuuuuh!?!?!?
+Bell: <size=130%>Huuuuuh!?!?!?</size>
 Popo: So noisy. What is it?
 Bell: C-C-C-C-Contract cancellation...!
 Popo: Huh? Why us...?
@@ -126,7 +126,7 @@ Arale: Overwhelmed!?
 Yuno: When you're nervous, first take a deep breath. Getting oxygen to your brain and steadying your breathing is the best—
 Nonoka: There are soooo many guests!
 Arale: ~~~~~~~~~!!!!
-Ritsu: Arale-chan!
+Ritsu: <size=130%>Arale-chan!</size>
 Yuno: ...
 Nonoka: Oh?
 Ritsu: Yu, Yuno-san! What if she isn't breathing!?
@@ -140,7 +140,7 @@ Arale & Nonoka & Ritsu: Ooh...
 Yuno: They're all different types...
 Miyako: At times like this...
 Nonoka: Ready, set~!
-Everyone: △※×☆*@!
+Everyone: <size=130%>△※×☆*@!</size>
 Nonoka: All different~
 Miyako: That's just perfect.
 Arale: Yaaay...
@@ -156,7 +156,7 @@ Arale: Ah... Huh~ Hmm!?
 Nonoka: Arale-chan, are you nervous?
 Yuno: Take a deep breath.
 Arale: *Inhale*............ *Exhale*...
-Miyako: Haa!!!!!!
+Miyako: <size=130%>Haa!!!!!!</size>
 Arale: !!????
 Miyako: Are you feeling less nervous now?
 Arale: M-My heart is pounding even faster now!
@@ -200,7 +200,7 @@ Arale: Because this is who I am.
 Yuno: Well, I'm used to seeing it on V-Flo anyway.
 Nonoka: Ugh~~~~~~
 Arale: ?
-Nonoka: MewType, version upgraded!
+Nonoka: <size=130%>MewType, version upgraded!</size>
 Arale: Wow!
 Arale: What version is it now?
 Miyako: Maybe 4.0?

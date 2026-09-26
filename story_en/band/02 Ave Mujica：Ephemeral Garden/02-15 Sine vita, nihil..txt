@@ -22,7 +22,7 @@ Nyamu: Did I order a delivery? I'm coming...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
 (Caption): Back Record Zoom Volume Menu Home
 Nyamu: Ugh... It's Umiko. Coming over to my place? So annoying. I'm gonna ignore her...
-Nyamu: COME ON!!!
+Nyamu: <size=175%>COME ON!!!
 (Background change)
 Umiri: It's clean only here.
 Nyamu: Huh? So, what?
@@ -36,9 +36,9 @@ Umiri: ...
 Nyamu: *Sigh*... I still can't trust you after all, Umiko.
 Umiri: !
 Nyamu: I have work to do. I need a reasonable chance of success to accept it.
-Nyamu: I'm not a masochist like you!
+Nyamu: <size=150%>I'm not a masochist like you!
 Umiri: Hey, don't press so hard.
-Nyamu: Get out now!
+Nyamu: <size=175%>Get out now!
 Nyamu: ...
 (Background change)
 Mortis: —♪
@@ -99,23 +99,23 @@ Mutsumi: CRYCHIC became an important band for Saki, and she couldn't ever forget
 (Background change)
 Mutsumi: But she wanted to forget it. That's why Mujica was made...
 (Background change)
-Uika: ...!!
+Uika: <size=175%>...!!
 (Background change)
 Sakiko: Make me forget everything...
 (Background change)
 Uika: Then... that's...
 Uika: This song isn't it. This isn't CRYCHIC. This song is for MyGO!!!!!, for Tomori-chan now.
 Mutsumi: Uika, shut up. Tomori, let's reunite CRYCHIC. Saki is happier that way too.
-Mutsumi: So! Once again—
-Uika: !!
+Mutsumi: <size=150%>So! Once again—
+Uika: <size=175%>!!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
-Uika: Don't take Saki-chan away from me!
-Uika: !!
+Uika: <size=175%>Don't take Saki-chan away from me!
+Uika: <size=175%>!!
 Tomori & Mutsumi: ?
 Uika: Sorry... I'll go home first...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp)
@@ -184,7 +184,7 @@ Mortis: Ugh...
 (Background change)
 Mortis: I don't want this! I don't want to disappear! I'm never going to disappear!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
-"Mutsumi": Don't take my role!
+"Mutsumi": <size=175%>Don't take my role!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
 Mortis: ...! If Mutsumi-chan isn't here, I can play her role.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)

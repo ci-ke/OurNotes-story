@@ -16,7 +16,7 @@ Staff: Great job~
 Nyamu: *Sigh*... This ain't good! Serious, I ain't kiddin'—this thing's hot! My mouth's still burnin'!
 Nyamu: Hope all this sweatin' didn't make me look a downright mess. This is unbearable~
 (Background change)
-: AveMujica #Mujica Comeback Mutsumi Wakaba Mutsumi-chan #Mortis
+: <b>AveMujica #Mujica Comeback Mutsumi Wakaba Mutsumi-chan #Mortis
 Nyamu: Huh? Muuko?
 Mortis: Even if you want to see her, Sakiko-chan doesn't feel the same way!
 (Background change)
@@ -46,7 +46,7 @@ Student A: Ah, Togawa-san...!
 Sakiko: Mutsumi...
 (Background change)
 Sakiko: Why...? Why aren't you on my side!?
-Sakiko: Mujica is... This world is all I have left!
+Sakiko: <size=125%>Mujica is... This world is all I have left!
 Mutsumi: ...
 (Background change)
 Mortis: Every awakening brings rebirth. Only eternal death will bring no awakening.
@@ -97,7 +97,7 @@ Mortis: No! You can't just come out like that!
 Mutsumi: Stop Soyo. Don't let her go to Saki's house.
 Mortis: Didn't I tell you that you're only allowed out while playing the guitar!? Leave the rest to me!
 Mutsumi: I'm begging you...!
-Mortis: SHUT UP!!
+Mortis: <size=175%>SHUT UP!!
 Mortis: Haa... Haa...! Why... am I even doing this...
 (Background change)
 Soyo: (Eh... Saki-chan's home...)

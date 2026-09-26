@@ -152,7 +152,7 @@ Nonoka: A red bean bun shop~!
 Arale: Not just that! I've got tons of clear files too!
 Nonoka: A red bean bun and clear file shop!
 Arale: That's right! There's a convenience store promo right now: buy any two eligible items, and choose any Magilulu clear file you want!
-Arale: And get this! One of the hot snacks is a recreation of the High-Power Meat... Oh!!
+Arale: And get <size=200%><r=・ ・></size>this</r>! One of the hot snacks is a recreation of the High-Power Meat... Oh!!
 Nonoka: ?
 Arale: Um... Nono-chan-san, do you like red bean buns...?
 Nonoka: I looove them~~!
@@ -239,7 +239,7 @@ Nonoka: So she really is a robot...
 Miyako: N-No way...
 Miyako: (If Sengoku-san really is an AI... then maybe it won't be long before there's an AI that can draw manga too...!)
 Miyako: (It could analyze trends and churn out whatever sells, never sleep... and even talk, sing, and dance... I-If that happened...!)
-Miyako: Humanity's doomed! We're all gonna be joblessssss!?
+Miyako: <size=200%>Humanity's doomed! We're all gonna be joblessssss!?</size>
 Arale: Nono-chan-san! Miyako-san's in trouble!
 Nonoka: Hmm!
 Nonoka: Dark-circle check starts now!
@@ -276,7 +276,7 @@ Yuno: Copy, paste... Done.
 Yuno: All right, back to work...
 Yuno: Huh...? I'm not getting any sound.
 Yuno: Power? Connections? Still nothing after reconnecting... Why now, of all times?!
-Yuno: Gaaaaah... Fine!! I'll swap out every cable!!! The spares should be in the drawer...
+Yuno: Gaaaaah... Fine!! <size=150%>I'll swap out every cable!!!</size> The spares should be in the drawer...
 Yuno: Nothing... O-Okay, online stores...
 Yuno: They won't arrive until after the deadline...
 Yuno: Gaaah... That shop might already be open...

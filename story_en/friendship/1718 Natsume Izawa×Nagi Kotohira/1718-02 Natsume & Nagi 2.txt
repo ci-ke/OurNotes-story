@@ -17,7 +17,7 @@ Natsume: Seriously? How have you not noticed?
 Nagi: Huh...? What's with you all of a sudden?
 Natsume: There's something you're supposed to say. Come on.
 Nagi: Uh... Nice weather we're having?
-Natsume: No!
+Natsume: <size=150%>No!
 Nagi: Oh, did you get your bangs cut?
 Natsume: That's not it either! It's the effector! The effector! You seriously couldn't tell from the sound!? Look!
 Nagi: Hmm... Maybe it does sound a little different from usual...
@@ -37,7 +37,7 @@ Natsume: All right... Listen up. A guitarist's sound is their calling card.
 Natsume: Technique matters, of course, but the way you shape your sound says something about you too. Right now, though, you couldn't sound less distinctive.
 Nagi: Huh...? But aren't you our lead guitarist, Natsume-senpai? I mean, we've never really decided that, but...
 Nagi: Then isn't it fine if I don't stand out—
-Natsume: No, it isn't!
+Natsume: <size=150%>No, it isn't!
 Nagi: !?
 Natsume: Do you think the only difference between lead and rhythm guitar is whether you stand out or not?
 Natsume: If you do, you've got it completely wrong!

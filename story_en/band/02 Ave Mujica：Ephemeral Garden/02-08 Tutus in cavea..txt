@@ -136,7 +136,7 @@ Mortis: Wow... it's tattered.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
 Rāna: —♪
 Mortis: Wow...!
-Mutsumi: Singing.
+Mutsumi: <size=200%><cspace=0.25em><voffset=0.25em>Singing<voffset=0em><voffset=0.25em></voffset>.
 Rāna: Hm.
 Mortis: ...! Mutsumi-chan?
 Everyone: ?
@@ -166,11 +166,11 @@ Mutsumi: Why would you say that?
 Mortis: Eh?
 Mutsumi: You said to leave everything to you. That's too much.
 Mutsumi: Saki... where's Saki?
-Mortis: ...!
+Mortis: <size=175%>...!
 Mutsumi: Mortis? Let me see Saki.
 (Background change)
-Mortis: No!
-Everyone: !?
+Mortis: <size=175%>No!
+Everyone: <size=175%>!?
 Mortis: Mutsumi-chan, you don't understand anything!
 Taki: What's going on?
 Anon: She's gone. She just mentioned Mutsumi-chan...

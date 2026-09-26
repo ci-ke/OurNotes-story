@@ -138,7 +138,7 @@ Sakiko: W-Wait, what are you doing all of a sudden?
 Mutsumi?: Uika-chan and Umiri-chan, come join too!
 Umiri: No choice, I guess.
 Uika: I was trying not to overlap with my sumimi image, though.
-Mutsumi?: Everyone, gather together and strike a pose!
+Mutsumi?: <size=175%>Everyone, gather together and strike a pose!
 (Background change)
 Female Photographer: Yeah, it's amazing! It feels like the new Ave Mujica.
 Nyamu: Wow, it's really great! I love this photo~
@@ -215,7 +215,7 @@ Staff: Mortis-san, your guitar.
 Mutsumi?: I don't need a guitar~
 Sakiko: Mutsumi, what are you saying?
 Mutsumi?: Because I don't know how to play guitar at all.
-Sakiko & Umiri & Uika & Nyamu: Huh?
+Sakiko & Umiri & Uika & Nyamu: <size=175%>Huh?
 (Background change)
 Sakiko: What do you mean by that?
 Nyamu: But you've been playing it all this time!
@@ -250,9 +250,9 @@ Sakiko: That's...
 Sakiko: "Sakiko-chan"? Mutsumi... wouldn't call me that.
 Sakiko: Are you... really Mutsumi?
 Mutsumi?: Mutsumi-chan is already dead.
-Sakiko: ...!
+Sakiko: <size=175%>...!
 Mutsumi?: Ah, I got it wrong. It's more like she's asleep, as if dead.
-Sakiko: Don't joke around!
+Sakiko: <size=175%>Don't joke around!
 Mutsumi?: I'm serious.
 Sakiko: What do you mean by "asleep"? Explain it to me!
 Mortis: My name is Mortis.
@@ -320,7 +320,7 @@ Nyamu: What are you suggesting?
 (Background change)
 Sakiko: I want Mutsumi back.
 Nyamu: You fool! I'll quit.
-Umiri & Uika & Mortis & Sakiko: !!!
+Umiri & Uika & Mortis & Sakiko: <size=175%>!!!
 Nyamu: When I saw your clothes at first, I thought you were sloppy, but then I assumed you'd leave your high-society status behind to take this seriously.
 (Background change)
 Nyamu: I really thought we'd climb to the top together.
@@ -377,4 +377,4 @@ Mortis: But I'm still here!
 Doloris: With tonight's masquerade—
 Mortis: Stop! Don't say it!
 Doloris: We announce the curtain call of Ave Mujica.
-Mortis: Nooooooo!
+Mortis: <size=175%>Nooooooo!

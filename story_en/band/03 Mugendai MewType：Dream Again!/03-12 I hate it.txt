@@ -32,7 +32,7 @@ Arale: Umm... We're the best!
 (Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_ichibannohikari_yumemita_08/adv_movie_ichibannohikari_yumemita_08/adv_movie_ichibannohikari_yumemita_08.mp4)
 (Caption): 夢みた8話　『一番のひかり』演奏シーン
 (Background change)
-Nonoka: Nice~~!
+Nonoka: <size=175%>Nice~~!
 Nonoka: Arale-chan's lyrics are great too~
 Arale: Hehehe, thanks.
 Arale: But personally, I feel like I'd like to stabilize the last part a little more, you know!
@@ -50,20 +50,20 @@ Miyako: ...
 Yuno: Can I have a moment?
 Miyako: !! Wh-What is it...?
 Yuno: I think we could add a little more to the interlude. Now that we have two guitarists, it'll get buried in the mix if we leave it as is.
-Miyako: Oh, that's what you meant...
+Miyako: <size=75%>Oh, that's what you meant...
 Yuno: ?
 Miyako: No, never mind. I'll think about it.
 Yuno: Mm, thanks.
-Nonoka: Yuuuuuuuunoooooooooo chaaaaaan!!!
-Yuno: Wa!
+Nonoka: <size=150%>Yuuuuuuuunoooooooooo chaaaaaan!!!
+Yuno: <size=150%>Wa!
 Nonoka: What about Nono-chan~?
 Yuno: Ahh... Even for a lead part, it was way too wild.
 Nonoka: Hehe. My inner animal came out.
 Yuno: Listen more to the rhythm guitarist.
 Nonoka: Hmm, that's tough. 'Cause Nono-chan's been playing it solo up till now~
 Ritsu: If you ask, I'll practice with you anytime.
-Nonoka: Ricchaaaaaaaaaaaan!!
-Ritsu: Ugh!
+Nonoka: <size=150%>Ricchaaaaaaaaaaaan!!
+Ritsu: <size=150%>Ugh!
 Yuno: That sounds good.
 Yuno: The way everything gradually locks into place is the real thrill of being in a band.
 Nonoka: ...
@@ -146,9 +146,9 @@ Nonoka: ...
 Miyako: Your position is not there, you know.
 Nonoka: I am a guitarist.
 Nonoka: So...
-Nonoka: I will express it through sounds!
+Nonoka: <size=175%>I will express it through sounds!
 Arale: Su... Su-su-su-su-su...!
-Arale: Super Recovery...!
+Arale: <size=150%>Super Recovery...!
 Nonoka: How's it...?
 Arale: Even if you ask me...
 Nonoka: I name it... "The Song of Giving Hanamaru"!
@@ -169,18 +169,18 @@ Miyako: Am I the bad guy just because I won't go along with your cheerfulness!?
 Miyako: In reality, there are people who can't be saved by light!!
 Nonoka: !
 Miyako: You say all the right things, but I hate myself for not being that kind of decent person, so much that I can't help but take it out on others...
-Miyako: Someone like me...
+Miyako: <size=150%>Someone like me...
 Nonoka: Miyako-cha...
 Miyako: I know!! I know you didn't mean any harm! And I'm the one who's wrong!
 Miyako: So please, never speak to me again...!
-Miyako: I! I really hate you!!
+Miyako: <size=150%>I! I really hate you!!
 Ritsu & Arale: ...
 Arale: Ah, Yuno-san-chan—
 Yuno: I'm quitting the band.
 Ritsu & Arale: Huh?
 Ritsu: Yuno-sa...
 Arale: Huh...
-Arale: Huh~~~~~~~~!!!?????
+Arale: <size=175%>Huh~~~~~~~~!!!?????
 Nonoka: ...?
 Arale: D-D-Didn't Yuno-san-chan say she's quitting the band!??
 Ritsu: Y-Yeah...!
@@ -203,7 +203,7 @@ Yuno: Why...
 
 [The Next Day]
 
-Arale: Yuno-san-chaaaaaaaaaaaaaaaaan!!!!
+Arale: <size=175%>Yuno-san-chaaaaaaaaaaaaaaaaan!!!!
 Arale: Where did you go~!?
 Ritsu: I can't contact her since yesterday...
 Nonoka: Umm. What's going on...?
@@ -223,18 +223,18 @@ Arale: I-I'll stay too, no rush...
 Manager: So that's how it is! So everyone, let's change our mindset...
 Arale: ...
 Manager: I know it's not that simple... But there is some good news, too.
-Manager: Guess what!
-Manager: MewType's very first tie-up has been confirmed!
+Manager: <size=150%>Guess what!
+Manager: <size=150%>MewType's very first tie-up has been confirmed!
 Manager: It's the ending theme song for the currently streaming program "Sakidori Culture!" for June!
 Arale: Ending...
 Manager: We've only done one live show, but thanks to the online backlash, we've got a ton of followers.
 Manager: That's real buzzworthiness!
 Manager: Let's turn them into real fans! That's the spirit we need!
 Ritsu & Arale & Nonoka: ...
-Manager: Let's do this!
+Manager: <size=150%>Let's do this!
 Ritsu & Arale & Nonoka: Oh...
-Manager: Let's do this!!!!!!!
-Ritsu & Arale & Nonoka: Oh, yeah!
+Manager: <size=175%>Let's do this!!!!!!!
+Ritsu & Arale & Nonoka: <size=175%>Oh, yeah!
 Nonoka: ...
 Miyako: Uh, um...
 Nonoka: !
@@ -254,7 +254,7 @@ Nonoka: I wonder what kind of flowers are blooming in the flower field...?
 Nonoka: ...
 (Background change)
 Miyako: So please, never speak to me again...!
-Miyako: I! I really hate you!!
+Miyako: <size=150%>I! I really hate you!!
 (Background change)
 (Message) Nonoka: Is hate the farthest thing from love...?
 Nonoka: Yuno-chan...
@@ -317,11 +317,11 @@ Arale: Not at all...
 Miyako: ...
 Arale: Not a bit... Ugh...
 Miyako: It's my fault.
-Arale: Huh!??
+Arale: <size=150%>Huh!??
 Miyako: In this situation, anything could become fuel for the backlash.
 Miyako: If I hadn't suggested the live show, MewType wouldn't have gotten flamed, and the feud rumors—
 Arale: No! The backlash isn't your fault, Miyako-san! For me, it's absolutely not your fault at all!
-Miyako: !
+Miyako: <size=175%>!
 (Background change)
 Arale: And I'd say it's the worst, too.
 (Background change)
@@ -336,7 +336,7 @@ Arale: You think so too, right?
 (Background change)
 Miyako: ...
 Ritsu: Arale-chan is right, Miyako-san, it's not your fault—
-Miyako: Please stop!
+Miyako: <size=150%>Please stop!
 Ritsu: !
 Miyako: P-Please don't try to force everything through to suit your own convenience!
 Miyako: And yet you completely avoid the important issue, just glossing over it to keep the peace! It's lukewarm and incredibly uncomfortable!

@@ -82,7 +82,7 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp)
 都子: 贖罪の……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp)
-都子: 秋葉原マラソンお百度参り
+都子: <size=100％>秋葉原マラソンお百度参り</size>
 (Background change)
 
 [数日後]

@@ -8,7 +8,7 @@ I also had a dream... And then I got to do a live show! So...
 (Caption): 夢みた7話　『Tear Jerker』『Face The Next』ライブシーン
 (Background change)
 Arale: It's...
-Arale: Oveeeeer!!!
+Arale: <size=150%>Oveeeeer!!!
 Nonoka: Woooo!
 Miyako: Phew...
 Manager: Great work, everyone.
@@ -56,10 +56,10 @@ Ritsu: Oh... I guess I got lost in thought. It's just... I really had such a goo
 Ritsu: I can't remember the last time I felt like this...
 Arale: Ricchan...
 Ritsu: It's thanks to all of you that I could take the stage with hope for the future. From now on, I hope we can work well togeth...
-Ritsu: ER?!?!?!?!
+Ritsu: <size=200%>ER?!?!?!?!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000243/data/adv_still_anime_000243/adv_still_anime_000243.webp)
 (Background change)
-Arale: Whaaa!? Ricchaaaaaan?!?!?!
+Arale: <size=150%>Whaaa!? Ricchaaaaaan?!?!?!
 Yuno: Why'd she suddenly launch into the air? Is that a bug?!
 Nonoka: Ooooh...
 Miyako: So sparkly...
@@ -83,7 +83,7 @@ Ritsu: Japanese-style Chaliapin saaaauce...!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000247/data/adv_still_anime_000247/adv_still_anime_000247.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000248/data/adv_still_anime_000248/adv_still_anime_000248.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000299/data/adv_still_anime_000299/adv_still_anime_000299.webp)
-Arale: Ricchaaaaaaaaaan!!!
+Arale: <size=150%>Ricchaaaaaaaaaan!!!
 Miyako: A silver sugar pearl...
 (Background change)
 Arale: Mornin'~
@@ -105,12 +105,12 @@ Arale: Ehehehe...
 Arale: W-Wait! Is that...?
 Raki: Huh? Oh, it's Volume 1 of "Chupakabu Sachuration."
 Arale: Chupa... kabu...
-Arale: VOLUME OOOOOOOOOONE!!!!!
+Arale: <size=150%>VOLUME OOOOOOOOOONE!!!!!
 Arale: I-I-I was so wrapped up in the live show...!!
 Bota: But you preordered it, right?
 Arale: Abso-Chupasa-chutely! But not picking it up on release day... That makes me a total failure as a fan...
 Raki: At this rate, I bet you forgot about today's quiz too.
-Arale: Eeeek?! "Exceedingly charming," "most reverent," revere-revere-reverent...!
+Arale: <size=150%>Eeeek?!</size> "Exceedingly charming," "most reverent," revere-revere-reverent...!
 Raki: She seems... pretty upbeat?
 Bota: Don't tell me she hasn't noticed...
 Raki: Hmm...
@@ -162,7 +162,7 @@ Ritsu: (I can't keep letting her protect me.)
 Ritsu: (This time, I decided I'd protect Arale-chan. So now I need to do what I can...)
 (Background change)
 Miyako: Please find attached Chapter 18 of "Chupasachu." I would appreciate your review at your earliest...
-Miyako: convenience!
+Miyako: <size=150%>convenience!
 Miyako: YEAHHH! TAKE THAT!! Two days early! Witness Yako Fujimi at full poweeeer!!
 Miyako: Work's done! Time for a little slice-of-life post!
 Miyako: Why isn't my motivation fading...? If anything, it just keeps surging...!

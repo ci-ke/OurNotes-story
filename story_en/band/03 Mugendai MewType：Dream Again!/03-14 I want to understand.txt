@@ -89,17 +89,17 @@ Arale: !? "Drowning"!?!?!?
 Arale: It's underwater!? The smartphone is water-resistant!?
 Ritsu: If only we could identify which aquarium it is...
 Nonoka: The tuna...
-Nonoka: Ha...!
+Nonoka: <size=175%>Ha...!
 (Background change)
-Nonoka: Usa Eater-chan's Tuna-chan Quuuuuuiz!
-Nonoka: Which aquarium in the Kanto region can you meet Tuna-chan?
-Children: Only here~!!
+Nonoka: <size=140%>Usa Eater-chan's Tuna-chan Quuuuuuiz!
+Nonoka: <size=140%>Which aquarium in the Kanto region can you meet Tuna-chan?
+Children: <size=175%>Only here~!!
 (Background change)
-Nonoka: Tuna-chaaaaaaaaan!!!
+Nonoka: <size=175%>Tuna-chaaaaaaaaan!!!
 Arale & Ritsu: Huh!?
 Nonoka: Yuno-chan is now—
-Nonoka: With Tuna-chan!
-Arale: What~!!
+Nonoka: <size=150%>With Tuna-chan!
+Arale: <size=175%>What~!!
 Ritsu: That makes sense.
 Nonoka: Alright! Wait a minute~ Tuna-chan, Yuno-cha...
 Nonoka: ...
@@ -113,12 +113,12 @@ Arale: Ah...
 Ritsu: ...
 Arale: Um...... Nono-chan-san.
 Nonoka: Hm?
-Arale: Big hug~~~~~~~!!
+Arale: <size=175%>Big hug~~~~~~~!!
 Ritsu: Arale-chan!
 Nonoka: ?
 Arale: Grrr... Did my feelings reach you!?
 Nonoka: ...?
-Arale: I was really, really happy about that kiss from Nono-chan-san that time!
+Arale: <size=150%>I was really, really happy about that kiss from Nono-chan-san that time!
 (Background change)
 Nonoka: Because your "love" has power!
 Arale: Power...
@@ -128,7 +128,7 @@ Arale: So let's go for it, even if we might crash!
 Arale: Wait, we can't actually crash! Let's go with a steady, firm pull instead!
 Arale: If that doesn't work... let's all think it over together.
 Nonoka: Thank you...
-Arale: !?!? You squeezed my hand too tight! Ouch~~~~!
+Arale: <size=150%>!?!? You squeezed my hand too tight! Ouch~~~~!
 Nonoka: Your feelings reached me!
 Arale: ...!
 Nonoka: Nono-chan is going!
@@ -136,20 +136,20 @@ Arale: Take care~!
 Arale: Hey, wait~~!
 Arale: Where is Yuno-san-chan!? Where on earth is she~~~~???
 (Background change)
-Nonoka: Traaaaaaaain!
-Nonoka: I'm in!
+Nonoka: <size=150%>Traaaaaaaain!
+Nonoka: <size=175%>I'm in!
 (Background change)
 (Nonoka): That was back when I was still in kindergarten...
 Kindergartener A: Waaah... Nooo!
 Kindergartener B: Why are you crying? Let's go together.
 Kindergartener C: Sensei said we should not do things that other people dislike~
-Nonoka: Bunnies are so yummy, way up on the hill~ The river where you fish for small carp~
+Nonoka: <size=140%>Bunnies are so yummy, way up on the hill~ The river where you fish for small carp~
 Kindergartener B: Ah! Usa Eater-chan!
 Nonoka: Let's sing together~!
 Kindergartener A: Huh...
 Nonoka: Dreams are still going around now~
-Everyone: Unforgettable~
-Everyone: Hometown~
+Everyone: <size=150%>Unforgettable~
+Everyone: <size=150%>Hometown~
 Kindergartener A: Hehe... Kyahaha!
 Nonoka: I love everyone's smiling faces. What makes me happiest is when everyone is happy.
 (Background change)
@@ -197,7 +197,7 @@ Manager: And Nakamachi-san, who we're planning to sign with soon. We'd like the 
 (Background change)
 Nonoka: This girl who sang the cover songs is Arale-chan...
 Nonoka: Band...
-Nonoka: Band!
+Nonoka: <size=175%>Band!
 (Background change)
 (Background change)
 (Background change)
@@ -211,16 +211,16 @@ Nonoka: Being with everyone... it's fun!
 Nonoka: I'm so happy.
 Nonoka: And I love them.
 Nonoka: My heart is...
-Nonoka: Almost bursting!
+Nonoka: <size=150%>Almost bursting!
 Nonoka: Is it really okay for me to be this happy?
 Nonoka: Of course!
 Nonoka: With Yuno-chan, Miyako-chan, Arale-chan, and Ricchan!
 Nonoka: It was like a dream that I could play in a band with them...
-Miyako: I! I really hate you!!
+Miyako: <size=150%>I! I really hate you!!
 Nonoka: Huh?
 Yuno: I'm quitting the band.
 (Background change)
 Nonoka: Haa... Haa... Haa...
 Kindergartener C: Sensei said we should not do things that other people dislike~
 Nonoka: ...
-Nonoka: Nononononononononono!!!
+Nonoka: <size=175%>Nononononononononono!!!

@@ -44,7 +44,7 @@ Arale: That's so cooool!
 Ritsu: I'll be Clematis!
 Viola: I'm glad you like it♡
 (Background change)
-Ritsu: I'm Clematis. Nice to meet you!
+Ritsu: <size=150%>I'm Clematis. Nice to meet you!
 Ritsu: Oww...
 Arale: Ri...!
 Viola: Clematis, are you okay?
@@ -175,7 +175,7 @@ Ritsu: ...
 (Message) Ritsu: There's something I want to talk to you about... It's about Viola.
 Ritsu: Should I... talk to Arale-chan about it...?
 Ritsu: ?
-(Message) Viola: Have you seen this? http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... 
+(Message) Viola: Have you seen this? <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
 Ritsu: ...?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp)
 Viola: Let's do "Lion Dance" for our next cover.

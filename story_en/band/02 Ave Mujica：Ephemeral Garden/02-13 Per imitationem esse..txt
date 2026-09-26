@@ -105,7 +105,7 @@ Umiri: Gulp... gulp...
 Nyamu: You'll get hiccups if you drink that too fast.
 Umiri: Ugh... Ugh...
 Nyamu: Are you okay? Can you handle it?
-Umiri: ~~~~~! Phew!
+Umiri: <size=175%>~~~~~! Phew!
 Umiri: Haa... Haa... An old wound of mine hurts.
 Nyamu: Ah? Just from a mere glass of ginger soda?
 Umiri: I can't face it without drinking. I've got a past that still cuts deep.

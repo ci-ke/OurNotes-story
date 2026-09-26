@@ -44,7 +44,7 @@ Viola：花語是「精神之美」…… 很適合律這個模範生吧～？
 律：！ 那我就叫Clematis！
 Viola：很高興妳喜歡♡
 （背景切换）
-律：我是Clematis，請多指教！
+律：<size=150%>我是Clematis，請多指教！
 律：好痛……
 阿拉蕾：律……！
 Viola：Clematis，妳還好吧～？
@@ -175,7 +175,7 @@ Viola：太好了！
 （消息）律：我想跟妳聊聊有關Viola的事。
 律：……該找她商量嗎……
 律：？
-（消息）Viola：這妳看了嗎？ http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... 
+（消息）Viola：這妳看了嗎？ <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
 律：……？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp）
 Viola：下次的翻唱系列就唱《獅子舞》嘛。

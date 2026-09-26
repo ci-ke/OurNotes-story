@@ -32,7 +32,7 @@ Mortis: So, do you mean I should disappear?
 Mutsumi: ...
 Mortis: ...! Mutsumi-chan and Sakiko-chan, you don't understand anything! You will be in trouble without me, Mutsumi-chan!
 Mutsumi: Mortis, listen to me.
-Mortis: NO!
+Mortis: <size=175%>NO!
 (Background change)
 Mortis: Haa... Haa... I will not listen to you...
 (Background change)
@@ -63,7 +63,7 @@ Anon: That's fine... what's the matter?
 Tomori: ...
 Sakiko: I will be straightforward.
 Sakiko: Tomori, would you reunite CRYCHIC with me again?
-Anon & Tomori: ...!
+Anon & Tomori: <size=175%>...!
 Sakiko: I... Both Mutsumi and I are serious.
 Tomori: Mutsumi-chan...
 Sakiko: Yes... Mutsumi wants to revive CRYCHIC.
@@ -112,7 +112,7 @@ Uika: Um... I want to ask about CRYCHIC. This.
 Uika: Do you know anything about it?
 Anon: Is it the one Soyorin posted? They performed live recently~ This is a photo from that time.
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp)
-Uika: ...!
+Uika: <size=175%>...!
 Anon: Tomorin wrote new lyrics, and used MyGO!!!!!'s rehearsal time...
 Uika: (Saki-chan... looks so happy... This expression... she never showed it in Ave Mujica...)
 Anon: Sakiko-chan wants to continue CRYCHIC~
@@ -140,13 +140,13 @@ Nyamu: "I'm..."
 Interviewer: Yūtenji-san? Are you okay?
 Nyamu: Ha... Haa... Haa...
 (Background change)
-Nyamu: ...!!
+Nyamu: <size=175%>...!!
 Nyamu: (How pathetic!! Why did that happen at the most important time...!?)
 Nyamu: (The band is over...! I have to use everything as a stepping stone to move forward, but this...!)
 Candidate A: That was terrible! My partner froze up~
 Candidate B: Huh, that's annoying. It was Nyamuchi, right?
 Candidate A: Don't come here casually just because the band failed.
-Nyamu: ...!! ~~~!!
+Nyamu: <size=175%>...!! ~~~!!
 (Background change)
 (Message) Umiri: Wakaba-san has decided to join.
 (Background change)
@@ -163,7 +163,7 @@ Taki: Ah, yeah... Did you hear something?
 Umiri: What's something?
 Taki: Did you do something to Mutsumi?
 Umiri: ...! What do you mean by something?
-Uika: Umiri-chan! I will be in Ave Mujica!
+Uika: <size=175%>Umiri-chan! I will be in Ave Mujica!
 Umiri: Eh? Okay.
 Taki: ...?
 Uika: ...! That's all.
@@ -171,7 +171,7 @@ Taki: Huh, what...?
 Umiri: Did you do something? It's quite something to be glared at by Misumi-san.
 Taki: Huh?
 (Background change)
-Uika: President, please!
+Uika: <size=175%>President, please!
 President Katsuura: Uika-chan, look up.
 Uika: I know it's selfish. Still, I want to revive Ave Mujica!
 President Katsuura: *Sigh*... I understand how you feel. I still can't approve it.

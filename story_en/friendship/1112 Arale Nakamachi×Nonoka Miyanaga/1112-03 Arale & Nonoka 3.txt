@@ -11,7 +11,7 @@ Arale: Nono-chan-san...? Where are you~?
 Nonoka: Over here~
 Arale: "Over here"... where's "here"...?
 Nonoka: Fwoooooosh~~!!
-Nonoka: Ta-da~~!
+Nonoka: <size=45>Ta-da~~!</size>
 Arale: U-Up there!?
 Nonoka: Up here~!
 Arale: You scared me~ You're really good at flying, Nono-chan-san.
@@ -46,4 +46,4 @@ Arale: What?
 Nonoka: And I can't stop growing either~~!
 Arale: Whaaaaaat!?
 Nonoka: B-B-B-B-B-Boom...
-Arale: G-Guh... Ughhh...! Nono-chan-saaaan...!
+Arale: <size=28>G-Guh... Ughhh...! Nono-chan-saaaan...!</size>

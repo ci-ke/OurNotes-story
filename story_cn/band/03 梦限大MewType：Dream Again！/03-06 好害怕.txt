@@ -44,7 +44,7 @@ A子：嗯～
 律：！那我就叫克蕾玛琪丝！
 薇欧拉：你能喜欢就好♡
 （背景切换）
-律：我是克蕾玛琪丝。请多多关照！
+律：<size=150%>我是克蕾玛琪丝。请多多关照！
 律：哐……
 阿拉蕾：小律……！
 薇欧拉：克蕾玛琪丝，你没事吧～？
@@ -175,7 +175,7 @@ A子：啊——嗯。我赞成薇欧拉……
 （消息）律：关于薇欧拉的事情，我有话跟你说
 律：……该不该，和你商量呢……
 律：？
-（消息）薇欧拉：看过这个了吗？ http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... 
+（消息）薇欧拉：看过这个了吗？ <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
 律：……？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp）
 薇欧拉：下一首翻唱就选『狮子舞』吧

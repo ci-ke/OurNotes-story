@@ -20,7 +20,7 @@ Arale: What?! You're working again tonight?!
 Miyako: Yes.
 Arale: Nnngh... That's part of what makes you so amazing, Yako-sensei, but as your fan, I still want you to rest when you can...!
 Yuno: Can we just decide already? We're either going, or we're not.
-Arale: We're goooooing!
+Arale: <size=175%>We're goooooing!
 (Background change)
 
 [Ferris Wheel]
@@ -73,9 +73,9 @@ Nonoka: Huh!?
 (Background change)
 Nonoka: Nooo~ Nono-chan wants to go running with Miyako-chan and Yuno-chan~!
 Yuno: Leave me out of this.
-Nonoka: We're going ruuuunning!
+Nonoka: <size=150%>We're going ruuuunning!
 Miyako: No matter how many times you ask, the answer is still no.
-Nonoka: Noooooo!
+Nonoka: <size=175%>Noooooo!
 Nonoka: Oh! What about you, Arale-chan and Ricchan? Wanna go running?!
 Arale: Um, I...
 Ritsu: Sure. I'm in.
@@ -110,13 +110,13 @@ Arale: Yes! Let's go somewhere different next time!
 Yuno: I haven't even agreed to a next time.
 Miyako: My condolences.
 Yuno: Hey?!
-Ritsu: How about a different aquarium?
-Nonoka: Nono-chan wants to go to a pool~!
-Yuno: Absolutely not!
-Miyako: Actually, I think we're good for a while, don't you?
-Arale: Aww, let's do it again soon!
-Nonoka: Again soooon♪
-Ritsu: Again soon.
+Ritsu: <color=#EEEEEE><size=105%>How about a different aquarium?
+Nonoka: <color=#EEEEEE><size=105%>Nono-chan wants to go to a pool~!
+Yuno: <color=#EEEEEE><size=105%>Absolutely not!
+Miyako: <color=#EEEEEE><size=105%>Actually, I think we're good for a while, don't you?
+Arale: <color=#EEEEEE><size=105%>Aww, let's do it again soon!
+Nonoka: <color=#EEEEEE><size=105%>Again soooon♪
+Ritsu: <color=#EEEEEE><size=105%>Again soon.
 Yuno: Ngh...
 Yuno: Haaaaaah...
 Nonoka: Huh? Yuno-chaaaan? Yuuuno-chaaaaaaaaaan!

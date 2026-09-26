@@ -54,7 +54,7 @@ Arale: Wow~~~
 Yuno: ...
 Arale: I can chat with everyone through songs!
 Manager: We've also received a new tie-up offer.
-Mugendai MewType: Huh!?
+Mugendai MewType: <size=130%>Huh!?</size>
 Miyako: We'll have to practice really hard.
 Arale: Training camp!
 Nonoka: Training camp puff puff~
@@ -62,7 +62,7 @@ Yuno: I'll pass.
 Miyako: Me too. I have a deadline.
 Nonoka: They ran away!
 Miyako: Hmph, I'm just going to face reality.
-Arale: I will~~! Chat with everyone through my sooongs!!
+Arale: <size=130%>I will~~! Chat with everyone through my sooongs!!</size>
 Yuno: Don't suddenly yell—
 Ritsu: I will! Eat my way across the entire country!!
 Nonoka: Nono-chan will be Big Nono-chan 47!

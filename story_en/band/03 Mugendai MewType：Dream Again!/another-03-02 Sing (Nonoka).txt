@@ -7,7 +7,7 @@ Shall we cook rice?
 [VR Floor]
 
 Ritsu: Hello...
-Nonoka: Ricchan!!
+Nonoka: <size=175%>Ricchan!!
 Ritsu: Huh...!
 Nonoka: Ricchan and Nono-chan are going to have guitar training time.
 Ritsu: Training...?
@@ -55,7 +55,7 @@ Nonoka: On stage or in front of the monitor, Nono-chan always played alone!
 Ritsu: Oh, you mean Usa Eater-chan.
 Nonoka: Yeah. When Nono-chan played, everyone was all smiles, so Nono-chan was happy too.
 Nonoka: But now there's MewType, and there's a fellow guitarist too!
-Nonoka: Just thinking about it makes my heart all warm, and before I knew it, my arms just started moving on their own~!
+Nonoka: Just thinking about it makes <ruby=here>my heart</ruby> all warm, and before I knew it, my arms just started moving on their own~!
 Ritsu: Me too. I feel like I'm actually playing music for the first time in a while.
 Ritsu: But I also have a feeling we're getting closer to the best lunch... And I'm so excited for the future of this band.
 Nonoka: ...!

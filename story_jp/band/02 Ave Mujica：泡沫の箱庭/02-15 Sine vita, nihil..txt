@@ -22,7 +22,7 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
 (Caption): 戻る 録画 ズーム 音量 メニュー ホーム
 にゃむ: う゛ぇ゛……ウミコじゃん。 家に来るとかマジめんど。無視無視……
-にゃむ: あ〜〜〜もう！！！
+にゃむ: <size=175%>あ〜〜〜もう！！！
 (Background change)
 海鈴: ここだけ綺麗ですね
 にゃむ: ああ？　で、なに？
@@ -36,9 +36,9 @@
 にゃむ: ……はぁ〜。ウミコのことやっぱり信用できない
 海鈴: ！
 にゃむ: アタシには仕事があんの。 それなりに勝算がないとやれるわけないし
-にゃむ: アタシ、アンタみたいなドMじゃないからっ！
+にゃむ: <size=150%>アタシ、アンタみたいなドMじゃないからっ！
 海鈴: あ、そんなに押さないでください
-にゃむ: い〜から帰って！
+にゃむ: <size=175%>い〜から帰って！
 にゃむ: ……
 (Background change)
 モーティス: ——♪
@@ -99,23 +99,23 @@
 (Background change)
 睦: でも忘れたかったからムジカができた……
 (Background change)
-初華: ……！！
+初華: <size=175%>……！！
 (Background change)
 祥子: ぜんぶ忘れさせて……
 (Background change)
 初華: じゃあ…………あれは………
 初華: ——この歌は違うね。CRYCHICじゃない。 いまの燈ちゃんの、MyGO!!!!!の歌だよ
 睦: 初華、黙ってて。 燈、CRYCHICやろう。祥もその方が幸せだから
-睦: だからっ！　もう一度——
-初華: っ！！
+睦: <size=150%>だからっ！　もう一度——
+初華: <size=175%>っ！！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
-初華: 私からさきちゃん取らないで！
-初華: ！！
+初華: <size=175%>私からさきちゃん取らないで！
+初華: <size=175%>！！
 燈 & 睦: ？
 初華: ……ごめん……先に帰るね……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp)
@@ -184,7 +184,7 @@
 (Background change)
 モーティス: やだやだ、消えたくないっ！　ぜったいに消えないもん！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
-『睦』: 私の役、取らないで！
+『睦』: <size=175%>私の役、取らないで！
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
 モーティス: ……！　 睦ちゃんがいないなら、私がその役をやればいい
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)

@@ -36,18 +36,18 @@ Arale: Ricchan...
 Ritsu: We'll be okay... I'm sure of it.
 Arale: Hehe...
 (Background change)
-Arale: I am so, so, so, SO sorry!!
+Arale: I am so, so, so, <size=150%>SO sorry!!
 Nonoka: Whoa.
 Yuno: It's fine... You just did what you wanted, right?
-Arale: Urk!
+Arale: <size=125%>Urk!
 Yuno: Wait, that's not what I meant...
 Yuno: (Did I seriously push her in the wrong direction?)
 Yuno: Oh... You won't be streaming for a while, so that should take some pressure off, right?
-Arale: Uuurk!
+Arale: <size=150%>Uuurk!
 Yuno: Wait, I'm not...
-Arale: N-No! You all have every right to be mad at me!
+Arale: <size=150%>N-No!</size> You all have every right to be mad at me!
 Yuno: No, we're not...
-Arale: I am sooooooooo sorry!!
+Arale: <size=200%>I am sooooooooo sorry!!
 Nonoka: It's okay~ Let's get to band practice!!
 Arale: I know saying sorry isn't enough! So if there's anything I can do to make it up to you, I'll do absolutely anything...!
 Yuno: Careful. Keep flailing like that and...
@@ -115,7 +115,7 @@ Arale: (I couldn't see it back then, but now I know Viola did the same thing to 
 Arale: (I won't just take it lying down anymore. I will never go back to who I was then.)
 Arale: I...
 (Background change)
-Arale: This time, I'm going to fight baaaaaack!!!
+Arale: This time, <size=200%>I'm going to fight baaaaaack!!!
 (Background change)
 (Background change)
 (Message) Manager: Did you manage to get some proper rest today?
@@ -127,7 +127,7 @@ Miyako: Arale-san?
 Arale: ! Miyako-san!
 Arale: Wow~ what a coincidence!
 (Background change)
-Arale: Wooooow!
+Arale: <size=150%>Wooooow!
 Arale: It's the original fan art piece~! This is amazing! So amazing! Wooooow!
 Miyako: They put together this special display ahead of the new volume's release... and I wanted to see it for myself...
 Arale: That's incredible! You drew this in elementary school...?!
@@ -156,12 +156,12 @@ Miyako: *Sigh*...
 ??? (Viola): Excuse me!
 Miyako: ?
 Viola: ...!
-Miyako: (Who is she?!)
+Miyako: <size=150%>(Who is she?!)
 Miyako: (I don't know anyone this gorgeous! Wait, me?! Does she actually need something from me?!)
 Viola: ...
-Miyako: (Eeeeeeeeeeeeeek!)
-Maru-kun: (Get a grip, Miyako!)
-Miyako: (Ghk!)
+Miyako: <size=200%>(Eeeeeeeeeeeeeek!)
+Maru-kun: <size=150%>(Get a grip, Miyako!)
+Miyako: <size=125%>(Ghk!)
 Miyako: U-Um...?
 Viola: I knew it! You're Fujimi Yako-sensei, aren't you?
 Miyako: ...!
@@ -182,7 +182,7 @@ Viola: I'm so glad I got to talk to you.
 Miyako: I-I'm honored...
 Miyako: (She probably charms everyone like this and just breezes through life without a care...)
 Viola: Hehe.
-Miyako: (Ngh...!!!!!)
-Maru-kun: (Miyakoooooooooooooo!!!!!!)
+Miyako: <size=150%>(Ngh...!!!!!)
+Maru-kun: <size=180%>(Miyakooooooooo<voffset=-1.2em><pos=5.8em>ooooo!!!!!!)</voffset>
 Viola: Thank you very much...
 (Background change)

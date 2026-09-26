@@ -205,7 +205,7 @@ Arale: ...
 Arale: !  Fairy Bouquet 1st Visual Book Meet-and-Greet...?
 Arale: Wait, so I'm at Suzunare?!
 Viola: Hello~! We're Fairy Bouquet!
-The Audience: Wooooo!
+The Audience: <size=120%>Wooooo!</size>
 (Background change)
 Viola: Thank you all so much for coming to Fairy Bouquet's very first event! I'm Viola, the leader!
 Bell: Right side, check! Left side, check! Fairy Bouquet's Bell here! Nice to meetcha!
@@ -221,7 +221,7 @@ Arale: (I can't do anything to help, but...)
 Bell: Today we've got our "Anything Goes" Q&A, where we'll answer your questions, plus the meet-and-greet and more!
 Popo: We've got plenty in store for you today, but first, a major announcement!
 Viola: Thanks to all your support... we're releasing our very first single!
-The Audience: Wooooo!
+The Audience: <size=200%>Wooooo!</size>
 Viola: !
 Arale: ?!
 Viola: ...
@@ -262,10 +262,10 @@ Popo: Guess this is what makes an event special.
 (Background change)
 Arale & Ritsu: Haa... Haa...
 Ritsu: *Sigh*...
-Arale: What am I doing?!
+Arale: <size=150%>What am I doing?!</size>
 Arale: I just dragged Ricchan away from their event!!
 Arale: Poaching?! Kidnapping?! Theft?!
-Arale: I'm a thieee eeef?!
+Arale: <size=250%>I'm a thieee<br><align="right">eeef?!</size>
 Arale: What do I do?! They might sue me! How did this even happen?! I really messed up!
 Ritsu: ...
 Arale: I'm scared... I don't know what to do. Why... Why does everything always end up like this...?

@@ -113,8 +113,8 @@ Mutsumi: I also want to apologize to Tomori.
 Soyo: Mutsumi-chan, there's nothing you need to apologize for.
 Mutsumi: Eh...
 Taki: Ah, Anon. Hey.
-Taki: So annoying!
-Anon: "Rehearsal is about to start! Didn't we agree to take the live seriously!?"
+Taki: <size=175%>So annoying!
+Anon: <size=150%>"Rehearsal is about to start! Didn't we agree to take the live seriously!?"
 (Background change)
 (Background change)
 Mutsumi: Tomori...
@@ -196,7 +196,7 @@ Rāna: Okay.
 (Subtitle) sakiko: (I'll never forget today's performance as long as I live.)
 Everyone: Haa... Haa...
 Tomori: ! Thank you, everyone...!
-Anon: Wait, wait! There's still MyGO!!!!!'s rehearsal! It's not over yet!
+Anon: <size=150%>Wait, wait! There's still MyGO!!!!!'s rehearsal! It's not over yet!
 Soyo: ...I should probably cool my eyes...
 Sakiko: Mutsumi.
 Mutsumi: Ah... Thank you for the guitar.

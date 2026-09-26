@@ -13,11 +13,11 @@ Yomogi: W-Well...
 Raika: Oh? You were playing bass!
 Yomogi: Ah, I-I was just finishing up, so I'll put it away right now. I can't let you listen to something so awful...!
 Raika: Wait, wait! Let me hear it before you put it away!
-Yomogi: No, no, no! I can't let you hear iiit!!
+Yomogi: <size=60％>No, no, no! I can't let you hear iiit!!</size>
 Yomogi: I've never once managed to play it through without making a mistake, and my fingers hurt so much that I'm making even more mistakes...!
 Yomogi: I'm a hopeless nobody with weak hands and an even weaker heart... I'll be the band's dead weight before I know it... Uuugh...
 Raika: I see. Let me see your fingers.
-Yomogi: Eeeek!! You can't just touch me out of nowhere! It's bad for my heart!
+Yomogi: <size=90％>Eeeek!!</size> You can't just touch me out of nowhere! It's bad for my heart!
 Raika: Oh, sorry. Are the pads of your fingers all soft and squishy?
 Yomogi: Huh? Oh, yes. That's what hurts...
 Raika: I know, it hurts, right~? Mine did too when I first started playing guitar.

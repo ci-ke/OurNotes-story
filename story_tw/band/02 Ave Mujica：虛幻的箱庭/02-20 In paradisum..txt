@@ -50,7 +50,7 @@
 若麥：「我知道這對投胎轉世來說是必要的！」
 若麥：「可是，連愛都會消失嗎？悲傷呢？恐懼呢？ 遺忘呢？──死亡呢？」
 睦：「切勿畏懼。」
-若麥：！
+若麥：<size=175%>！
 睦：「好好注視自己的樣貌。」
 若麥：這是要陪我練習的意思嗎？
 睦：……我知道了。請吧，Amoris。
@@ -59,7 +59,7 @@
 （背景切换）
 （背景切换）
 （背景切换）
-祥子：我們要用最快速度再次出道。
+祥子：<size=150%>我們要用最快速度再次出道。
 若麥：再次出道！？
 海鈴：確實也有以這種方式讓解散的樂團重新復活。
 睦：又要加入經紀公司嗎？
@@ -76,8 +76,8 @@
 祥子：我們必須盡速成為一個堅強的樂團。
 祥子：我已經領悟了。 沒有必要乖乖接受命運的安排。
 祥子：神並不存在。所以說──
-祥子：我要成為神。
-海鈴 & 若麥：！？
+祥子：<size=150%>我要成為神。
+海鈴 & 若麥：<size=175%>！？
 若麥：神！？
 祥子：只要是為了Ave Mujica， 我什麼都會利用，什麼事都願意做。
 （背景切换）
@@ -155,7 +155,7 @@ Timoris：「恐懼」呢？
 Doloris：不對。
 Mortis：我能帶給妳「死亡」。
 Doloris：我不需要！不是愛，不是恐懼，不是死亡，也不是悲傷！ 只有遺忘能將我從痛苦中救出！
-？？？（Oblivionis）：──真的嗎？
+？？？（Oblivionis）：<size=150%>──真的嗎？
 Doloris：咦？這聲音是……？
 ？？？（Oblivionis）：遺忘真的是妳來到此地的唯一理由？
 Doloris：又來了！時時刻刻圍繞在我耳邊的這聲音！
@@ -175,7 +175,7 @@ Oblivionis：究竟還要再重複多少次？ 不論給予妳多少次的遺忘
 Doloris：您在說什麼……我今天是第一次來到這裡……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000172/data/adv_still_anime_000172/adv_still_anime_000172.webp）
 ？？？（Doloris）：真的嗎？
-Doloris：！？
+Doloris：<size=175%>！？
 ？？？（Doloris）：回想起來吧，Doloris。妳已經來到這裡多少次了？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp）
 ？？？（Doloris）：為什麼妳會知道Oblivionis的名字？ 為什麼妳會渴求遺忘？

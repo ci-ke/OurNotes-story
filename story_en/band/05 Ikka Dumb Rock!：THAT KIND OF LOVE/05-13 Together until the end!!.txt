@@ -144,7 +144,7 @@ Chieri: If only it had been a mistake...!
 Everyone: ...
 Raika: I-It's okay! We still have two days!
 Raika: Look, there was a day when it jumped by like 10%! If we try even harder than we did that day—
-Chieri: Chieri is trying hard every second!!
+Chieri: <size=120%>Chieri is trying hard every second!!</size>
 Chieri: We tried hard, and this is the result...! So why are you still able to smile...!?
 Raika: Sorry...
 Raika: I just felt like I had to smile.

@@ -136,7 +136,7 @@ Mortis：哇……好破旧
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp）
 乐奈：——♪
 Mortis：哇……！
-睦：在歌唱呢
+睦：<size=200%><cspace=0.25em><voffset=0.25em>在<voffset=0em>歌<voffset=0.25em>唱</voffset>呢
 乐奈：嗯
 Mortis：……！小睦？
 众人：？
@@ -166,11 +166,11 @@ Mortis：放心吧。我会保护你远离一切可怕的事情。 所以，小�
 Mortis：诶
 睦：你说交给你，结果却是这样。太过分了
 睦：祥呢？祥在哪里？
-Mortis：～～！
+Mortis：<size=175%>～～！
 睦：Mortis？让我和祥见面
 （背景切换）
-Mortis：不行！
-众人：！？
+Mortis：<size=175%>不行！
+众人：<size=175%>！？
 Mortis：小睦什么都不懂！
 立希：什么，怎么回事？
 爱音：走掉了。但刚才她说『小睦』……

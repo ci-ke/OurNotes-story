@@ -5,10 +5,10 @@
 (Background change)
 そよ: （睦ちゃん……学校にも来ないし、 どうしてるんだろう……）
 (Background change)
-: Ave Mujica　モーティス
-: モーティス　睦ちゃん
-: モーティス　死亡
-: モーティス　消えた
+: <align="center">Ave Mujica　モ<color=#000000><mark=#C0C0C080>ーティス
+: <align="center">モーティス<color=#000000><mark=#C0C0C080>　睦ちゃん
+: <align="center">モーティス<color=#000000><mark=#C0C0C080>　死亡
+: <align="center">モーティス<color=#000000><mark=#C0C0C080>　消えた
 (Background change)
 そよ: っ……！
 そよ: （……睦ちゃんに……会いに行かなくちゃ……）
@@ -82,7 +82,7 @@
 愛音: ……まかせて。 私中学３年間、クラスでアンカーだったから！
 (Background change)
 祥子: ……出してちょうだい
-愛音: すみません、ちょっと待ってください！
+愛音: <size=150%>すみません、ちょっと待ってください！
 執事: 恐れ入りますが——
 愛音: 私、友達ですっ
 祥子: ……
@@ -98,7 +98,7 @@
 愛音: わっ、この部屋ビリヤードある！　ヤバくない？
 祥子: ……燈、話があって来たのでしょう？
 燈: ……っ
-燈: さきちゃん……っ！　バンドやろうっ！
+燈: <size=150%>さきちゃん……っ！　バンドやろうっ！
 愛音: えっ……
 祥子: （……わたくしは何を期待していたというの。 こうなることはわかっていたはず。 なのに、おとなしく連れて来たりして——）
 祥子: （本当に、本当に……自分が嫌になりますわ）
@@ -138,7 +138,7 @@
 燈: えっ
 立希: ……首突っ込んで燈が傷つくのいやだから
 燈: あっ……
-愛音 & 立希 & 燈: っ！？
+愛音 & 立希 & 燈: <size=175%>っ！？
 楽奈: バンドしよ
 愛音: ちょっと〜、そよりんまだだよ
 立希: そのうち来るでしょ
@@ -163,7 +163,7 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp)
-そよ: ！？
+そよ: <size=175%>！？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp)
 モーティス: ……
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp)

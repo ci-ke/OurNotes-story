@@ -6,7 +6,7 @@ Why do I always... mess things up so badly?
 Mutsumi: (Failure is not an option... There's no turning back... Haa... Haa...)
 Amoris: Give me back my perfect face! Give me back those beautiful, pitiful eyes! Give me back those gracefully curved lips...!
 (Background change)
-Mutsumi: ...!
+Mutsumi: <size=175%>...!
 Mutsumi: (It started? When?)
 Amoris: This... this isn't the real me!
 Oblivionis: Amoris, this is what you wished for.
@@ -56,7 +56,7 @@ Uika: Huh...?
 Umiri: Because it was so perfect, it didn't seem impromptu...
 Sakiko: Anyway, at least the staff was convinced. Why did you do something like that?
 Mutsumi: The guitar... I made a mistake.
-Nyamu & Uika & Sakiko: !?
+Nyamu & Uika & Sakiko: <size=175%>!?
 Nyamu: You mean it wasn't pre-planned or an impromptu?
 Uika: Mutsumi-chan, I didn't know you would make mistakes during live performances...
 Umiri: And you just froze on stage without even trying to bluff your way out?
@@ -148,7 +148,7 @@ Mutsumi: So...! I can't... enjoy the band...!
 (Background change)
 Sakiko: I am quitting CRYCHIC.
 (Background change)
-Sakiko: Waaahhh...
+Sakiko: <size=175%>Waaahhh...
 Mutsumi: !!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000106/data/adv_still_anime_000106/adv_still_anime_000106.webp)
 Mutsumi: No... That's not what I mean...
@@ -174,8 +174,8 @@ Mutsumi: ...
 
 Sakiko: ...
 (Background change)
-(Online Article): Ave Mujica Nationwide Tour First Day: A Huge Success! Praise for Mortis (Mutsumi Wakaba)'s Performance
-(Online Article): The motionless Mortis looked just like a real "doll."
+(Online Article): <align="center">Ave Mujica Nationwide Tour First Day: A Huge Success! Praise for Mortis (Mutsumi Wakaba)'s Performance
+(Online Article): <align="center">The motionless Mortis looked just like a real "doll."
 Comment A: Mutsumi-chan's performance was amazing! I absolutely want to see it live on the nationwide tour!!
 (Background change)
 Sakiko: ...
@@ -353,7 +353,7 @@ Sakiko: How far are you going to follow me?
 Mutsumi: ...
 Sakiko: Why don't you just say you don't want to do it? You want to play the guitar more than perform, don't you? But you...
 Mutsumi: Whenever I speak up, I ruin everything...
-Sakiko: Stop playing innocent!!
+Sakiko: <size=175%>Stop playing innocent!!
 Mutsumi: !
 Sakiko: Is this the time to worry about that? If this continues, Mujica won't be Mujica anymore!
 Mutsumi: Saki—

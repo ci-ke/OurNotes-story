@@ -16,11 +16,11 @@ Mortis: I'm going to disappear... I don't want to disappear.
 Umiri: How about reuniting with me as well?
 Umiri: Would you like to reform Ave Mujica with me? That's all I wanted to say.
 (Background change)
-Mortis: !!
+Mortis: <size=175%>!!
 (Background change)
 Umiri: What do you think, Togawa-san?
 Mortis: ! No, no, no...! I don't want to die!
-Mortis: No, no, no! I don't want to die!
+Mortis: <size=175%>No, no, no! I don't want to die!
 (Background change)
 Mutsumi: Saki...
 Sakiko: Ave Mujica... is already...
@@ -81,7 +81,7 @@ Sakiko: You want to sing again, right?
 Mutsumi: I want to reunite CRYCHIC with you, Saki.
 Sakiko: Eh?
 Mutsumi: Again.
-Mortis: Didn't I tell you we're never doing this!?
+Mortis: <size=175%>Didn't I tell you we're never doing this!?
 Sakiko: !
 Mortis: Sakiko-chan, you too. Following us shamelessly.
 Sakiko: Mortis. Thank you for letting me play with the CRYCHIC members the other day.
@@ -147,7 +147,7 @@ Mortis: The character "Mutsumi" gained the consciousness we call  "Mutsumi-chan"
 Mortis: Because I held onto the role of Mutsumi-chan's savior, I survived, and became Mortis of Ave Mujica.
 Mortis: It was Sakiko-chan who created all this.
 Sakiko: ...
-Mortis: "Mutsumi-chan" and "Mortis"—
+Mortis: "Mutsumi-chan" and "<r=I>Mortis</r>"—
 (Background change)
 Minami & Mortis: A "Monster."
 (Background change)
@@ -162,8 +162,8 @@ Mortis: I have to save Mutsumi-chan, so I need this stage of Ave Mujica.
 Mortis: If I disappear, Mutsumi-chan will be in trouble, too. So, let's play as Ave Mujica.
 Sakiko: That means... You wish to let Mutsumi suffer forever?
 (Background change)
-Mortis: How is that your takeaway!?
-Mortis: I mean, that's not wrong, but that's not what I mean!
+Mortis: <size=175%>How is that your takeaway!?
+Mortis: <size=175%>I mean, that's not wrong, but that's not what I mean!
 Mutsumi: ...Bring CRYCHIC back.
 Mortis: What are you talking about!? CRYCHIC is gone!
 Mortis: Why don't you understand? You should understand why Sakiko-chan cried, right?
@@ -184,5 +184,5 @@ Mortis: Eh?
 Mutsumi: You hurt Saki... You also ruined Ave Mujica. Everything you've done is not what I wanted.
 Mutsumi: I don't need you...
 Mortis: ...! I don't need Mutsumi-chan!
-Mutsumi: You're the one not needed.
-Mortis: Doooon't!! Don't, don't! Don't come over here——!!!
+Mutsumi: <size=175%><cspace=0.2em><cspace=0.15em><voffset=0.2em>You're <voffset=-0.1em>the <voffset=0.35em>one</voffset> not needed.
+Mortis: <size=140%>Doooon't!! Don't, don't! Don't come over here——!!!

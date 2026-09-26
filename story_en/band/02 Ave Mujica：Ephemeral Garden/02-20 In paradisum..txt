@@ -50,7 +50,7 @@ Sakiko: (Thank you. May your future be filled with abundant happiness...)
 Nyamu: "I know it's necessary in order to be reborn!"
 Nyamu: "But will love be gone too? What about sadness? Fear? Forgetfulness? Death?"
 Mutsumi: "I do not fear."
-Nyamu: !
+Nyamu: <size=175%>!
 Mutsumi: "Take a good look at yourself."
 Nyamu: Are you going to accompany me?
 Mutsumi: Okay. Go ahead, Amoris.
@@ -59,7 +59,7 @@ Nyamu: Ain't no way I'm gonna lose to you...!
 (Background change)
 (Background change)
 (Background change)
-Sakiko: We are going to make our comeback as fast as possible.
+Sakiko: <size=150%>We are going to make our comeback as fast as possible.
 Nyamu: Comeback!?
 Umiri: It's not rare for a disbanded band to reunite.
 Mutsumi: Are we going to join an agency again?
@@ -76,8 +76,8 @@ Uika: Yeah...
 Sakiko: We need to quickly transform into a strong and solid band.
 Sakiko: I have come to realize. There is no need to meekly accept fate.
 Sakiko: There is no such thing as God. So...
-Sakiko: I will become God myself.
-Umiri & Nyamu: !?
+Sakiko: <size=150%>I will become God myself.
+Umiri & Nyamu: <size=175%>!?
 Nyamu: God!?
 Sakiko: I'll do anything and use whatever it takes for Ave Mujica.
 (Background change)
@@ -155,7 +155,7 @@ Timoris: How about fear?
 Doloris: It's not.
 Mortis: I offer death.
 Doloris: I don't need any of that! Not love, not fear, not death, not sorrow! Only forgetting can save me from this torment!
-??? (Oblivionis): Really?
+??? (Oblivionis): <size=150%>Really?
 Doloris: ? This voice...
 ??? (Oblivionis): Is forgetting the only reason you came to this land?
 Doloris: It's happening again! This voice I always hear!
@@ -175,7 +175,7 @@ Oblivionis: How many times must I tell you? No matter how many times I grant you
 Doloris: What are you saying...? Today is the first time I've come here...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000172/data/adv_still_anime_000172/adv_still_anime_000172.webp)
 ??? (Doloris): Really?
-Doloris: !?
+Doloris: <size=175%>!?
 ??? (Doloris): Remember, Doloris. How many times have you visited this land?
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp)
 ??? (Doloris): Why do you know the name of Oblivionis? Why do you seek forgetfulness?
@@ -209,7 +209,7 @@ Oblivionis: In this twilight paradise, I will continue to reign!
 (Caption): 天球のMúsica　ライブシーン
 (Background change)
 Storyteller: And so, they continue to perform.
-Storyteller: What does the next play beckon? Is it Paradise or Hell?
+Storyteller: What does the next play <r=>beckon</r>? Is it <r=Eden>Paradise</r> or <r=Gehenna>Hell</r>?
 (Background change)
 Storyteller: The frenzied applause never ceases. In a play whose ending remains unknown, the dream the girls see is...
 (Background change)

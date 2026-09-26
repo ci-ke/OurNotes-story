@@ -37,10 +37,10 @@ Umiri: Too bad for you, culprit. Every piece of evidence here points to you.
 Mutsumi: ......
 Umiri: Would you tell me just one more thing? Why? Why did you commit a crime like this?
 Mutsumi: What could you...
-Mutsumi: What could you possibly know!? A kid like you!
-Umiri: Huh!?
+Mutsumi: <size=150%>What could you possibly know!? A kid like you!
+Umiri: <size=175%>Huh!?
 Mutsumi: Betrayed by the ones I loved...! I've lost my family, my friends, even the hope to live! These feelings... how could you understand...!!
-Mutsumi: That's why! It's a good thing that person is gone!
+Mutsumi: <size=150%>That's why! It's a good thing that person is gone!
 Umiri: ....
 Mutsumi: Next, your line.
 Umiri: Huh, ahh...! Um, the next line is...

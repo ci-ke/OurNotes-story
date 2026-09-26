@@ -136,7 +136,7 @@
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
 楽奈: ——♪
 モーティス: わぁ……！
-睦: 歌ってる
+睦: <size=200%><cspace=0.25em><voffset=0.25em>歌<voffset=0em>っ<voffset=0.25em>て</voffset>る
 楽奈: ん
 モーティス: ……っ！　睦ちゃん？
 一同: ？
@@ -166,11 +166,11 @@
 モーティス: え
 睦: 任せてって言ったのに。あんなのひどい
 睦: 祥は？　祥はどこ？
-モーティス: 〜〜っ！
+モーティス: <size=175%>〜〜っ！
 睦: モーティス？　祥に会わせて
 (Background change)
-モーティス: だめっ！
-一同: ！？
+モーティス: <size=175%>だめっ！
+一同: <size=175%>！？
 モーティス: 睦ちゃんはなんにもわかってない！
 立希: なに、どういうこと？
 愛音: 行っちゃった。でもいま『睦ちゃん』って……

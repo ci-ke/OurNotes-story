@@ -115,10 +115,10 @@ Nonoka: Then Nono-chan can just be Nono-chan~!
 Arale: Okay...
 Nonoka: Ready, set~!
 Arale: Huh?! N-Nono... N-No... Nono-nono-nono-nono...
-Arale: Nngh!
+Arale: <size=250%>Nngh!
 Yuno: Huh?
 Miyako: ...!
-Nonoka: Arale-chaaaaaaaaaan!!!
+Nonoka: <size=150%>Arale-chaaaaaaaaaan!!!
 (Background change)
 Manager: All right, she's not bleeding.
 Arale: Yeth... (Yes.)
@@ -142,14 +142,14 @@ Yuno: What are you even talking about...?
 Arale: ...
 Nonoka: Oh.
 (Background change)
-Arale: AAAAAAAAAAAAAAAAAAAAAH!!!
+Arale: <size=150%>AAAAAAAAAAAAAAAAAAAAAH!!!
 Arale: Uuugh... I was a fail-fail-failure at life today~~~~~
 Arale: I did it again...! I got all carried away, started blabbing nonstop, and even tried to sing, aaaaaaagh~~~~~!!
 Arale: Just because school went okay, I got cocky! Then I made things weird for Yuno-no-san-chan-san! I blew it!
-Arale: Fail-fail-fail-fail...
+Arale: <size=95%>Fail</size><size=90%>-fail</size><size=85%>-fail</size><size=80%>-fail</size><size=75%>...
 Arale: Ugh... Maybe tomorrow I can keep it to just fail-fail...
-Arale: Okay, tomorrow... First! No blurting things out! Second! No singing!
-Arale: Third! Absolutely no talking or singing!
+Arale: Okay, tomorrow... <size=150%>First! No blurting things out!</size> <size=150%>Second! No singing!</size>
+Arale: <size=200%>Third! Absolutely no talking or singing!</size>
 Arale: Mhm! Good night!
 (Background change)
 
@@ -243,14 +243,14 @@ Arale: (But I had to give myself some reason to get out, or I'd have stayed like
 Arale: (No, no! Happy thoughts only! When I get home, I'll put up the stickers I got at the collab Café...)
 Arale: Whoa! S-Sorr—
 Ritsu: Oh...
-Arale: (Aaaaaaaaaaaaaaaaaaaaaah!!???!!!)
+Arale: <size=150%>(Aaaaaaaaaaaaaaaaaaaaaah!!???!!!)
 Ritsu: Um...
-Arale: W-Well~~~~~~ what a coincidence!
+Arale: <size=150%>W-Well~</size><size=140%>~</size><size=130%>~</size><size=120%>~</size><size=110%>~</size>~ what a coincidence!
 Arale: Sorry I couldn't talk yesterday! It'd been so long since we'd seen each other that I panicked! Your school's around here, right? Mine too!
 Arale: I've never commuted by train, so rush hour nearly kills me every morning. But abyss logic gets me by: when you're shoved, you're shoving someone too!
 Arale: And Akihabara has so many stores for everything I'm into! The second I get off the train, it's nothing but fun!
 Arale: Like the Café I just went to with my friends! Order all eight items and you get every sticker, no random pulls! So fan-friendly! I'm gonna burst!
-Arale: It's up on the seventh floor, and the food's great even without the collab! You should try it! Hope it's sunny tomorrow too! Bye!
+Arale: It's up on the seventh floor, and the food's great even without the collab! You should try it! Hope it's sunny tomorrow too! <size=150%>Bye!</size>
 Ritsu: You've gotten so far away...
 Yuno: ...
 Yuno: They've got history, huh...?

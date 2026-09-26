@@ -31,15 +31,15 @@ Sakiko: What do you think I've worked so hard for?
 Sakiko: (Cut off the unfulfilled memories and forget all about it— with that sole purpose in mind, I created Ave Mujica...)
 Sakiko: (All started... from that moment.)
 (Background change)
-Tomori: I...! All I can do is try my absolute hardest!
-Tomori: Because my songs are screams from my heart!
+Tomori: <size=175%>I...! All I can do is try my absolute hardest!
+Tomori: <size=175%>Because my songs are screams from my heart!
 Sakiko: Tomori...
 Sakiko: ...!!
 Sakiko: (This song is...)
 Tomori: —♪
 Mutsumi: Haruhikage, but not from CRYCHIC...
 Tomori: ♪Please, just stay like this—and don't let me go
-Sakiko: ...!
+Sakiko: <size=175%>...!
 Mutsumi: Ah, Saki...
 (Background change)
 Sakiko: Haa... Haa...!
@@ -184,7 +184,7 @@ Nyamu: Perfect?
 Sakiko: (? She messed up the line...?)
 Nyamu: Ahahahaha! No one wants to see such a forced smile!
 Nyamu: You need a sincere smile... Like this!
-Sakiko: ...!?
+Sakiko: <size=200%>...!?
 Audience A: Eh, Nyamuchi!?
 Audience B: Nyamuchi? That streamer!?
 Nyamu: Hehehehe!
@@ -193,7 +193,7 @@ Nyamu: I can't hear you~
 Nyamu: Hey, Mortis. What does your real face look like?
 Mutsumi: ...
 Nyamu: Let me see!
-Mutsumi: !!!!
+Mutsumi: <size=175%>!!!!
 Audience C: She's the daughter of Wakaba and Minami Mori!
 Mutsumi: ...
 Nyamu: What a crumpled face!
@@ -218,7 +218,7 @@ Uika: ...
 Sakiko: (Uika, you need not to expose yourself as well...)
 Uika: ...
 Sakiko: (Uika...!)
-Audience A: It's Uika-chan!
+Audience A: <Size=175%>It's Uika-chan!
 Audience C: How!? Ave Mujica is insane!!
 Storyteller: Her secret is revealed under the moon, and the dolls regain their human form.
 Storyteller: Is that bliss or doom—The wheel of fate will never stop.

@@ -17,8 +17,8 @@ Sakiko: Stop! Let go!
 Soyo: Come on, let's go to Mutsumi-chan's house.
 Sakiko: Didn't I tell you to let go!?
 Soyo: Are you trying to run away!?
-Sakiko: And I'm saying that I'm not going! Let go of me!
-Soyo: I won't let go!
+Sakiko: <size=150%>And I'm saying that I'm not going! Let go of me!
+Soyo: <size=175%>I won't let go!
 Sakiko & Soyo: Haa... Haa......
 Soyo: Mutsumi-chan said she wants to see you.
 Sakiko: !
@@ -41,9 +41,9 @@ Soyo: Saki-chan, please...
 Sakiko: ...
 Mortis: Do you even have human blood running through your veins?
 Sakiko & Soyo: !
-Mortis: You're not human! After all this time, you just show up like nothing happened!
+Mortis: <size=140%>You're not human! After all this time, you just show up like nothing happened!
 Anon: Eh...?
-Mortis: Get out! I don't want to see you! Get out!
+Mortis: <size=150%>Get out! I don't want to see you! Get out!
 Soyo: Mortis-chan...
 Mortis: You're a traitor too...! You, and you too! Get out...
 Sakiko: ...
@@ -120,19 +120,19 @@ Mortis: Please stop talking. All you do is say annoying things. Shut up.
 Mutsumi: But...
 Mortis: Stop talking.
 Mutsumi: I want to see Saki.
-Mortis: ! Stop it, stop it, stop it, shut up!!
+Mortis: <size=175%>! Stop it, stop it, stop it, shut up!!
 (Background change)
 (Background change)
 Sakiko: ...
 Mutsumi: Haa... Haa... Saki.
 Sakiko: ! Mutsumi!
 Mutsumi: Saki... Saki!
-Mortis: Don't touch me!
+Mortis: <size=175%>Don't touch me!
 Sakiko: Mutsumi...
 Mortis: ! It's not like that! I'm—
 Sakiko: Mutsumi... Thank goodness. I finally... finally...
 Sakiko: As long as you can return to normal, I'll do anything, I... will make sure you...
-Mortis: ...! Don't touch me!
-Mortis: Get out! Get out!
+Mortis: <size=175%>...! Don't touch me!
+Mortis: <size=175%>Get out! Get out!
 Sakiko: ...
 Mortis: Haa... Haa... Am I... the bad kid here?

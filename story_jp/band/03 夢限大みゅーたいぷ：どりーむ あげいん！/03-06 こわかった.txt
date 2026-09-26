@@ -44,7 +44,7 @@ A子: ん～
 律: ！　私、 クレマチスにします！
 ビオラ: 気に入ってもらえてよかった♡
 (Background change)
-律: クレマチスです。よろしくお願いします！
+律: <size=150%>クレマチスです。よろしくお願いします！
 律: あた～……
 あられ: りっ……！
 ビオラ: クレマチス、大丈夫～？
@@ -175,7 +175,7 @@ A子: あー、 うん。ビオラの方に賛成……
 (Message) 律: ビオラのことで話があって
 律: ……相談、するべきかな……
 律: ？
-(Message) ビオラ: これみた？ http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... 
+(Message) ビオラ: これみた？ <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
 律: ……？
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp)
 ビオラ: 次の歌ってみた、『ライオンダンス』 にしようよ

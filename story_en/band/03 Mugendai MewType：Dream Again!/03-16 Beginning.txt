@@ -217,7 +217,7 @@ Ritsu: Back in elementary school, I always thought Arale-chan's comments on Magi
 Ritsu: The set of watching Magilulu on Sunday, and then hearing you talk about it on Monday was my favorite, Arale-chan.
 Arale: Huh~
 Arale: ! It's Raki-chan. Hello.
-Raki: "It's terrible!"
+Raki: <size=150%>"It's terrible!"</size>
 Arale: Huh? What's wrong?
 Ritsu: ...
 Bota: "Umm, there's a video online of Arale-chan and Yako-sensei fighting."

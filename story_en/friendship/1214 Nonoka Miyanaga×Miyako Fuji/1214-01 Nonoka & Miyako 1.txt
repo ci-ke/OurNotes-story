@@ -4,11 +4,11 @@
 
 [After Band Practice]
 
-Nonoka: No!
+Nonoka: <size=50>No!</size>
 Miyako: No—
-Nonoka: No!
+Nonoka: <size=50>No!</size>
 Miyako: No—
-Nonoka: -chan!
+Nonoka: <size=50>-chan!</size>
 Miyako: ka-san.
 Nonoka: C'mooooon!
 Nonoka: Not "Nonoka-san"! Yes, "Nono-chan"!!

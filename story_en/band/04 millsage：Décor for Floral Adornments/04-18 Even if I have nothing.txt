@@ -28,7 +28,7 @@ Houka: Ehehe, not at all. It's all thanks to everyone.
 (Houka): Just through that, and by pure luck, I happened to end up at the center of my social circle, and I gradually began to wonder...
 (Houka): "What exactly is it about me that people value?"
 (Houka): I don't possess any exceptional talent, nor have I put in any blood, sweat, and tears.
-(Houka): So why was someone like me "at the center of the circle?"
+(Houka): So why was someone like me "at the <ruby=>center</ruby> of the <ruby=>circle</ruby>?"
 (Houka): ...After that, a classmate invited me to join a band, but that question only grew louder with each passing day.
 (Background change)
 Audience A: That vocalist is amazing!

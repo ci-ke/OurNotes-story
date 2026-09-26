@@ -115,7 +115,7 @@ Manager: You've been working so hard to meet your deadlines. Consider it a littl
 Maru-kun: Marui!
 Manager: And now for the bad news.
 Manager: MewType's social media is getting ugly.
-Arale: Eeeeeeeeeeeeeeeeeep!!!???
+Arale: <size=150%>Eeeeeeeeeeeeeeeeeep!!!???
 Nonoka: She logged out.
 Manager: Nakamachi-saaaan!!!
 Arale: I haven't even said anything yet... My mouth only gets me in trouble... Speak no evil... Speak no evil... Speak no evil...
@@ -164,16 +164,16 @@ Maru-kun: Oh, the band? You got so dazzled by the illustration gig, you forgot t
 Miyako: I'm working myself to the bone on manga, illustration work, and band practice, just to put one more weapon in my arsenal...!
 Miyako: I know I'm nowhere near exceptional enough to make a living from manga alone...
 Maru-kun: Well... Guess it never hurts to have more weapons.
-Miyako: Exactly!!
+Miyako: <size=150%>Exactly!!
 Miyako: To survive this chaos, I'll do whatever it takes! I'm lucky just to get a shot at all... Ngh!
 Maru-kun: You having an attack?!
 Miyako: ...!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000209/data/adv_still_anime_000209/adv_still_anime_000209.webp)
 Miyako: Phewwww...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000210/data/adv_still_anime_000210/adv_still_anime_000210.webp)
-Miyako: I need healing! More healing!
+Miyako: <size=150%>I need healing! More healing!
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000211/data/adv_still_anime_000211/adv_still_anime_000211.webp)
-Miyako: Awwwwww...
+Miyako: <size=150%>Aw</size><size=140%>w</size><size=130%>w</size><size=120%>w</size><size=110%>w</size><size=100%>w</size>...
 Miyako: So cuuute... Only cuteness can make me feel bettew...
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000209/data/adv_still_anime_000209/adv_still_anime_000209.webp)
 (CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000210/data/adv_still_anime_000210/adv_still_anime_000210.webp)
@@ -183,7 +183,7 @@ Miyako: Nyo-momo... Nyu-kiki...
 Miyako: *Gasp*!
 Miyako: All right... Send the storyboards by midnight, then finish roughs for five chibi characters by dawn!
 (Background change)
-Miyako: I'm gonna survive this worrrrrld! Just you watch!!
+Miyako: <size=200%>I'm gonna survive this worrrrrld! Just you watch!!
 (Background change)
 (Background change)
 (Background change)
@@ -207,7 +207,7 @@ Nonoka: You're here early~ Studying before class?
 Miyako: ...
 Nonoka: ?
 Miyako: About what happened on our social media, I'm terribly sorry for all the trouble I cau...
-Miyako: Gah!?
+Miyako: <size=150%>Gah!?
 Miyako: W-Why are you hugging me...?!
 Nonoka: Halfsies!
 Miyako: ????
@@ -243,7 +243,7 @@ Arale: (Class B is right above mine! Just knowing Yako-sensei is up there workin
 Nonoka: ...
 Nonoka: Arale-chan.
 Arale: ?
-Arale: Gaaaaaaaaah!!!???
+Arale: <size=150%>Gaaaaaaaaah!!!???
 Arale: Whaaaaaat?! A-A headbutt?!?
 Nonoka: Huh?
 Nonoka: Hmm~ Arale-chan, give me your hand!
@@ -280,4 +280,4 @@ Arale: Power...
 Nonoka: Mm-hm!
 Nonoka: Let's give Miyako-chan a big "mwah~"!
 Arale: ...
-Arale: A mwaaaaaaaaaah???
+Arale: <size=200%>A mwaaaaaaaaaah???

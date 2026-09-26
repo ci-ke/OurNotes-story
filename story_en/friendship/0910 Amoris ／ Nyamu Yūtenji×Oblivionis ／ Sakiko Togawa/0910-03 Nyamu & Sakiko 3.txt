@@ -18,7 +18,7 @@ Nyamu: (I'm getting hungry too... I should eat something when I get home. What d
 Nyamu: (Ugh, I'm too tired to remember. And I can't be bothered to cook...)
 Nyamu: (I guess I'll just get delivery today.)
 Nyamu: (What did I order last time...? Oh right, the rice noodles. That was really good~ But I'm not in the mood for that now, so maybe something else... Huh?)
-Nyamu: Salad-Stuffed Chikuwa Tempura
+Nyamu: <size=175%>Salad-Stuffed Chikuwa Tempura
 Sakiko: !?
 Nyamu: Yes, I'm definitely getting this! And then~
 Sakiko: Salad-Stuffed... What's that?

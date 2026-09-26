@@ -115,7 +115,7 @@ Viola：……
 丸君：丸丸！
 經紀人：那麼，我要接著講壞消息了。
 經紀人：MewType的SNS炸開了。
-阿拉蕾：呀啊────────────────！！！？？？
+阿拉蕾：<size=150%>呀啊────────────────！！！？？？
 野乃花：她登出了。
 經紀人：仲町同學──！！！
 阿拉蕾：我什麼都還沒說耶……我的嘴是萬惡之淵…… 不准開口……不准開口……不准開口……
@@ -164,16 +164,16 @@ Viola：……
 都子：我為了多一項武器， 漫畫、插畫、樂團練習全都拚命在做……！
 都子：自己還沒強到能只靠漫畫活下去， 這我很清楚……
 丸君：……也是啦，武器或許還是要越多越好。
-都子：沒錯！！
+都子：<size=150%>沒錯！！
 都子：為了在這混沌世界存活！ 能做的事都要去做！ 任何機會都是僥倖……唔！
 丸君：發病了嗎！？
 都子：……！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000209/data/adv_still_anime_000209/adv_still_anime_000209.webp）
 都子：呼～～～～
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000210/data/adv_still_anime_000210/adv_still_anime_000210.webp）
-都子：療癒！我缺的是療癒！
+都子：<size=150%>療癒！我缺的是療癒！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000211/data/adv_still_anime_000211/adv_still_anime_000211.webp）
-都子：呼啊～～～～～～～～～～～
+都子：<size=150%>呼</size><size=140%>啊</size><size=130%>～</size><size=120%>～</size><size=110%>～</size><size=100%>～</size>～～～～～～～
 都子：口愛……只有口愛小物能療癒我……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000209/data/adv_still_anime_000209/adv_still_anime_000209.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000210/data/adv_still_anime_000210/adv_still_anime_000210.webp）
@@ -183,7 +183,7 @@ Viola：……
 都子：啊！
 都子：好……我要在午夜前送出分鏡稿， 天亮前畫完五個Q版角色草稿！
 （背景切换）
-都子：我一定要撐過去────！！
+都子：<size=200%>我一定要撐過去────！！
 （背景切换）
 （背景切换）
 （背景切换）
@@ -207,7 +207,7 @@ Viola：……
 都子：……
 野乃花：？
 都子：SNS的事，都是因為我造成妳的麻煩──
-都子：唔啊！！？
+都子：<size=150%>唔啊！！？
 都子：為、為什麼要抱著我……！？
 野乃花：分妳一半！
 都子：？？？？
@@ -243,7 +243,7 @@ Viola：……
 野乃花：……
 野乃花：小蕾。
 阿拉蕾：？
-阿拉蕾：好痛～～～～～～～～～！！！？？？
+阿拉蕾：<size=150%>好痛～～～～～～～～～！！！？？？
 阿拉蕾：什麼！！！！？？頭、頭錘！？？？
 野乃花：哎呀？
 野乃花：嗯～小蕾，手伸出來！
@@ -280,4 +280,4 @@ Viola：……
 野乃花：嗯！
 野乃花：去「親～親」小都吧！
 阿拉蕾：…………
-阿拉蕾：親親～～～～～～～～？？？
+阿拉蕾：<size=200%>親親～～～～～～～～？？？

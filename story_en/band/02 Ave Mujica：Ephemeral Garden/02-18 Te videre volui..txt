@@ -67,12 +67,12 @@ Hatsune: As summer break neared its end, Uika came down with a fever.
 Uika: "I promised to play with Saki-chan..."
 Hatsune: I want to play with her too.
 Uika: "She's going back to Tokyo tomorrow, and I really wanted to see her..."
-Hatsune: I want to see her too!
+Hatsune: <size=175%>I want to see her too!
 (Background change)
 (Background change)
 Hatsune: Haa... Haa... Haa...!
 Hatsune: Before I knew it, I was standing in front of the villa. You must never go to that villa. I remembered my mother's quiet voice.
-Hatsune: But...!
+Hatsune: <size=175%>But...!
 Mizuho's Voice: "Kiyotsugu-san, it's great that we came here!"
 Kiyotsugu's Voice: "How was it, Sakiko?"
 Sakiko's Voice: "It was fun!"
@@ -112,14 +112,14 @@ Sakiko: "There are so many stars!"
 Hatsune: "Lyra, Cygnus, Aquila... Hehe, and the Summer Triangle!"
 Hatsune: "Orion, Scorpius, Sagittarius, and the Big Dipper."
 Hatsune: I traced the stars with my fingertips. It felt like the two of us were traveling through the night sky.
-Hatsune: This is fun!
+Hatsune: <size=150%>This is fun!
 Hatsune: I thought from the bottom of my heart. I named every star I knew, and when I glanced to the side, I found Saki-chan staring at me.
 Sakiko: "Uika, you are such a mysterious person. You're usually bright like the sun, but today, you're gentle like the moon..."
 Hatsune: Moon...
 Hatsune: A beam of light shone through. Light filled this dim world of mine. I felt as if I had been reborn.
 Hatsune: I had always longed to be illuminated like this! I was so happy!
 Hatsune: Ever since I was born, I have always been a pitiful child! You turned me, a pitiful being, into a "human"!
-Hatsune: I LOVE YOU!
+Hatsune: <size=175%>I LOVE YOU!
 Hatsune: Sweet Saki-chan, my very own Saki-chan! Saki-chan, Saki-chan! Let's stay together forever!
 Sakiko: "Uika will definitely become an idol!"
 Hatsune: Huh...?
@@ -132,9 +132,9 @@ Hatsune: No one knows, and no one must ever know. She tightened her own hands ar
 Hatsune: My foster father died. He never returned from the sea.
 Hatsune: I comforted Uika, who kept crying. I'm the older sister, so I shouldn't cry. I must support my mother and Uika.
 Hatsune: I was desperately trying to hold back my tears, but...
-Uika: "Hatsune, you aren't sad because he's not your dad!"
+Uika: <size=150%>"Hatsune, you aren't sad because he's not your dad!"
 (Background change)
-Hatsune: "I loved him as well!"
+Hatsune: <size=150%>"I loved him as well!"
 Hatsune: Weren't you feeling suffocated?
 Hatsune: !
 Hatsune: He treated you with care, yet all you do is complain!
@@ -148,9 +148,9 @@ Hatsune: How pitiful you are! The heroine of a tragedy! But you can't play the r
 Hatsune: No! No...!
 Hatsune: Saki-chan is the stage prop for the tragedy!
 Hatsune: No. No. NO! NO! NO......!! I want to see...
-Hatsune: Saki-chan, Saki-chan, Saki-chan... Saki-chan, Saki-chan, Saki-chan, Saki-chan, Saki-chan, Saki-chan!!!
+Hatsune: <size=140%>Saki-chan, Saki-chan, Saki-chan... Saki-chan, Saki-chan, Saki-chan, Saki-chan, Saki-chan, Saki-chan!!!
 (Background change)
-Hatsune: SAKI-CHAN!!!!!
+Hatsune: <size=175%>SAKI-CHAN!!!!!
 Hatsune: If I go to Tokyo... will I be able to see Saki-chan?
 (Background change)
 Hatsune: That night, I left the house with just a small bag, and the pocket money I had saved up.
@@ -198,11 +198,11 @@ Sadaharu: Don't pretend to be so sincere. If the Togawa family finds out, not on
 Kiyotsugu: Ugh... ugh...
 Sadaharu: Make sure to tell Hatsune clearly, so she never gets close to the Togawa family again.
 Kiyotsugu: But...!
-Sadaharu: You don't understand the terrifying power of the Togawa family!
+Sadaharu: <size=175%>You don't understand the terrifying power of the Togawa family!
 Kiyotsugu: ...!
 Sadaharu: I'll pretend I didn't hear that. If you care about Sakiko, keep your mouth shut.
 (Background change)
-Uika: Saki-chan's father lost everything because of me! No, that's not it!
+Uika: <size=150%>Saki-chan's father lost everything because of me! No, that's not it!
 (Background change)
 Uika: I took him away from Saki-chan! I took Saki-chan's father from her! The grand house she was born and raised in! Her entire life!
 Uika: I never thought it would turn out like this! I just... wanted to see her...
@@ -230,7 +230,7 @@ Uika: You can stay here as long as you want. Even without Mujica, will you... st
 Uika: Let's reunite Ave Mujica! Let's stay together forever...!
 Uika: Even though I shouldn't...
 Uika: The fact that I keep deceiving Saki-chan by saying things like that...
-Uika: makesmefeeldisgusted...
+Uika: <size=175%><cspace=0.2em><rotate=2>makes<rotate=-3>me<rotate=18>feel<rotate=-2>disgusted<rotate=3>...<rotate=-1>
 (Background change)
 Sadaharu: Hatsune. Go back home.
 Uika: ...
@@ -251,7 +251,7 @@ Sakiko: Uika...
 [The Next Morning]
 
 (Background change)
-Sakiko: ! That must be Uika!
+Sakiko: <size=150%>! That must be Uika!
 Umiri: "Togawa-san, why did Misumi-san skip practice today?"
 Umiri: "I'm talking about Ave Mujica's practice!"
 Umiri: "I want you to stop doing this without any notice! It's traumatic!"
@@ -260,7 +260,7 @@ Umiri: "What exactly did I do wrong? Are you still not able to trust me, even no
 (Background change)
 Umiri: "As for Misumi-san, I can't even get in touch with her, and she's not coming to school either!"
 (Background change)
-Sakiko: !
+Sakiko: <size=175%>!
 (Background change)
 Umiri: "When I visited her home, I found last week's town newsletter still in the mailbox!"
 (Background change)
