@@ -19,7 +19,7 @@
 にゃむ: うぅ……
 (Background change)
 にゃむ: 宅配なんか頼んだっけ？　はぁ〜い……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
 (Caption): 戻る 録画 ズーム 音量 メニュー ホーム
 にゃむ: う゛ぇ゛……ウミコじゃん。 家に来るとかマジめんど。無視無視……
 にゃむ: <size=175%>あ〜〜〜もう！！！
@@ -88,7 +88,7 @@
 燈: ……うん
 燈: 私は、まだ……わからなくて…… CRYCHICのこと
 燈: だから……これ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp)
 (Caption): 照らされた世界 チカチカ まぶしくて 広すぎる青の その絶対に見つからない どこかで咲いているはずなのに でも ぐるぐる まるまって 見ようとしなかったのは
 初華: これって……
 燈: 歌はつたわる、って
@@ -108,19 +108,19 @@
 睦: 初華、黙ってて。 燈、CRYCHICやろう。祥もその方が幸せだから
 睦: <size=150%>だからっ！　もう一度——
 初華: <size=175%>っ！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
 初華: <size=175%>私からさきちゃん取らないで！
 初華: <size=175%>！！
 燈 & 睦: ？
 初華: ……ごめん……先に帰るね……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp)
 睦: お願い、燈。もう一度CRYCHICを……！
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09.mp4)
 (Caption): 睦　モーティス突き落としシーン
 (Subtitle) mutsumi: 私の……
 (Subtitle) mortis: ！　返してっ……！
@@ -171,27 +171,27 @@
 祥子: それでもわたくしに、Ave Mujicaは選べませんわ
 モーティス: ……
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
 モーティス: 私は睦ちゃんを助ける役で、でも睦ちゃんはいなくて…… そしたら私は……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
 睦たち: くすくす……くすくす……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
 モーティス: うっ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp)
 (Background change)
 モーティス: やだやだ、消えたくないっ！　ぜったいに消えないもん！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
 『睦』: <size=175%>私の役、取らないで！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
 モーティス: ……！　 睦ちゃんがいないなら、私がその役をやればいい
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
 モーティス: 『私』が……！　『若葉睦』を！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
 (Background change)
 モーティス: ……
 海鈴: 豊川さんはモーティスさんを見殺しにするんですか？

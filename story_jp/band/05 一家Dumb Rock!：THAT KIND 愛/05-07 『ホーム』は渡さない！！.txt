@@ -7,7 +7,7 @@
 [翌朝]
 
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_family_morning_kadan_07/adv_movie_family_morning_kadan_07/adv_movie_family_morning_kadan_07.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_family_morning_kadan_07/adv_movie_family_morning_kadan_07/adv_movie_family_morning_kadan_07.mp4)
 (Caption): 一家Dumb Rock!バンスト1章　豪華なファミリー朝ごはん
 (Subtitle) raika: やっぱりさ、ファミリーの朝はこれなんだよ……！
 (Subtitle) raika: 『１日の計はファミリーとの朝ご飯にあり』…… やっと、やっと叶うんだ……！
@@ -124,7 +124,7 @@
 ちえり: ふふん、このハムならあと１００枚は胃に入ります。 ちえりは胃も最強です
 蕾叶: ほんとに〜？ そんな入らないと思うけどな〜
 ちえり: 入ります！　余裕です！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000040/data/adv_still_charaillust_000040/adv_still_charaillust_000040.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000040/data/adv_still_charaillust_000040/adv_still_charaillust_000040.webp)
 寧月: 蕾叶……私、入るよ
 蕾叶: え！？　寧月もそんなに食べるの！？
 寧月: ？　ファミリーの話だ

@@ -77,7 +77,7 @@ A子: ん～
 律: わかりました
 ビオラ: ……
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000297/data/adv_still_anime_000297/adv_still_anime_000297.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000297/data/adv_still_anime_000297/adv_still_anime_000297.webp)
 歌美: 本日は、 みなさまにご報告があります
 歌美: 私、 歌美は 『ららららがーるず』を 脱退することにしました
 歌美: これまで応援してくださったファンのみなさま、 ありがとうございました
@@ -105,7 +105,7 @@ A子: ん～
 律: うん……ビオラの言った通り……
 あられ: ね～！
 律: ……！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000229/data/adv_still_anime_000229/adv_still_anime_000229.webp)
 (Caption): クレマチスって無個性すぎん？
 律: ……
 ビオラ: あられちゃ～ん、 こういうの困るって何度も言ってるよね？
@@ -177,7 +177,7 @@ A子: あー、 うん。ビオラの方に賛成……
 律: ？
 (Message) ビオラ: これみた？ <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
 律: ……？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp)
 ビオラ: 次の歌ってみた、『ライオンダンス』 にしようよ
 あられ: だーかーらー『ライオンダンス』 より先に 『ロボの家』 やるべきだって！　絶対！
 A子: あー、うん
@@ -195,7 +195,7 @@ A子: あー、うん
 ビオラ: これ……
 あられ: 『ライオンダンスより先にロボの家やるべきだって！　絶対！』
 あられ: 何これ？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000231/data/adv_still_anime_000231/adv_still_anime_000231.webp)
 (Caption): コメント 他の人も言ってるけど、こんな性格悪かったんだ 害悪すぎてさっさとヤメロ 学校でも嫌われてそう。知らんけど マジでないしクズすぎ
 あられ: 『ね！　そう思うよね！』
 A子: 『あー、 うん』

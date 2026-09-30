@@ -133,7 +133,7 @@ Mortis：……呵呵，抹茶百匯好吃嗎？
 （背景切换）
 樂奈：我要彈吉他。
 Mortis：好破爛喔。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp）
 樂奈：──♪
 Mortis：哇……！
 睦：<size=200%><cspace=0.25em><voffset=0.25em>在<voffset=0em>唱<voffset=0.25em>歌</voffset>。
@@ -146,7 +146,7 @@ Mortis：小睦！ 太好了，我還以為妳真的死掉了。
 睦：……
 Mortis：小睦？
 （背景切换）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp）
 （背景切换）
 睦：！
 Mortis：小睦，妳一直都在睡覺喔。 我去找醫生商量妳也都不醒來，害我急死了。

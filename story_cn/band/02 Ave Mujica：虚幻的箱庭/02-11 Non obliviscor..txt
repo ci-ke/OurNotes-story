@@ -122,7 +122,7 @@ Mortis：我可以让你们见小睦
 爱音：诶，什么情况？
 灯：小祥，这个……
 祥子：这本笔记
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp）
 （说明）：好想成为人类之歌
 立希：『想要成为人类之歌』……歌词和之前不一样。 你最近在写的是这个？为什么？
 灯：……因为小祥说了， 『好想成为人类』
@@ -141,7 +141,7 @@ Mortis：我可以让你们见小睦
 灯：诶？唔……
 爽世：（原来你是这样看待小祥的啊）
 爽世：（不过，这本来就是……小灯的歌嘛）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp）
 （说明）：好想成为人类之歌
 爽世：（这是属于小灯的歌词。 总是那么直白……我真是模仿不来）
 爽世：（烦恼过，痛苦过，即使想理解也无法理解。 不过，这也是理所当然的吧。 别人的心思哪有那么容易懂呢）
@@ -157,7 +157,7 @@ Mortis：我可以让你们见小睦
 爱音：当然要玩哦～不过现在先等一下
 乐奈：嗯
 （背景切换）
-（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07.mp4）
+（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07.mp4）
 （说明）：人間になりたいうたⅡ〜春日影（CRYCHIC）　ライブシーン
 （字幕）tomori：这首歌是……
 （字幕）tomori：这首歌是……我想着小祥……写出来……的歌

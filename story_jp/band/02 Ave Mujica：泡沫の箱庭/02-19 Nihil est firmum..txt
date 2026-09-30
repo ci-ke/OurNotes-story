@@ -63,15 +63,15 @@
 祥子: あなたは初音さん、ですわよね？ 初華というのはいわゆる偽名？
 初音: 私の妹の名前
 祥子: ……え
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
 初音: 私より活発で、虫取りが好きで アイドルになりたかったのが……本物の初華
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
 初音: さきちゃんに会いたくて、初華のフリをしたんだ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
 初音: ずっと嘘ついてて……ごめん。 ……ごめんなさいっ！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
 祥子: ……これからどうなさるの？
 初音: 住み込みで管理人をさせてもらえることになったから 学校も転校すると思う
 祥子: それでいいんですの？
@@ -80,12 +80,12 @@
 初音: ……いつか、終わりが来るってわかってた
 初音: アイドルも、バンドも、見逃しててもらえただけ
 初音: 明日終わるかも、今日かも、って毎日怖かった。 いっそ何もかも捨てて楽になりたいって 思ったこともあったけど……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
 初音: ……だめだった
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
 祥子: わたくしが、声をかけてしまったから
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
 初音: <size=175%>違う！　嬉しかった！
 初音: ……誰かのかわりでも
 祥子: ……！
@@ -132,7 +132,7 @@
 祥子: でも、わかったことがひとつありますわ
 (Background change)
 祥子: ここでいっしょに星を見ましたわね。 あれは……あなた？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
 初音: <size=175%>……！
 祥子: やっぱり。星が好きなのは、初音ね
 初音: ！　……っ！！
@@ -166,7 +166,7 @@
 初音: そんなこと……できないよ。許されない
 祥子: ……
 初音: さきちゃん……？　そんなに乗り出したら危な……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp)
 祥子: <size=175%>いいかげんっ！　うんざりですわーーーっ！！
 初音: ……！
 祥子: 誰が許さないのっ！？　誰が決めたのっ！ どうして言うことをきかなくちゃいけないのっ！
@@ -176,14 +176,14 @@
 初音: ……うん
 (Background change)
 初音: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp)
 (Caption): 受信トレイ 日付 差出人 宛先 添付ファイル 送信予定 下書き 豊川定治 祥子について わかっていると思うが、お前と祥子では住む世界が違う 早急に祥子を連れ戻せ。
 初音: ……
 祥子: ぅ……ん
 初音: ……
 (Background change)
 祥子: ありましたわ……！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000164/data/adv_still_anime_000164/adv_still_anime_000164.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000164/data/adv_still_anime_000164/adv_still_anime_000164.webp)
 祥子: ……これだけは
 初音: ……
 定治: コソ泥のような真似を
@@ -216,7 +216,7 @@
 祥子: ……ほら、取れましたわ。 こんなに小さいてんとう虫が怖いんですの？
 初音: こ、怖いんだって〜！　 さきちゃん、こっち向けないで〜
 祥子: ふふっ、初音ったら
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
 初音: も〜〜っ、笑わないでよ〜！ ……ふふっ
 祥子: ふふ
 祥子 & 初音: <size=150%>あははっ

@@ -9,7 +9,7 @@ Nonoka: Yaaay~!
 Arale: That was "In my Words." Thank you for listening.
 Arale: For the next song, I'd be happy if I could sing with everyone.
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4)
 (Caption): 夢みた13話　『愛は衝動』ライブシーン
 (Subtitle) arale: Love is Energy!
 (Subtitle) arale: When all of that mixes, I can chat with you through my songs!
@@ -85,8 +85,8 @@ Arale & Nonoka & Miyako & Yuno: !
 (Background change)
 Ritsu: Well then! Everyone together—
 Arale: Mugendai~~~~~~~~~
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp)
 Mugendai MewType: MewType~~!
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3.mp4)
 (Caption): 夢みた13話　完！

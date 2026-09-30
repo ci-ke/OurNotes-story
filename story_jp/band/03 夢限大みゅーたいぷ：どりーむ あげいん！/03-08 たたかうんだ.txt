@@ -87,13 +87,13 @@
 あられ: スマホ、スマホ……！
 あられ: よし……
 あられ: …………
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000240/data/adv_still_anime_000240/adv_still_anime_000240.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000240/data/adv_still_anime_000240/adv_still_anime_000240.webp)
 (Caption): トレンド 新作発表 イベント逃走 フェァリィブゥケ カスタムカー スパイスカレー
 あられ: う……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000241/data/adv_still_anime_000241/adv_still_anime_000241.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000240/data/adv_still_anime_000240/adv_still_anime_000240.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000241/data/adv_still_anime_000241/adv_still_anime_000241.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000240/data/adv_still_anime_000240/adv_still_anime_000240.webp)
 (Caption): トレンド 新作発表 イベント逃走 フェァリィブゥケ カスタムカー スパイスカレー
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000241/data/adv_still_anime_000241/adv_still_anime_000241.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000241/data/adv_still_anime_000241/adv_still_anime_000241.webp)
 あられ: ……っ！
 あられ: （痛い、嫌だ……）
 あられ: （……でも……）
@@ -107,7 +107,7 @@
 アカウントD: らららら時代から追ってたけどもういいや。 今回の件でクレマチス担降ります
 あられ: ！
 あられ: りっちゃん……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000242/data/adv_still_anime_000242/adv_still_anime_000242.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000242/data/adv_still_anime_000242/adv_still_anime_000242.webp)
 あられ: …………
 あられ: ウソ涙だ。ぼくの時と同じことしてる
 (Background change)

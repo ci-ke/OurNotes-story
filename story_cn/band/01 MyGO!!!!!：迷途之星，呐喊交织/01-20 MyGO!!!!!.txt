@@ -82,7 +82,7 @@
 灯：……小立希
 立希：嗯
 （背景切换）
-（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4）
+（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4）
 （说明）：迷星叫　ライブシーン
 （背景切换）
 灯：…………
@@ -116,13 +116,13 @@
 爱音 & 乐奈：…………
 灯：请听我们『MyGO』的歌曲……！
 （背景切换）
-（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4）
+（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4）
 （说明）：迷路日々　ライブシーン
 （背景切换）
 灯：……接下来是最后一首歌！
 灯：今天真的非常感谢大家。 我们是MyGO！
 灯：……迷失方向也无所谓
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp）
 灯：在迷茫中前进吧！！
 （背景切换）
 
@@ -140,7 +140,7 @@
 爽世：『MyGO』，挺好的啊？
 乐奈：嗯，喜欢
 爱音：既然这样，我想到了一个更好的主意！ 在MyGO后面加上5个『!』……！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp）
 爱音：『MyGO!!!!!』
 爱音：不错吧！？ 这样更有前进的感觉哦！
 立希：……意思是，这代表了我们五个人吗？
@@ -155,7 +155,7 @@
 灯：……？
 爽世：谢谢你没有放开我
 灯：……小爽世……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp）
 灯：……
 （背景切换）
 灯：（……『MyGO!!!!!』……）

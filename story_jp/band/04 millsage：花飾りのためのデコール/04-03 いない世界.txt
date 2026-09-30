@@ -54,7 +54,7 @@
 蛍: （あれ？　椅子がないけど…… みんな、このまま立って見るのかな？）
 蛍: （すごい……コンクールとは全然違う）
 出演者A: 手ぇ上げてけ〜！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000031/data/adv_still_charaillust_000031/adv_still_charaillust_000031.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000031/data/adv_still_charaillust_000031/adv_still_charaillust_000031.webp)
 蛍: ！
 蛍: （これ……奏多さんが言ってたやつ！）
 蛍: （すごいすごい！　本当に言うんだ……！）

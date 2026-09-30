@@ -64,7 +64,7 @@
 コハル: 『今度の週末ヒマ？』
 コハル: 『ごはん行こうよ！ どうせちゃんと食べてないんでしょ〜？』
 ユノ: ……食べてるし
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 ユノ: （１人じゃないから）
 ユノ: （そうだよね、みんな）
 ユノ: ……よし

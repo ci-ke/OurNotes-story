@@ -75,7 +75,7 @@
 蕾叶: そうだよチェリ、暴力はだめ！
 ちえり: ――っ、じゃあ、ちえりはどうすればいいんですか！？ 心玖だけにあんなことさせたんですよ！？
 蕾叶: ！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000039/data/adv_still_charaillust_000039/adv_still_charaillust_000039.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000039/data/adv_still_charaillust_000039/adv_still_charaillust_000039.webp)
 ちえり: 心玖は……心玖は、すごいじゃないですか！！
 ちえり: たった１人で作戦考えて、大人の世界に乗り込んで…… ウルトラすごいじゃないですか！
 ちえり: ちえりたちは心玖のすごいとこを見られなかった。 このままじゃ誰も心玖のことを褒めてないことになる……！
@@ -127,7 +127,7 @@
 蓬咲: （皆さんが頑張ってるってわかってたのに。 今が頑張り時だって、わかってたのに）
 (Background change)
 蓬咲: …………
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000038/data/adv_still_charaillust_000038/adv_still_charaillust_000038.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000038/data/adv_still_charaillust_000038/adv_still_charaillust_000038.webp)
 蓬咲: （私も変わらなきゃ……！ 心玖さんと約束したから！！）
 蓬咲: （守れなかった約束を今、守らなきゃ！！）
 蓬咲: つよつよの私を……イメージ……！ 『鋼魂番長！鬼しぐれ伝説』第１２巻……！！

@@ -190,12 +190,12 @@
 若麦：阿隆是……若叶先生啊！
 南：对了，要来办个观影会吗？
 睦：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp）
 剧中的南：『为什么！之前丢下我不管，还好意思来找我！』
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp）
 剧中的南：『快滚！我不想看见你！快滚啊！ 你也是叛徒……！你也是！还有你！』
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp）
 （背景切换）
 南：………不愧是我，太感人了
 若麦：太感人了～
@@ -278,7 +278,7 @@
 （背景切换）
 （背景切换）
 （背景切换）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000022/data/adv_still_charaillust_000022/adv_still_charaillust_000022.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000022/data/adv_still_charaillust_000022/adv_still_charaillust_000022.webp）
 睦：……
 （背景切换）
 
@@ -317,7 +317,7 @@
 祥子：嗯，谢谢你初华
 初华：真的……睡这里就行了吗？不会局促吗？
 祥子：足够了，我本来也没有多少行李
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp）
 初华：哇……那个娃娃，好可爱
 祥子：这是我妈妈的遗物
 初华：……诶？

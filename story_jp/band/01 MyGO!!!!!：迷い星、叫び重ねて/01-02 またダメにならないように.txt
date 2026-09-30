@@ -43,14 +43,14 @@
 [羽丘女子学園 天文部部室]
 
 愛音: あ、いたいた。 急に走り出すからびっくりしたよー。 どうかしたの？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000003/data/adv_still_anime_000003/adv_still_anime_000003.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000003/data/adv_still_anime_000003/adv_still_anime_000003.webp)
 燈: 絆創膏……どれがいい？
 愛音: えっ？　すごっ、これ全部絆創膏！？
 燈: ……うん
 愛音: 使っていいの？
 燈: ……うん
 愛音: えー、ごめんねー。どれも柄付きでかわいいな～。 あ、このペンギンのやつ好き
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000016/data/adv_still_charaillust_000016/adv_still_charaillust_000016.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000016/data/adv_still_charaillust_000016/adv_still_charaillust_000016.webp)
 燈: ……！ ヒゲペンギンだ！
 愛音: え？　ヒゲ？
 燈: 顔にヒゲがあるでしょ？ アデリーペンギン属で、ジェンツーペンギンもそうだよ。 ペンギンシリーズの絆創膏は他にもあって――
@@ -77,13 +77,15 @@
 燈: あ……そう、だよね……
 愛音: （もー、また落ち込むー。 そんなにすぐ落ち込まないでよー……ん？）
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000004/data/adv_still_anime_000004/adv_still_anime_000004.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000004/data/adv_still_anime_000004/adv_still_anime_000004.webp)
+(Caption): A Tempo Notebook Study Notebook Year  Class Name  Tomori Takamatsu
 愛音: このノートは高松さんの？ 高松さんも日誌つけてるんだ、見てもいい？
 燈: あ、それは……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000005/data/adv_still_anime_000005/adv_still_anime_000005.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000005/data/adv_still_anime_000005/adv_still_anime_000005.webp)
 (Caption): 春日影
 愛音: 高松さん、バンドやってんじゃん！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000006/data/adv_still_anime_000006/adv_still_anime_000006.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000006/data/adv_still_anime_000006/adv_still_anime_000006.webp)
+(Caption): Haruhikage A heart grown numb with cold a trembling gaze In all the world, I was alone All I knew of spring was falling petals, and every year
 愛音: 『春日影』って知らない曲だー
 (Background change)
 愛音: ……

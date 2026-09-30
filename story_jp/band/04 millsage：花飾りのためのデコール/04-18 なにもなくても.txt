@@ -140,7 +140,7 @@
 まほろ: そんな未来が、あったはずなのに……っ！
 凪: ……そうだね
 凪: 本当に、そう
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000033/data/adv_still_charaillust_000033/adv_still_charaillust_000033.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000033/data/adv_still_charaillust_000033/adv_still_charaillust_000033.webp)
 まほろ: なんなのもう……！ 全部ぜんぶ、悔しくて、ムカついて……！
 まほろ: 会いたいよ、奏多……っ
 まほろ: バカだなって……笑ってよ……っ！

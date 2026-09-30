@@ -65,7 +65,7 @@ Rāna: Is it over?
 Anon: No, it's too early to give up! There has to be somewhere! Somewhere that's open!
 Tomori: ......
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4)
 (Caption): MyGOエクストラ　ファミレス（3話）
 (Subtitle) soyo: And after all that... we couldn't find anywhere, so now we're at a regular family restaurant. Huh.
 (Subtitle) taki: Isn't this fine? Anon is the only one who wanted a fancy restaurant anyway.
@@ -139,9 +139,9 @@ Taki: And if we have time for that, maybe we should be practicing.
 Rāna: Let's play.
 Anon: We can party a little too, can't we~?
 Tomori: ......
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
 Tomori: Mistakes... or not mistakes...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 Tomori: I still don't really know...
 Tomori: But I want to keep moving forward like this...
 Tomori: Because that's all I can do.

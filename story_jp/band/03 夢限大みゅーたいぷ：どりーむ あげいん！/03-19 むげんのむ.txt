@@ -7,7 +7,7 @@
 あられ: わぁ～～～～～～
 あられ: ……………ちらっ
 あられ: えっ！？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp)
 (Caption): 歌美@utaskyat 私は中2から高2まで「歌美」名義でネット活動をしていました。 高1で「ららららがーるず」を作り、歌が上手な女の子たちと一緒に動画投稿や配信活動をしていました。 事務所所属やオリジナル曲発表など、活動は順調でしたが、私は高2でグループを脱退しました。 その時の事情と、その後グループで起きた出来事について、今お話しします。 今も頑張っている仲間の助けになればと思います。 あの時のことは謝っても許されないかも知れないけど、ずっとずっと応援しています。
 あられ: 歌美さん……！？
 (Background change)
@@ -70,7 +70,7 @@
 ビオラ: ありがとうございます
 (Background change)
 マネージャー: ビオラちゃんからの契約終了の申し入れ、 正式に受理されました。 私はずっとビオラちゃんの味方だからね……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp)
 ビオラ: ♪
 ビオラ: キラキラ♡
 (Background change)
@@ -90,9 +90,9 @@
 ビオラ: 一瞬だけ、みんなの目を奪って、 それで終わり
 ビオラ: 私、輝きになりたかった
 ビオラ: みんなを笑顔にして、 落ち込んでる人も元気が出ちゃうような！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp)
 ビオラ: キラキラ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp)
 ビオラ: チカチカ
 (Background change)
 ビオラ: 輝こうと努力すればするほど、偽物になった！
@@ -187,7 +187,7 @@
 ユノ: 糖分も緊張緩和にいいから
 あられ: はい……！
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000026/data/adv_still_charaillust_000026/adv_still_charaillust_000026.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000026/data/adv_still_charaillust_000026/adv_still_charaillust_000026.webp)
 あられ: はむっ……もぐもぐ……
 あられ: ごくんっ
 律: ――できたよ
@@ -213,7 +213,7 @@
 ユノ: わぶっ
 律: いいですね、バージョン無限
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp)
 (Caption): みゅーたいぷver.∞ （無限？無限大？）
 都子: こうですかね
 あられ: ……
@@ -271,5 +271,5 @@ A子: がんばって
 (Background change)
 あられ: こんにちは！ ぼくたち、『夢限大みゅーたいぷ』です！
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1.mp4)
 (Caption): 夢みた13話　『In My Words』ライブシーン

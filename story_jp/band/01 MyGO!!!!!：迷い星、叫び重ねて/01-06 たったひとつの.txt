@@ -48,19 +48,19 @@
 燈 & そよ & 立希: え……！？
 立希: 歌った……
 祥子: まあ！　上手ですわ、睦！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000023/data/adv_still_anime_000023/adv_still_anime_000023.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000023/data/adv_still_anime_000023/adv_still_anime_000023.webp)
 (Caption): 眩しいんだ
 燈: 眩しい
 そよ: ほーら、立希ちゃんも曲入れて？
 立希: 私はいいって。 ……燈。これ、検索したら曲出るから
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000024/data/adv_still_anime_000024/adv_still_anime_000024.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000024/data/adv_still_anime_000024/adv_still_anime_000024.webp)
 (Caption): はやさしく連
 燈: 優しい
 燈: 曲が……出る……
 祥子: 立希さん、わたくしにも教えてくださる？
 立希: えっ……
 そよ: 立希ちゃん、ファイト～♪
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000025/data/adv_still_anime_000025/adv_still_anime_000025.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000025/data/adv_still_anime_000025/adv_still_anime_000025.webp)
 (Caption): 美しい
 燈: 美しい
 祥子: とても素敵な歌声でしたわ、燈！
@@ -75,7 +75,7 @@
 そよ: わぁ、睦ちゃんが笑ってる～
 祥子: 睦は笑いますわよ
 燈: ……ふふっ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000026/data/adv_still_anime_000026/adv_still_anime_000026.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000026/data/adv_still_anime_000026/adv_still_anime_000026.webp)
 (Caption): 温かいの
 燈: 温かい
 (Background change)
@@ -134,7 +134,7 @@
 燈: うん……
 燈: CRYCHICです。 『春日影』やります
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4)
 (Caption): 春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
 燈: はぁ……はぁ……
 (Background change)
@@ -166,7 +166,7 @@
 そよ: 『すごい感動しました』…… 『#CRYCHIC 今後が楽しみ！』…… 『涙がとまらない…』だって！
 そよ: それから…………あ
 立希: ……？　どうかした？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000027/data/adv_still_anime_000027/adv_still_anime_000027.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000027/data/adv_still_anime_000027/adv_still_anime_000027.webp)
 (Caption): 今日のライブ面白かった～。クライシックっ てバンド。ギターとキーボード、ドラムもな かなで、ベースも慣れた感じで好感あがっ たし。ボーカルの子も気持ちのってて、全 体的によかったな☺️ ボーカル必死過ぎ。 #CRYCHIC 今日のライブ、やばやばだったな。なんなん あれ。演奏前と別人じゃん。見かけで判断
 燈: 『ボーカル必死過ぎ』……
 立希: コイツ……！ 燈の歌のことなんもわかってない！ ブロックしてやる
@@ -184,20 +184,20 @@
 祥子: ……CRYCHICを、やめさせていただきますわ
 (Background change)
 燈: （きっと、私がずれてたから）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000028/data/adv_still_anime_000028/adv_still_anime_000028.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000029/data/adv_still_anime_000029/adv_still_anime_000029.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000028/data/adv_still_anime_000028/adv_still_anime_000028.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000029/data/adv_still_anime_000029/adv_still_anime_000029.webp)
 (Caption): 通知センター そよ スタジオ来られそうかな そよ みんな燈ちゃんのこと待ってるから
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000030/data/adv_still_anime_000030/adv_still_anime_000030.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000031/data/adv_still_anime_000031/adv_still_anime_000031.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000030/data/adv_still_anime_000030/adv_still_anime_000030.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000031/data/adv_still_anime_000031/adv_still_anime_000031.webp)
 (Caption): 祝 卒業証書授与式
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000032/data/adv_still_anime_000032/adv_still_anime_000032.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000032/data/adv_still_anime_000032/adv_still_anime_000032.webp)
 燈: 自分だけ泣けないのはどうしてだろう
 燈: 冷たいのかな。何かが欠けているのかな。人間として
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000033/data/adv_still_anime_000033/adv_still_anime_000033.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000033/data/adv_still_anime_000033/adv_still_anime_000033.webp)
 (Caption): 羽丘女子学園
 燈: みんなみたいに、大事なものがない
 燈: みんなみたいに、涙するほど大事なものがほしい
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000034/data/adv_still_anime_000034/adv_still_anime_000034.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000034/data/adv_still_anime_000034/adv_still_anime_000034.webp)
 燈: あるとすれば、それは――
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
 燈: CRYCHICだった

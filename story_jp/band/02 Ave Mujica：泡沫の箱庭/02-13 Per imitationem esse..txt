@@ -45,15 +45,15 @@
 
 海鈴: これと、これとこれ……あとこれも……
 海鈴: ……全部ください
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000138/data/adv_still_anime_000138/adv_still_anime_000138.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000138/data/adv_still_anime_000138/adv_still_anime_000138.webp)
 海鈴: ……ん？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000139/data/adv_still_anime_000139/adv_still_anime_000139.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000139/data/adv_still_anime_000139/adv_still_anime_000139.webp)
 海鈴: にゃむちコラボ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000140/data/adv_still_anime_000140/adv_still_anime_000140.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000140/data/adv_still_anime_000140/adv_still_anime_000140.webp)
 海鈴: ……媚びてますね
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000138/data/adv_still_anime_000138/adv_still_anime_000138.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000139/data/adv_still_anime_000139/adv_still_anime_000139.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000140/data/adv_still_anime_000140/adv_still_anime_000140.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000138/data/adv_still_anime_000138/adv_still_anime_000138.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000139/data/adv_still_anime_000139/adv_still_anime_000139.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000140/data/adv_still_anime_000140/adv_still_anime_000140.webp)
 (Background change)
 にゃむ: あの〜……この前のオーディションなんですけど……
 袋小路: 舞台のやつ？　まなちゃんに決まったみたいだよ
@@ -72,7 +72,7 @@
 にゃむ: こわ……
 スタッフ: あの〜、祐天寺さん。 八幡さん、待ってるっぽいんだけど
 にゃむ: ええ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000023/data/adv_still_charaillust_000023/adv_still_charaillust_000023.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000023/data/adv_still_charaillust_000023/adv_still_charaillust_000023.webp)
 海鈴: やっぱり事務所じゃないですか
 にゃむ: ちょ、なにやってんの
 海鈴: 会いたくなって
@@ -176,7 +176,7 @@
 初華: ……
 (Message) 海鈴: Ave Mujicaをやりませんか
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp)
 (Caption): 投稿 ８いいね りっきーのドラムセットに潜入！ いつもと全然メンバーの見え方ちがう😆 誰とも目合わない💦 #MyGO　#ANON　#Drum
 (Background change)
 初華: ……っ

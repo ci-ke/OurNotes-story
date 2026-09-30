@@ -82,7 +82,7 @@ Owner: Yes. She said she found somewhere to belong.
 Tomori: Taki-chan.
 Taki: Yes.
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4)
 (Caption): 迷星叫　ライブシーン
 (Background change)
 Tomori: ...
@@ -116,13 +116,13 @@ Soyo & Taki: ...
 Anon & Rāna: ...
 Tomori: Please listen to our song, a song of "MyGO"...!
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4)
 (Caption): 迷路日々　ライブシーン
 (Background change)
 Tomori: The next song is our last one!
 Tomori: Thank you for coming today. We are MyGO!
 Tomori: It's okay to be lost.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp)
 Tomori: Even if you're lost, keep moving forward!!
 (Background change)
 
@@ -140,7 +140,7 @@ Anon: What!? Before we went on, you said you didn't get it!
 Soyo: "MyGO," I think it works.
 Rāna: Yeah, I like it.
 Anon: Then, I've come up with an even better idea! Add five "!" after MyGO...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp)
 Anon: "MyGO!!!!!"
 Anon: Isn't this better!? It makes it feel like we're moving forward!
 Taki: Is that supposed to imply that it's the five of us together?
@@ -155,7 +155,7 @@ Soyo: Tomori-chan.
 Tomori: ...?
 Soyo: You said you wouldn't let go again. Thank you for that.
 Tomori: Soyo-chan...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 Tomori: ...
 (Background change)
 Tomori: ("MyGO!!!!!"...)

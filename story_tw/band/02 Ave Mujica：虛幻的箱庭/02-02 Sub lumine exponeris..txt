@@ -46,7 +46,7 @@
 祥子：（……只有那段回憶……！只有「那段時光」…… 我是如此希望它能保持美好的模樣，永遠不變……！）
 （背景切换）
 祥子：卻還是被毀了…… 再也……回不去了……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp）
 祥子：（初華……）
 初華：「──小祥？」
 祥子：初華……
@@ -72,20 +72,20 @@
 （背景切换）
 祥子：每次和妳一起仰望天空，都是在夏天的時候呢。
 初華：……那個時候好開心喔。 到了夏季，小祥來到我家的島上……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp）
 初華：真沒想到我們竟然能成為朋友。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000078/data/adv_still_anime_000078/adv_still_anime_000078.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000078/data/adv_still_anime_000078/adv_still_anime_000078.webp）
 祥子：妳當時還邀我一起去抓蟲呢。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp）
 初華：咦？那是小祥提議的吧？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp）
 祥子：是這樣嗎？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000078/data/adv_still_anime_000078/adv_still_anime_000078.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000078/data/adv_still_anime_000078/adv_still_anime_000078.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp）
 （背景切换）
 初華：是啊。然後我們碰到了大蜘蛛， 小祥妳嚇得哇哇大叫。
 祥子：初華還不是一樣。

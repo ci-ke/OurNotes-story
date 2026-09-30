@@ -6,7 +6,7 @@
 (Background change)
 (Background change)
 祥子: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp)
 (Caption): 石の下の僕にも 温かい光を とどけてくれた まぶしくて 向き合えなかった 祥ちゃんは つたわらないものに かたちをくれた 祥ちゃんに 届きたくて届かない
 (Background change)
 祥子: ただの学生でしかないあなたに、 他人の人生を抱えきれますの？
@@ -23,10 +23,10 @@
 にゃむ: 晴れて強制ソウルメイト計画は大成功
 (Background change)
 祥子: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp)
 (Caption): きっとまた 間違えてしまった でも正解なんて 知らないから ずっと探してる
 祥子: （己の言葉と行動に、責任を果たさねば——）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp)
 (Background change)
 
 [翌朝]
@@ -126,9 +126,9 @@
 (Background change)
 モーティス: （まだ……まだ、間に合うんなら）
 モーティス: （神様。睦ちゃんに会えるなら、なんでもあげる。 私、もうそれだけだよ）
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4)
 (Caption): Imprisoned XII　ライブシーン
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4)
 (Caption): Crucifix X　ライブシーン
 (Subtitle) doloris: 運命の歯車は再び、動き出す
 (Subtitle) doloris: ようこそ、AveMujicaの世界へ

@@ -46,7 +46,7 @@
 燈: パーティって、なにするの……？
 愛音: よくぞ聞いてくれました～！ えーっと、とりあえず今考えてるのは〜……
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mygo_exstory_02_01/adv_movie_mygo_exstory_02_01/adv_movie_mygo_exstory_02_01.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mygo_exstory_02_01/adv_movie_mygo_exstory_02_01/adv_movie_mygo_exstory_02_01.mp4)
 (Caption): MyGOエクストラ　妄想パート（2話）
 (Subtitle) anon: ほら、ともりんさ、リムジンって知ってる？ 祥子ちゃんち行く時乗ったみたいな
 (Subtitle) tomori: 大きい……車……

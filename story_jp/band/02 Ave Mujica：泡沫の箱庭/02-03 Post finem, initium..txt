@@ -190,12 +190,12 @@
 にゃむ: たぁくんって……若葉さんか！
 みなみ: そうだ、上映会でもする？
 睦: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp)
 劇中みなみ: 『どうしてっ！　いままで放っておいてノコノコと！』
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp)
 劇中みなみ: 『帰って！　顔も見たくないっ！　帰って！ あなたも裏切り者よ……！　あなたも！　あなたも！』
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp)
 (Background change)
 みなみ: ………我ながら泣けるよねぇ
 にゃむ: 泣けますぅぅ〜
@@ -278,7 +278,7 @@
 (Background change)
 (Background change)
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000022/data/adv_still_charaillust_000022/adv_still_charaillust_000022.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000022/data/adv_still_charaillust_000022/adv_still_charaillust_000022.webp)
 睦: ……
 (Background change)
 
@@ -317,7 +317,7 @@
 祥子: ええ、ありがとう初華
 初華: 寝る場所……本当にロフトでいいの？　狭くない？
 祥子: 十分ですわ。もともと荷物もそんなにありませんし
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 初華: わぁ……そのお人形、かわいいね
 祥子: 母の形見ですわ
 初華: ……え？

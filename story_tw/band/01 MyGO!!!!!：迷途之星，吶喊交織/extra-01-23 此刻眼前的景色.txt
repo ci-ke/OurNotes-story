@@ -65,7 +65,7 @@
 愛音：現、現在放棄還太早了！ 沒錯！一定還有餐廳有空位！
 燈：……
 （背景切换）
-（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4）
+（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4）
 （说明）：MyGOエクストラ　ファミレス（3話）
 （字幕）soyo：……結果最後還是找不到適合的店， 只能來大型連鎖家庭餐廳啊。
 （字幕）taki：也沒什麼不好的。 反正吵著要去高級餐廳的只有愛音而已。
@@ -139,9 +139,9 @@
 樂奈：來玩樂團吧。
 愛音：偶爾也辦一下派對嘛～！
 燈：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp）
 燈：……錯誤也好，不是錯誤也好。
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp）
 燈：雖然現在還搞不清楚……
 燈：但是，我想就這樣……繼續前進。
 燈：因為，我只能做到這件事。

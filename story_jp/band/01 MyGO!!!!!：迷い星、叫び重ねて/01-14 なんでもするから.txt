@@ -93,7 +93,7 @@
 そよ: …………
 そよ: （既読、つかないな……）
 そよ: …………っ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000046/data/adv_still_anime_000046/adv_still_anime_000046.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000046/data/adv_still_anime_000046/adv_still_anime_000046.webp)
 (Caption): メッセージ ブロックされてる 確認方法 SNSでブロックされたかを確認する方法 ブロックされたかを調べるとき、相手に絶対に知らない方法は４つ！
 そよ: ……！
 そよ: …………
@@ -208,7 +208,7 @@
 祥子: 誰もそんなこと頼んでませんわ
 祥子: これが最後通告ですわ。 今度こそ、わたくしにはもう関わらないで
 そよ: ……！　待って…………！ 行かないで……っ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 そよ: 違うの、私、 ほんとにみんなのことが大事で……大好きで！
 そよ: ……いや……お願い……！
 そよ: 祥ちゃんたちがいないと、私……っ

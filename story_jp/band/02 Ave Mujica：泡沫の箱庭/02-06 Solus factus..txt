@@ -49,19 +49,19 @@
 
 [数日後]
 
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000112/data/adv_still_anime_000112/adv_still_anime_000112.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000112/data/adv_still_anime_000112/adv_still_anime_000112.webp)
 
 [ガールズコレクション会場]
 
 記者: 初華さーん。ムジカの解散について一言お願いしますー。 解散の原因は不仲と言われていますが
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000113/data/adv_still_anime_000113/adv_still_anime_000113.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000113/data/adv_still_anime_000113/adv_still_anime_000113.webp)
 初華: ……あ、いまはムジカは関係ないと思うのですが……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000114/data/adv_still_anime_000114/adv_still_anime_000114.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000114/data/adv_still_anime_000114/adv_still_anime_000114.webp)
 まな: 今はsumimiのういちゃんなんで！
 初華: まなちゃん……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000112/data/adv_still_anime_000112/adv_still_anime_000112.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000113/data/adv_still_anime_000113/adv_still_anime_000113.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000114/data/adv_still_anime_000114/adv_still_anime_000114.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000112/data/adv_still_anime_000112/adv_still_anime_000112.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000113/data/adv_still_anime_000113/adv_still_anime_000113.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000114/data/adv_still_anime_000114/adv_still_anime_000114.webp)
 (Background change)
 (Background change)
 (Background change)
@@ -69,7 +69,7 @@
 [初華のマンション ロフト]
 
 初華: ただいま〜。さきちゃん、プリン買ってきたよ。 さきちゃん……？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp)
 (祥子): 初華へ　 　今までありがとう
 初華: ……！！
 (Background change)
@@ -91,7 +91,7 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 
 スタッフA: てかさ〜初華ちゃんかわいそすぎだよね。 sumimiは被害者でしょ。穴埋めで一番迷惑かけられてるし
 スタッフB: だよね〜。てかさ、みなみさんが言ってたんだけど、 睦ちゃん引きこもっちゃったらしいよ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 スタッフA: あれだけ売れっ子だったのに！？　もったいな〜。 やっぱAve Mujicaの解散ショックだったのかなぁ
 スタッフB: じゃない？　ハイ解散〜ってほっぽり出したわけだし。 ま、所詮『お嬢様のバンドごっこ』だったってことでしょ
 まな: おはようございま〜す！
@@ -117,7 +117,7 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 [羽丘女子学園 昇降口]
 
 祥子: ……また
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000116/data/adv_still_anime_000116/adv_still_anime_000116.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000116/data/adv_still_anime_000116/adv_still_anime_000116.webp)
 祥子: ……
 (Background change)
 (Background change)
@@ -158,9 +158,9 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 
 にゃむ: ……ふぅ
 にゃむ: ——はい祐天寺です。ええっ、舞台ですか？　 プロデューサーから直接オーディションの案内？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
 にゃむ: あー……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000118/data/adv_still_anime_000118/adv_still_anime_000118.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000118/data/adv_still_anime_000118/adv_still_anime_000118.webp)
 (Caption): 演技力をあげる 役に吹き込む 命を演技術 オーディションで生き残るためのメソッド 役を憑依させる演技術 俳優入門 演技 ドラマの見方 映画塾 ハリウッド演劇術 心の動く演技 俳優のたまご 演技力 上 演技力 下 職業としての演技 惹きつける演技 芝居と世界 ハリウッドから学ぶ演劇術
 にゃむ: ……演技はまだ勉強中なんです。 今はバラエティ方面でがんばりたいなって思ってるんで……
 にゃむ: はい……せっかくの機会なのにすみません。 ありがとうございます

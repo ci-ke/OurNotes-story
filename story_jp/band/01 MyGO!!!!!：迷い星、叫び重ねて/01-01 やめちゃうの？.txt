@@ -47,8 +47,8 @@
 
 愛音: う〜〜ん！　面接終わった〜！
 愛音: （手ごたえあったな～。 内申もいいし、まぁ問題なく入れるでしょ）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000001/data/adv_still_anime_000001/adv_still_anime_000001.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000002/data/adv_still_anime_000002/adv_still_anime_000002.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000001/data/adv_still_anime_000001/adv_still_anime_000001.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000002/data/adv_still_anime_000002/adv_still_anime_000002.webp)
 愛音: ……ここで、やり直すんだ
 愛音: ……ん？
 愛音: ……ねぇ、何か落とした？

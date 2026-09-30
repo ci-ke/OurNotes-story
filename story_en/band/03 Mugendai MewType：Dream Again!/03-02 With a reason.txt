@@ -58,7 +58,7 @@ Arale: That's amazing! What's the title?!
 Miyako: I'm still just starting...
 Arale: Maybe I'll recognize your pen name!
 Miyako: ...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000201/data/adv_still_anime_000201/adv_still_anime_000201.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000201/data/adv_still_anime_000201/adv_still_anime_000201.webp)
 (Caption): Chupakabu Saturation Yako Fujimi
 Miyako: This is it...
 Arale: *Gasp*...
@@ -201,7 +201,7 @@ Arale: She got into such a selective middle school... She could've stayed there 
 Arale: Maybe it got too hard for her to stay there... Because of what happened to me.
 Arale: No! That's all in the past! I've gotta do my best right now!
 Arale: ...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000202/data/adv_still_anime_000202/adv_still_anime_000202.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000202/data/adv_still_anime_000202/adv_still_anime_000202.webp)
 (Caption): Magiruru! Nice Bulk
 Arale: Hmmmm~♪
 (Background change)
@@ -255,5 +255,5 @@ Ritsu: You've gotten so far away...
 Yuno: ...
 Yuno: They've got history, huh...?
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01.mp4)
 (Caption): 夢みた1話　あられの家でのシーン

@@ -82,7 +82,7 @@
 燈: ……立希ちゃん
 立希: うん
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4)
 (Caption): 迷星叫　ライブシーン
 (Background change)
 燈: …………
@@ -116,13 +116,13 @@
 愛音 & 楽奈: …………
 燈: 私たち『MyGO』の曲、聴いてください……！
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4)
 (Caption): 迷路日々　ライブシーン
 (Background change)
 燈: ……次が最後の曲です！
 燈: 今日はありがとうございました。 MyGOでした！
 燈: ……迷子でもいい
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp)
 燈: 迷子でも進め！！
 (Background change)
 
@@ -140,7 +140,7 @@
 そよ: 『MyGO』、いいんじゃない？
 楽奈: うん、好き
 愛音: それなら、もっといいこと思いついた！ MyGOのあとに『！』を５つ足して……！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000017/data/adv_still_charaillust_000017/adv_still_charaillust_000017.webp)
 愛音: 『MyGO!!!!!』
 愛音: よくない！？ この方が進んでる感あるよ！
 立希: ……これって、うちら５人ってこと？
@@ -155,7 +155,7 @@
 燈: ……？
 そよ: 離さないでくれて、ありがとう
 燈: ……そよちゃん……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 燈: ……
 (Background change)
 燈: （……『MyGO!!!!!』……）

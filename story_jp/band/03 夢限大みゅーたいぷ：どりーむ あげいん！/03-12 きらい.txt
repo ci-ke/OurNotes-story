@@ -4,7 +4,7 @@
 
 (Background change)
 あられ: （――都子さんは、前までのぼくと似てるのかも）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000195/data/adv_still_anime_000195/adv_still_anime_000195.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000195/data/adv_still_anime_000195/adv_still_anime_000195.webp)
 あられ: （ビオラと出会って、うまくいってるような気になって、 そしたらいきなり悪い奴扱いされちゃって）
 あられ: （全部、わからなくなる）
 あられ: （だからきっと……）
@@ -29,7 +29,7 @@
 (Background change)
 あられ: うーん……さいきょう！
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_ichibannohikari_yumemita_08/adv_movie_ichibannohikari_yumemita_08/adv_movie_ichibannohikari_yumemita_08.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_ichibannohikari_yumemita_08/adv_movie_ichibannohikari_yumemita_08/adv_movie_ichibannohikari_yumemita_08.mp4)
 (Caption): 夢みた8話　『一番のひかり』演奏シーン
 (Background change)
 ののか: <size=175%>い～じゃ～ん！
@@ -87,7 +87,7 @@
 都子: ……ううん、たらればは甘え。 あれは自分で決めたこと。だからこそ……
 (Background change)
 都子: 核心に触れず、なあなあになかよしこよしして！ 藤都子のせいだ！　ってはっきり言ったらいいのに！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000250/data/adv_still_anime_000250/adv_still_anime_000250.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000250/data/adv_still_anime_000250/adv_still_anime_000250.webp)
 都子: ……あられさんも、リアルと動画じゃ全然違って……
 (Background change)
 都子: ……ビオラさん……
@@ -195,7 +195,7 @@
 (Message) あられ: バンドやめるってみゅーたいぷのことですか！？
 ユノ: …………
 ユノ: はぁ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000251/data/adv_still_anime_000251/adv_still_anime_000251.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000251/data/adv_still_anime_000251/adv_still_anime_000251.webp)
 (Caption): 作詞 koharu 作曲 千石ユノ
 ユノ: …………
 ユノ: なんで……
@@ -268,13 +268,13 @@
 (Message) マネージャー: 今は心を休めて。 歌詞データ送ってあります
 ユノ: （バンドはもうやらない。 だから、仕事として、曲は作らないと……）
 ユノ: （歌詞……）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000252/data/adv_still_anime_000252/adv_still_anime_000252.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000252/data/adv_still_anime_000252/adv_still_anime_000252.webp)
 (Caption): koharu あの日描いたImage それぞれの色が入
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000253/data/adv_still_anime_000253/adv_still_anime_000253.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000253/data/adv_still_anime_000253/adv_still_anime_000253.webp)
 (Caption): 面白い夢ばっか
 ユノ: （夢……）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000252/data/adv_still_anime_000252/adv_still_anime_000252.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000253/data/adv_still_anime_000253/adv_still_anime_000253.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000252/data/adv_still_anime_000252/adv_still_anime_000252.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000253/data/adv_still_anime_000253/adv_still_anime_000253.webp)
 ユノ: …………っ
 ユノ: ムリだ……
 (Background change)
@@ -358,7 +358,7 @@
 都子: （もう、何が正しいのか……）
 都子: （ただ、自分で自分がどんどん嫌になっていく……）
 都子: あ……スマホ、落として……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000254/data/adv_still_anime_000254/adv_still_anime_000254.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000254/data/adv_still_anime_000254/adv_still_anime_000254.webp)
 都子: …………っ
 都子: ビオラさん……
 都子: 会いたい……っ

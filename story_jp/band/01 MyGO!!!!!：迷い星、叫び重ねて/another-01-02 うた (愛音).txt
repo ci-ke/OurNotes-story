@@ -54,7 +54,7 @@
 愛音: どっかに絆創膏しまったはず～……あった、あった
 愛音: …………
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000003/data/adv_still_anime_000003/adv_still_anime_000003.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000003/data/adv_still_anime_000003/adv_still_anime_000003.webp)
 愛音: えっ？　すごっ、これ全部絆創膏！？
 燈: ……うん
 愛音: 使っていいの？

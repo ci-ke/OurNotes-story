@@ -52,16 +52,16 @@
 愛音: 文化祭でバンドをした時はすっごく盛り上がって、 後輩の子から憧れの目で見られたりして
 愛音: この学校の中心にいるのは、 自分なんじゃないかって気がしたんだよね
 愛音: けど、実際はうまくいきすぎてるだけで、 自分が見えてなかったんだと思う
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000042/data/adv_still_anime_000042/adv_still_anime_000042.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000042/data/adv_still_anime_000042/adv_still_anime_000042.webp)
 (Caption): 出発便ご案内 出発（北口）
 愛音: 英語が得意だったから、 留学しちゃえって勢いで日本を飛び出したけど、 想像してたのと全然違ってさ
 愛音: イギリスでも中学の時みたいに、 学校の中心にいる子になれると思ってたんだけど……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000001/data/adv_still_anime_000001/adv_still_anime_000001.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000001/data/adv_still_anime_000001/adv_still_anime_000001.webp)
 愛音: 実際には自己紹介からつまずいちゃってさ。 思ってることの半分も話せなくって……
 愛音: それに、みんな意識が高くて、 将来のビジョンがあって、そのために留学してて……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000043/data/adv_still_anime_000043/adv_still_anime_000043.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000043/data/adv_still_anime_000043/adv_still_anime_000043.webp)
 愛音: よくわかんない自信と勢いだけで 留学した自分がすごく場違いだった
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000044/data/adv_still_anime_000044/adv_still_anime_000044.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000044/data/adv_still_anime_000044/adv_still_anime_000044.webp)
 愛音: 結局、学校の中心どころか、仲間にも入れなくて。 日本に戻ってきたんだ
 燈: …………
 愛音: さっき会ったの、中学の友達でね。 制服着てたから、留学失敗したのバレちった
@@ -73,7 +73,7 @@
 愛音: 燈ちゃん……？
 愛音: えっ、ちょっと……どこ行くの？
 燈: これ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000045/data/adv_still_anime_000045/adv_still_anime_000045.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000045/data/adv_still_anime_000045/adv_still_anime_000045.webp)
 (Caption): 逃げてない 逃げ道？ 逃げ 迷子…
 愛音: 『逃げてもいい』『迷子』……
 燈: ……愛音ちゃんは進んでる。 行き止まりになっても、ちゃんと道を探して…… 進もうとして……
@@ -92,7 +92,7 @@
 燈: あの……
 燈: ……！
 愛音: 私たち……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000006/data/adv_still_charaillust_000006/adv_still_charaillust_000006.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000006/data/adv_still_charaillust_000006/adv_still_charaillust_000006.webp)
 愛音: ライブする！
 (Background change)
 

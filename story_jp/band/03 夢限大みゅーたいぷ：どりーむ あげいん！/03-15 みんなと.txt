@@ -29,7 +29,7 @@
 ユノ: ？
 ののか: <size=150%>っも～～～～～～～～～～～～～～！！！！！！！
 ユノ: え……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000027/data/adv_still_charaillust_000027/adv_still_charaillust_000027.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000027/data/adv_still_charaillust_000027/adv_still_charaillust_000027.webp)
 ののか: <size=140%>もう！　もう！ も～～～～～～～～～～～～～～～～～！！！！！！
 ののか: みんな言いたい放題！　帰ってとか！
 ののか: 話しかけるなとか、嫌いとか！
@@ -118,7 +118,7 @@
 コハル & カエデ & ユイナ: あははっ！
 一同: <size=150%>かんぱーい！
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000266/data/adv_still_anime_000266/adv_still_anime_000266.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000266/data/adv_still_anime_000266/adv_still_anime_000266.webp)
 ユイナ: うま～
 (Background change)
 コハル: 初ライブおつかれ！
@@ -156,23 +156,23 @@
 コハル: 取るぞ！　世界！
 カエデ & ユイナ: おー！
 ユノ: ――こいつらと生きていくんだ。 音楽で
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000267/data/adv_still_anime_000267/adv_still_anime_000267.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000268/data/adv_still_anime_000268/adv_still_anime_000268.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000267/data/adv_still_anime_000267/adv_still_anime_000267.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000268/data/adv_still_anime_000268/adv_still_anime_000268.webp)
 (Caption): 兼 supermacy バンド 練習室！ やった～ 認可済
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000269/data/adv_still_anime_000269/adv_still_anime_000269.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000270/data/adv_still_anime_000270/adv_still_anime_000270.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000267/data/adv_still_anime_000267/adv_still_anime_000267.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000268/data/adv_still_anime_000268/adv_still_anime_000268.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000269/data/adv_still_anime_000269/adv_still_anime_000269.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000270/data/adv_still_anime_000270/adv_still_anime_000270.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000267/data/adv_still_anime_000267/adv_still_anime_000267.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000268/data/adv_still_anime_000268/adv_still_anime_000268.webp)
 (Caption): 兼 supermacy バンド 練習室！ やった～ 認可済
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000269/data/adv_still_anime_000269/adv_still_anime_000269.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000270/data/adv_still_anime_000270/adv_still_anime_000270.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000291/data/adv_still_anime_000291/adv_still_anime_000291.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000292/data/adv_still_anime_000292/adv_still_anime_000292.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000269/data/adv_still_anime_000269/adv_still_anime_000269.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000270/data/adv_still_anime_000270/adv_still_anime_000270.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000291/data/adv_still_anime_000291/adv_still_anime_000291.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000292/data/adv_still_anime_000292/adv_still_anime_000292.webp)
 ユノ: 来年も、またその次も、高校生になっても
 ユノ: 大人になっても、ずっと
 ユノ: あたしたち、最高のバンドだ！
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000291/data/adv_still_anime_000291/adv_still_anime_000291.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000291/data/adv_still_anime_000291/adv_still_anime_000291.webp)
 ユノ: 結局、バンドは一年で解散した
 ユノ: みんな『自分の夢ができたから辞めたい』って いつもみたいに笑ってたよ
 (Background change)
@@ -190,7 +190,7 @@
 ユノ: 引っかき回してゴメン
 あられ: …………
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10.mp4)
 (Caption): 夢みた10話　焚き火での作曲シーン
 (Subtitle) arale: あ……あう～……あ～～～～～～～～～
 (Subtitle) nonoka: あ～～～～～♪
@@ -266,7 +266,7 @@
 律: うん
 ユノ: 好き放題だな
 律: ユノさんが教えてくれたんですよ？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000225/data/adv_still_anime_000225/adv_still_anime_000225.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000225/data/adv_still_anime_000225/adv_still_anime_000225.webp)
 (Background change)
 ユノ: ……
 ののか: <size=150%>甘いのもたべよー！
@@ -317,7 +317,7 @@
 律: ……
 律: そっか
 ののか: <size=150%>都子ちゃんもダーイヴ！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000015/data/adv_still_charaillust_000015/adv_still_charaillust_000015.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000015/data/adv_still_charaillust_000015/adv_still_charaillust_000015.webp)
 都子: いやいやいや！
 ユノ: てか夜の海ほんとに危ないからやめな
 ののか: ！　そうかも！

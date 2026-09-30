@@ -38,7 +38,7 @@
 初華: ……さきちゃん
 にゃむ: ……
 にゃむ: （あの日からずっと、頭に焼きついて離れない——）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000159/data/adv_still_anime_000159/adv_still_anime_000159.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000159/data/adv_still_anime_000159/adv_still_anime_000159.webp)
 にゃむ: （あの子の演技に飲み込まれるのが怖いのに 目を離せない。だいっきらい……）
 (Background change)
 にゃむ: （……大好き）
@@ -82,7 +82,7 @@
 (Background change)
 (Background change)
 初華: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000160/data/adv_still_anime_000160/adv_still_anime_000160.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000160/data/adv_still_anime_000160/adv_still_anime_000160.webp)
 (Caption): メモ ねじれた空を 描い 羽根のない君 堕ち 触れてしまった 神 今夜 私の神話にな 弱っていく君 閉じ込めて know i want... nt...iwant... nt you so... i want.. なければよかったのに　なぜ… you know... メモを検索 メモを移動 メモを転送 削除
 にゃむ: これ、サキコのこと？　ちょっと貸して
 初華: <size=175%>！　返して！

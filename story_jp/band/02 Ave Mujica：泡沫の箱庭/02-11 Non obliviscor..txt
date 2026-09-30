@@ -122,7 +122,7 @@ CRYCHIC……やれて、よかった……
 愛音: え、なになに？
 燈: 祥ちゃん、これ……
 祥子: このノート
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp)
 (Caption): 人間になりたいうた
 立希: 『人間になりたいうた』……歌詞変わってる。 最近書いてたのってこれ？　なんで？
 燈: ……祥ちゃん、言ってたから。 人間になりたいって
@@ -141,7 +141,7 @@ CRYCHIC……やれて、よかった……
 燈: え？　う……
 そよ: （祥ちゃんのこと、こんなふうに考えてたんだ）
 そよ: （でも、結局これ……燈ちゃんのうたじゃない）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp)
 (Caption): 人間になりたいうた
 そよ: （燈ちゃんらしい歌詞。 いつもむき出しで……ほんと私には真似できないや）
 そよ: （悩んで、苦しんで、わかりたくてもわからなかった。 けど、そうだよね。 他の人のことなんて簡単にはわからないよね）
@@ -157,7 +157,7 @@ CRYCHIC……やれて、よかった……
 愛音: やるよ〜。でも今はちょっと待ってようか
 楽奈: ん
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07.mp4)
 (Caption): 人間になりたいうたⅡ〜春日影（CRYCHIC）　ライブシーン
 (Subtitle) tomori: このうたは……
 (Subtitle) tomori: このうたは、祥ちゃんのことを考えて、書いた、うた

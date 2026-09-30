@@ -14,9 +14,9 @@
 にゃむ: （……役者になるんだ）
 にゃむ: （本物の役者に——）
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp)
 にゃむ: （………すごい）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
 にゃむ: （これが、本物——）
 (Background change)
 にゃむ: （敵わない……どう足掻いても…… こんなの、絶対……）
@@ -58,7 +58,7 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 (Background change)
 にゃむ: （ここまでやってきたんだし、なんでもやっていかないと）
 にゃむ: （絶対に芸能界で生き残ってみせる！ ……けど——）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
 にゃむ: （——生き残ってどうするの？ たとえこのまま生き残っても、 本物の役者に、向かっていく勇気なんて……）
 にゃむ: （違う！　アタシは役者になるんだ！ そうじゃなきゃ、今までやってきたことが——）
 にゃむ: （『逃げちゃうんならこの世界向いてないんじゃない』？ 違う！　そんなことない！　 このオーディションに受かって、それを証明してみせる）
@@ -72,7 +72,7 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 にゃむ: ……っ！！
 にゃむ: （なさけなか！！　 一番大事な時にどうしてあんな……！）
 にゃむ: （バンドは終わったんだから……！ なんでも踏み台にして、先に進まなきゃって……！）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp)
 にゃむ: （……あれからずっとあの子が頭から離れない）
 にゃむ: （怖くて、大嫌いで……大好き）
 にゃむ: （ここで逃げたら、今までがんばってきたこと 全部無駄に終わる。家族にあれだけ応援してもらって…… このまま夢を諦めてたまるか……！）

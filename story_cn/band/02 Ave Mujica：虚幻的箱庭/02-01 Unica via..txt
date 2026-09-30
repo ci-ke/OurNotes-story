@@ -17,7 +17,7 @@ Oblivionis：被阴影吞没的月亮将重获生机， 可怜的人偶，会再
 Doloris：……！
 Oblivionis：让我们开始吧。今夜的假面舞会！
 （背景切换）
-（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4）
+（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4）
 （说明）：KiLLKIss　ライブシーン
 
 【演出结束后】
@@ -89,30 +89,30 @@ Oblivionis：让我们开始吧。今夜的假面舞会！
 祥子：而将我从悲痛中救出的——
 （背景切换）
 教师：下午开始要举办音乐节。大家都前往礼堂吧——
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp）
 睦：祥，该走了
 祥子：……是啊
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp）
 祥子：……！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
 祥子：睦，刚才那几位是？
 睦：是在月之森第一个组建乐队的，高中部的学姐
 祥子：乐队…… 睦，我们也来组乐队吧
 睦：诶
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp）
 祥子：组我们的乐队！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp）
 （背景切换）
 （背景切换）
 祥子：长崎爽世同学是个如此出色的人真是太好了。 然后是主唱……
 灯：……
 祥子：？那个人，半个身子探出桥外是要干什么……？
 灯：……啊
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp）
 祥子：<size=175%>！！
 祥子：<size=175%>不可以！！
 灯：唔………
@@ -130,7 +130,7 @@ Oblivionis：让我们开始吧。今夜的假面舞会！
 祥子：……原来是我误会了。 你并没打算寻短见啊……
 （背景切换）
 祥子：她叫住了正要离开的我， 邀请我到她家，说是要为我处理伤口
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp）
 祥子：在她的房间里发现那本歌词笔记本时， 我的心真的跳得好快
 祥子：……那时的相遇，时至今日 我仍然认为这是命运的安排
 （背景切换）
@@ -151,7 +151,7 @@ Oblivionis：让我们开始吧。今夜的假面舞会！
 （背景切换）
 灯：给你……
 祥子：这是……？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000074/data/adv_still_anime_000074/adv_still_anime_000074.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000074/data/adv_still_anime_000074/adv_still_anime_000074.webp）
 灯：这是我第一次写歌词
 祥子：……我看得出来。这是……
 祥子：……唔……

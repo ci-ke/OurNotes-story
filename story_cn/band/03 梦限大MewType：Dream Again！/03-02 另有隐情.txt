@@ -58,7 +58,7 @@ Raki：小阿拉蕾也跟小波塔一样喜欢旧版人设吗？
 都子：还在起步阶段……
 阿拉蕾：说不定听了笔名我就知道了！
 都子：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000201/data/adv_still_anime_000201/adv_still_anime_000201.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000201/data/adv_still_anime_000201/adv_still_anime_000201.webp）
 （说明）：卓柏卡布拉 饱和 富士见夜子
 都子：是这个……
 阿拉蕾：嘶……
@@ -201,7 +201,7 @@ Raki：小阿拉蕾——
 阿拉蕾：是不是在学校待不下去了啊。 因为我出了那种事……
 阿拉蕾：——都过去了！ 我现在要加油！
 阿拉蕾：……！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000202/data/adv_still_anime_000202/adv_still_anime_000202.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000202/data/adv_still_anime_000202/adv_still_anime_000202.webp）
 （说明）：魔法露露！ 肌肉棒棒
 阿拉蕾：————♪
 （背景切换）
@@ -255,5 +255,5 @@ Raki：我们顺便去一趟书店——
 由乃：……
 由乃：有隐情吗……？
 （背景切换）
-（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01.mp4）
+（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01.mp4）
 （说明）：夢みた1話　あられの家でのシーン

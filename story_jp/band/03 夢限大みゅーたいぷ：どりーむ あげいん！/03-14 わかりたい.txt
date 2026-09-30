@@ -3,7 +3,7 @@
 世界に生まれて１７年、知らないことばっかりだ
 
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp)
 (Caption): ビオラ ～被害者の心理的プロセスと脱却方法～
 都子: …………
 律: こんなに分厚くなるとは思わなくて、 読みづらかったらすみません
@@ -81,7 +81,7 @@
 ののか: はりゃー
 あられ: いよいよほんとにバイバイしちゃうんじゃ……！
 あられ & 律 & ののか: ？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000260/data/adv_still_anime_000260/adv_still_anime_000260.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000260/data/adv_still_anime_000260/adv_still_anime_000260.webp)
 (Caption): さぶゆの 溺れてる
 あられ: さかな……？
 律: 水族館……
@@ -201,10 +201,10 @@
 (Background change)
 (Background change)
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000264/data/adv_still_anime_000264/adv_still_anime_000264.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000265/data/adv_still_anime_000265/adv_still_anime_000265.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000264/data/adv_still_anime_000264/adv_still_anime_000264.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000265/data/adv_still_anime_000265/adv_still_anime_000265.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000264/data/adv_still_anime_000264/adv_still_anime_000264.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000265/data/adv_still_anime_000265/adv_still_anime_000265.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000264/data/adv_still_anime_000264/adv_still_anime_000264.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000265/data/adv_still_anime_000265/adv_still_anime_000265.webp)
 (Background change)
 ののか: 世界に生まれて１７年、知らないことばっかりだ
 ののか: みんなといっしょは、たのしい！

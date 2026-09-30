@@ -79,9 +79,9 @@
 ののか: ？
 都子: その前に、やるべきことをやります
 ののか: 都子ちゃん、どこ行くのー！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp)
 都子: 贖罪の……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp)
 都子: <size=100％>秋葉原マラソンお百度参り</size>
 (Background change)
 
@@ -206,18 +206,18 @@
 律: よ～おっ
 (Background change)
 先生: じゃあ、今の式を使って一問解いてみましょう
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp)
 (Caption): 出会った頃には思わなかった
 都子: （――こんなふうになれるなんて、 出会った時には思わなかった）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp)
 (Caption): こっちのセリフ
 都子: （それはこっちのセリフ）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp)
 (Caption): この運命
 都子: （この出会いが運命なら）
 都子: （続いてほしい）
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp)
 あられ: ジャーーーーーーーーーーーン！
 ののか: パン屋さん再び！
 律: そのあんパン、マジるるコラボ第３弾だ
@@ -299,7 +299,7 @@
 あられ: ♡　そ、そんなそんなそんなですよ～～
 律: 都子さん、これ
 都子: はい
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp)
 (Caption): 巨羊羹
 ユノ: 『え？　車止め？』
 都子: これは……

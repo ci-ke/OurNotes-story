@@ -63,15 +63,15 @@
 祥子：你是叫初音，对吧？ 初华是你用的假名字？
 初音：是我妹妹的名字
 祥子：……诶
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp）
 初音：比我活泼，爱捉虫子， 想当偶像的才是……真正的初华
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp）
 初音：我想见到小祥，才假装自己是初华
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp）
 初音：我一直在骗你……对不起。 真的对不起！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp）
 祥子：……接下来你打算怎么办？
 初音：我被允许当住在这里的管理员， 应该还要转学
 祥子：你就甘愿这样了吗？
@@ -80,12 +80,12 @@
 初音：……我早就知道，总有一天会结束的
 初音：无论是偶像，还是乐队，都只是暂时的放任
 初音：可能明天就会结束，也可能是今天，每天我都很害怕。 曾经我也想过抛下一切， 一了百了……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp）
 初音：……但是失败了
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp）
 祥子：是因为，我找上了你吗
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp）
 初音：<size=175%>不是的！我很开心！
 初音：……哪怕我是替代品也一样
 祥子：……！
@@ -132,7 +132,7 @@
 祥子：但是，我明白了一件事
 （背景切换）
 祥子：我们在这里一起看过星星吧。 那个是你吗？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp）
 初音：<size=175%>……！
 祥子：果然，喜欢星星的是初音吧
 初音：……！！
@@ -166,7 +166,7 @@
 初音：这种事……做不到的。不会被允许的
 祥子：……
 初音：小祥……？身子探出那么远很危险的……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000025/data/adv_still_charaillust_000025/adv_still_charaillust_000025.webp）
 祥子：<size=175%>我已经！彻底受够了——！！
 初音：……！
 祥子：谁不允许的！？谁决定的！ 为什么非要听他的话！
@@ -176,14 +176,14 @@
 初音：……嗯
 （背景切换）
 初音：……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp）
 （说明）：收件箱 日期 发件人 收件人 附件 定时发送 草稿 丰川定治 祥子的事 我想你也清楚，你跟祥子不在同一个世界 赶紧带祥子回来。
 初音：……
 祥子：嗯……
 初音：……
 （背景切换）
 祥子：找到了……！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000164/data/adv_still_anime_000164/adv_still_anime_000164.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000164/data/adv_still_anime_000164/adv_still_anime_000164.webp）
 祥子：……只有这个
 初音：……
 定治：像个小偷一样鬼鬼祟祟的
@@ -216,7 +216,7 @@
 祥子：……好了，拿掉了。 这么小的瓢虫，你也会怕吗？
 初音：就、就是很怕啦～！ 小祥，别拿过来对着我啦～
 祥子：呵呵，初音真是的
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp）
 初音：真是的～～别笑啦～！ ……哈哈
 祥子：哼哼
 祥子 & 初音：<size=150%>啊哈哈

@@ -17,7 +17,7 @@ Oblivionis: The moon swallowed by shadows comes back to life, and the poor doll 
 Doloris: ...!
 Oblivionis: Now, let's begin... tonight's masquerade!
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4)
 (Caption): KiLLKIss　ライブシーン
 
 [After the Performance]
@@ -89,30 +89,30 @@ Sakiko: Father did his best to protect me... but he simply couldn't recover from
 Sakiko: Yet, what saved me was—
 (Background change)
 Teacher: It's the music festival in the afternoon. Let's go to the auditorium.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
 Mutsumi: Saki, let's go.
 Sakiko: Okay...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
 Sakiko: ...!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 Sakiko: Mutsumi, who are those people?
 Mutsumi: They are seniors who formed a band for the first time in Tsukinomori.
 Sakiko: Band... Mutsumi! We should start a band too!
 Mutsumi: Eh?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
 Sakiko: A band!
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
 (Background change)
 (Background change)
 Sakiko: Soyo Nagasaki-san. I'm glad she's a pleasant person. And then the vocal...
 Tomori: ...
 Sakiko: ...?  What's that girl doing, leaning so far over the bridge...?
 Tomori: Ah...
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
 Sakiko: <size=175%>!!
 Sakiko: <size=175%>No, don't!!
 Tomori: Ugh...
@@ -130,7 +130,7 @@ Tomori: ...
 Sakiko: ...It seems I misunderstood. You weren't trying to do anything like that...
 (Background change)
 Sakiko: She stopped me as I was about to leave, and invited me to her home to tend to my injury.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
 Sakiko: When I found the songwriting notebook in her room, my heart truly raced with excitement.
 Sakiko: I still believe that our encounter at that time was destiny...
 (Background change)
@@ -151,7 +151,7 @@ Sakiko: All of those exciting days eventually found their way into that song.
 (Background change)
 Tomori: This...
 Sakiko: What is this...?
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000074/data/adv_still_anime_000074/adv_still_anime_000074.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000074/data/adv_still_anime_000074/adv_still_anime_000074.webp)
 Tomori: This is the first time I've written lyrics.
 Sakiko: I understand. This is...
 Sakiko: ......

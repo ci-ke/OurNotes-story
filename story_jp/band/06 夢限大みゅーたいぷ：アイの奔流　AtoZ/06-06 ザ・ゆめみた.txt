@@ -1,0 +1,106 @@
+10951:adv_script_eventstory_6_06 ザ・ゆめみた
+
+かっこよかったんですっ！
+
+(Background change)
+
+[翌日]
+
+ユノ: で……
+ユノ: できたぁ～～～～～……っ
+ユノ: なんとか出た……死ぬかと思った……
+ユノ: …………
+ユノ: （……いや、大丈夫。納品クオリティまではちゃんと達してる。 ただ……）
+ユノ: （この辺、技術で誤魔化してる……ような……）
+ユノ: いや、ダメだ。今は正常な判断ができん…… 一旦夕方まで寝かせよう
+ユノ: もう練習の時間…… あとひとがんばり……いや、ふたがんばりか
+ユノ: ん～～～～～～っ……！ はぁ……
+(Background change)
+
+[VR Floor]
+
+ユノ: お疲れ～……
+ユノ: ！？
+あられ: ――♪
+ユノ: え……このフレーズって……
+あられ: ――♪
+(Background change)
+ユノ: （あたしが苦し紛れに送ったやつ…… なんで完璧に演奏して……）
+あられ: ――あっ！　ユノさんちゃん！
+ユノ: ！
+都子: お疲れ様です
+律: ユノさんがログインしたということは……
+ののか: 作曲お疲れ様～っ！
+ユノ: いや、まだ見直ししなきゃいけなくて……
+ののか: はりゃ？
+都子: でも締切には間に合いそうということですよね？
+ユノ: それはまあ
+ののか: じゃあやっぱりお疲れ様アーンドおめでとーう！
+あられ: おめでとうございまーす！　いやー、良かった良かった。 それで、その〜……新曲はどんな感じに？
+あられ: あっ、でも何も知識を入れずに聴きたいかも！ う～～～～、どっちも捨てがたいっ！
+ユノ: いや…… ていうか、なんでそのフレーズ練習してるの？
+ユノ: ２０秒しかなかったでしょ、添付したファイル
+都子: それはあられさんが……
+あられ: ぼくもユノさんちゃんのために、 やれることは全部やりますっ！！
+律 & 都子 & ののか: ？
+あられ: このフレーズ、練習します！ ハミングだけど！
+都子: ――と
+ユノ: ……え、全然わかんない
+あられ: えっと、ユノさんちゃん、ぼくたちが練習時間をなるべく 取れるようにって言ってくれてたじゃないですか！
+ユノ: ……ああ
+あられ: その気持ちに応えたかったと言いますか……
+あられ: ぼくたちは信じて待つしかできないけど、 ユノさんちゃんが合流したときスムーズにいくようにって！
+ユノ: いや……変わるかもしれなかったでしょ。フレーズとか
+あられ: あ、そういえばそうかも……！？
+あられ: でもでも、あのメロは最高に『ザ・ゆめみた』で、 すっごくすっごくす～～～～～～っごく……
+あられ: かっこよかったんですっ！
+ユノ: ……！
+ユノ: なに、それ…… 理屈通ってないじゃん……
+ユノ: ていうか、なんで全員素直に練習してるの
+都子: まあ、置いていかれるわけにはいきませんし……
+律: 私もユノさんの新しい曲、楽しみにしてました。 あられちゃんが言う通りもらったギターのフレーズもかっこいいし
+ののか: ね～！　２０秒でも心ウキウキ～♪
+ののか: それに～……ユノちゃんのびっぐらーぶが 伝わったのです！　そのお返しっ！
+ユノ: あー……そっか……
+(Background change)
+ユノ: （こいつらのやることに、理屈なんてないんだった……）
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp)
+ユノ: （……あの時から、あったのは理屈じゃなくて……）
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp)
+あられ & ののか: ？
+ユノ: ……あ～……
+ユノ: そのフレーズ、演奏してみて…… 歌ってみて、どうだった……？
+あられ: もちろんっ……！
+あられ: 大好きですっ！！！
+ののか: ののちゃんも、ののちゃんも～っ！
+律: 私も大好きです。 ギターは特にキャッチーで……
+都子: わ、私も……っ。 千石さん、本当にお疲れ様でした……！
+ユノ: ……そっか
+ユノ: ごめん、やっぱり今日練習できない
+律 & あられ & ののか & 都子: え～～～～～～～っ！？？？
+あられ: ななななななんでですか！？
+ユノ: あと一日ちょうだい
+あられ: ユ、ユ、ユノさんちゃ～～～～～～～～～んっ！？？？
+(Background change)
+ユノ: はぁ～……
+(Background change)
+あられ: もちろんっ……！
+あられ: 大好きですっ！！！
+(Background change)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000049/data/adv_still_charaillust_000049/adv_still_charaillust_000049.webp)
+ユノ: ……あんな風に言われたら、応えないわけにいかないじゃん
+ユノ: 完成したと思ったのに……
+ユノ: （ほんっと、このバンドって変なヤツばっか……）
+ユノ: （でも……）
+ユノ: （その変なヤツらが、何故かあたしを信じてくれてる）
+ユノ: （だったら――）
+ユノ: やってやろうじゃん
+(Background change)

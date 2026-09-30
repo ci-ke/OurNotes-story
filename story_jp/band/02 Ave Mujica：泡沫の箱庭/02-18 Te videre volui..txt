@@ -38,7 +38,7 @@
 初音: 私を急かす声に顔をあげる。 山のてっぺんに豊川家の別荘が見えた
 初音: 私は知っていた。夏には私と同じ年の姪がくる。 教えてくれたのは母だった
 初音: 絶対に会ってはいけない、その子の名は—— 豊川祥子
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
 初音: 同じ豊川の子なのに祝福され、しあわせに暮らしている なのに私は——ひとりぼっち
 (Background change)
 初音: 立ち止まってしまった私を不思議に思ったのか 初華は私の視線の先を見て、にこっと笑った
@@ -53,13 +53,13 @@
 初音: 私に言われても聞かないだろう。 その手に掴んだお菓子はきっとさきちゃんの分なのだ
 初音: ずるい
 初音: 初華がさきちゃんと何をして遊んだか 何を話したかをまるで記憶を共有するかのように こと細やかに話してくれた
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
 初音: さきちゃんに誘われ、虫取りに行ったこと。 大きなカブトムシを取ってあげたこと
 初音: でっかい蜘蛛が出て、ふたりでぎゃーと叫んだこと
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
 初音: 夏の夜の間、私は初華から たくさんのさきちゃんの話を聞いた
 初音: どんな子だろう、どんな子だろう、どんな子だろう！！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000078/data/adv_still_anime_000078/adv_still_anime_000078.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000078/data/adv_still_anime_000078/adv_still_anime_000078.webp)
 初音: さきちゃんの隣にいるのは 初華ではなく私だと想像し、夢見て——
 初音: 初華だけずるい。私も遊びたい。 ずるい、ずるいずるい、ずるい！
 (Background change)

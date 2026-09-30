@@ -180,7 +180,7 @@ MC: いつでもお待ちしてるので
 にゃむ: ……ごっく、ごっく……ごっく、ぷっはーーー！ やってらんないわ〜〜！
 (Background change)
 にゃむ: 話ふっといて潰すとかツラ〜。 がんばってこれだもんね〜才能しか勝たん！　あ〜……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000024/data/adv_still_charaillust_000024/adv_still_charaillust_000024.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000024/data/adv_still_charaillust_000024/adv_still_charaillust_000024.webp)
 にゃむ: おかあちゃ〜ん
 にゃむの母: 『元気のなかね～？　どぎゃんしたと～？』
 にゃむ: どぎゃんもこぎゃんもなか〜
@@ -312,10 +312,10 @@ MC: いつでもお待ちしてるので
 祥子: ……
 にゃむ: どうすんの？
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp)
 (Background change)
 (Background change)
 祥子: ……睦に戻ってきてほしい
@@ -356,7 +356,7 @@ MC: いつでもお待ちしてるので
 にゃむ: アンタ、なんでムジカにいんの？
 モーティス: え？
 にゃむ: あんたが人形を演じた時正直震えたんだよね 糸なんてないのはわかってんのに……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 モーティス: 張り詰めて、ぷつん、て切れたのが見えた
 にゃむ: 悔しいけど、これが本物ってやつなんだなって思い知った……
 にゃむ: ……ここにいちゃダメだよ

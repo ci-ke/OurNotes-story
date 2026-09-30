@@ -9,7 +9,7 @@
 あられ: 『In my Words』でした。 聴いてくれてありがとうございます
 あられ: 次の曲は、 みんなといっしょに歌えたらうれしいです
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4)
 (Caption): 夢みた13話　『愛は衝動』ライブシーン
 (Subtitle) arale: 愛は衝動！
 (Subtitle) arale: それがぜーんぶ混ざった時に、 歌でおしゃべりできるようになるんだ！
@@ -85,8 +85,8 @@
 (Background change)
 律: それでは！ みんな揃って
 あられ: 夢限大～～～～～～～～～
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp)
 夢限大みゅーたいぷ: みゅーたいぷーー！
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3.mp4)
 (Caption): 夢みた13話　完！

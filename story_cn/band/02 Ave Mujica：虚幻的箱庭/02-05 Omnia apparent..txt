@@ -180,7 +180,7 @@
 若麦：……咕嘟、咕嘟……咕嘟，噗哈——！ 这谁受得了啊～！
 （背景切换）
 若麦：抛话题给她直接被无视～ 再怎么努力也赢不过天才啊！啊～
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000024/data/adv_still_charaillust_000024/adv_still_charaillust_000024.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000024/data/adv_still_charaillust_000024/adv_still_charaillust_000024.webp）
 若麦：妈～
 若麦的妈妈：『咋没精神啊～？出啥事儿啦～？』
 若麦：还能有啥事儿啊～
@@ -312,10 +312,10 @@ Mortis：不管是期待戏剧的观众，还是来听音乐的观众， 我的�
 祥子：……
 若麦：到底怎么办？
 （背景切换）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp）
 （背景切换）
 （背景切换）
 祥子：……我希望睦能回来
@@ -356,7 +356,7 @@ Mortis：什么反了！？
 若麦：你为什么待在Mujica？
 Mortis：诶？
 若麦：你表演人偶的时候，老实说，看得我直发抖。 明明知道没有那根线……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp）
 Mortis：却能看见它绷紧，然后啪地断开
 若麦：我很不甘心，但也领会到了，这才是真正的表演……
 若麦：……你不该待在这里

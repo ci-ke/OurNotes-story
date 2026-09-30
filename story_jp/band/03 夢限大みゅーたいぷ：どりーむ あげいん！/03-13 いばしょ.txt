@@ -24,7 +24,7 @@
 (Background change)
 あられ: だから……
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09.mp4)
 (Caption): 夢みた9話　マジるる変身イメージシーン
 (Subtitle) arale・ritsu: ボディメイク・パーンプア～～～～～～ップ！
 (Background change)
@@ -82,7 +82,7 @@
 (Background change)
 ののか: ん－……
 ののか: んー？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000255/data/adv_still_anime_000255/adv_still_anime_000255.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000255/data/adv_still_anime_000255/adv_still_anime_000255.webp)
 (Caption): さぶゆの 消えたい 消えてもいいかな さぶゆの 今 可哀想って思った？ 正解だよ
 ののか: …………
 ののか: モグモグどんどんだ～……
@@ -112,7 +112,7 @@
 都子: （知られた。 みゅーたいぷが大変な時に、私は……）
 通行人A: フェアリィだ！
 都子: ？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000256/data/adv_still_anime_000256/adv_still_anime_000256.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000256/data/adv_still_anime_000256/adv_still_anime_000256.webp)
 (Caption): フェアリィブゥケ
 都子: あ……
 都子: （会いたい……）
@@ -135,7 +135,7 @@
 都子: あ、はい……
 ビオラ: 怖いな
 都子: えっ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000257/data/adv_still_anime_000257/adv_still_anime_000257.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000257/data/adv_still_anime_000257/adv_still_anime_000257.webp)
 (Caption): ビオラ 恋人 ビオラ 自宅 ビオラ １人暮らし ビオラ 好物 ビオラ かわいい ビオラ 仲いい ビオラ 学校
 都子: （ま、まさか勘付いて……）
 ビオラ: ネットじゃあることないこと好きに言われちゃってるから。 都子さんにどう思われてるか、怖くて……
@@ -153,7 +153,7 @@
 ビオラ: そうかな？
 都子: だって、あれじゃ周りは 何も言えなくなるじゃないですか
 ビオラ: ……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000258/data/adv_still_anime_000258/adv_still_anime_000258.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000258/data/adv_still_anime_000258/adv_still_anime_000258.webp)
 ビオラ: どうして？
 都子: あられさんは圧が強すぎるんです！
 都子: 熱い思いがあって、 すべてに一生懸命だってことはわかります……
@@ -181,7 +181,7 @@
 都子: ……冊子……？
 律: 口でうまく説明できる自信がなくて。 でも、都子さんにちゃんと伝えたいから
 律: どうぞ、私がまとめた――
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp)
 (Caption): ビオラ ～被害者の心理的プロセスと脱却方法～
 律: 『ビオラ～被害者の心理的プロセスと脱却法～』です！
 都子: …………？

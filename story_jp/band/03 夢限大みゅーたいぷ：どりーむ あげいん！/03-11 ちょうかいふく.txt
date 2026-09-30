@@ -141,7 +141,7 @@
 律: ご挨拶が遅れました
 律: 改めまして、神田白八馬アカデミー１年B組で 一緒に学ばせていただきます、峰月律です
 律: こちら、お近づきの印に……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000249/data/adv_still_anime_000249/adv_still_anime_000249.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000249/data/adv_still_anime_000249/adv_still_anime_000249.webp)
 らき & ぼた: ええっ！？
 らき: バルくん肉まん……！
 ぼた: ふかしたてぇ！

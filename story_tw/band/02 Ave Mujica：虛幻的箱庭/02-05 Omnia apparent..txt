@@ -180,7 +180,7 @@ MC：隨時歡迎各位再來上節目。
 若麥：……咕嚕、咕嚕……咕嚕，噗哈──！ 這樣誰受得了啊～～！
 （背景切换）
 若麥：拋話題給她接還直接無視掉～ 再怎麼努力也就只有這樣～果然還是比不過才能嘛！啊……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000024/data/adv_still_charaillust_000024/adv_still_charaillust_000024.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000024/data/adv_still_charaillust_000024/adv_still_charaillust_000024.webp）
 若麥：媽媽～
 若麥的母親：「妳聲音好沒精神～？怎麼了嗎～？」
 若麥：哪還有什麼怎麼了啊～
@@ -312,10 +312,10 @@ Mortis：不論是期待戲劇的人還是來聽音樂的人， 我都能靠演�
 祥子：……
 若麥：妳說呢？
 （背景切换）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000054/data/adv_still_anime_000054/adv_still_anime_000054.webp）
 （背景切换）
 （背景切换）
 祥子：……我希望睦可以回來。
@@ -356,7 +356,7 @@ Mortis：什麼意思！？
 若麥：為什麼妳要待在Mujica？
 Mortis：咦？
 若麥：坦白說妳當初扮演人偶時，我真的被妳震撼到了。 明明就知道根本就沒有絲線……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp）
 Mortis：看起來卻像是緊繃的線突然斷開一樣。
 若麥：雖然很不甘心，但妳讓我體認到那才叫真正的演技……
 若麥：……妳不該待在這裡。

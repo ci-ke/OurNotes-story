@@ -39,7 +39,7 @@
 蕾叶: （私たちは５人のファミリー）
 蕾叶: （５人全員がもれなく幸せじゃないと ピースなファミリーって言えない）
 蕾叶: （誰かが犠牲になって成り立つ幸せなんて あっちゃいけないんだ）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000010/data/adv_still_charaillust_000010/adv_still_charaillust_000010.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000010/data/adv_still_charaillust_000010/adv_still_charaillust_000010.webp)
 蕾叶: あっ。もしもし、ばーちゃん？
 蕾叶の祖母: 『蕾叶〜〜！！　元気に飯食ってるか〜！？』
 祖母のバンドメンバーA: 『えっ、蕾叶から！？　お〜〜〜い！！ こっちは今日ライブだぞ〜〜！！』
@@ -122,7 +122,7 @@
 [アイドルグループの社内ライブ　当日]
 
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4)
 (Caption): 一家Dumb Rock!バンスト1章　心玖を取り戻す朝ごはん
 (Subtitle) shizuku: ……これで全員分だ。今のところは
 (Subtitle) raika: うん

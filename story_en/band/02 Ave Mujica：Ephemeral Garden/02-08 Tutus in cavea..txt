@@ -133,7 +133,7 @@ Anon: Huh? Timoris?
 (Background change)
 Rāna: Playing guitar.
 Mortis: Wow... it's tattered.
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
 Rāna: —♪
 Mortis: Wow...!
 Mutsumi: <size=200%><cspace=0.25em><voffset=0.25em>Singing<voffset=0em><voffset=0.25em></voffset>.
@@ -146,7 +146,7 @@ Mortis: Mutsumi-chan! That's great! I thought you were really dead.
 Mutsumi: ...
 Mortis: Mutsumi-chan?
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
 (Background change)
 Mutsumi: !
 Mortis: Mutsumi-chan, you have been sleeping all this time. Even after consulting with the doctor, you wouldn't wake up. It's been so tough for me.

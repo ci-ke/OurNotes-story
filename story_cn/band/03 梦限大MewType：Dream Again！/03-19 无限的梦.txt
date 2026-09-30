@@ -7,7 +7,7 @@
 阿拉蕾：哇啊～～～～～～
 阿拉蕾：……瞄一眼
 阿拉蕾：诶！？
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000286/data/adv_still_anime_000286/adv_still_anime_000286.webp）
 （说明）：歌美@utaskyat 我从初二到高二期间，一直以「歌美」的名义在网上活动。 高一时我组建了「La la la la Girls」，和一群唱歌很好听的女孩子一起发布视频、开展直播活动。 加入事务所、发布原创歌曲等活动都很顺利，但我在高二时退出了组合。 现在，我想讲述当时的原委，以及那之后组合里发生的事情。 希望这能帮到至今仍在努力的同伴们。 虽然当时的事，可能我再怎么道歉也得不到原谅，但我会一直、一直支持你们。
 阿拉蕾：歌美姐……！？
 （背景切换）
@@ -70,7 +70,7 @@
 薇欧拉：谢谢
 （背景切换）
 经纪人：小薇欧拉提出的解约申请， 已经正式受理了。 我会一直站在小薇欧拉这边的……
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000287/data/adv_still_anime_000287/adv_still_anime_000287.webp）
 薇欧拉：♪
 薇欧拉：闪闪发光♡
 （背景切换）
@@ -90,9 +90,9 @@
 薇欧拉：只在一瞬间，夺走所有人的目光， 然后就结束了
 薇欧拉：我，曾经想成为光芒
 薇欧拉：那种能让所有人都露出笑容， 让沮丧的人也精神起来的闪耀！
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000288/data/adv_still_anime_000288/adv_still_anime_000288.webp）
 薇欧拉：闪闪亮亮
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000289/data/adv_still_anime_000289/adv_still_anime_000289.webp）
 薇欧拉：一闪一闪
 （背景切换）
 薇欧拉：越是努力去闪耀，就越是变成了假货！
@@ -187,7 +187,7 @@
 由乃：糖分也有助于缓解紧张
 阿拉蕾：好的……！
 （背景切换）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000026/data/adv_still_charaillust_000026/adv_still_charaillust_000026.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000026/data/adv_still_charaillust_000026/adv_still_charaillust_000026.webp）
 阿拉蕾：啊呜……嚼嚼……
 阿拉蕾：咕嘟
 律：——扎好了哦
@@ -213,7 +213,7 @@
 由乃：哇噗
 律：不错呢，无限版本
 （背景切换）
-（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp）
+（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000290/data/adv_still_anime_000290/adv_still_anime_000290.webp）
 （说明）：MewType ver.∞ （无限？无穷大？）
 都子：是这样吗
 阿拉蕾：……
@@ -271,5 +271,5 @@ A子：加油
 （背景切换）
 阿拉蕾：大家好！ 我们是『梦限大MewType』！
 （背景切换）
-（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1.mp4）
+（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1/adv_movie_in_my_words_yumemita_13_1.mp4）
 （说明）：夢みた13話　『In My Words』ライブシーン

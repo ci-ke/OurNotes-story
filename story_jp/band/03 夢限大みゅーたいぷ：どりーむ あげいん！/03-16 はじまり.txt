@@ -72,7 +72,7 @@
 ユノ: え……拝啓いる？
 ユノ: 用もないのにメール出す訳ないんだし、 わざわざ所用って必要なくない？
 ユノ: …………
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 ユノ: ……
 : 会えるかな
 (Background change)
@@ -164,9 +164,9 @@
 ユノ: （あたしのこと見捨てたんじゃなかったんだ……）
 コハル: 誰かの夢を信じ合うことが、 自分の夢に向かう一歩になるって最高じゃん？
 ユノ: （あたしは……みんな楽しく前に進んで 自分だけ取り残されてると思って……）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000272/data/adv_still_anime_000272/adv_still_anime_000272.webp)
 ユノ: （あの歌詞の中に）
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000273/data/adv_still_anime_000273/adv_still_anime_000273.webp)
 ユノ: （あたしもいたんだ……）
 ユノ: …………
 コハル: わたしだってさ、仕事大変だけど ユノの活躍見ると負けられないってがんばれるし
@@ -196,7 +196,7 @@
 コハル: またいっしょに仕事しよーね！ 事務所宛にメールしていーい？
 ユノ: しーっ！　……あたしのサブ垢にＤＭして！
 コハル: わかった！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000030/data/adv_still_charaillust_000030/adv_still_charaillust_000030.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000030/data/adv_still_charaillust_000030/adv_still_charaillust_000030.webp)
 ユノ: （解散は終わりじゃなくて、前向きな始まり、か）
 ユノ: ……
 ユノ: あ、なんかできそう

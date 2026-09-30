@@ -133,7 +133,7 @@
 (Background change)
 楽奈: ギター弾く
 モーティス: わぁ……ボロボロ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
 楽奈: ——♪
 モーティス: わぁ……！
 睦: <size=200%><cspace=0.25em><voffset=0.25em>歌<voffset=0em>っ<voffset=0.25em>て</voffset>る
@@ -146,7 +146,7 @@
 睦: ……
 モーティス: 睦ちゃん？
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp)
 (Background change)
 睦: ！
 モーティス: 睦ちゃん、ずっと寝てたんだよ。 お医者さんに相談しても起きなくて大変だったんだから

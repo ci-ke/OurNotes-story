@@ -56,7 +56,7 @@
 ちえり: 出さなくていいです！ バンド名は『ちえり連合と愉快な部下たち』にします！
 蕾叶: 個人名が入るのはナシ！ ……あ、あった♪
 蕾叶: 私たちにぴったりすぎて、みんな腰抜かすぞ〜！ 聞いて驚け、その名も――
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000036/data/adv_still_charaillust_000036/adv_still_charaillust_000036.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000036/data/adv_still_charaillust_000036/adv_still_charaillust_000036.webp)
 (Caption): 一家Dumb Rock! 須賀蕾叶
 蕾叶: 『一家Dumb Rock!』
 一同: …………

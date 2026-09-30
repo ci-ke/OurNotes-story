@@ -123,7 +123,7 @@
 心玖: （あたしが作るのは、あいつらの――）
 (Background change)
 (Background change)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000037/data/adv_still_charaillust_000037/adv_still_charaillust_000037.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000037/data/adv_still_charaillust_000037/adv_still_charaillust_000037.webp)
 心玖: ……ふふふっ
 心玖: （蓬咲さんのベースは、『つよつよ』がいいかな。 寧月は複雑なフレーズも淡々と弾けそう）
 心玖: （……そうしたら、ここのメロディは……）

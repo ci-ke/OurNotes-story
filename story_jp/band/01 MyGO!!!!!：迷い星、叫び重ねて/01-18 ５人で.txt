@@ -142,7 +142,7 @@
 愛音: えー、バンド名『ANON TOKYO』一択でしょ！ センスなーい
 愛音: あ、にゃむち動画上げてる！ ……え、電子ドラム買ったの！？
 愛音: ちょっとだけ見ちゃおうかな……
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000061/data/adv_still_anime_000061/adv_still_anime_000061.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000061/data/adv_still_anime_000061/adv_still_anime_000061.webp)
 (Caption): 電子ドラム買ってみた！とりあえずたたいてみたよ 135回視聴 低評価 共有 リスト その他 にゃむち
 にゃむ: こんにち～にゃむにゃむ～！ みんな～、元気～？
 にゃむ: 突然だけど……電子ドラム、買っちゃいました～！
@@ -204,7 +204,7 @@
 燈: …………
 愛音: あ、じゃあ気分転換に衣装の話しようよ！
 愛音: スマホに衣装の参考画像入れてるんだけど〜 ほら、こういうのなんてどう？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000062/data/adv_still_anime_000062/adv_still_anime_000062.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000062/data/adv_still_anime_000062/adv_still_anime_000062.webp)
 立希: これ、海外セレブの画像？
 燈: すごいドレス……
 楽奈: 楽ちん
@@ -240,8 +240,8 @@
 
 愛音: 撮るよ～！　ほら、そよりんも！ そよりん、早く早く！　そよりん！
 そよ: ……そよりんじゃないし
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000063/data/adv_still_anime_000063/adv_still_anime_000063.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000064/data/adv_still_anime_000064/adv_still_anime_000064.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000063/data/adv_still_anime_000063/adv_still_anime_000063.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000064/data/adv_still_anime_000064/adv_still_anime_000064.webp)
 燈: う……目、つぶっちゃった……
 愛音: どれどれ～……やばっ、何これ？ 私ブレブレなんだけど！
 燈: あ……なんか後ろ、光ってる……

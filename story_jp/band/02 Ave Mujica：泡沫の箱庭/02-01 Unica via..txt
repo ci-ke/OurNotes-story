@@ -17,7 +17,7 @@
 ドロリス: ……！
 オブリビオニス: さあ始めましょう。今宵のマスカレードを！
 (Background change)
-(Video: https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4)
+(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4)
 (Caption): KiLLKIss　ライブシーン
 
 [終演後]
@@ -89,30 +89,30 @@
 祥子: けれど、そんなわたくしを救ったのは——
 (Background change)
 教師: 午後から音楽祭です。講堂に移動しましょう——
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
 睦: 祥、移動
 祥子: ……ええ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
 祥子: …… ！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
 祥子: 睦、今の方々は？
 睦: 月ノ森で初めてバンドを組んだ、高等部の先輩
 祥子: バンド…… 睦、わたくし達もバンドをいたしましょう
 睦: え
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000073/data/adv_still_anime_000073/adv_still_anime_000073.webp)
 祥子: バンド、ですわ！
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000071/data/adv_still_anime_000071/adv_still_anime_000071.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000072/data/adv_still_anime_000072/adv_still_anime_000072.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000070/data/adv_still_anime_000070/adv_still_anime_000070.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000069/data/adv_still_anime_000069/adv_still_anime_000069.webp)
 (Background change)
 (Background change)
 祥子: 長崎そよさん、素敵な方でよかったですわ。 あとはボーカル……
 燈: ……
 祥子: ？　……あの方、あんなに橋から乗り出して何を……？
 燈: ……あっ
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
 祥子: <size=175%>！！
 祥子: <size=175%>ダメですわ！！
 燈: う………
@@ -130,7 +130,7 @@
 祥子: ……わたくしの勘違いでしたの。 そういうつもりではなかったんですのね……
 (Background change)
 祥子: 彼女は立ち去ろうとするわたくしを引き留め、 怪我の手当てをと、ご自宅に誘ってくださいました
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
 祥子: 彼女の自室から歌詞ノートを見つけた時は、 本当に胸が高鳴りましたわ
 祥子: ……この時の出会いは、今でも運命だったと わたくしは思っています
 (Background change)
@@ -151,7 +151,7 @@
 (Background change)
 燈: これ……
 祥子: これは……？
-(CG insert: https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000074/data/adv_still_anime_000074/adv_still_anime_000074.webp)
+(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000074/data/adv_still_anime_000074/adv_still_anime_000074.webp)
 燈: 初めて、歌詞書いた
 祥子: ……わかりますわ。これは……
 祥子: ……っ……
