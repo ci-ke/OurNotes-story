@@ -9,6 +9,7 @@
 [Lunch Break]
 
 Everyone: Time to eat~!
+(Transition)
 (Background change)
 Arale: What did you get for lunch today, Ricchan?
 Ritsu: An extra-large beef sukiyaki bowl.
@@ -57,6 +58,7 @@ Miyako: No thank you...
 Arale: —And that's how I get all nostalgic. Personally, songs full of memories are easier on the ears, but your recent songs really grow on you, you know? Hehe...
 Yuno: ...
 Yuno: (They really are a bunch of weirdos.)
+(Transition)
 (Background change)
 
 [Sengoku House - Yuno's Room]
@@ -74,4 +76,5 @@ Yuno: Huh?
 Yuno: ..."Please tell me how to reply to this chat."
 Yuno: Then copy and paste, and...
 Yuno: ...Guess I have to do it.
+(Transition)
 (Background change)

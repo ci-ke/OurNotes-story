@@ -1,9 +1,11 @@
 10602:adv_script_yomogi_chieri_linkstory_3 Yomogi & Chieri 3
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Living Room]
 
+(Transition)
 Chieri: Mmm...
 Chieri: Mmmmmm...
 Yomogi: Phew... That was a nice bath~!

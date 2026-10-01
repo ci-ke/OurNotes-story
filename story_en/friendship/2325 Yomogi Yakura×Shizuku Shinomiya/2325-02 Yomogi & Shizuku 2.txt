@@ -1,5 +1,6 @@
 10604:adv_script_yomogi_shizuku_linkstory_2 Yomogi & Shizuku 2
 
+(Transition)
 (Background change)
 
 [One Day Off]
@@ -43,6 +44,7 @@ Yomogi: T-turn right at the third intersection—
 Shizuku: Oxygen.
 Yomogi: Haaaa...
 Yomogi & Shizuku: One, two, one, two, one, two...
+(Transition)
 (Background change)
 Yomogi: *Pant*... *Gasp*...!
 Yomogi: Yomogi Yakura's miracle mission—complete~~~!!

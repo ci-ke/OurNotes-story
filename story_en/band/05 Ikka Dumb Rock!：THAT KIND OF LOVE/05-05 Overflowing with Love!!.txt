@@ -27,6 +27,7 @@ Raika: Huh? Of course, please!
 Miku: Could you leave the room and close the door for me?
 Miku: No matter what kind of relationship it is, there's always an appropriate distance, right?
 Raika: Oh... yeah...
+(Transition)
 (Background change)
 Chieri: Newcomer, you finally got up!
 Miku: Oh, morning~
@@ -66,6 +67,7 @@ Miku: ...!
 Raika: That guitar has a history. Both in the past, and the present.
 Raika: Because it's a cool guitar, overflowing with love.
 Miku: (Love...?)
+(Transition)
 (Background change)
 Miku: No, Papa, please! Don't go!
 Miku's Biological Father: Sorry, Miku. I'll leave my guitar here.
@@ -76,9 +78,11 @@ Miku's Mother: Stop it, Miku!!
 Miku's Mother: He's not your Papa anymore, Miku.
 Miku: ...
 Miku: Uwaaaaaah...!
+(Transition)
 (Background change)
 Miku: (There's no love in it.)
 Miku: (We're both the ones who got left behind. It's the only partner I can trust, that's all.)
+(Transition)
 (Background change)
 Raika: Miku?
 Miku: Love, huh... I might be pouring some into it! Just as a favorite decoration though.
@@ -104,15 +108,19 @@ Raika: Just have to... give it a try...
 Raika: Yeah, you're right! Wow~ You're a genius, Cherie!
 Chieri: Huh!? Fi... Finally you get it! Chieri has always been a genius!
 Yomogi: Zzz...
+(Transition)
 (Background change)
 Raika: Miku, let's try playing guitar together! I'm pretty good at teaching, you know~
 Miku: More importantly, the deputy manager was looking for you earlier. She said the register doesn't balance.
+(Transition)
 (Background change)
 Raika: Hey, Miku!! If we use castanets, we could probably play in a band together, don't you think!?
 Miku: Hehe, that's cute~ But I don't really have a sense of rhythm.
+(Transition)
 (Background change)
 Raika: I've been the one singing until now, but don't you think you could be a vocalist too?
 Miku: I can't really sing in front of people~
+(Transition)
 (Background change)
 Raika: Hmmm...
 ??? (Aunt Keiko): Oh my~ Rai-chan! It's rare to see you making a face like that.
@@ -125,6 +133,7 @@ Aunt Keiko: Feeling down is a sign that you're hungry! Wait a second, I'll get y
 Raika: Huh, really!? Aunt Keiko, thank you~!
 Raika: Hm...? I think the trash behind the diner moved...
 Raika: Maybe that's the cat called Nekotaro we always see around here? Let me get a little closer...
+(Transition)
 ??? (Shizuku): Um... Uh...
 Raika: Huuuuuuh!?!? A girl is lying on the ground!?
 Raika: Hey, are you okay!? Are you hurt anywhere!?
@@ -133,18 +142,23 @@ Raika: Oh no, I should get her to the hospital...! But wait, what if her family'
 Raika: Alright! Just sleep on my back for a while, okay?
 ??? (Shizuku): Uh... Um...?
 Raika: Excuse me~~~!! Is there anyone around here looking for a little girl~!?
+(Transition)
 (Background change)
 Miku: (The family idiot went out and hasn't come back. I don't see the other two either... But just in case.)
 Miku: Chieri-chan~ Yomogi-san~
 Miku: ...
 Miku: Okay. Now's the time.
+(Transition)
 (Background change)
 Miku: No, this phrase should be more...
+(Transition)
 (Background change)
 Miku: (Like that insensitive girl, being so direct and pushy actually fits the song better...!)
 Miku: (She comes into my room without asking, keeps pushing me to do the band, and even touches my guitar...!!)
+(Transition)
 Miku: (And the girl who keeps asking for compliments, and the girl who stares at me all the time...!!)
 Miku: (I'll pour all the stress into a song and let it all out!)
+(Transition)
 (Background change)
 Miku: Phew...
 Miku: (Composing is going... really well!)
@@ -152,6 +166,7 @@ Miku: (That just shows how much stress I have. But pouring it into a song makes 
 Miku: (As long as I have this time, even in a jungle of rare animals, I feel like I could make it...!)
 Miku: ...
 Miku: (When I started composing... It was more...)
+(Transition)
 (Background change)
 Miku's Biological Father: Well then, what kind of song should we make next?
 Miku: Hmm, then... "The Yummy Stew Song"! Papa, play something! Miku'll sing!
@@ -160,6 +175,7 @@ Miku: Potatoes, nice and fluffy♪ Onions, soft and gooey♪ Papa can't eat mush
 Miku's Biological Father: Ugh... Miku, you really hit a sore spot there...!
 Miku's Mother: Hehehe. Miku-chan, you're great at both singing and songwriting! That's absolutely right~
 Everyone: Ahahaha.
+(Transition)
 (Background change)
 Miku: (Come to think of it, that was the beginning of my composing.)
 Miku: ("Papa" would casually play guitar, I'd casually sing, and the three of us would laugh together.)
@@ -175,6 +191,7 @@ Yomogi: *Inhale*... *Exhale*...
 Yomogi: <size=80%>Okay, my heart's calmed down a bit...! I should be able to talk to her now. I can do this...!!</size>
 Miku: Huh...!! Yomogi-san too, since when have you been there...!?
 Yomogi: Gyaaaah, I'm sorry!! I just wanted to know your hobbies~~!!
+(Transition)
 Miku: (A single moment of carelessness can be fatal. That's what this place is, a jungle of rare animals.)
 Miku: (I thought I could make it as long as I had time for composing... But living in a place like this is too hard for me!!)
 Raika: Everyone, where are you~~!? We've got big trouble!!
@@ -191,5 +208,6 @@ Yomogi: Huh, what? What's going on!? What do you mean by helping her!?
 Miku: (Why was I trying to live in a place like this...?)
 Miku: (I left home because I don't want to be pushed around by "family." But I ended up being involved in another one.)
 Raika: Miku, you too, please!!
+(Transition)
 Miku: Okay, let's all head to the living room first♪
 Miku: (I can't change, if I don't leave this dorm.)

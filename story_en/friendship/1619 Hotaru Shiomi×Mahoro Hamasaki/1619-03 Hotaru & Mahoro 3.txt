@@ -8,6 +8,7 @@ Hotaru: Hello...
 Hotaru: (It's still early. Maybe I'm the first one here...?)
 Hotaru: !?
 Hotaru: (What was that sound...? It came from the kitchen...?)
+(Transition)
 Hotaru: H-Hello...!
 Mahoro: !? Oh... It's Hotaru-chan.
 Hotaru: S-Sorry for startling you... Um, what are you doing over there...?
@@ -37,8 +38,10 @@ Mahoro: No! Good food is meant to be shared with everyone!
 Mahoro: Because I think that is what makes everyone happy!
 Hotaru: ...
 Mahoro: There has to be a way... Three eclairs, shared equally between four people... So everyone can be happy...
+(Transition)
 (Background change)
 Mahoro: Oh! I know!
+(Transition)
 (Background change)
 Mahoro: Around here...? Should I cut it around here, Hotaru-chan?
 Hotaru: Y-Yes. I think that will make four equal pieces!

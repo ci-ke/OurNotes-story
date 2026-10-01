@@ -56,10 +56,12 @@
 ちえり: 出さなくていいです！ バンド名は『ちえり連合と愉快な部下たち』にします！
 蕾叶: 個人名が入るのはナシ！ ……あ、あった♪
 蕾叶: 私たちにぴったりすぎて、みんな腰抜かすぞ〜！ 聞いて驚け、その名も――
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000036/data/adv_still_charaillust_000036/adv_still_charaillust_000036.webp)
 (Caption): 一家Dumb Rock! 須賀蕾叶
 蕾叶: 『一家Dumb Rock!』
 一同: …………
+(Transition)
 ちえり: こんなダッサいバンド名、ありえないです！！
 蕾叶: ええっ！？
 ちえり: 漢字と英語の組み合わせを見てたら なんだかゾワゾワします！
@@ -86,10 +88,13 @@
 [翌朝]
 
 (Background change)
+(Transition)
 (Background change)
 ちえり: <size=120%>――待ってください！！ そんなの絶対に許しません！！</size>
 蕾叶: チェリ、どうしたの！？ なんか怒って――……
+(Transition)
 蓬咲 & 寧月: …………
+(Transition)
 ちえり: ちえりはここを退きませんよ
 心玖: …………
 蕾叶: 心玖、その大荷物……何？
@@ -126,10 +131,12 @@
 蕾叶: ――……っ
 心玖: さよなら
 一同: …………
+(Transition)
 (Background change)
 心玖: …………
 心玖: （別に、ずっと思ってたことだし）
 心玖: （変に引き留めたりしなければ 言うつもりなんてなかったし）
 心玖: …………
 心玖: ……切り替えなきゃ
+(Transition)
 (Background change)

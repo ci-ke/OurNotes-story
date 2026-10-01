@@ -2,16 +2,20 @@
 
 ぼくたちなら変身できる！
 
+(Transition)
 (Background change)
 (Background change)
+(Transition)
 (Background change)
 律: ユノさん、いないね……
 あられ: ごめん……
 あられ: 超回復中だったのに、 ぼく、都子さんを追い詰めた
 律: ううん
 律: ……都子さん、さっきみたいなのが嫌なのかな
+(Transition)
 (Background change)
 律: ののちゃん、どんな時も明るいから
+(Transition)
 (Background change)
 あられ: えっ。 ……あー……
 あられ: う゛～～ギィ～～……
@@ -19,19 +23,24 @@
 あられ: ～～～～～～～～っ……
 あられ: <size=175%>わかった！
 あられ: もっと、おしゃべりしたい！ みんなのこと、もっともっと知りたい！
+(Transition)
 (Background change)
 あられ: だって、ユノさんちゃんの好きなものも、 行きそうな場所も全然わからなかった
+(Transition)
 (Background change)
 あられ: だから……
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09/adv_movie_magululu_yumemita_09.mp4)
 (Caption): 夢みた9話　マジるる変身イメージシーン
 (Subtitle) あられ & 律: ボディメイク・パーンプア～～～～～～ップ！
+(Transition)
 (Background change)
 あられ: <size=150%>ぼくたちなら変身できる！
 律: そうだね
 律: ……私たちみゅーたいぷなら、  きっと変われる
 あられ: うん！
+(Transition)
 (Background change)
 ベル: 私たちに夢を見てほしい…… そう思ってがんばっています
 ポポ: 永遠に醒めない夢を……
@@ -48,6 +57,7 @@
 ポポ: みゅーたいぷ不仲なんでしょ。 クレマチスの代わりに誰か引き抜いちゃえば
 ベル: いいじゃん！　交換こうか～ん
 ベル: にゃーははは……
+(Transition)
 (Background change)
 お客: おいしかったです、また来まーす
 店員: ありがとうございました～
@@ -55,6 +65,7 @@
 都子: ……
 都子: （返信は……やっぱりない……）
 都子: ハァ……
+(Transition)
 (Background change)
 
 [翌日]
@@ -66,19 +77,25 @@
 ののか: ユノちゃん、心のポエムなのです
 あられ: あ、なるほど……
 律: なんだか歌詞みたいですね……
+(Transition)
 律: できた
 ののか: む？
 あられ: ユノさんちゃんの似顔絵です！ 人探しにはやっぱりこれかなって！
 ののか: おー
 律: 本当は都子さんに頼みたかったんですが、 昨日から連絡取れなくて
+(Transition)
 律: 学校にも来てないようで……
 ののか: ……
+(Transition)
 あられ: あーっと似顔絵も完成したし！ ユノさんちゃん探しに行こう！
 あられ: ののちゃんさんも担当区域パトロール よろしくお願いします！
 あられ: んごー！
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 律: ユノさーん？
+(Transition)
 (Background change)
 ののか: ん－……
 ののか: んー？
@@ -86,6 +103,7 @@
 (Caption): さぶゆの 消えたい 消えてもいいかな さぶゆの 今 可哀想って思った？ 正解だよ
 ののか: …………
 ののか: モグモグどんどんだ～……
+(Transition)
 (Background change)
 律: ユノさん、どこにいるんだろう……
 律: え、あれ……
@@ -107,6 +125,7 @@
 律: 都子さんのことは私に任せて、 ビオラのこと、ちゃんと伝えるから
 あられ: 『りっちゃん…… うん！　任せた！』
 律: 任せられた！
+(Transition)
 (Background change)
 都子: はぁはぁ……
 都子: （知られた。 みゅーたいぷが大変な時に、私は……）
@@ -117,10 +136,12 @@
 都子: あ……
 都子: （会いたい……）
 都子: （会いたいです、ビオラさん……）
+(Transition)
 ビオラ: 都子さん
 都子: え……
 ビオラ: 名前、呼んじゃいました
 都子: あぁ……！
+(Transition)
 (Background change)
 都子: こっこれっメニュー表ですっ…… ってご存じですよね。すみません……
 都子: 私のおごりですので、好きなものを頼んでください
@@ -135,13 +156,16 @@
 都子: あ、はい……
 ビオラ: 怖いな
 都子: えっ
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000257/data/adv_still_anime_000257/adv_still_anime_000257.webp)
 (Caption): ビオラ 恋人 ビオラ 自宅 ビオラ １人暮らし ビオラ 好物 ビオラ かわいい ビオラ 仲いい ビオラ 学校
 都子: （ま、まさか勘付いて……）
+(Transition)
 ビオラ: ネットじゃあることないこと好きに言われちゃってるから。 都子さんにどう思われてるか、怖くて……
 都子: ！　なに言ってるんですか！ ビオラさんの動画、遅ればせながらすべて拝見しました！
 都子: どれも素晴らしかった！　あれこそエンターテインメント！ あれこそプロフェッショナル！！
 ビオラ: ……
+(Transition)
 都子: ファンを第一に考えてるその姿勢に、 私、心から感動したんです！
 都子: メンバー１人１人のキャラ付けや関係性も 本当に素晴らしくて……
 都子: あっ、すみません、まくしたててしまって……
@@ -158,10 +182,22 @@
 都子: あられさんは圧が強すぎるんです！
 都子: 熱い思いがあって、 すべてに一生懸命だってことはわかります……
 都子: でもっ！　圧が強くて怖くて、 周りのことなんてひとつも見えてない！
+(Transition)
 都子: こっちのことなんてお構いなしに、 自分だけがペラペラと喋りまくって一人で満足して！
+(Transition)
 都子: 身勝手なんですよ、独りよがりなんですあられさんは！ そもそも、あられさんはっ
+(Transition)
+(Transition)
+(Transition)
+(Transition)
+(Transition)
+(Transition)
+(Transition)
+(Transition)
 都子: <size=175%>あられさんは――っ
+(Transition)
 ビオラ: ……
+(Transition)
 (Background change)
 都子: ……はっ！？
 都子: あの、私……
@@ -181,7 +217,9 @@
 都子: ……冊子……？
 律: 口でうまく説明できる自信がなくて。 でも、都子さんにちゃんと伝えたいから
 律: どうぞ、私がまとめた――
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp)
 (Caption): ビオラ ～被害者の心理的プロセスと脱却方法～
 律: 『ビオラ～被害者の心理的プロセスと脱却法～』です！
+(Transition)
 都子: …………？

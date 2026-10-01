@@ -20,14 +20,17 @@
 愛音: 時間ないし、朝ご飯どっかで買ってこ？
 立希: あ、先輩にもらったパンある――
 楽奈: ……？
+(Transition)
 (Background change)
 燈: 歌詞……でき、た……
 愛音: ちょ、ともりん……！ 授業中だから寝ちゃダメ……！
+(Transition)
 (Background change)
 立希: …………
 (Message) 愛音: 歌詞できた！
 立希: ……っ！
 立希: お腹痛いんで帰ります！
+(Transition)
 (Background change)
 
 [千早家 愛音の部屋]
@@ -52,6 +55,7 @@
 そよ: 何このタグ……『ANON TOKYO』……？
 愛音: よくない？
 そよ: ……先にやることあるよね？
+(Transition)
 (Background change)
 
 [数時間後]

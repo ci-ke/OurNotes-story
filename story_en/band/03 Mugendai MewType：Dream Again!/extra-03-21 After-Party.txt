@@ -34,10 +34,12 @@ Let's have an afterparty!
 (Subtitle) Arale: Ricchan?
 (Subtitle) Ritsu: Let's have an afterparty!
 (Subtitle) everyone: Huh...?
+(Transition)
 (Background change)
 
 [A Few Days Later]
 
+(Transition)
 (Background change)
 
 [Park]
@@ -46,11 +48,13 @@ Arale: We're heeeere!
 Miyako: So this is what this place looks like during the day.
 Yuno: I mean... a park for an afterparty?
 Ritsu: Here you go.
+(Transition)
 Yuno: Hm? What's this packet for?
 Nonoka: Whoa, it's really thick~
 Miyako: Um... "Akihabara Live Afterparty Rest-and-Recovery Field Trip: Reducing Physical and Mental Strain and Improving Work Efficiency."
 Yuno: What even is this?
 Ritsu: It's exactly what it says on the cover. Please turn to page 3.
+(Transition)
 Arale: Whoa! It's our schedule for today!
 Yuno: 10:34: Arrive at the nearest station. 10:47: Arrive at the aquarium. 10:58: Purchase tickets...
 Miyako: Estimated steps for the day... Potential health benefits...

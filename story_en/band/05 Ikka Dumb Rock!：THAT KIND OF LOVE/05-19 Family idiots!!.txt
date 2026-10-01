@@ -18,11 +18,13 @@ Miku: ! Oh no...
 Miku: ...
 Staff A: It's time to head over to the stage, please!
 Miku: Okay~
+(Transition)
 (Background change)
 ??? (Raika): Alright, let's start♪
 ??? (Chieri & Yomogi & Shizuku): ...!
 ??? (Raika): "Ah, ah, check, one, two."
 ??? (Raika): "Oh~ It really echoes! Guess it's different from our place after all~!"
+(Transition)
 (Background change)
 Staff A: Huh, there's a guest act!? They've even set up the instruments!?
 Staff B: I thought it was strange when I heard there was extra equipment being brought in...! I need to contact the planner right away...!
@@ -30,6 +32,7 @@ Miku: Guest...?
 Idol A: Oh, it's true! Someone's on the monitor, right?
 Raika: "Hey, nice to meet you~! We are Ikka Dumb Rock!~~!!"
 Miku: Huh!?
+(Transition)
 (Background change)
 Raika: Well, this venue is amazing!
 Raika: It's spacious, the ceiling's high, and everything's shiny!
@@ -37,17 +40,21 @@ Raika: Compared to this, our live house is small, shabby, and rattling everywher
 Yomogi: Haa...
 Chieri: Honestly... that's not very cool, right?
 Shizuku: It's fine. She can breathe properly, and stand on the stage.
+(Transition)
 Suzuki: What are they doing on earth...!!
 Staff B: Ah!! That's the ones who brought in the extra equipment earlier...!
 Suzuki: Huh!? So they were mixed in with the staff!?
 Suzuki: No, that's enough! The sound and lights! Stop it all right now, hurry!!
+(Transition)
 Raika: It's shabby, but it's my precious "home." That's the live house "Roarin' Nest."
 Raika: I didn't want it taken away by anyone. And there's someone here who understood my feelings, and protected my "home."
+(Transition)
 (Background change)
 Miku: *Pant*... *Pant*... *Pant*...!
 Raika: "But that person probably isn't smiling. That's not peace at all."
 Miku: Aaargh! These shoes...!!
 Miku: *Pant*... *Pant*... They're doing unnecessary things...!!
+(Transition)
 (Background change)
 Raika: Hey, Suzuki-san in charge! Are you there~? You are, aren't you~!
 Raika: A home without Miku is worthless, you can have it! So give back our family...
@@ -57,6 +64,7 @@ Miku: ...!
 Suzuki: ~~~!! What are the staff doing!?
 Staff B: Sorry, things are a bit chaotic at the scene...!
 Suzuki: Enough, I will go!
+(Transition)
 Miku: (The idiots are all standing on the stage...)
 Miku: (Wait, they're playing the song I gave them...!)
 Miku: (And they're totally not playing it the way I wrote it!)
@@ -89,8 +97,10 @@ Raika: Thank you for protecting my treasure. I felt your huge, overflowing love,
 Raika: So this time, I'm going to make you happy...! Let's be happy together, Miku!
 Raika: Let's become the most peaceful and happiest family in the world!!
 Miku: ...
+(Transition)
 (Background change)
 Miku: (That's what "Mama" never said to me...)
+(Transition)
 (Background change)
 Miku: Why... are you saying this...
 Raika: Huh...!? Because we're family...? Oh, no, that's what we're gonna be...!
@@ -128,6 +138,8 @@ Raika: Ahaha, this is it! That's my family!
 Miku: (And there's the family idiot who is the absolute craziest in the world.)
 Miku: Hehe... Seriously, what is this?
 Miku: (Nothing here ever goes the way I expect. But still...)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000011/data/adv_still_charaillust_000011/adv_still_charaillust_000011.webp)
 Miku: (This is the only place I want to go back to.)
 Miku: I'm back...!
+(Transition)

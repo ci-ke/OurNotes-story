@@ -1,6 +1,7 @@
 10600:adv_script_yomogi_chieri_linkstory_1 Yomogi & Chieri 1
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Kitchen]
 

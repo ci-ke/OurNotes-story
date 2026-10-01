@@ -1,5 +1,6 @@
 10509:adv_script_mutsumi_sakiko_linkstory_3 Mutsumi & Sakiko 3
 
+(Transition)
 (Background change)
 
 [Wakaba's Home - Underground Studio]
@@ -7,8 +8,10 @@
 Mutsumi: Saki...
 Sakiko: Mutsumi?
 Mutsumi: The time.
+(Transition)
 (Background change)
 Sakiko: Ah... It's already this dark...
+(Transition)
 (Background change)
 Sakiko: I'm sorry. I can't play the piano freely at school, so I get carried away...
 Sakiko: I'm so grateful I can practice freely here. Thank you as always.
@@ -21,6 +24,7 @@ Mutsumi: I know.
 Mutsumi: I've heard you playing it before.
 Sakiko: !
 Sakiko: (Could it be... She remembers those days...?)
+(Transition)
 (Background change)
 Sakiko: That was back when mother was still healthy...
 Sakiko: Phew...
@@ -30,6 +34,7 @@ Sakiko: ! That's a relief. It was worth all the hard work I put into practicing.
 Mutsumi: ...
 Sakiko: Mutsumi smiled gently.
 Sakiko: As I remember, after that...
+(Transition)
 (Background change)
 Mutsumi: It was like the sea.
 Sakiko: Huh...?
@@ -44,8 +49,10 @@ Sakiko: (Because Mutsumi is just Mutsumi, no matter in the past or present.)
 Sakiko: No, it's nothing.
 Mutsumi: ?
 Sakiko: (But...)
+(Transition)
 (Background change)
 Sakiko: (Maybe not everything has changed, after all.)
+(Transition)
 (Background change)
 Sakiko: Mutsumi.
 Mutsumi: ?
@@ -53,4 +60,5 @@ Sakiko: If you don't mind... May I play the piano one more time?
 Sakiko: I want to play that piece from the beginning. I want you to hear it.
 Mutsumi: Yeah.
 Sakiko: Thank you. Well then...
+(Transition)
 (Background change)

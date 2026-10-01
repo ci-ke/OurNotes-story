@@ -2,20 +2,25 @@
 
 CRYCHIC……やれて、よかった……
 
+(Transition)
 (Background change)
 
 [翌日]
 
+(Transition)
 (Background change)
 
 [RiNG スタジオ]
 
+(Transition)
 そよ: ……
+(Transition)
 (Background change)
 (Message) 睦: またきてる
 (Message) 睦: 祥子ちゃん連れて帰って
 (Message) 睦: そよちゃんが連れてきたんだよ！
 愛音: ねえこれ、行った方が良くない？
+(Transition)
 (Background change)
 そよ: （……なんとなく私が行くのは違う気がする）
 立希: ベース、またミスってる
@@ -31,6 +36,7 @@ CRYCHIC……やれて、よかった……
 立希: 最近ずっと歌詞書いてて
 燈: ……
 立希: もっと気合いいれて。私たち、MyGO!!!!!なんだから。 ライブはちゃんとやろうって決めたでしょ
+(Transition)
 (Background change)
 愛音: だからって２時間もスタジオ延長する〜？
 立希: ちょっと。睦の家、教えて。釘さしてくる
@@ -40,6 +46,7 @@ CRYCHIC……やれて、よかった……
 立希: （……聞きづらいから、聞いたんだけど）
 愛音: ん〜……しょうがないなぁ。一緒に行く？
 立希: ……ひとりでいく
+(Transition)
 (Background change)
 
 [翌日]
@@ -67,6 +74,7 @@ CRYCHIC……やれて、よかった……
 立希: お邪魔します
 そよ: 行こ。ちゃんと話せてないんでしょ？
 祥子: ……
+(Transition)
 (Background change)
 祥子: ……
 そよ: ２人って、会うのあの時以来？
@@ -95,10 +103,13 @@ CRYCHIC……やれて、よかった……
 そよ: うそ……
 立希: ……
 祥子: 睦はCRYCHICを大切に思っていました
+(Transition)
 モーティス: ……
+(Transition)
 祥子: 睦！
 そよ: モーティスちゃん
 モーティス: 睦ちゃんに会わせてあげる
+(Transition)
 (Background change)
 睦: 祥……ごめんなさい。 祥、傷ついてない？
 祥子: ……睦はなにもっ！　 すべて、すべてわたくしがあなたに頼りきりだったから……
@@ -116,6 +127,7 @@ CRYCHIC……やれて、よかった……
 立希: <size=175%>うるさっ！
 愛音: <size=150%>『もうすぐリハはじまるんだけど！ ライブちゃんとやるんじゃなかったの〜〜！？』
 (Background change)
+(Transition)
 (Background change)
 睦: 燈……
 燈: 睦ちゃん……
@@ -125,16 +137,21 @@ CRYCHIC……やれて、よかった……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000131/data/adv_still_anime_000131/adv_still_anime_000131.webp)
 (Caption): 人間になりたいうた
 立希: 『人間になりたいうた』……歌詞変わってる。 最近書いてたのってこれ？　なんで？
+(Transition)
 燈: ……祥ちゃん、言ってたから。 人間になりたいって
+(Transition)
 (Background change)
 祥子: 人間になりたい、って…… こういうこと、ですのね……
+(Transition)
 (Background change)
 立希: ていうか、この歌詞
 そよ: （光の中舞う君は　遠すぎて　つかめない おこったこと　泣いたこと　何がそこで　見えていたの）
 そよ: （それでも身体をひらいて手を伸ばしたい 何度間違えても　これが心の叫びだから）
+(Transition)
 そよ: ……ぷっ！　あはははっ、あははっ！
 立希: なに笑ってんの？
 そよ: だってこの歌詞、あははっ！　あははははっ
+(Transition)
 一同: ？
 立希: は？
 そよ: はははっ……は〜……は〜…… 燈ちゃん、すごいね
@@ -145,17 +162,21 @@ CRYCHIC……やれて、よかった……
 (Caption): 人間になりたいうた
 そよ: （燈ちゃんらしい歌詞。 いつもむき出しで……ほんと私には真似できないや）
 そよ: （悩んで、苦しんで、わかりたくてもわからなかった。 けど、そうだよね。 他の人のことなんて簡単にはわからないよね）
+(Transition)
 立希: さっきから燈に失礼なんだけど
 そよ: ええ〜？　褒めたんだけど
 愛音: もうその曲やんなよ。はいギター
 睦: え……
 愛音: 楽奈ちゃんどっか行っちゃってリハできないし。 ステージ使えば？
+(Transition)
 そよ & 立希 & 睦 & 燈 & 祥子: ……
+(Transition)
 (Background change)
 愛音: あ、楽奈ちゃんここにいた
 楽奈: バンドやる
 愛音: やるよ〜。でも今はちょっと待ってようか
 楽奈: ん
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07/adv_movie_ningen2_mujica_07.mp4)
 (Caption): 人間になりたいうたⅡ〜春日影（CRYCHIC）　ライブシーン
@@ -198,9 +219,11 @@ CRYCHIC……やれて、よかった……
 燈: っ！　ありがとうございましたっ！
 愛音: <size=150%>待って待って！　MyGO!!!!!のリハ〜！ 終わっちゃだめ〜
 そよ: ……目、冷やさなきゃ
+(Transition)
 祥子: 睦
 睦: ……あ。ありがとう、ギター
 愛音: どういたしまして！ 睦ちゃんに使ってもらえて私もうれしい！
+(Transition)
 立希: ……うっ
 そよ: まだ泣いてる
 立希: うるさい
@@ -209,9 +232,11 @@ CRYCHIC……やれて、よかった……
 楽奈: 終わった？
 そよ: うん。お待たせ
 立希: じゃあMyGO!!!!!リハ、お願いします
+(Transition)
 (Background change)
 祥子: 睦、参りましょう
 睦: ……うん
+(Transition)
 (Background change)
 海鈴: ……
 祥子: ……八幡さん？

@@ -8,6 +8,7 @@ Natsume: (No... I'm doing all this for music...! It feels kind of cool, like I'm
 Natsume: (The pay is good, and nobody here knows me... This is where I'm going to make my money...!)
 Part-Time Staff: Natsume-chan, it's almost time for your break!
 Natsume: ! Yes...!
+(Transition)
 (Background change)
 
 [The Garage]
@@ -20,6 +21,7 @@ Houka: An appointment I had this morning ended sooner than expected. I thought I
 Natsume: I see. That's more or less why I'm here early too.
 Houka: Since we have the time, shall I prepare some tea?
 Natsume: I'm good. I'll just play around until everyone's here.
+(Transition)
 Natsume: ...
 Houka: Natsume-san... Have you purchased another new effector?
 Natsume: Hmm...? You noticed that well. Unlike Nagi, you actually pay attention.

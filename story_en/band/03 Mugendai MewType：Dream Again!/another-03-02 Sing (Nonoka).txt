@@ -17,10 +17,12 @@ Nonoka: But to do lots of live shows, our music must get lots of "likes"...
 Ritsu: ...
 Nonoka: Let's become freshly cooked rice together!!
 Ritsu: Freshly cooked... rice...!?
+(Transition)
 (Background change)
 Nonoka: We've had lots of lunches together up until now.
 (Background change)
 Nonoka: The other day, we roasted marshmallows and had a BBQ at the beach.
+(Transition)
 (Background change)
 Nonoka: So! We're in the same pot of rice!!
 Ritsu: Pot, rice...
@@ -36,6 +38,7 @@ Nonoka: The warm, steaming rice that holds everyone's flavors all together!!
 Ritsu: I see...! The rice that holds the sauce is essential...!
 Ritsu: You eat the rice soaked in meat juices and sauce, feel all warm and cozy with the soup, and then go back to the hamburg steak.
 Ritsu: It'll be the best lunch...!
+(Transition)
 Nonoka: No... We can't become the best lunch right now... We're lacking.
 Ritsu: Oh... So we need training. You mean raising the band's overall performance level, right?
 Nonoka: Yes... So, Ricchan.
@@ -44,6 +47,7 @@ Ritsu: Hehe... if we're gonna do it, we might as well go for a large serving.
 Nonoka: ! Yes, free large serving~~~!!
 Ritsu: Then...
 Nonoka: MewType full course, let's go~~~!!
+(Transition)
 Nonoka & Ritsu: Haa... Haa...
 Nonoka: Haa...! You're pretty good...!
 Ritsu: Haa... No, you're good, Nono-chan...! That last ad-lib gave me chills.

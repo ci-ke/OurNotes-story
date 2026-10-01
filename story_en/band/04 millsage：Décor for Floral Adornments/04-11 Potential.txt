@@ -74,11 +74,13 @@ Nagi & Natsume & Houka: ...
 Mahoro: I'll make sure it gets back to Kanata's family.
 Hotaru: Yes... Please do.
 Mahoro: Sorry, my phone's ringing. I'll step out for a moment.
+(Transition)
 Natsume: I'm getting water. Hotaru, you're coming with me.
 Hotaru: Huh? Oh, yes!
 Nagi: Wow. Putting her to work already?
 Natsume: I can't carry water for five people by myself, can I?!
 Hotaru: I'll help!
+(Transition)
 Houka: Hehe. Hotaru-san and Natsume-san may turn out to be a surprisingly good pair.
 Nagi: Maybe...
 Nagi: Hey, Houka... what are you after?
@@ -95,6 +97,7 @@ Houka: You do keep a very close eye on things, Nagi-san. I understand why you en
 Houka: If you think so much that you only keep standing still, does that not become terribly dull?
 Nagi & Houka: ...
 Natsume: Hey, first-years. Don't show off how badly you get along in front of the new girl.
+(Transition)
 Houka: My, badly? Not at all.
 Nagi: We're just messing around. That's all.
 Natsume: Sure you are.
@@ -117,10 +120,12 @@ Natsume: Playing together is a whole different thing.
 Mahoro: I-I know that, but...
 Nagi: Mahoro... are you rushing this?
 Mahoro: N-no, I'm not...
+(Transition)
 (Background change)
 Kanata: It's happiness I wanna share, more than we could ever hold in both hands.
 Kanata: Hey, Mahoro. Truth is, I...
 Mahoro: Huh...?
+(Transition)
 (Background change)
 Mahoro: No, really. I'm not.
 Mahoro: I just thought... it might help if we had something soon to aim for.

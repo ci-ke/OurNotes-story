@@ -2,7 +2,9 @@
 
 何人たりとも、神となったわたくしの邪魔はさせない
 
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 
 [羽丘女子学園 昇降口]
@@ -12,8 +14,11 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000165/data/adv_still_anime_000165/adv_still_anime_000165.webp)
 愛音: ……？　手紙？
 祥子: （燈へ。先日はAve Mujicaの問題に巻き込んでしまい、 申し訳ありません）
+(Transition)
 (Background change)
+(Transition)
 (Background change)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000166/data/adv_still_anime_000166/adv_still_anime_000166.webp)
 立希: は？　なに？
 初華: あ……好きなの違った？
@@ -22,30 +27,39 @@
 海鈴: 浮気ですか？　出るとこでますが
 初華: えっ
 立希: なんなの？
+(Transition)
 (Background change)
 猫: にゃお〜
 楽奈: ふふ……
 祥子: （わたくし自身の覚悟が足りなかったせいで みなさんを振り回し……）
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 そよ: また何か植えるの？
 睦: うん、ゴーヤ
 そよ: いいんじゃない？
 祥子: （あなたにはみっともないところばかりをお見せしました。 たくさん傷つけてごめんなさい——）
 祥子: （あえて傷つけるような言葉を 投げつけたこともありましたわね）
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 祥子: （けれど燈はそれでもわたくしに言葉をくれて、 救い上げてくれました）
 祥子: （はじめて出会った頃のように——）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000074/data/adv_still_anime_000074/adv_still_anime_000074.webp)
 祥子: （春日影の歌詞の中で燈は言っていたけれど わたくしにとってもCRYCHICは——）
 祥子: （光でしたわ）
 祥子: （あの時、離さないでと願ったあなたは 今、誰の手も離さない）
+(Transition)
 (Background change)
 祥子: （燈のようにはできないけれど、 わたくしも、わたくしなりに自分のバンドを守っていきます）
+(Transition)
 (Background change)
 燈: 祥ちゃん……
 祥子: （ありがとう。 これからの人生に幸多からんことを——）
+(Transition)
 (Background change)
 にゃむ: 『生まれ変わるために必要だってわかってる！』
 にゃむ: 『でも、愛もなくなるの？　悲しみは？　恐れは？ 忘却は？　——死は？』
@@ -56,8 +70,10 @@
 睦: ……わかった。どうぞ、アモーリス
 にゃむ: ……っ！
 にゃむ: 負くるわけにはいかんどたいね……！
+(Transition)
 (Background change)
 (Background change)
+(Transition)
 (Background change)
 祥子: <size=150%>最短で再デビューいたします
 にゃむ: 再デビュー！？
@@ -80,17 +96,20 @@
 海鈴 & にゃむ: <size=175%>！？
 にゃむ: 神ぃ！？
 祥子: Ave Mujicaのためなら なんでも使いますし、なんでもいたしますわ
+(Transition)
 (Background change)
 勝浦社長: sumimiはしばらく活動休止で、 ソロの仕事に集中させるしか……
 スタッフ: あのっ、豊川さん！　勝手にダメですって！
 祥子: ごきげんよう
 勝浦社長: っ！　のちほど掛け直します
+(Transition)
 祥子: Ave Mujicaの件でお話が
 勝浦社長: 初華ちゃんにも言ったけど、 あなたのおじいさまの許可がないと……
 祥子: そんなもの必要ありませんわ
 勝浦社長: ……え？
 祥子: わたくしを誰だと思ってますの？
 祥子: Ave Mujicaのオブリビオニス、豊川祥子ですわ
+(Transition)
 祥子: 何人たりとも、神となったわたくしの邪魔はさせない
 
 [再デビューマスカレード当日]
@@ -102,6 +121,7 @@
 海鈴: 豊川さん、時間です
 祥子: ……
 祥子: 参りましょう
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000007/data/adv_still_charaillust_000007/adv_still_charaillust_000007.webp)
 祥子: この日、この夜は一度きり。カルペディエム——
@@ -111,11 +131,13 @@
 睦: ……ふふ
 にゃむ: ……
 祥子: では楽しみましょう。 Ave Mujica
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_hachibousei_mujica_13/adv_movie_hachibousei_mujica_13/adv_movie_hachibousei_mujica_13.mp4)
 (Caption): 八芒星ダンス　ライブシーン
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_kao_mujica_13/adv_movie_kao_mujica_13/adv_movie_kao_mujica_13.mp4)
 (Caption): 顔　ライブシーン
+(Transition)
 (Background change)
 (Background change)
 ドロリス: ここが、パラディースス……
@@ -129,6 +151,7 @@
 アモーリス: だぁから、なにを？
 モーティス: 世界が壊れる音
 アモーリス: 死の騎士モーティス、変なヤツ
+(Transition)
 ドロリス: ……
 ティモリス: 心配しなくていい。ここにいれば恐ろしいことはない。 この私が約束しよう
 アモーリス: あっはははは！　テキトーなことばっか！
@@ -160,15 +183,19 @@
 ??? (オブリビオニス): 忘却だけがこの地にきた理由？
 ドロリス: まただ！　いつも聞こえてくるこの声
 ??? (オブリビオニス): ドロリス、お前の本当の願いは？
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp)
 ドロリス: ……っ！
 アモーリス: まさか
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000169/data/adv_still_anime_000169/adv_still_anime_000169.webp)
 ティモリス: オブリビオニス。 忘却の女神よ、どうか私をあなたの騎士に
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000170/data/adv_still_anime_000170/adv_still_anime_000170.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000171/data/adv_still_anime_000171/adv_still_anime_000171.webp)
 ドロリス: 待って！　僕もあなたの騎士に！　忘却の福音を——
 オブリビオニス: 幾度繰り返すのです？ 幾度忘却を与えても、あなたは楽園に戻ってくる
@@ -182,6 +209,7 @@
 ドロリス: ……ただ、会いたくて……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp)
 オブリビオニス: あなたはわたくしの騎士ではない
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000175/data/adv_still_anime_000175/adv_still_anime_000175.webp)
@@ -194,6 +222,7 @@
 オブリビオニス: ……ならば、剣を手に！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000178/data/adv_still_anime_000178/adv_still_anime_000178.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000179/data/adv_still_anime_000179/adv_still_anime_000179.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000177/data/adv_still_anime_000177/adv_still_anime_000177.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000178/data/adv_still_anime_000178/adv_still_anime_000178.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000179/data/adv_still_anime_000179/adv_still_anime_000179.webp)
@@ -202,11 +231,13 @@
 オブリビオニス: みなが忘れようと、忘却の神たるわたくしだけは忘れない。 やがて世界が終焉を迎えるその時まで——
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000181/data/adv_still_anime_000181/adv_still_anime_000181.webp)
 オブリビオニス: この黄昏の楽園に、わたくしは君臨し続ける！
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000180/data/adv_still_anime_000180/adv_still_anime_000180.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000181/data/adv_still_anime_000181/adv_still_anime_000181.webp)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_soranomujica_mujica_13/adv_movie_soranomujica_mujica_13/adv_movie_soranomujica_mujica_13.mp4)
 (Caption): 天球のMúsica　ライブシーン
+(Transition)
 (Background change)
 語り部: ——かくして、彼女たちは演じ続ける
 語り部: 次なる戯曲が<r=いざな>誘</r>うは、<r=エデン>楽園</r>か、<r=ゲヘナ>地獄</r>か

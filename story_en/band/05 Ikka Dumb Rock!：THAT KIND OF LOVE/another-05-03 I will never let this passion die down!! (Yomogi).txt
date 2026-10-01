@@ -13,10 +13,12 @@ Yomogi: ...
 Shizuku: My apologies for keeping you waiting. I was looking for Miku...
 Raika: Oh, Miku already went ahead to sell tickets! She said she's going somewhere else.
 Chieri: What...! My subordinate went ahead of me...!
+(Transition)
 Chieri: The leader can't lose to her subordinate. Yomogi, hurry up!
 Yomogi: <size=75%>I... I'm...
 Chieri: What? Just say it clearly!
 Yomogi: ...
+(Transition)
 Raika: Oh, Yomogi said she's not going!
 Chieri: Not going...? Honestly, you really are a handful.
 Chieri: Come on! Let's go together!
@@ -29,15 +31,19 @@ Chieri: ? If that's the case, you should've just said that from the start.
 Yomogi: ...
 Chieri: Anyway... Yomogi, I'm leaving the online stuff to you!
 Raika: We'll be back before the live show prep~!
+(Transition)
 Yomogi: *Sigh*...
 Yomogi: (They probably thought I was a coward and useless.)
 Yomogi: (Yeah, I'm a coward and useless, and I can't even step up when it counts. I'm just a weak, bottom-tier human.)
 Yomogi: (They are different. They talk to so many people every single day, selling tickets...)
+(Transition)
 (Background change)
 Raika: All those moments you worked together with me... I'll carry them all and run all the way to the end.
 Raika: So everyone, don't worry, just relax and leave it to me!
+(Transition)
 Chieri: You're helpless, so Chieri will try hard with you to the end too. A leader should keep an eye on their unreliable subordinates.
 Shizuku: I'll think of something new too, so more people will buy tickets.
+(Transition)
 (Background change)
 Yomogi: (Everyone's out there, working hard. Even Miku-san went out the earliest today...)
 Yomogi: (And yet, I'm still in my "safe zone.")
@@ -48,19 +54,25 @@ Yomogi: (If it were Mom and Dad, they wouldn't refuse to sell tickets at the sta
 Yomogi: (I hate them for that, though.)
 Yomogi: But I can't even do the least thing... Ugh...
 Yomogi: I'm the weakest, the most useless person in the world. No, in the universe. The only one on my side is "Onishigu"...!!
+(Transition)
 
 [Thirty Minutes Later]
 
 Yomogi: Haa~~~!! The coolness of "Onishigu" never fades, no matter how many times I read it~~!
 Yomogi: Thanks to Sayuri-chan, the way the ultimate move evolves is literally the best! If you open your fists, they can be paper too!!
 Yomogi: Although he said "There's no way I can change," Godo-kun is the kind of person who can truly change...
+(Transition)
 (Background change)
 Miku: If the environment changes, people will change, too.
+(Transition)
 (Background change)
 Yomogi: Right... I promised that I would change too...
 Yomogi: I'm here because I want to change. I want to leave my "safe zone" and join them...!!
+(Transition)
 (Background change)
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 Yomogi: Ugh... *Sniff*... Alright, the power is okay...
 Yomogi: (I want to change too. But I can't change at once.)

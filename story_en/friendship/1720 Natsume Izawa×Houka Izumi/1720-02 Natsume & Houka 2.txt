@@ -13,6 +13,7 @@ Houka: Indeed. We've had a few days off from practice, haven't we?
 Houka: So, to think I shall soon be able to bask in Hotaru-san's music again...♡
 Natsume: There you go saying something strange again...
 Houka: There. It is open now. Please, after you♪
+(Transition)
 (Background change)
 Houka: Hmm, hmm...♪
 Natsume: ...
@@ -20,10 +21,13 @@ Natsume: Hey, Houka.
 Houka: Yes? I shall be finished setting up the drums in just a moment.
 Natsume: That's not what I mean. Why do you play drums, anyway?
 Houka: Hm...? Why, you ask?
+(Transition)
 (Background change)
 Natsume: You know, when we first met, you were the vocalist in another band.
+(Transition)
 (Background change)
 Natsume: I seem to remember you saying there was only an opening for drums here...
+(Transition)
 (Background change)
 Houka: Ah, yes. That did happen.
 Houka: After hearing Kanata-san sing, I would hardly have presumed to ask for the same role.
@@ -36,10 +40,12 @@ Houka: I simply did what I could to be of some use to her♪
 Natsume: I wouldn't call your level of playing merely "doing what you could."
 Houka: Why, I am honored♪
 Natsume: Seriously... Why does someone like you have such a gift for drums...?
+(Transition)
 Houka: Oh... I would not call it a gift. I believe it simply suits my nature.
 Houka: Perhaps I am simply suited to supporting the band from its foundation...
 Natsume: Lately, it feels like you've been doing more staring at Hotaru than supporting anyone, though.
 Houka: Hehe, so you noticed♪ After all, the drum kit's the best seat in the house for me.
+(Transition)
 Houka: From there, I can watch the radiant, beautiful light of her talent glittering before the audience, right up close.
 Houka: One might even call it... a perk of the position♡
 Natsume: *Sigh*...

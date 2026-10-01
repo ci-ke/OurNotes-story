@@ -1,6 +1,7 @@
 10582:adv_script_raika_yomogi_linkstory_1 Raika & Yomogi 1
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Living Room]
 
@@ -24,6 +25,7 @@ Yomogi: You only get one first time! That's why I want your first time with it t
 Raika: Whoa... Yomogi, you're making all sorts of faces...!
 Raika: So that's how much you love it~ Okay! I'll start reading, then!
 Yomogi: Yes...! I'll watch in breathless silence...!
+(Transition)
 Raika: Let's see... Whoa! They're fighting right from the start! And there's blood...!
 Raika: Yomogi, who are these people?
 Yomogi: Huh...? I-I think you'll find out if you keep reading...

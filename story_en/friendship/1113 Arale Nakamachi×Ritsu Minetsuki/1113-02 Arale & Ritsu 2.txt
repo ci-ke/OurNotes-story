@@ -9,6 +9,7 @@ Ritsu: (Maybe I'll practice guitar when I get home. Oh, right, I have homework t
 ??? (Arale): N-Not yet... I still have somewhere I have to be...!!
 Ritsu: That voice... Could it be...?
 Arale: Don't give up, Arale Nakamachi...!! Run! You have to keep running...!!
+(Transition)
 Ritsu: I knew that was you, Arale-chan!
 Arale: Ricchan...!?
 Ritsu: That's a lot of bags... Have you been running this whole time with all of that?
@@ -38,8 +39,10 @@ Ritsu: Honestly... You could've just asked.
 Arale: Ngh... B-But I thought I had to do this all by myself...!
 Ritsu: Come on, there's no time to cry. Which stores were you planning to visit next?
 Arale: *Sniff*... You're right...! Um, this one and this one, and this one over here too...
+(Transition)
 Arale: Then I'll head that way.
 Ritsu: I'll go this way. Arale-chan... let's meet back here.
 Arale: Yeah...! And when we meet again...
+(Transition)
 (Background change)
 Arale & Ritsu: We'll have every last bonus in hand!!

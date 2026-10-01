@@ -2,11 +2,13 @@
 
 As expected, Ritsu is such a model student!
 
+(Transition)
 (Background change)
 Manager: Nakamachi-san, you're about ready to post a cover song video, right?
 Arale: <size=150%>Peeeeeeeeeeeeep!!
 Manager: Quit squeaking!
 Arale: Nnnnnngh, but, but, buttttt...!
+(Transition)
 Manager: You don't like singing?
 Arale: No... That's not it.
 Manager: You don't like being in the group?
@@ -50,6 +52,7 @@ Arale: M-Miyako-saaaaaan!!
 Yuno: For the record, I'm not an AI...
 Manager: Everyone's certainly lively! For now, just pick a song, okay?
 Arale: Okay!
+(Transition)
 (Background change)
 Arale: I can sing...
 Arale: I really can sing...
@@ -57,14 +60,17 @@ Arale: Hehe... Ehehe... Hehehehehe...
 Arale: I can sing without showing my face! Which means...
 Arale: <size=150%>IN-VIN-CI-BLE~~~~~!!
 (Background change)
+(Transition)
 (Background change)
 
 [Akihabara Station]
 
+(Transition)
 (Background change)
 Yuno: So what? Do whatever you want.
 Ritsu: Huh...?
 Yuno: Something being over and not wanting it to end are two different things, right?
+(Transition)
 (Background change)
 Ritsu: (I don't want it to be over.)
 Ritsu: (That's why...)
@@ -106,6 +112,7 @@ Viola: Hmm~ What should I do~?
 Ritsu: I'll never... have anything to do with Arale-chan again...!
 Viola: Good girl...♡
 Viola: You really are a "model student," Ritsu.
+(Transition)
 (Background change)
 Nonoka: Nono-chan's...
 Arale: and Arale's...
@@ -134,13 +141,20 @@ Arale: No, no! You have your manga to work on! Once I've saved up, I'll go throu
 Yuno: That's... a lot.
 Manager: Oh, perfect. Everyone's here! All right, let's get straight to practice!
 Everyone: Okaaay!
+(Transition)
 (Background change)
 : —♪
+(Transition)
 Arale: (Huh...? What is this feeling...?)
+(Transition)
 Arale: (Nono-chan-san is so kind...)
+(Transition)
 Arale: (And my beloved Yako-sensei is here too...)
+(Transition)
 Arale: (And Yuno-san-chan is a super-capable AI...)
+(Transition)
 Arale: (Right now, I really... want to sing!)
+(Transition)
 (Background change)
 Manager: Wow! You're really starting to come together as a band!
 Nonoka: Ahem!
@@ -180,7 +194,9 @@ Miyako: Um...
 Maru-kun: Let go!
 Nonoka: Nono-chan wants a turn holding you too!
 Maru-kun: Gaaah! Stoooooop!!
+(Transition)
 Yuno: ...
+(Transition)
 (Background change)
 
 [A Few Days Later]
@@ -188,19 +204,23 @@ Yuno: ...
 Arale: Ehehehe... Hehehe...
 Arale: It's heeere~!
 Arale: Mic, mic!
+(Transition)
 (Background change)
 Arale: Nono-chan-san's guitar track, check! Headphones, check!
 Arale: My closet recording booth, back in action after all this time, check!
 Arale: *Inhale*...
 Arale: —♪
+(Transition)
 (Background change)
 
 [Sengoku House - Yuno's Room]
 
 Yuno: ...
+(Transition)
 (Background change)
 Ritsu: Even when the fennec was suffering all alone... the bear couldn't do anything.
 Ritsu: She was a coward. She chose the coward's way out. And the fennec lost everything...
+(Transition)
 (Background change)
 Yuno: I should probably give Nakamachi-san a heads-up, just in case...
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000227/data/adv_still_anime_000227/adv_still_anime_000227.webp)
@@ -212,6 +232,7 @@ Yuno: Whoa...
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000228/data/adv_still_anime_000228/adv_still_anime_000228.webp)
 (Caption): La-La-La-La La-La-La-La Girls Controversy La-La-La-La Girls Elea is Trash La-La-La-La Girls Poor Viola
 Yuno: This is seriously complicated.
+(Transition)
 (Background change)
 Arale: Mmm... Dreams are power!
 Arale: Yaaawn~
@@ -222,20 +243,27 @@ Arale: Huh...?
 Arale: "I used to watch Magilulu all the time as a kid!" "Arale-chan's ripped!" "She's in peak form!"...
 Arale: Eeeeeeeeeeeee♡♡
 Arale: Ehehe... Hehehehe! Even the air tastes amaaazing!
+(Transition)
 (Background change)
 Arale: <size=150%>The sky is so bluuuuue!
 (Background change)
 Arale: <size=200%>This is... the beeeeeest!!
+(Transition)
 (Background change)
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 (Message) Viola: Viola Quiiiz~! How many trains will Ritsu watch go by~?
 Ritsu: Huh...?
 Ritsu: W-Where is that coming from...?!
 Ritsu: !
 (Message) Viola: The answer is...
+(Transition)
+(Transition)
 ??? (Viola): The answer is—
 Viola: "A model student would never do that."♡
+(Transition)
 (Background change)
 Viola: Ritsuu~?
 Ritsu: ...!
@@ -251,6 +279,7 @@ Bell: What?! That's so scary!
 Viola: Ritsu, let's listen to it. Okay?
 Ritsu: ...
 : —♪
+(Transition)
 Ritsu: (This song...)
 Popo: What's this? Magilulu?
 Bell: This takes me back~
@@ -267,23 +296,29 @@ Ritsu: I... have something I need to do at home, so I'll be leaving now.
 Bell: Bye-bye~!
 Popo: See ya~
 Viola: Ritsu's been so entertaining lately~ Kyaha!
+(Transition)
 (Background change)
 Ritsu: Arale-chan is as dazzling as ever...
+(Transition)
 (Background change)
 Yuno: So what? Do whatever you want.
+(Transition)
 (Background change)
 Ritsu: I can't... Not after what I did to Arale-chan back then...
+(Transition)
 (Background change)
 Arale: Ahem~ Magical Physical Kururu... or Magilulu for short. This will be on the test~
 Student A: Hahahaha! Arale-chan, you sound just like the teacher!
 Student B: That's hilarious!
 Ritsu: Hehe...
 Ritsu: (I met Arale-chan back in elementary school...)
+(Transition)
 Arale: Ta-da!
 Ritsu: A notebook...?
 Arale: Look! I wrote down our conversations, and they turned into lyrics! Major discovery! I'm a genius!
 Ritsu: You're right... Arale-chan, that's amazing!
 Ritsu: (Arale-chan was always so bright, and being with her was so much fun...)
+(Transition)
 Arale: And then everyone's biceps in Yumeoi Town lit up all at once!
 Ritsu: Hahaha! That's so weird~ Hehe.
 Arale: Right?! Oh, I know! Ricchan, let's sing together!
@@ -291,6 +326,7 @@ Arale: Come on, sing with me!
 Ritsu: Yeah! What should we sing?
 Arale: Umm... "Good-Bye, Biceps"!
 Ritsu: (Arale-chan had always shone so brightly... She was my light.)
+(Transition)
 Arale: Huh...? Ricchan, you're going to a private middle school?
 Ritsu: Yeah...
 Arale: Oh... I see...
@@ -298,6 +334,7 @@ Arale: Oh... I see...
 Arale: Nothing's gonna change! Even if we're apart, we'll always be friends!
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000296/data/adv_still_anime_000296/adv_still_anime_000296.webp)
 Ritsu: Arale-chan... Yeah!
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000295/data/adv_still_anime_000295/adv_still_anime_000295.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000296/data/adv_still_anime_000296/adv_still_anime_000296.webp)
 (Background change)

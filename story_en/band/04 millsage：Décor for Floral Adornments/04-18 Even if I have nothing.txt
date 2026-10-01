@@ -6,6 +6,7 @@ I want to believe I'm the protagonist, too!!
 
 [The Next Day]
 
+(Transition)
 (Background change)
 
 [In Front of the Station]
@@ -13,15 +14,19 @@ I want to believe I'm the protagonist, too!!
 Houka: ...Hotaru-san.
 Houka: (I thought if I came to the nearest station, there might be a chance...)
 Houka: (But it seems she's not going to come out to see me after all.)
+(Transition)
 Houka: (She didn't reply to the message I sent last night, either.)
 Houka: (This means... I guess she's grown to hate me.)
+(Transition)
 Houka: *Sigh*... I guess this is where it ends, then.
 Houka: (Once again, I could not escape from this version of me.)
+(Transition)
 (Background change)
 Classmate A: Houka-chan, you're amazing!
 Classmate B: That's our Houka-chan!
 Teacher: Thanks to Izumi-san, there's nothing to worry about!
 Houka: Ehehe, not at all. It's all thanks to everyone.
+(Transition)
 (Background change)
 (Houka): —Back then, I was full of myself.
 (Houka): I was simply reasonably capable and good at getting along with others.
@@ -30,13 +35,16 @@ Houka: Ehehe, not at all. It's all thanks to everyone.
 (Houka): I don't possess any exceptional talent, nor have I put in any blood, sweat, and tears.
 (Houka): So why was someone like me "at the <ruby=>center</ruby> of the <ruby=>circle</ruby>?"
 (Houka): ...After that, a classmate invited me to join a band, but that question only grew louder with each passing day.
+(Transition)
 (Background change)
 Audience A: That vocalist is amazing!
 Audience B: Izumi-san! I've become your fan!
+(Transition)
 (Background change)
 (Houka): It was as if the whole world was lying to me.
 (Houka): As if, even though I was right there, no one was actually looking at me.
 (Houka): That was when I met her.
+(Transition)
 (Background change)
 Kanata: Nice to meet you! Uh, what was it again? Oh, right, the band name!
 Kanata: Ah, we are... Aqua Rapids!
@@ -45,8 +53,10 @@ Houka: ...♡
 (Houka): She was the real deal. I was certain of it.
 (Houka): If I stayed by her side, I could just be a background character.
 (Houka): The light she radiates could burn to ash this fabricated version of me that everyone has built...!
+(Transition)
 (Background change)
 (Houka): That's how it was supposed to be. And yet—
+(Transition)
 (Background change)
 Houka: (Just as I thought, my whole life... will end without anything ever coming true.)
 ??? (Natsume): ...Found you.
@@ -73,6 +83,7 @@ Houka: ...? You just said "Hotaru," but...
 Houka: Don't we need to go get Mahoro-san and Nagi-san, too?
 Natsume: Huh? Ah.
 Natsume: As for them, I already sent someone to go get them ages ago.
+(Transition)
 (Background change)
 Nagi: ...
 Mahoro: Nagi-chan...
@@ -128,10 +139,13 @@ Nagi: I don't know, okay...! Things like that...
 Mahoro: Why did she leave us behind...!! Why!? Tell me!!
 Nagi: I said I don't know!!
 Mahoro: ...
+(Transition)
 (Background change)
 Nagi: I've thought it too, so many times... wishing it was all just a dream...!
+(Transition)
 (Background change)
 Nagi: That Kanata would just pop out from around the corner, saying "It was all a lie..."
+(Transition)
 (Background change)
 Nagi: So many times, so many times...!
 Mahoro: Why... why? There should have been so much more to come.
@@ -146,6 +160,7 @@ Mahoro: I miss you, Kanata...!
 Mahoro: Laugh at me and call me an idiot...!
 Mahoro: Uuuh... *sob*
 Mahoro: Uwaaaaaaaah...!
+(Transition)
 Mahoro: *Sniffle*... *Hic*...
 Mahoro: Nagi-chan, got any tissues...
 Nagi: ...I'm all out.
@@ -167,11 +182,13 @@ Nagi: If you're carrying something, I want you to tell me.
 Nagi: I don't want you to have to shoulder it alone anymore.
 Mahoro: ...
 Mahoro: You know... I got in the way of Kanata's dream.
+(Transition)
 (Background change)
 Mahoro: Comet Rising. The Koshien of bands, only for teenagers.
 Mahoro: At the afterparty, she told me she wanted to enter it.
 Mahoro: But I... I'd never thought about that kind of future, you know.
 Mahoro: I was having too much fun... and I was scared of things changing. So I ended up saying... let's do it later, not right now.
+(Transition)
 (Background change)
 Mahoro: To Kanata, who knew better than anyone that she didn't have time.
 Nagi: ...
@@ -214,6 +231,7 @@ Nagi: ...Aha. You really are stubborn.
 Nagi: Fine, then. That's good enough.
 Mahoro: ...Huh?
 Nagi: I said, that's good enough. We just have to face it... and keep on living.
+(Transition)
 Mahoro: Nagi-chan...
 Nagi: Well, I don't really know, though.
 Nagi: I mean, with the band in this state... who knows if we can even do it again.

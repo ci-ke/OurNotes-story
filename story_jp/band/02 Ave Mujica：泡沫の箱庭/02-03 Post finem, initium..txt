@@ -2,9 +2,11 @@
 
 知らない祥ちゃんの、叫び……
 
+(Transition)
 (Background change)
 語り部: 割れた仮面は戻らない……それは終わりの始まり——
 語り部: 遂に彼女たちの運命の歯車が廻りだした。 破滅と愛憎のサーカスをとくとご覧くださいませ
+(Transition)
 
 [終演後]
 
@@ -26,6 +28,7 @@
 にゃむ: って、ちょっと見てよ！ うちらトレンド制覇してんじゃん！
 にゃむ: 『にゃむち』も入ってる〜すごくない！？ これは勢い止まんないな〜
 睦: ……
+(Transition)
 
 [翌日]
 
@@ -34,9 +37,11 @@
 
 [羽丘女子学園 昇降口]
 
+(Transition)
 (Background change)
 祥子: （？　……ふせんが貼ってありますわ。これは……？）
 祥子: ……！
+(Transition)
 祥子: （……どういうつもりですの……燈）
 (Background change)
 
@@ -48,6 +53,7 @@
 生徒たち: ！
 生徒A: あの、豊川さん……ちょっといい？ Ave Mujicaのことなんだけどさ……
 祥子: （……やはり来ましたわね……）
+(Transition)
 (Background change)
 
 [羽丘女子学園 廊下]
@@ -67,7 +73,9 @@
 燈: ……
 愛音: 黙っててごめん！　 昨日りっきーに相談したら、言うなって……
 燈: 祥ちゃんが、バンド……
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 
 [花咲川女子学園　1-B教室]
@@ -78,31 +86,40 @@
 立希: ……
 生徒E: 八幡さんどっか行っちゃったね〜。 ティモリスと話したかったな〜
 生徒たち: ね〜！
+(Transition)
 (Background change)
 
 [花咲川女子学園 中庭]
 
 立希: カバン
+(Transition)
 海鈴: ……おっと。まさか投げて渡されるとは思いませんでした。 まあ、それほど大事なものではありませんが
 立希: ティモリス、ティモリスうるさいんだけど
 海鈴: 私を見つけてくれたのは、あなただけですよ
 立希: は？　三角さん放っといて何言ってんの？
+(Transition)
 (Background change)
 海鈴: ああいうのは、得意な人がやればいいんです
+(Transition)
 (Background change)
+(Transition)
 立希: ……なんで祥子とやってんの？
 海鈴: ……豊川さんとお知り合いで？
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 
 [月ノ森女子学園 菜園]
 
 睦: ……
 睦: （きゅうり……ダメになっちゃった）
+(Transition)
 そよ: 何考えてるの？
 睦: ……そよ
 そよ: どうしてバンドやってるの。 私とはバンドしてくれなかったくせに……
 睦: ……
+(Transition)
 (Background change)
 
 [RiNG カフェテリア]
@@ -126,15 +143,18 @@
 燈: ……祥ちゃん、CRYCHICの時はあたたかくて、 眩しくて。私の歌詞は心の叫びだって、自分たちの歌だって……
 燈: けど、この曲は……
 燈: 知らない祥ちゃんの、叫び……
+(Transition)
 (Background change)
 
 [Win-Wing-Production 会議室]
 
 にゃむ: ……ん〜〜
+(Transition)
 (Background change)
 アカウントA: Ave Mujicaヤバ！　初華ちゃん〜〜♡
 アカウントB: ティモリスのベーステク、ただものじゃないと思ってたけど ディスラプションの海鈴で納得
 アカウントC: 若葉の娘かわいい！　お人形さんみたいだよね〜
+(Transition)
 (Background change)
 にゃむ: なんで〜〜！？ 『にゃむ』が全然話題になってないんだけど！
 海鈴: 動画であれだけ匂わせていたら、驚きもなにもないでしょう
@@ -145,8 +165,10 @@
 にゃむ: 『Ave Mujica仕掛人・オブリビオニスは 豊川グループ創業者一族のご令嬢！？』だって。 ニュースになってるよ〜
 祥子: ……
 にゃむ: お嬢様なら、もっと良い服着なよ！　舐められるよ〜
+(Transition)
 (Background change)
 にゃむ: 初めて会った時、ホテルに場違いな服でくるんだもん。 疑っちゃったじゃん
+(Transition)
 (Background change)
 祥子: そろそろ本題に入らせて頂きますわ
 海鈴: 全国ツアーに向けて、スケジュールを更新しましたので ご確認を
@@ -162,8 +184,10 @@
 祥子: 先方からの指定ですわ
 にゃむ: ふ〜ん……まぁ、森みなみの娘ってでかいよね〜
 睦: ……！
+(Transition)
 にゃむ: ウソ！？　みなみって、森みなみ！？
 (Background change)
+(Transition)
 (Background change)
 
 [若葉家 リビング]
@@ -176,6 +200,7 @@
 みなみ: 睦ちゃんが幼稚舎の頃から一緒なのよ
 にゃむ: へぇ〜……幼馴染ってこと？
 初華: ……
+(Transition)
 睦: みなみちゃん、なんで……
 みなみ: え〜、私の噂してなかった？
 にゃむ: みなみちゃんって呼んでるの、かわいい〜！ にゃむも呼んでいいですか？
@@ -190,10 +215,12 @@
 にゃむ: たぁくんって……若葉さんか！
 みなみ: そうだ、上映会でもする？
 睦: ……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp)
 劇中みなみ: 『どうしてっ！　いままで放っておいてノコノコと！』
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp)
 劇中みなみ: 『帰って！　顔も見たくないっ！　帰って！ あなたも裏切り者よ……！　あなたも！　あなたも！』
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000081/data/adv_still_anime_000081/adv_still_anime_000081.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp)
 (Background change)
@@ -202,17 +229,20 @@
 海鈴: 最高です
 みなみ: 嬉しい、わかってくれて！ もういつでも好きに見ていいから
 みなみ: なんなら、ここでバンドの練習しちゃったら？
+(Transition)
 睦: あ……っ
 にゃむ: 本当ですか！？
 みなみ: 趣味の部屋なんだけど、なかなか使う機会ないし
 にゃむ: 嬉しいです〜！ これでいつでも練習できるね！
 睦: （……私が、ずっと使ってたのに）
+(Transition)
 (Background change)
 
 [トーク番組スタジオ]
 
 司会者: 続いて、Ave Mujicaの皆さんです！　 生放送は初めてなんですって？
 にゃむ: はい、緊張してて〜
+(Transition)
 睦: ……
 司会者: 今すごい人気だよね。 睦ちゃん、みなみさんはなにか言ってた？
 睦: あ……
@@ -223,11 +253,13 @@
 にゃむ: 絡みづら〜
 司会者: それじゃあ、モーティスさんはどう思う？ 今、Ave Mujicaすごく盛り上がってるよね
 睦: はぁ……はぁ……はぁ
+(Transition)
 睦: ……長くは続かない
 初華 & 海鈴 & にゃむ & 祥子: <size=175%>！！
 睦: ……あっ
 祥子: ……！
 睦: あ……
+(Transition)
 (Background change)
 
 [翌日]
@@ -254,6 +286,7 @@
 海鈴: 若葉さん？
 睦: ……うん
 にゃむ: ……
+(Transition)
 (Background change)
 
 [撮影スタジオ]
@@ -262,6 +295,7 @@
 女性カメラマン: いいね、それじゃポーズ変えよっか
 睦: ……
 女性カメラマン: それじゃもう一枚ね、いくよ〜
+(Transition)
 (Background change)
 記者A: 今度は解散報道？　話題が尽きませんね〜！
 記者B: でも、お母さんが大女優ならそっちの道に進むのも ありだよね
@@ -271,15 +305,20 @@
 睦: はぁ………はぁ……
 記者A: そんな緊張しないで大丈夫だよ〜！ ホント睦ちゃんの将来が楽しみですよ〜！
 記者A・B・C: あはは……あはは……
+(Transition)
 睦: ……私、は……
+(Transition)
 (Background change)
 睦: ……
 女性カメラマン: あ〜、その感じその感じ！ うん、素敵！　ほんとお人形さんみたい
 (Background change)
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000022/data/adv_still_charaillust_000022/adv_still_charaillust_000022.webp)
 睦: ……
+(Transition)
 (Background change)
 
 [Win-Wing-Production オープンスペース]
@@ -290,6 +329,7 @@
 初華: うん……
 まな: はい、おつかれのういちゃんとドーナツ半分こ。 sumimiはふたりでひとつ、だよ？
 初華: うん、ありがとう
+(Transition)
 (Background change)
 初華: お疲れ様でした……
 初華: ……？　誰かそこにいるの？
@@ -308,7 +348,9 @@
 初華: さきちゃん……
 初華: やっぱり私の家に来て？　遠慮なんかいらないから、ね？
 祥子: ……
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 
 [初華のマンション ロフト]
@@ -320,21 +362,26 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 初華: わぁ……そのお人形、かわいいね
 祥子: 母の形見ですわ
+(Transition)
 初華: ……え？
 祥子: 病気で亡くなりましたの
 初華: ……！
 祥子: 初華は母に会ったことがありましたわね
 初華: ……え、うん
+(Transition)
 (Background change)
 祥子: ぜんぶ忘れさせて……
+(Transition)
 (Background change)
 初華: ……そっか
 初華: だから、さきちゃんがオブリビオニス……忘却なんだね
 祥子: ……
 初華: ……ずっといていいから。 ずっと一緒にいるから……
 祥子: ……
+(Transition)
 (Background change)
 (Background change)
+(Transition)
 (Background change)
 初華: 睦ちゃん、遅いね
 海鈴: 前の現場が押しているそうです
@@ -349,5 +396,6 @@
 祥子: 今宵は仮面を失ったわたくしたちにとって 初めてのマスカレードであり、これから始まる 全国ツアーの初日ですわ
 にゃむ & 初華 & 海鈴: ……
 祥子: ここで観客をAve Mujicaの世界に引き摺り込めるか否か…… 今こそ、バンドの真価が問われるのです
+(Transition)
 祥子: 失敗はできませんわよ
 睦: はぁ……はぁ……

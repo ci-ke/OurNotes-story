@@ -17,14 +17,17 @@ Hotaru: (She mentioned scheming, or whatever she called it...)
 Hotaru: (But I don't have any right to blame her.)
 Hotaru: (No. More than that—)
 Hotaru: (The one who messed up millsage... was me.)
+(Transition)
 (Background change)
 Hotaru: (Even though it was Kanata-san's treasure.)
 Hotaru: (Even though I wanted her to be happy.)
+(Transition)
 (Background change)
 Hotaru: (—It was my fault for getting lost in those rainbow colors and forgetting everything.)
 Hotaru: (I was just selfishly enjoying the music for myself.)
 Hotaru: (Someone like me, wanting to make everyone happy...)
 Hotaru: (How presumptuous.)
+(Transition)
 (Background change)
 Hotaru: I have to quit the band.
 Hotaru: There's no way I can stay after this...
@@ -39,6 +42,7 @@ Natsume: Never mind that, get ready and come out right away. Meet us at that caf
 Hotaru: Huh!? But, I...!
 Natsume: Oh, hush. This is an order from your senpai. You don't have the right to refuse!
 Hotaru: I have to tell her.
+(Transition)
 (Background change)
 Hotaru: ...
 Houka: Hotaru-san, thank you for coming all this way.
@@ -73,10 +77,12 @@ Hotaru: ...
 Natsume: What about you? How do you feel about the band?
 Hotaru: I...
 Hotaru: !
+(Transition)
 Hotaru: From Mahoro-san...?
 Natsume: Hah, perfect timing.
 (Message) Mahoro: Everyone, can you come to the garage?
 (Message) Mahoro: I want us to have a proper talk about what happened yesterday.
+(Transition)
 (Background change)
 
 [The Garage]
@@ -178,10 +184,12 @@ Hotaru: (If we had simply swapped vocal roles...)
 Hotaru: (I would still be lost.)
 Hotaru: (Making it clear who the vocalist is... this is a kind of ritual for that, too.)
 Mahoro: —♪
+(Transition)
 (Background change)
 Hotaru: (Mahoro-san is amazing.)
 Hotaru: (Even though it must be painful for Mahoro-san, too.)
 Hotaru: (Even though she must have wanted to stand in the center and sing...!)
+(Transition)
 (Background change)
 Hotaru: (Smiling like that.)
 Hotaru: (Taking the hand of a frightened me and pulling me forward.)
@@ -192,6 +200,7 @@ Mahoro: Next! It's your turn, Hotaru-chan!
 Hotaru: Yes...
 Hotaru: (How incredibly fortunate I am.)
 Hotaru: (To meet such wonderful people, and to be accepted by them...)
+(Transition)
 (Background change)
 Hotaru: (Hey, Kanata-san.)
 Hotaru: (I think I may have found the answer to that homework.)
@@ -199,25 +208,30 @@ Hotaru: (How to make "music that makes everyone happy." The answer to that.)
 (Background change)
 Hotaru: (Those rainbow colors are my own desires.)
 Hotaru: (Selfish music that ends up hurting others. So I must not let it out... That's what I thought.)
+(Transition)
 (Background change)
 Hotaru: (But—)
 Hotaru: (If I truly want to make "everyone" happy, I have to include "myself" in that "everyone," too.)
 Hotaru: (Otherwise, it wouldn't be a true happy ending.)
 Hotaru: (So, I won't run anymore.)
 Hotaru: (Thank you, Mahoro-san. Everyone.)
+(Transition)
 Hotaru: (Performing with this fulfilled feeling in my heart—)
 Hotaru: (That itself is the music that can make everyone happy!)
 (Background change)
 Hotaru: —♪
 Mahoro: ...!
+(Transition)
 (Background change)
 Mahoro: Ahahah!
 Mahoro: Yeah, you really are so good.
 Mahoro: Right, Kanata?
+(Transition)
 (Background change)
 
 [A Few Days Later]
 
+(Transition)
 (Background change)
 
 [The Garage]
@@ -274,8 +288,13 @@ Houka: Well then, shall we submit the application right away?
 Nagi: Oh, that was fast.
 Natsume: First, live shows. We need more experience; there's no question about it.
 Mahoro: You're right. We have to build up more experience...! We're aiming for Comet, after all!
+(Transition)
+(Transition)
 Hotaru: (Let's do our best.)
+(Transition)
 Hotaru: (I'll protect millsage's... and Kanata-san's happiness.)
+(Transition)
+(Transition)
 Hotaru: (And then, surely, beyond that... my own happiness will—)
 (Background change)
 (Hotaru): A happy ending.

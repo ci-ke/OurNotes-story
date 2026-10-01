@@ -17,6 +17,7 @@ Taki: Later! Get everything ready first!
 Soyo: I'm going first.
 Taki: *Sigh*... I wanted to get this performance right, but this is how things are ending up again!?
 Soyo: I knew things would turn out like this.
+(Transition)
 (Background change)
 
 [RiNG - Antechamber]
@@ -66,6 +67,7 @@ Anon: Ah, wait, Rāna-chan.
 Soyo: And Taki-chan.
 Taki: I know.
 Tomori: ...
+(Transition)
 (Background change)
 
 [RiNG - Stage]
@@ -81,9 +83,11 @@ Ririko: It's nothing like that. Did you come to see Rāna-chan's band today?
 Owner: Yes. She said she found somewhere to belong.
 Tomori: Taki-chan.
 Taki: Yes.
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4)
 (Caption): 迷星叫　ライブシーン
+(Transition)
 (Background change)
 Tomori: ...
 Anon: Thank you! That was "Mayoiuta"!
@@ -105,9 +109,12 @@ Tomori: We've been together since our previous band, and she's always held the b
 Tomori: Thank you...
 Soyo: ...
 Anon: Hehe... Alright, next. What about you, Tomorin?
+(Transition)
 (Background change)
 Tomori: Um... we, all of us are lost. No matter what's in front of us, we're always at a loss...
+(Transition)
 Tomori: It's not like we're that close... We've fought a lot, and it's been painful... We've hurt each other, and there were things we couldn't properly say...
+(Transition)
 (Background change)
 Tomori: But right now, we're all here...
 Tomori: And no matter what happens, I'm not letting go again...
@@ -115,15 +122,18 @@ Tomori: I won't let go for all of my life!!
 Soyo & Taki: ...
 Anon & Rāna: ...
 Tomori: Please listen to our song, a song of "MyGO"...!
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4)
 (Caption): 迷路日々　ライブシーン
+(Transition)
 (Background change)
 Tomori: The next song is our last one!
 Tomori: Thank you for coming today. We are MyGO!
 Tomori: It's okay to be lost.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp)
 Tomori: Even if you're lost, keep moving forward!!
+(Transition)
 (Background change)
 
 [RiNG - Antechamber]
@@ -153,10 +163,12 @@ Taki: Why are you sleepy? I stayed up for three nights straight, you know?
 Anon: Oh~ Come on! Just bring Rāna-chan to the dressing room already!
 Soyo: Tomori-chan.
 Tomori: ...?
+(Transition)
 Soyo: You said you wouldn't let go again. Thank you for that.
 Tomori: Soyo-chan...
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 Tomori: ...
+(Transition)
 (Background change)
 Tomori: ("MyGO!!!!!"...)
 Tomori: (Even if we are lost, we'll be together...!)

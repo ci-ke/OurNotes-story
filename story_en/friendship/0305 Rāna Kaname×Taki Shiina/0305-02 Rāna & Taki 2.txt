@@ -5,9 +5,12 @@
 [Hanasakigawa Girls' Academy - Courtyard]
 
 Taki: It's nice outside, so maybe I’ll eat here today... Wait, huh?
+(Transition)
 Rāna: ...
 Taki: Stray cat... and the girls from my class...? Why...?
+(Transition)
 Taki: Wait, could it be that she did something wrong...?
+(Transition)
 Taki: Hey, stray... Rāna. What are you doing?
 Rāna: I got some snacks.
 Taki: Huh, snacks?
@@ -41,6 +44,7 @@ Classmate B: Shiina-san, please tell us more about your band sometime!
 Classmate A: Hey, is there anything else you want to eat? I'll give you anything.
 Rāna: No need. Bye-bye.
 Classmate A: Huh!? She's gone...
+(Transition)
 Taki: Why are you following me? You could probably get more snacks.
 Rāna: No need.
 Taki: Oh, I see. Just so you know, I'm not gonna give you my bento box.

@@ -25,6 +25,7 @@
 そよ: そっか。ありがとう
 睦: …………
 そよ: 大丈夫、また前みたいに戻れるから。 私に任せて？
+(Transition)
 (Background change)
 
 [羽丘女子学園 1-A教室]
@@ -44,6 +45,7 @@
 燈: ……覚えててくれたの？
 燈: あの……っ、 こっちのヒゲペンギンも……あげる
 愛音: もらっとくね。ありがと～
+(Transition)
 (Background change)
 
 [放課後]
@@ -55,6 +57,7 @@
 愛音: （そこまでガチじゃないんだけど……）
 愛音: （でも、そんなこと言えないしな〜……はぁ……）
 愛音: ３人ともありがと〜！ せっかくだから、お願いしようかなー
+(Transition)
 (Background change)
 
 [RiNG エントランス]
@@ -76,6 +79,7 @@
 愛音: あ～、なんか…… お友達さんのこと悪く言っちゃって、すみません……
 そよ: ふふっ、大丈夫だよ。 いきなりあの口調で言われたら ビックリしちゃって当然だよね
 そよ: そうだ、立ったままもなんだし、 あっちのカフェでお茶にしましょうか
+(Transition)
 (Background change)
 
 [RiNG カフェテリア]
@@ -158,20 +162,26 @@
 愛音: （やった～～～～！！　そよさんラブ！！）
 そよ: ……そっか、燈ちゃん断ったんだ～。 繊細な子だからな～
 愛音: ……？
+(Transition)
 (Background change)
 (Message) 愛音: 今日はありがと～ サポートでも全然オッケーだし、 一緒にバンドやれるの、めっちゃ嬉しい！
 (Message) 愛音: これからもよろしくね😊
 愛音: よかった～……バンドできるかも
 愛音: ……これでやりなおせるかな
 愛音: …………
+(Transition)
 (Background change)
 そよ: もしかして、燈って……高松燈ちゃん？
+(Transition)
 (Background change)
 愛音: 燈ちゃんとそよさん、どこで仲良くなったんだろう……？
+(Transition)
 (Background change)
 燈: バンド、誘ってくれてありがとう…… でも……ごめんなさい
+(Transition)
 (Background change)
 愛音: 繊細かぁ……私もちょっと押しが強かったかも
+(Transition)
 (Background change)
 そよ: …………
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000007/data/adv_still_anime_000007/adv_still_anime_000007.webp)
@@ -180,4 +190,5 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000008/data/adv_still_anime_000008/adv_still_anime_000008.webp)
 (Caption): Post  Following
 そよ: …………
+(Transition)
 (Background change)

@@ -19,6 +19,7 @@ Taki: What?
 Soyo: You're always so hard on everyone. Even back when we first met, you were the same way with Tomori-chan—
 Taki: No, that was...
 Taki: (I think I was angry at everything back then.)
+(Transition)
 (Background change)
 
 [During Middle School]
@@ -36,21 +37,25 @@ Taki: (If I stayed at Haneoka, I already know exactly how things would go. So...
 Taki: Are we done...?
 Maki: Actually... someone reached out to me. There's a girl from Tsukinomori who says she'd like to talk to you, Taki-chan...
 Taki: Huh...?
+(Transition)
 Taki: ("I want you to join the band I'm putting together as our drummer"... What does that mean...?)
 Taki: (Sakiko Togawa... We don't even go to the same school. What could she possibly want with me...?)
 Taki: (A band... huh. I once went to see a live show by a band called Afterglow.)
 Taki: (It looked fun... I guess. Like they were free from something. Like nothing was weighing them down...)
 Taki: (And if I join a band, maybe I won't be compared to my sister anymore...)
 (Message) Sakiko: I have some ideas for the other members as well! I would very much like for us all to meet. Is there a day that works for you?
+(Transition)
 (Background change)
 (Taki): ...
 (Taki): I remember how I felt... half "Why me...?" and half "If I play in a band, maybe..."
 (Taki): After that... so many things happened.
+(Transition)
 (Background change)
 Taki: They were all such weirdos.
 Taki: I'd never been in a band before, so there was a lot I didn't know.
 Taki: But everyone saw me as "<ruby=myself>Taki Shiina</ruby>"...
 Taki: And I got to meet Tomori...
+(Transition)
 (Background change)
 Soyo: Taki-chan...? Why are you spacing out?
 Taki: It's nothing.

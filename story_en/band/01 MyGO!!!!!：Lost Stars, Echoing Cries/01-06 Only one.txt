@@ -14,6 +14,7 @@ Soyo: Really? That's amazing! Do famous people come to your house?
 Mutsumi: ...
 Taki: Hey, can we hurry up and talk to the receptionist?
 Soyo: Oh, good point. Excuse me~
+(Transition)
 Sakiko: Does this machine have a variety of beverages?
 Taki: Drink bar. You can take whatever you like with you.
 Sakiko: Taki-san, you know a lot about this.
@@ -26,6 +27,7 @@ Tomori: Um... I pushed that...
 Sakiko: Here? Oh? It didn't come out...
 Taki: What are you doing...? That's not the right spot.
 Soyo: Please don't play with that. Come on, let's go to the room.
+(Transition)
 (Background change)
 Sakiko: Karaoke is so wonderfully fun!
 Soyo: We haven't even sung yet. Oh, the song is starting.
@@ -48,21 +50,27 @@ Mutsumi: Even though~♪
 Tomori & Soyo & Taki: What...?
 Taki: She's singing...
 Sakiko: Oh my! You're so good, Mutsumi!
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000023/data/adv_still_anime_000023/adv_still_anime_000023.webp)
 (Caption): So dazzling
 Tomori: Dazzling
+(Transition)
 Soyo: Come on. Taki-chan, you put in a song, too.
 Taki: I said I'm fine. Tomori. Here. If you do a search, songs will pop up.
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000024/data/adv_still_anime_000024/adv_still_anime_000024.webp)
 (Caption): Gently accompanying
 Tomori: Kind
+(Transition)
 Tomori: Songs... pop up...
 Sakiko: Taki-san, will you teach me as well?
 Taki: Huh...?
 Soyo: Taki-chan, you can do it~♪
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000025/data/adv_still_anime_000025/adv_still_anime_000025.webp)
 (Caption): Beautiful
 Tomori: Beautiful
+(Transition)
 Sakiko: Your singing was wonderful, Tomori!
 Soyo: Feeling a little less nervous now?
 Taki: ...Better than at the studio.
@@ -75,9 +83,11 @@ Taki: She laughed...
 Soyo: Mutsumi-chan is laughing~
 Sakiko: Mutsumi does laugh, you know.
 Tomori: Hehe...
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000026/data/adv_still_anime_000026/adv_still_anime_000026.webp)
 (Caption): So warm
 Tomori: Warm
+(Transition)
 (Background change)
 
 [Hazawa Coffee Shop]
@@ -97,6 +107,7 @@ Soyo: I want to hurry up and play it.
 Mutsumi: Yes.
 Taki: Make it a good song.
 Sakiko: Of course. I will write music worthy of Tomori's lyrics.
+(Transition)
 (Background change)
 
 [Studio]
@@ -114,8 +125,10 @@ Mutsumi: Classic?
 Sakiko: No, it's "CRYCHIC."
 Sakiko: "Cry" means to call out... and "chic" means elegance and refinement...
 Tomori: Ah...
+(Transition)
 (Background change)
 Tomori: A cry... from the heart...
+(Transition)
 (Background change)
 Sakiko: It makes me want to call out, "Please listen to our music!"
 Sakiko: Is everyone ready?
@@ -133,10 +146,13 @@ Taki: I can only go all-out once.
 Soyo: Geez, Taki-chan! You got this, Tomori-chan!
 Tomori: Yeah...
 Tomori: We're CRYCHIC. We're going to play "Haruhikage."
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4)
 (Caption): 春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
+(Transition)
 Tomori: Haa... Haa...
+(Transition)
 (Background change)
 
 [Live House - Backstage]
@@ -157,6 +173,7 @@ Mutsumi: ...Everyone, we made it...
 Sakiko: We absolutely must perform together again!
 Everyone: Yeah!
 Sakiko: Tomori... that is a wonderful look on your face!
+(Transition)
 (Background change)
 Soyo: Hey, everyone, check social media! They're saying that Tomori-chan's song really moved them!
 Taki: What? Are there comments on today's live show already? I'm gonna look.
@@ -176,12 +193,15 @@ Sakiko: Ah...
 Tomori: Saki-chan...?
 Sakiko: ......
 Tomori: ...?
+(Transition)
 (Background change)
 Tomori: I think something was off again.
 Tomori: Maybe my singing just wasn't enough.  ...Saki-chan probably felt it too...
+(Transition)
 (Background change)
 Sakiko: I came today because I have something to say.
 Sakiko: I am quitting CRYCHIC.
+(Transition)
 (Background change)
 Tomori: (I guess I was the one who was out of place.)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000028/data/adv_still_anime_000028/adv_still_anime_000028.webp)

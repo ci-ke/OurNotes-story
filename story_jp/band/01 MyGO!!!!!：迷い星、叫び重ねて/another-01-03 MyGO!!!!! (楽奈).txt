@@ -2,10 +2,12 @@
 
 ギターも気持ちも誰にも伝わらない。 おばあちゃんだけ
 
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000182/data/adv_still_anime_000182/adv_still_anime_000182.webp)
 らーな: かっこいい
 らーな: ギター、やる
+(Transition)
 
 [RiNG カフェ]
 
@@ -13,7 +15,9 @@
 楽奈: うん
 凛々子: セッティングはしてあるから、すぐ弾き始められるよ。 バックヤードにいるから、何かあったら呼んでね
 楽奈: わかった
+(Transition)
 楽奈: ふふん
+(Transition)
 (Background change)
 
 [数年前——]
@@ -22,10 +26,12 @@
 楽奈: うん。おばあちゃんからもらった
 知り合いのギタリスト: へえ、年季入ってるもんね、そのギター。 楽奈ちゃんも、いつかここでバンドやるのかな
 楽奈: バンド……
+(Transition)
 (Background change)
 知り合いのギタリスト: ありがと～！
 楽奈: バンド、やる
 オーナー: ……そうかい
+(Transition)
 (Background change)
 
 [SPACE前]
@@ -45,6 +51,7 @@
 オーナー: あんたバンドやりたいんじゃないのかい？ メンバーに聴かせてやりたいようなギターじゃなくてどうすんのさ
 楽奈: ギターも気持ちも誰にも伝わらない。 おばあちゃんだけ
 オーナー: …………
+(Transition)
 (Background change)
 凛々子: おばあちゃんから聞いたよ？ SPACE閉まってから、ギター弾いてないんだって
 凛々子: そんなんじゃバンドできないよ
@@ -53,30 +60,39 @@
 楽奈: つまんない
 凛々子: 楽奈ちゃんは誰よりもいっぱい素敵なバンド見てきたもんね
 凛々子: でも何もしないでバンドは見つからないよ。 これが自分のギターなんだってアピールしていかないと
+(Transition)
 (Background change)
 凛々子: オーナーの口癖知ってるでしょ？ やりきったかいって
 凛々子: 周りを巻き込むくらい好きなこと、 夢中でやってたらきっと伝わる
+(Transition)
 (Background change)
 凛々子: 楽奈ちゃんのギターにはその力があると思う
 凛々子: ここオープンマイクなんだ。 好きな時にきて、好きに弾いていいから
 凛々子: いろんなバンドしたい子に、楽奈ちゃんのギター聴いてもらえば？
 楽奈: …………
+(Transition)
 (Background change)
 オーナー: あの店はね、あんたの居場所じゃない
 オーナー: 通過点だよ。
 オーナー: 居場所ってのはまた誰かがつくる。 あんたはそんな人を自分で探すんだ
+(Transition)
 (Background change)
 楽奈: ……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000183/data/adv_still_anime_000183/adv_still_anime_000183.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000184/data/adv_still_anime_000184/adv_still_anime_000184.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000185/data/adv_still_anime_000185/adv_still_anime_000185.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000186/data/adv_still_anime_000186/adv_still_anime_000186.webp)
+(Transition)
 (Background change)
 楽奈: まんぞく
 凛々子: ふふ、やっぱり楽奈ちゃんのギターはいいね。 ……って、あれ？
+(Transition)
 燈: えっと……
 立希: 野良猫、なんでここでギター弾いてんの。 もう全員スタジオに集まってるんだけど
+(Transition)
 楽奈: ？　今から行く
+(Transition)
 立希: そうじゃなくって……ああ、もう！ すみません、凛々子さん。野良猫連れていきますね
 凛々子: あはは、いってらっしゃい
 立希: なんで毎回毎回――

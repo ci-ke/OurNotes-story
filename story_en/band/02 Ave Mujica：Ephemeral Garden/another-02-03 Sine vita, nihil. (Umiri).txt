@@ -4,21 +4,31 @@
 
 (Background change)
 (Umiri): That sight. It was so dazzling, so beautiful.
+(Transition)
 (Background change)
 Tomori: —♪
+(Transition)
+(Transition)
+(Transition)
+(Transition)
 (Background change)
 (Umiri): A beautiful world where souls clashed and reached each other. That sight burned itself deep into my heart.
 (Umiri): I want to become <ruby=・>like</ruby> <ruby=・>that</ruby> too. I want to reach someone like that. So...
+(Transition)
 (Background change)
 Umiri: How about reuniting with me as well?
+(Transition)
 (Background change)
 (Umiri): I'll revive Ave Mujica and make that vision mine. I'll do anything for that.
 (Umiri): I have both the resolve and the initiative... And yet...
+(Transition)
 (Background change)
 Taki: That's what I'm talking about. Of course you'd be dumped.
 Taki: After all, Umiri, you're just too untrustworthy.
+(Transition)
 (Background change)
 Nyamu: *Sigh*... I still can't trust you after all, Umiko.
+(Transition)
 (Background change)
 
 [Umiri's Mansion - Private Room]
@@ -33,9 +43,11 @@ Mortis: Eheheh.
 Umiri: However, it subtly does not match the sound. Please act more convincingly.
 Mortis: Mmm...!
 Umiri: Okay, that's all for today. I already told you, I have a practice session with DISRUPTION.
+(Transition)
 Mortis: I'm serious about this.
 Umiri: Eh...!
 Umiri: ...
+(Transition)
 (Background change)
 Umiri: ...
 Umiri: (Even Mortis-san...)
@@ -45,17 +57,22 @@ Umiri: (Then I held myself back, made sure not to take over, and only did what w
 Umiri: (And in just a few years, I became a highly sought-after bassist.)
 Umiri: (To have earned all of that, and still not be trusted...)
 Umiri: (I want to gain real trust.)
+(Transition)
 (Background change)
 Umiri: (What on earth should I do...)
+(Transition)
 (Background change)
 DISRUPTION Vocalist: Yeah! Umiri, you're doing great today too. Let's take a little break~
 Umiri: Okay.
 DISRUPTION Drummer: Oh! By the way, whatever happened with that? I mean, that producer who contacted us and said, "Sign with us and we'll make you stars, for real this time!"
 DISRUPTION Vocalist: You know what? Apparently, it wasn't just us. That producer has been reaching out to other bands too. About twenty or so.
+(Transition)
 (Background change)
 DISRUPTION Drummer: Ugh, that's awful. Though honestly? Called it. Twenty backup plans and you call that serious? Anyone who isn't devoted to one thing can't be trusted!
+(Transition)
 (Background change)
 DISRUPTION Vocalist: Totally agree.
+(Transition)
 (Background change)
 Umiri: ...!
 Umiri: Someone who isn't devoted to one thing can't be trusted...
@@ -75,8 +92,10 @@ Umiri: !
 DISRUPTION Drummer: Yeah. Honestly, it won't be the same without you—no idea what we'll do. But hey, we'll figure it out!
 DISRUPTION Vocalist: Don't worry about us. Go give it everything you've got. Thank you, Umiri. For everything.
 Umiri: Yes...! Thank you all, truly. For everything.
+(Transition)
 (Background change)
 Umiri: (With this, it has to work...!)
+(Transition)
 (Background change)
 Umiri: Togawa-san, are you going to let Mortis-san die?
 Sakiko: I'm determined.
@@ -84,6 +103,7 @@ Umiri: I'm determined too! I have quit all the bands I was playing in.
 Taki: !
 Umiri: Am I still not trustworthy? I mean it, too. I want to reunite Ave Mujica!
 Umiri: I want to believe in each other! Ugh...
+(Transition)
 (Background change)
 Umiri: (A beautiful world where souls collide.)
 Umiri: (I want to be part of that. I want it so much. So please...)

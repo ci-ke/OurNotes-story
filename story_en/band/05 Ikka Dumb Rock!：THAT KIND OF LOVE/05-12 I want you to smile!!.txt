@@ -22,8 +22,10 @@ Miku: Wh-What...?
 Chieri: Do you remember everything we're out of!?
 Aunt Keiko: You're Miku-chan, right? What a responsible girl! This proves you've really been taking care of the house!
 Miku: (Ah...)
+(Transition)
 (Background change)
 Miku's Mother: Miku-chan's the most grown-up of us. You're so responsible and amazing~
+(Transition)
 (Background change)
 Miku: Um... sorry? I guess I overstepped~
 Raika: Not at all! If you were not here, we would have used gift vouchers all on prepared dishes, Miku!
@@ -48,6 +50,7 @@ Shizuku: Miku, let's go too. We do laundry every day, so we probably need that m
 Shizuku: That makes seven boxes in a week.
 Miku: That might not be quite right. Why don't you ask Raika-chan to teach you again♪
 Miku: (That person... you should take responsibility and teach her properly to the end!)
+(Transition)
 (Background change)
 
 [The Next Night]
@@ -101,8 +104,10 @@ Shizuku: No, this one isn't from school. Someone sent a letter asking me to hold
 Raika: Oh, that was in the mailbox this morning! A letter addressed to Shizuku.
 Chieri: Let me see... "I'd like to reserve one ticket. I look forward to the performance..."
 Raika: Who's this one?
+(Transition)
 (Background change)
 Miku: (Oh please, it could only be that person.)
+(Transition)
 (Background change)
 Chieri: Anyway, Shizuku sold one. Yomogi... what about you?
 Yomogi: Ugh... zero. I'm a useless piece of trash. I'm so sorry~~~!
@@ -167,6 +172,7 @@ Chieri: What...!!
 Miku: Hey everyone, shouldn't we start taking baths soon? If we go one by one from now, the last person's gonna be really late.
 Raika: It's true! Then I'm the first~!
 Chieri: Chieri is not giving up the first bath!
+(Transition)
 (Background change)
 Miku: (This house's barley tea is stronger than what I have at home.)
 Miku: (Oh, the rice cooker... It's already set for seven.)

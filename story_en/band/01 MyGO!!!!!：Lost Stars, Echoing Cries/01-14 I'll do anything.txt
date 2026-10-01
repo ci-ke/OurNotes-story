@@ -10,6 +10,7 @@ Classmate A: The live show yesterday was amazing! Both Tomori-chan and Anon-chan
 Anon: Ehehe, thank you~ I could see all of you from the stage.
 Tomori: ......
 Anon: (Tomori-chan... she's worried about what happened after yesterday's live show...)
+(Transition)
 (Background change)
 Anon: Soyo-san is kind. She'll forgive us.
 Tomori: ......
@@ -24,6 +25,7 @@ Sakiko: !
 Tomori: S-Saki-chan...
 Sakiko: ......
 Tomori: Ah...
+(Transition)
 (Background change)
 
 [After School]
@@ -54,6 +56,7 @@ Tomori: Everyone's... going in different directions again... If things keep goin
 Tomori: ...
 Anon: Tomori-chan...!? Where are you going...?
 Tomori: Soyo-chan's school.
+(Transition)
 (Background change)
 
 [Pedestrian Bridge]
@@ -64,12 +67,14 @@ Anon: Bye, I'm this way.
 Tomori: ......
 Tomori: I hurt Saki-chan too...
 Anon: Huh?
+(Transition)
 (Background change)
 Tomori: Saki-chan's the one who brought me to a bright place... She brought everyone else, too...
 Tomori: When she started CRYCHIC... it felt so very warm...
 Tomori: All of it was because Saki-chan was there...
 Tomori: And yet... "Haruhikage," when I sang it, it hurt her...
 Anon: ......
+(Transition)
 (Background change)
 (Background change)
 
@@ -97,6 +102,7 @@ Soyo: ......
 (Caption): messages blocked how to check All  Images  Books  Videos  Shopping  News How to check if you've been blocked on social media 4 ways to find out if you've been blocked without them knowing!
 Soyo: ...!
 Soyo: ......
+(Transition)
 (Background change)
 
 [Tsukinomori Girls' Academy - Garden]
@@ -107,6 +113,7 @@ Classmate B: I took notes for you while you were out!
 Soyo: Thank you~
 Mutsumi: ......
 Soyo: ......
+(Transition)
 (Background change)
 Soyo: I was so surprised the other day. Suddenly seeing that you and Saki-chan came to the live show...
 Soyo: Did you bring her there, Mutsumi-chan?
@@ -120,6 +127,7 @@ Soyo: Mutsumi-chan, I want you to help me. You know where Saki-chan lives, don't
 Mutsumi: ...
 Soyo: It's your fault, Mutsumi-chan. Back then, and now too.
 Mutsumi: ......!
+(Transition)
 (Background change)
 
 [RiNG Entrance]
@@ -134,6 +142,7 @@ Ririko: You seemed to be happy at your first live show, so do you like your curr
 Rāna: There is an interesting woman.
 Ririko: Don't say "woman." You mean "girl," right?
 Rāna: "Girl"...
+(Transition)
 (Background change)
 
 [One Hour Later]
@@ -160,6 +169,7 @@ Tomori: Huh?
 Anon: What... She went home... But she's the one that called us out here...
 Taki: Huh...?
 Tomori: ......
+(Transition)
 (Background change)
 
 [Park]
@@ -207,7 +217,9 @@ Soyo: It hasn't ended!!
 Soyo: I... I've tried so hard all this time for CRYCHIC...!
 Sakiko: No one asked you to do that.
 Sakiko: This is my final warning. Don't involve me any further this time.
+(Transition)
 Soyo: ...! Wait......! Please, don't go...!
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000019/data/adv_still_charaillust_000019/adv_still_charaillust_000019.webp)
 Soyo: You have it wrong! I really care about everyone... I love them!
 Soyo: No... Please...!
@@ -215,6 +227,7 @@ Soyo: Saki-chan, without you and the others, I...
 Sakiko: Let go.
 Soyo: What can I do to make you come back!? If it's in my power, I'll do anything...!
 Sakiko: ...!
+(Transition)
 Sakiko: What sort of resolve do you have as you say that?
 Soyo: What...?
 Sakiko: You're just a student. Can you truly take responsibility for someone else's life?

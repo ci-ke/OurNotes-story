@@ -38,10 +38,12 @@ Natsume: See? I went to my favorite place today and dug to my heart's content—
 Staff: Oh, you're still here! Hey, you in the jacket!
 Natsume: Gah!?
 Mahoro: Huh? Do you think they're talking to you, Natsume-chan?
+(Transition)
 Staff: I'm glad you hadn't gone too far! Here, this is for you. A point card!
 Staff: We're supposed to give one to every first-time customer, but I completely forgot!
 Natsume: Thank you...
 Staff: Thanks for buying so much! Come again!
+(Transition)
 Mahoro & Natsume: ...
 Natsume: What...? Go ahead and pity me. That's right. I'm a loser too.
 Mahoro: I-I don't think that at all... I think it's cool that you can walk into a new shop by yourself.

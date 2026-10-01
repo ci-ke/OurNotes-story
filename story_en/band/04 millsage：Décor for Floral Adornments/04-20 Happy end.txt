@@ -6,6 +6,7 @@
 
 [The Day Before the Live]
 
+(Transition)
 (Background change)
 
 [Shiomi Residence - Hotaru's Room]
@@ -24,6 +25,7 @@ Hotaru: (This... is a USB flash drive...!)
 Hotaru: (Is there some kind of data on here...?)
 Hotaru: ...
 Hotaru: (Would it be okay... if I just take a quick peek...?)
+(Transition)
 Hotaru: Wow...!
 Hotaru: (Amazing...! It's full of rough song drafts and lyric notes!)
 Kanata: "I'll definitely make Natsume acknowledge me!"
@@ -35,6 +37,7 @@ Hotaru: ...?
 Hotaru: (There's one file all the way at the bottom... what is this?)
 Hotaru: (This is...?)
 Hotaru: Huh?
+(Transition)
 (Background change)
 
 [Day of the Live]
@@ -57,16 +60,19 @@ Houka: Isn't it wonderful, though? It just shows how motivated everyone is♪
 Mahoro: Exactly, since we're making a fresh start from here on out.
 Mahoro: Right, Hotaru-chan?
 Hotaru: ...
+(Transition)
 (Background change)
 Hotaru: "4/16"
 Hotaru: "I've always been cursing God."
 Hotaru: Huh?
+(Transition)
 (Background change)
 Hotaru: "The entrance ceremony, sports day, the school trip. I have almost no memories of them."
 Hotaru: "They're all chipped away, incomplete."
 Hotaru: "Why keep me alive if you won't give me an ordinary youth?"
 Hotaru: "Why me? Why did I get sick? Why do I have to die? Why, why, why?"
 Hotaru: "Drop dead, God."
+(Transition)
 (Background change)
 Hotaru: ...
 Hotaru: "9/4"
@@ -76,8 +82,10 @@ Hotaru: "I want to spill it all. I don't want to die. I'm scared. I want to scre
 Hotaru: This...
 Kanata & Hotaru: "I want to tell them, I want to reach out, 'Help me.' Hey, why is it only me?"
 Kanata & Hotaru: "But I don't want to be a curse on them."
+(Transition)
 (Background change)
 Hotaru: Haa... Haa... Haa...
+(Transition)
 (Background change)
 (Kanata): "I saw a news story about the annual suicide statistics and things like that."
 (Kanata): "Life isn't fair at all. Nothing at all is equal."
@@ -85,8 +93,10 @@ Hotaru: Haa... Haa... Haa...
 (Kanata): "I promise I won't waste it. I'll do anything."
 (Kanata): "I'm begging you."
 (Kanata): "Give that life to me."
+(Transition)
 (Background change)
 Hotaru: ...
+(Transition)
 (Background change)
 (Kanata): "10/9"...
 (Kanata): "My story. A life with me at the center."
@@ -94,9 +104,11 @@ Hotaru: ...
 (Background change)
 (Kanata): "millsage. Will it end? Will it go on?"
 (Kanata): "Ah, but I hate it. The thought of someone other than me at the center."
+(Transition)
 (Kanata): "It makes me sick."
 (Background change)
 Hotaru: ...!
+(Transition)
 (Background change)
 (Kanata): "millsage. My happiness."
 (Kanata): "At least millsage..."
@@ -105,26 +117,32 @@ Hotaru: ...!
 Hotaru: ...
 Hotaru: Ah... Aah...
 Hotaru: I-I... I...!
+(Transition)
 (Background change)
 Hotaru: I think... there's no way Kanata-san would have wanted an ending like the band disbanding...!
 Hotaru: If that were the case, it wouldn't be millsage...! I wouldn't be able to face Kanata-san!
 Hotaru: (I'll protect millsage's... and Kanata-san's happiness.)
 Hotaru: (And then, surely, beyond that... my own happiness will—)
+(Transition)
 (Background change)
 Hotaru: Ah... Ah...!
+(Transition)
 (Background change)
 Hotaru: I-I'm so... I'm so sorry...! Uuu...!
 Hotaru: ...! Waah, aaaaaaaah...!
+(Transition)
 (Background change)
 Hotaru: ...
 Hotaru: Kanata-san. I finally understand.
 Hotaru: —What it is I truly have to do.
+(Transition)
 (Background change)
 Hotaru: ...
 Mahoro: Hotaru-chan? What's wrong?
 Hotaru: No, I'm fine!
 Hotaru: (I was wrong from the very beginning.)
 Hotaru: (Everything I've done, all of it.)
+(Transition)
 Natsume: Are you just itching to start playing? Or are the nerves finally hitting you?
 Hotaru: ...I was just getting fired up to do my best.
 Hotaru: Because I'm going to make absolutely sure we succeed.
@@ -143,6 +161,7 @@ Mahoro: ...! That makes sense. You're still feeling a bit uneasy, after all.
 Mahoro: Go ahead and hold onto it, Hotaru-chan. I'm sure it'll be a source of strength for you from now on.
 Hotaru: Thank you so much.
 Hotaru: —I'll carry it with me to my grave.
+(Transition)
 (Background change)
 Hotaru: (I'm sorry, Kanata-san.)
 Hotaru: (I didn't understand your true wish at all.)
@@ -153,14 +172,17 @@ Hotaru: (No amount of apologizing will ever be enough.)
 Hotaru: (I can never atone.)
 Hotaru: (So at least, to make amends for what I've done to you...)
 Hotaru: (I'll throw away my own "happiness.")
+(Transition)
 (Background change)
 Hotaru: (I love happy endings.)
 Hotaru: (I love stories where, in the end, everyone is smiling.)
 Hotaru: (But this story isn't mine.)
 Hotaru: (There's no way I should make it my story.)
 Hotaru: (There's no way I should be the protagonist, or even a character in it.)
+(Transition)
 (Background change)
 Hotaru: (—And so.)
+(Transition)
 (Background change)
 The Audience: Waahhh!!
 Audience A: millsage!!!
@@ -170,6 +192,7 @@ Nagi: I can go anytime.
 Houka: Same here. ♡
 Natsume: Come on, hurry up.
 Mahoro: Hotaru-chan, please!
+(Transition)
 Hotaru: ...
 Hotaru: (The one standing here isn't "me".)
 Hotaru: (Just a tool to make sound.)
@@ -184,6 +207,7 @@ Hotaru: (That way, Mahoro-san's and everyone's wishes, and Kanata-san's wish... 
 Hotaru: (Hey, Kanata-san.)
 Hotaru: (This time, I'll make it happen for sure.)
 The Audience: Waahhh!
+(Transition)
 (Background change)
 Hotaru: (My throat and my fingers. My voice and my keyboard.)
 Hotaru: (Bringing only those with me to this place...)

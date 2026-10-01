@@ -2,9 +2,12 @@
 
 Cut off all unfulfilled memories and forget all about it. All I have left is Ave Mujica.
 
+(Transition)
+
 [Budokan Day]
 
 (Background change)
+(Transition)
 (Background change)
 Sakiko: I'm heading out... Father, you're awake?
 Kiyotsugu: You're going to Budokan, right?
@@ -19,6 +22,7 @@ Kiyotsugu: Leave me alone already...! When I see that you are such a fine daught
 Kiyotsugu: I feel miserable...! I beg you, just get out of my sight...
 (Background change)
 Sakiko: ...!
+(Transition)
 (Background change)
 Sakiko: What a rotten father...! Does he understand how I've been feeling...
 Mutsumi: Saki...
@@ -27,30 +31,41 @@ Mutsumi: Saki. Are you okay with Budokan?
 Sakiko: Of course, it's going to be okay.
 Mutsumi: ...
 Sakiko: What do you think I've worked so hard for?
+(Transition)
 (Background change)
 Sakiko: (Cut off the unfulfilled memories and forget all about it— with that sole purpose in mind, I created Ave Mujica...)
 Sakiko: (All started... from that moment.)
+(Transition)
 (Background change)
 Tomori: <size=175%>I...! All I can do is try my absolute hardest!
 Tomori: <size=175%>Because my songs are screams from my heart!
+(Transition)
 Sakiko: Tomori...
 Sakiko: ...!!
 Sakiko: (This song is...)
+(Transition)
 Tomori: —♪
+(Transition)
 Mutsumi: Haruhikage, but not from CRYCHIC...
+(Transition)
 Tomori: ♪Please, just stay like this—and don't let me go
 Sakiko: <size=175%>...!
+(Transition)
 Mutsumi: Ah, Saki...
 (Background change)
 Sakiko: Haa... Haa...!
 Sakiko: (Only the memories......! Only "those days," I wanted them to stay unchanged... to remain pure...!)
+(Transition)
 (Background change)
 Sakiko: They were destroyed... Never... coming back...
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000075/data/adv_still_anime_000075/adv_still_anime_000075.webp)
 Sakiko: (Uika...)
+(Transition)
 Uika: "Saki-chan?"
 Sakiko: Uika...
 Sakiko: Make me forget everything...
+(Transition)
 (Background change)
 
 [A Few Days Later]
@@ -66,12 +81,14 @@ Sakiko: Is your work going well?
 Uika: Hmm, it's going all right. What about you, Saki-chan? You're in a band, right?
 Uika: What was it again, the band name? CRY...
 Sakiko: Please stop talking about that.
+(Transition)
 Uika: Ah... sorry.
 Sakiko: It's all right... Why did you want to come to this roof?
 Uika: Hmm, because it's close to the sky.
 (Background change)
 Sakiko: We always looked up at the sky together in the summer, didn't we?
 Uika: That was much fun. When summer came, you would come to the island.
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
 Uika: I never imagined that I'd be able to be your friend.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
@@ -99,6 +116,7 @@ Sakiko: Yes. We will be professional as well.
 Uika: All right. I'm in.
 Sakiko: Really? I haven't even—
 Uika: It's a request from you, Saki-chan.
+(Transition)
 Sakiko: (Uika readily agreed without even asking for details.)
 Sakiko: (Then, I began negotiations with the other members... This time, to form an unbreakable and perfect band... I must gather perfect pieces.)
 (Background change)
@@ -107,8 +125,10 @@ Sakiko: Nyamu-san? I'm so sorry to have kept you waiting. I'm the one who contac
 Nyamu: I'm Nyamu!
 Sakiko: I'm very grateful to you for taking the trouble to come here today.
 Nyamu: Ah... It wasn't a problem.
+(Transition)
 Nyamu: Sorry~ I picked this place. Was it hard for you to come here?
 Sakiko: Not at all.
+(Transition)
 Nyamu: So, you want Nyamu to be in a band, was that right?
 Nyamu: You wrote in the DM that you watched my video, but... why me?
 Sakiko: Your face and the numbers.
@@ -119,9 +139,11 @@ Sakiko: The unique way you play drums is photogenic and showy in a very lovely w
 Sakiko: Of course, I would need you to improve quite a bit on the drums.
 Nyamu: Hmm... So, is there any merit for me in this?
 Sakiko: Please look at this.
+(Transition)
 (Background change)
 Nyamu: What? What image? Ah~ That's Mutsumi Wakaba. She's the daughter of the actress Minami Mori, right?
 Sakiko: She's one of my band members. On vocals, we have sumimi's Uika. I've already arranged it with her agency.
+(Transition)
 (Background change)
 Nyamu: Hang on. Are you saying this for real?
 Sakiko: And on bass we have someone whose skills compare to any pro out there. As a band, the formation is rock solid.
@@ -129,6 +151,7 @@ Sakiko: What do you think? Will you consider my offer in a positive light?
 Nyamu: Yūtenji... My name is Nyamu Yūtenji.
 Sakiko: Then allow me to ask once more, Nyamu Yūtenji-san.
 Sakiko: Will you give me the rest of your life?
+(Transition)
 (Background change)
 Sakiko: The other members have already joined. You are the only one left.
 Mutsumi: I'll join.
@@ -138,49 +161,65 @@ Sakiko: !
 Sakiko: Well, it must be nice being you.
 Mutsumi: ...! I'm sorr...
 Sakiko: You may keep your concern. The weak version of me... has already died.
+(Transition)
 
 [Debut Live Day]
 
 (Background change)
 Doloris: Doloris. I do not fear sorrow.
 Mortis: Mortis. I do not fear death.
+(Transition)
 Timoris: Timoris. I do not fear being afraid.
 Amoris: Amoris. I do not fear love.
+(Transition)
 Oblivionis: Oblivionis. I do not fear forgetting.
+(Transition)
 Sakiko: (I am Oblivionis. My weak self is already in the grave...)
 (Background change)
+(Transition)
 (Background change)
 Sakiko: Cut off all unfulfilled memories and forget all about it. All I have left is Ave Mujica.
 Mutsumi: ...
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 Sakiko: "Take a good look at... this perfect smile..."
 Nyamu: "If you don't want to smile, you can cry. I can make any face I want."
 Nyamu: What a boring script. I'm heading out.
 Sakiko: ...
+(Transition)
 (Background change)
 Oblivionis: Now, it's time for our guests to come in.
+(Transition)
 Doloris: Who's coming?
 Oblivionis: Doloris, look ahead.
+(Transition)
 Mortis: Friends.
 Oblivionis: Mortis, your hair is a mess.
+(Transition)
 Timoris: They are the new owners.
 Oblivionis: Timoris, keep your shoulders up.
 Amoris: Today is the day they will find me~♪
 Oblivionis: Amoris. You need perfect grooming and a perfect smile.
 Oblivionis: You must show the best of yourself to the guests.
 Amoris: Okay~
+(Transition)
 Oblivionis: Thank you for your patience. Welcome to Ave Mujica's masquerade.
+(Transition)
 Oblivionis: We have prepared beautiful dolls for our guests this evening!
+(Transition)
 Oblivionis: Amoris the Merciful.
 Oblivionis: Timoris the Intelligent.
 Oblivionis: Mortis the Obedient.
 Oblivionis: Doloris the Kindhearted.
 Oblivionis: And I am... Oblivionis the Noble.
 Oblivionis: Take a good look at this perfect smile.
+(Transition)
 (Background change)
 Nyamu: Perfect?
 (Background change)
+(Transition)
 Sakiko: (? She messed up the line...?)
 Nyamu: Ahahahaha! No one wants to see such a forced smile!
 Nyamu: You need a sincere smile... Like this!
@@ -188,6 +227,7 @@ Sakiko: <size=200%>...!?
 Audience A: Eh, Nyamuchi!?
 Audience B: Nyamuchi? That streamer!?
 Nyamu: Hehehehe!
+(Transition)
 Sakiko: What have you done...!
 Nyamu: I can't hear you~
 Nyamu: Hey, Mortis. What does your real face look like?
@@ -197,11 +237,13 @@ Mutsumi: <size=175%>!!!!
 Audience C: She's the daughter of Wakaba and Minami Mori!
 Mutsumi: ...
 Nyamu: What a crumpled face!
+(Transition)
 Umiri: What is your plan?
 Nyamu: What's your face?
 Umiri: ...
 Audience A: Umiri from DISRUPTION!?
 Nyamu: What a beautiful face~ That's boring~
+(Transition)
 Sakiko: (Ugh... You've actually done it.)
 Uika: (Saki-chan...)
 Sakiko: (I can't stop this. I have to step back—)
@@ -220,5 +262,6 @@ Uika: ...
 Sakiko: (Uika...!)
 Audience A: <Size=175%>It's Uika-chan!
 Audience C: How!? Ave Mujica is insane!!
+(Transition)
 Storyteller: Her secret is revealed under the moon, and the dolls regain their human form.
 Storyteller: Is that bliss or doom—The wheel of fate will never stop.

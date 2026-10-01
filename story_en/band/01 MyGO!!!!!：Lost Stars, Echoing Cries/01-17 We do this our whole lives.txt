@@ -13,6 +13,7 @@ Classmate C: You've been doing it every day lately, right? With that girl who pl
 Classmate A: When are you performing again?
 Anon: ...
 Anon: I guess she really doesn't need me after all.
+(Transition)
 (Background change)
 Taki: Why is the stray cat playing with Tomori?
 Ririko: Well, Rāna-chan loves interesting things~ Taki-chan, aren't you going to play with them?
@@ -21,6 +22,7 @@ Rāna: Tomori's live begins. Play drums.
 Taki: Stray cat!? But I'm in the middle of work.
 Ririko: Oh, don't worry about that~ Bye~
 Taki: Hey! Don't pull me, stray cat! I...!
+(Transition)
 (Background change)
 
 [RiNG - Stage]
@@ -36,6 +38,7 @@ Tomori: "I didn't want to hurt anyone." "I didn't want to let go of their hands.
 Tomori: "I'm sorry," "my dear ones." "The things I want to convey to you always get stuck in my throat, and never become voiced."
 Tomori: "At the very least, I want to leave this song behind!"
 Mutsumi: ...
+(Transition)
 (Background change)
 
 [After the Live Show]
@@ -57,6 +60,7 @@ Mutsumi: Soyo... doesn't know anymore.
 Taki: Doesn't know what?
 Taki: Huh? Hey, wait!
 Tomori: ...
+(Transition)
 (Background change)
 
 [Haneoka Girls' Academy - Classroom 1-A]
@@ -73,6 +77,7 @@ Anon: Don't shout! You'll scare me.
 Tomori: Play guitar!!
 Anon: ...!
 Tomori: Ah... Anon-chan! Wait...!
+(Transition)
 (Background change)
 Tomori: Haa... Haa...!
 Anon: Why are you chasing after me? You already have a guitarist, don't you?
@@ -86,8 +91,10 @@ Anon: It was all to look good! I just wanted everyone to think I was amazing!
 Tomori: Anon-chan, you were struggling with all your might... So was Soyo-chan. So was I. Because we're all lost...
 Tomori: Together... Let's be lost together.
 Anon: ...
+(Transition)
 (Background change)
 Anon: Oh, dear. This is all your fault, Tomori-chan.
+(Transition)
 (Background change)
 Soyo: ...!
 Anon: Soyo-san, wait. I need to talk to you.
@@ -95,10 +102,12 @@ Soyo: ...
 Anon: Soyo-san!
 Soyo: Don't follow me.
 Anon: I'm gonna follow you until you listen to what I have to say!
+(Transition)
 (Background change)
 (Background change)
 Anon: Soyo-san! Wait, what's with this apartment...!?
 Soyo: It's my home. *Sigh*... Why don't you come in?
+(Transition)
 (Background change)
 
 [Nagasaki's Home - Living Room]
@@ -121,6 +130,7 @@ Soyo: Even though I know you started just to look good.
 Anon: That's right. You and I started this band, right?
 Soyo: ...
 Soyo: In that case... I'll put an end to it for you.
+(Transition)
 (Background change)
 
 [RiNG - Stage]
@@ -143,15 +153,18 @@ Tomori: Come!
 Soyo: Hey... Hey! Let go!
 Tomori: ...!
 Soyo: Don't get the wrong idea...! I came to end things!
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10.mp4)
 (Caption): 詩超絆　ライブシーン
 (Subtitle) Soyo: Ah...!
 (Subtitle) Rāna: Hehe.
 (Subtitle) Soyo: Wait...!
+(Transition)
 (Background change)
 Tomori: Haa... Haa...
 Anon: Thank you!
+(Transition)
 (Background change)
 
 [RiNG - Antechamber]

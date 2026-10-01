@@ -1,5 +1,6 @@
 10500:adv_script_uika_sakiko_linkstory_3 Uika & Sakiko 3
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Open Space]

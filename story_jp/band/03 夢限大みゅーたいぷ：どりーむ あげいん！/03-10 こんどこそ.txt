@@ -43,6 +43,7 @@
 都子: （私、ちゃんと輝けてたかな……？）
 都子: ビオラさん……
 ビオラ: センセ……♡
+(Transition)
 あられ: あとあと！　りっちゃんのアバターも！ すっごくりっちゃんって感じで！
 律: ……
 ののか: ドッペルゲンガ～！？
@@ -56,6 +57,7 @@
 律: こんな気持ち、いつぶりだろうって……
 あられ: りっちゃん……
 律: 前向きな気持ちでステージに立てたのも、 みなさんのおかげです。これから、よろしくお願いしま…
+(Transition)
 律: <size=200%>す！？？？？？？？
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000243/data/adv_still_anime_000243/adv_still_anime_000243.webp)
 (Background change)
@@ -84,7 +86,9 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000248/data/adv_still_anime_000248/adv_still_anime_000248.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000299/data/adv_still_anime_000299/adv_still_anime_000299.webp)
 あられ: <size=150%>りっちゃぁああ～～～～～～～～っ！！！
+(Transition)
 都子: アラザン……
+(Transition)
 (Background change)
 あられ: おっはよ～！
 らき: ！
@@ -116,6 +120,7 @@
 らき: う～ん
 らき: あられちゃんならあり得るか～
 あられ: えーと、１４ページの…… ってこれ数学っ！
+(Transition)
 (Background change)
 ポポ: すごいじゃん、みゅーたいぷ。 ずっとトレンド入り
 ベル: ライブすごかったもんぬぇ～
@@ -126,6 +131,7 @@
 ポポ: 何これ？
 ベル: マンガ？
 ビオラ: ふふ……夜子センセ♡
+(Transition)
 (Background change)
 通行人A: ねえ、あれクレマチスじゃない？
 通行人B: 誰？
@@ -137,6 +143,7 @@
 律: …………
 あられ: ん？
 律: ううん、なんでもない。 それより――
+(Transition)
 (Background change)
 あられ: 初ライブおつかれさま～！
 律: おつかれさま
@@ -159,7 +166,9 @@
 あられ: りっちゃんの夢、ぼくが絶対に守るから！
 律: …… うん、夢はパワーだね
 律: （守ってもらってばかりじゃいられない）
+(Transition)
 律: （今度こそ、あられちゃんのことを守ると決めた。 そのために、私ができること――）
+(Transition)
 (Background change)
 都子: 『チュパサチュ』１８話原稿をお送りいたします。 ご査収のほど、よろしくお願いいたし……
 都子: <size=150%>ます！
@@ -168,6 +177,7 @@
 都子: なんだろう、モチベーションが途切れない…… それどころかどんどん湧いてくる……！
 都子: それもこれもすべて……
 ビオラ: センセ……♡
+(Transition)
 都子: ぐふ、ぐふふっ……
 都子: ！　いかんいかん！ 単行本の感想めぐりでもしますか
 都子: 特典作業もがんばったし、 みんな喜んでくれてるといいけど……
@@ -179,12 +189,15 @@
 都子: 『二度と見たくない』……？？？
 都子: ど、どういうこと……？
 都子: 私、輝けてなかったの……？
+(Transition)
 (Background change)
 あられ: ふ～ん……♪　ふふ～ん……♪
 (Background change)
 あられ: ♪　いってきま～す！
 (Background change)
+(Transition)
 (Background change)
 (Background change)
 (Background change)
+(Transition)
 (Background change)

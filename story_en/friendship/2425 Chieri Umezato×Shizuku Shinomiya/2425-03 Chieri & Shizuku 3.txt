@@ -1,6 +1,7 @@
 10608:adv_script_chieri_shizuku_linkstory_3 Chieri & Shizuku 3
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Living Room]
 
@@ -35,6 +36,7 @@ Shizuku: Amazing... Cherie got it right again.
 Chieri: I am not happy at all!! Chieri is supposed to be more amazing than that!
 Shizuku: Cherie, the next question is coming.
 Chieri: Grr... Chieri will not let Shizuku have all the glory. Next time...!
+(Transition)
 Quiz Show MC: "Well, that is all for this week! See you next week!"
 Chieri: No... Chieri got every question wrong...! And Shizuku got every one right...!
 Shizuku: Cherie is more amazing. You came up with answers I could never have imagined, every time.

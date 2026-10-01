@@ -1,6 +1,7 @@
 10590:adv_script_raika_shizuku_linkstory_3 Raika & Shizuku 3
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Living Room]
 
@@ -12,6 +13,7 @@ Shizuku: It's thanks to everyone teaching me.
 Raika: You're welcome!
 Raika: All right, let's dry your hair. Shizuku, sit in front of me~
 Shizuku: All right.
+(Transition)
 Raika: Okay, time to dry your hair! Hair dryer on!
 Shizuku: Raika... could I ask you something?
 Raika: Your hair is so pretty, Shizuku~

@@ -2,15 +2,19 @@
 
 身勝手なのはわかっています。それでも Ave Mujicaを復活させたいんです！
 
+(Transition)
 (Background change)
 (Background change)
 まな: ——でね。まな舞台はじめてでしょ？ みなみさんが色々教えてくれて
 初華: ……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000141/data/adv_still_anime_000141/adv_still_anime_000141.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000142/data/adv_still_anime_000142/adv_still_anime_000142.webp)
 (Caption): ANON TOKYO 178 投稿 835 フォロー フォローする メッセージ
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000143/data/adv_still_anime_000143/adv_still_anime_000143.webp)
 (Caption): またね #CRYCHIC
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000142/data/adv_still_anime_000142/adv_still_anime_000142.webp)
 (Caption): ANON TOKYO 178 投稿 835 フォロー フォローする メッセージ
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000143/data/adv_still_anime_000143/adv_still_anime_000143.webp)
@@ -19,6 +23,7 @@
 まな: 今日も仕事終わりにご飯行く約束してるんだ。 ういちゃんもよかったら一緒に——
 まな: ういちゃん？　大丈夫？
 初華: ……え？　……うん
+(Transition)
 (Background change)
 モーティス: ——♪ もう一度最初から再生………
 睦: お願いだからやめて……
@@ -35,25 +40,31 @@
 モーティス: <size=175%>わからないっ！
 (Background change)
 モーティス: はぁ………はぁ…… ぜったいにわかってあげない……
+(Transition)
 (Background change)
 祥子: （モーティスは、 睦がAve Mujicaをやり続けることを望んでいる）
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 祥子: （睦が苦しみ、壊れてしまったあの日々を この先もずっと……）
+(Transition)
 祥子: （そんなこと……… わたくしはAve Mujicaだけはできない）
 祥子: （してはいけない）
 家政婦: 申し訳ございません。お嬢様ですが 本日はギターを弾きたいとのことでして
 祥子: ギターを……
+(Transition)
 (Background change)
 睦: ……もう一回
 睦: 祥とCRYCHICやりたい
+(Transition)
 (Background change)
 祥子: （……睦、本気で……）
 祥子: （なら、わたくしが睦のためにできることは……）
+(Transition)
 (Background change)
 
 [放課後]
 
 (Background change)
+(Transition)
 (Background change)
 
 [羽丘女子学園 カフェテリア]
@@ -73,7 +84,9 @@
 祥子: もちろん、MyGO!!!!!に迷惑はかけません。 すぐに返事ができないことも重々承知ですわ
 祥子: 立希とそよともこれから話をするつもりです
 愛音 & 燈: ……
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 そよ: ごきげんよう。また明日ね
 (Message) 立希: ライブ終わって最近たるんでる
@@ -83,17 +96,21 @@
 (Message) 愛音: ごめん、ちょっといい？
 (Message) 愛音: 祥子ちゃんが睦ちゃんのために CRYCHIC復活させたいって
 そよ: ……
+(Transition)
 (Background change)
 
 [羽丘女子学園 天文部部室]
 
 愛音: 全員既読無視って………も〜何か言ってよ
 愛音: え？　DM？　誰？
+(Transition)
 (Background change)
+(Transition)
 初華: 『二人で会えるかな？』
 (Background change)
 愛音: え？　初華！？ えっえっ、なんで！？　ええぇ〜？
 燈: ……
+(Transition)
 (Background change)
 
 [羽沢珈琲店]
@@ -111,6 +128,7 @@
 (Caption): 投稿 ８いいね りっきーのドラムセットに潜入！ いつもと全然メンバーの見え方ちがう😆 誰とも目合わない💦 #MyGO　#ANON　#Drum
 初華: なにか知ってる……？
 愛音: そよりんがあげたやつかな。この前ライブやったんだ〜 これその時の写真なんだけど
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000190/data/adv_still_anime_000190/adv_still_anime_000190.webp)
 初華: <size=175%>……っ！
 愛音: ともりんが新しく歌詞書いて、 それだったら、ってMyGO!!!!!のリハ時間使って——
@@ -119,10 +137,12 @@
 初華: ……え
 愛音: でもなんで初華ちゃんCRYCHICのこと……
 初華: ……
+(Transition)
 (Background change)
 
 [数日後]
 
+(Transition)
 (Background change)
 
 [オーディション会場]
@@ -133,12 +153,15 @@
 面接官: では、はじめてください
 候補者A: 『だから言ったじゃん。やめときなって。 不幸になるのはアンタだよ！』
 にゃむ: （あ……！）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
+(Transition)
 にゃむ: ……わっ、わ…… 『わかってる……それでも』………
 候補者A: ……？
 にゃむ: 『私は……』
 面接官: 祐天寺さん？　大丈夫ですか？
 にゃむ: は……はぁ……はぁ……
+(Transition)
 (Background change)
 にゃむ: <size=175%>……っ！！
 にゃむ: （なさけなか！！　 一番大事な時にどうしてあんな……！）
@@ -147,11 +170,15 @@
 候補者B: えーマジだるい。それ、にゃむちでしょ？
 候補者A: バンドダメになったからって軽い気持ちで来んなよ
 にゃむ: <size=175%>……っ！！　〜〜〜っ！！
+(Transition)
 (Background change)
 (Message) 海鈴: 若葉さんの参加が決まりました
+(Transition)
 (Background change)
 にゃむ: ……あ
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 
 [花咲川女子学園 校舎裏]
@@ -170,29 +197,36 @@
 立希: え、なに……？
 海鈴: あなたなにかしたんですか？ 三角さんに睨まれるなんて相当ですね
 立希: は？
+(Transition)
 (Background change)
 初華: <size=175%>社長お願いします！
 勝浦社長: 初華ちゃん、顔をあげて
 初華: 身勝手なのはわかっています。それでも Ave Mujicaを復活させたいんです！
 勝浦社長: ……ふぅ。初華ちゃんの気持ちはよくわかりました。 それでも許可はできません
 初華: ……
+(Transition)
 勝浦社長: Ave Mujicaの復活は事務所の一存じゃ決められないの
 勝浦社長: 『上』から止められている、 そう言えば初華ちゃんならわかるでしょ？
 初華: はっ……！ それじゃ……私の……
 初華: ……っ！
+(Transition)
 (Background change)
 スタッフ: え？　衣装ですか？ Ave Mujicaの衣装は廃棄だと言われていて
 初華: ……っ！
 スタッフ: まだ倉庫にあるかな……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000145/data/adv_still_anime_000145/adv_still_anime_000145.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000146/data/adv_still_anime_000146/adv_still_anime_000146.webp)
 初華: ……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000147/data/adv_still_anime_000147/adv_still_anime_000147.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000146/data/adv_still_anime_000146/adv_still_anime_000146.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000147/data/adv_still_anime_000147/adv_still_anime_000147.webp)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000148/data/adv_still_anime_000148/adv_still_anime_000148.webp)
 (Caption): 保管衣装 AveMujica オブリビオニス 廃棄
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000149/data/adv_still_anime_000149/adv_still_anime_000149.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
 初華: さき、ちゃん……っ！

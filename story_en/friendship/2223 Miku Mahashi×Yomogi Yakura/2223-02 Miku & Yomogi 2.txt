@@ -1,5 +1,6 @@
 10592:adv_script_miku_yomogi_linkstory_2 Miku & Yomogi 2
 
+(Transition)
 (Background change)
 
 [P-Stay Dorm - Yard]
@@ -7,15 +8,18 @@
 Yomogi: I'm hungry...
 Yomogi: (I already ate all the cup noodles my family sent me, and I do not feel like filling up on snacks...)
 Yomogi: (When this happens...)
+(Transition)
 (Background change)
 Account A: "I just read Onishigu through Volume 10. Godo is way too Aiming."
 Account B: "A first-time Onishigu reaction in this day and age... Good. Come this way... It is not scary..."
 Account C: "Onishigu should be required reading for all humanity."
+(Transition)
 (Background change)
 Yomogi: Haaaah!! Every word is right! Every word gets a like! Five hundred million likes!!
 Yomogi: Even if my stomach is empty, if my heart is full, then I can...
 Miku: So you were hungry after all.
 Yomogi: Gasp...!!
+(Transition)
 Yomogi: M-Miku-san, how did you know I would be here...!?
 Miku: You are usually here around this time. Sitting here, happily looking at your phone.
 Yomogi: Happily... Hehe, hehehe... That is right~!

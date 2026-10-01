@@ -17,6 +17,7 @@ Taki: *Sigh*... That's not it.
 Umiri: It seems things with your band were settled peacefully. If anything happens, feel free to reach out to me anytime.
 Taki: Nothing else will happen.
 Umiri: Well, well...
+(Transition)
 (Background change)
 
 [RiNG Studio]
@@ -46,6 +47,7 @@ Tomori: The other day, I saw Mutsumi-chan.
 Soyo: ...!
 Tomori: She said that you were lost too, Soyo-chan.
 Soyo: Yes.
+(Transition)
 (Background change)
 
 [RiNG Lobby]
@@ -65,8 +67,10 @@ Taki: What?
 Ririko: Taki-chan!
 Taki: Oh, Ririko-san. Did something happen?
 Ririko: Sorry for interrupting your conversation~ Have you decided on your set list for the performance this weekend?
+(Transition)
 (Background change)
 Taki & Anon: What?
+(Transition)
 (Background change)
 Taki: "Tomori Takamatsu"... This is it. We really are on the list...
 Tomori: I forgot...
@@ -112,6 +116,7 @@ Tomori: All right.
 Anon: I'll make costumes! I'll think up designs all night!
 Taki: *Sigh*... Just don't interfere with Tomori's work, okay?
 Soyo: ......
+(Transition)
 (Background change)
 
 [The Way Home]
@@ -133,6 +138,7 @@ Soyo: What? "Soyorin"?
 Anon: Don't quit, okay?
 Soyo: Stop that!
 Soyo: Oh, what's wrong with her...
+(Transition)
 (Background change)
 (Message) Anon: Haven't we forgotten something important? I came up with a band name.
 (Message) Anon: ANON TOKYO!
@@ -149,6 +155,7 @@ Nyamu: I know this is sudden... but I bought an electronic drum kit~!
 Nyamu: I'm thinking of uploading videos of me practicing! I'll give it my best nyamu try~
 Anon: That's incredible...
 Anon: No, no! I must think about the costumes!
+(Transition)
 (Background change)
 
 [The Next Day]
@@ -166,6 +173,7 @@ Tomori: At your home again, Taki-chan?
 Taki: No... five people won't fit my place.
 Soyo: ......
 Soyo: Then, want to talk at my place?
+(Transition)
 (Background change)
 
 [Nagasaki's Home - Living Room]
@@ -178,6 +186,7 @@ Anon: ? Delicious...? What? Rāna-chan, what are you eating?
 Rāna: Soba. Bought at a convenience store.
 Anon: You like soba, right?
 Soyo: What are you doing? Aren't we supposed to be writing a new song?
+(Transition)
 (Background change)
 
 [Several Hours Later]
@@ -200,6 +209,7 @@ Anon: Rāna-chan's pick...? You lend it to me? Thanks~!
 Anon: Oh, there's some kind of logo here. Umm... "SPACE"?
 Rāna: My grandma's.
 Anon: ? Grandma's...?
+(Transition)
 Taki: Tomori... You don't have to force yourself to write the lyrics.
 Tomori: ......
 Anon: Oh, then let's talk about costumes to change the mood!
@@ -234,6 +244,7 @@ Anon: Hang on, look outside! The night view from here is insane!
 Anon: Hey! Let's all take a picture together! I made a social media account for our band, so we can post it there!
 Taki: What...? Without asking anyone?
 Soyo: ......
+(Transition)
 (Background change)
 
 [Nagasaki's Home - Balcony]

@@ -23,13 +23,17 @@ Hotaru: (Take what she just played, arrange it, and answer back...!)
 Hotaru: (I can sort of tell what notes she's using, but...)
 Hotaru: (This is nothing like playing with Kanata-san...!)
 Hotaru: (I have to hang on with everything I've got...!)
+(Transition)
 (Background change)
 Girl A: Why is Hotaru-chan always the one who wins gold?! I'm trying just as hard!!
+(Transition)
 (Background change)
 Hotaru: ...
 Hotaru: (Everything I've got...? Really?)
+(Transition)
 (Background change)
 Girl B: Then go take an advanced course or something. Piano isn't fun with you here, Hotaru-chan!
+(Transition)
 (Background change)
 Hotaru: (If I play with everything I have, and that same rainbow-colored light from back then...)
 Hotaru: (If something bad that hurts people comes out again...)
@@ -47,6 +51,7 @@ Hotaru: (But my memories from back then keep getting in the way...)
 Hotaru: (I keep trying not to let that color out. The one that hurts people.)
 Hotaru: (My fingers pull away from it on their own.)
 Hotaru: (Kanata-san told me the same thing before... and I still...!)
+(Transition)
 (Background change)
 Kanata: All right, stop. Back to the top.
 Hotaru: What?! I played it properly, didn't I?!
@@ -63,21 +68,26 @@ Kanata: Yeah, everything you've got. I dunno what you're so scared of, Hotaru...
 Kanata: The audience isn't your enemy. And obviously, neither am I.
 Kanata: They're on your side, here to have fun with you.
 Kanata: Believe in your friends and play your heart out!
+(Transition)
 (Background change)
 Hotaru: (People on my side... here to have fun with me...)
 Hotaru: (That's right... Natsume-san can play guitar like this. She's incredible.)
 Hotaru: (Believe in them... trust Natsume-san, and do it with all my might...!)
+(Transition)
 Natsume: !?
 Houka: My...♡
 Nagi: Did she just... change all of a sudden?
 Mahoro: Yeah... Hotaru-chan is starting to fight back.
 Hotaru: (Something strong enough... for Natsume-san to accept me...!)
 Natsume: ...!
+(Transition)
 Nagi: Hey... isn't this...
 Houka: Yes... before we knew it, the lead melody had shifted from guitar to piano.
 Mahoro: It's the same...
+(Transition)
 Mahoro: (A scene I've watched here over and over, dozens of times.)
 Mahoro: (Kanata and Natsume-chan making songs by clashing through music.)
+(Transition)
 Mahoro: (Hotaru-chan really is something...)
 Mahoro: (She walked into a band full of older girls she barely knew...)
 Mahoro: (And even when she's challenged to prove herself, she digs in and keeps up...)
@@ -119,6 +129,7 @@ Hotaru: U-um, Nagi-san...
 Nagi: I'm just going along with Mahoro's decision. So... yeah. Guess we're working together?
 Hotaru: Th-thank you so much!
 Houka: Hehe. With Nagi-san's approval secured as well, that leaves only Natsume-san.
+(Transition)
 (Background change)
 
 [Izawa House - Natsume's Room]
@@ -131,7 +142,9 @@ Natsume: I was the one who spent over a year playing with Kanata!
 Natsume: (I let that girl's momentum push me back, and for a second, I thought... I might not win...)
 Natsume: (So I ran away again.)
 Natsume: So lame...
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 Natsume: I won't accept this...
 Natsume: The only one who gets to stand beside me... is Kanata.

@@ -1,5 +1,6 @@
 10501:adv_script_mutsumi_umiri_linkstory_1 Mutsumi & Umiri 1
 
+(Transition)
 (Background change)
 
 [Ikebukuro Streets]
@@ -18,6 +19,7 @@ Umiri: We can't just ignore them. Let's deal with them properly.
 Mutsumi: Yeah.
 Mutsumi: Thank you, everyone, as always.
 Umiri: I'm truly grateful for your support.
+(Transition)
 
 [A Few Minutes Later]
 
@@ -37,6 +39,7 @@ Mutsumi: Thank you all for this truly wonderful time.
 Mutsumi: Though it pains me to part... Let's meet again at the next masquerade.
 Umiri & Mutsumi: Farewell.
 Fan A & B & C: Y-Yes!
+(Transition)
 Umiri & Mutsumi: ...
 Umiri: We managed to get through it. Wakaba-san, I'll escort you to the taxi.
 Mutsumi: Where is the taxi?

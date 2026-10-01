@@ -10,14 +10,18 @@ I'm no match for you, Granny.
 Raika: <size=125%>Waahhh!?
 Chieri: Huh...!? E-Enemy attack...!?
 Miku: This voice... could it be...?
+(Transition)
 (Background change)
 Raika: Granny!! You're up early as always~!
 Chieri: You were late. Chieri was the first one to get up!
 Miku: Yomogi-san, you were dragged here again...
 Yomogi: Grrr... My neck's getting squeezed...
 Shizuku: Raika, everyone's here.
+(Transition)
 Raika: Then let's all greet each other. Ready, set~!
+(Transition)
 Everyone: Good morning!
+(Transition)
 Raika's Grandmother: Yeah, morning! A proper greeting is what makes a good family!
 Raika: Right~!? My family's the best, aren't they!
 Miku: Um, excuse me... Were we told you were coming today?
@@ -52,6 +56,7 @@ Raika's Grandmother: Please take care of my grandchild from now on too.
 Everyone: ...!
 Raika's Grandmother: Make sure you eat well, you hear~!
 Raika: Hey, wait! I'll walk you to the station!
+(Transition)
 (Background change)
 Raika's Grandmother: You'd even come all the way to see me off. I'm so happy that you've grown into such a good kid.
 Raika: Ehehe~ I wonder who I take after!

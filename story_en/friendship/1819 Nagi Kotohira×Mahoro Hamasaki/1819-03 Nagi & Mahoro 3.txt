@@ -7,6 +7,7 @@
 Mahoro: So... I've come full circle, and I've decided convenience store croquettes are unbeatable after all...!
 Friend A: Ooh, I like that. Wanna stop by on the way home today?
 Friend B: Croquettes, huh... I've been eating a little too much lately.
+(Transition)
 Nagi: Um... Excuse me. Could you get Hamasaki-senpai for me?
 Friend A: Wait, that's Kotohira-san! Wow, she's so pretty~!
 Mahoro: Nagi-chan! What's up? Need something?
@@ -42,6 +43,7 @@ Nagi: What!?
 Mahoro: Ow... Ahaha, you really shouldn't slap yourself.
 Mahoro: Okay... I'm fine. As long as we don't forget, Kanata is still here. Right, Nagi-chan?
 Nagi: Yeah...
+(Transition)
 Mahoro: Thanks for bringing my gym clothes back! You really saved me~!
 Nagi: I'm glad I could help... All right, I'm heading back too.
 Mahoro: Okay! Thanks, Nagi-chan~!

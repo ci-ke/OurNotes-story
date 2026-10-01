@@ -1,6 +1,7 @@
 10588:adv_script_raika_shizuku_linkstory_1 Raika & Shizuku 1
 
 (Background change)
+(Transition)
 
 [Shopping Street]
 
@@ -21,6 +22,7 @@ Raika: The ones we're using now were handed down from Granny and others, right? 
 Raika: Matching cups will make Family meals twice as fun! And they'll bring us even closer together!
 Shizuku: I see. Then let's buy cups for everyone.
 Raika: Mm-hmm! Come on, Shizuku! Let's find the perfect cups for our Family!
+(Transition)
 (Background change)
 Raika: Hey, Shizuku, what about these!? They're shaped like crowns! Isn't that fun?
 Shizuku: Yes. It looks like we'd need to practice not spilling when we drink from them.

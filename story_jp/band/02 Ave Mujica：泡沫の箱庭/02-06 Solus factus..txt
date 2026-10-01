@@ -2,23 +2,29 @@
 
 わたくしは……わたくしが嫌いですわ
 
+(Transition)
+
 [終演後]
 
 (Background change)
 モーティス: ……
+(Transition)
 (Background change)
 関係者A: では、この件については後日幹部会に確認ということで…… お時間いただきますが、よろしくお願いします
 にゃむ: 失礼します
 関係者B: 祐天寺さん。どうかした？
 にゃむ: いまお時間よろしいですか？ ちょっと、ご相談したいことがあるんですけど
+(Transition)
 (Background change)
 海鈴: お疲れ様でした。お先です
 マネージャー: あ、お疲れ様です。 東京に戻ったら、詳しい話を聞かせてもらいますね
 初華: ……
 マネージャー: 取り急ぎ、明日収録入れていいですか？ この番組、sumimiに出てもらうしかなくて
 初華: ……はい
+(Transition)
 祥子: ……
 初華: （さきちゃん……）
+(Transition)
 
 [数日後]
 
@@ -27,14 +33,17 @@
 [にゃむの寮 自室]
 
 にゃむ: ……
+(Transition)
 (Background change)
 (ネット記事): <align="center">人気ガールズバンドAve Mujicaが電撃解散！ 解散の理由について所属事務所はコメントを発表
 アカウントA: 結局一曲も演奏しないで解散発表したってマジ？ エグすぎ
 アカウントB: 有給取って新幹線取ってホテル取って中止は泣く。 立ち直れん
 アカウントC: 解散つらいけど、睦ちゃん最後までヤバかった〜！ すごい叫んでたけど、大丈夫なのかな……？
 アカウントD: 本当に解散？　やだよ〜〜！ これから皆どうなっちゃうの！？
+(Transition)
 (Background change)
 にゃむ: ……
+(Transition)
 (Background change)
 
 [初華のマンション リビング]
@@ -49,6 +58,7 @@
 
 [数日後]
 
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000112/data/adv_still_anime_000112/adv_still_anime_000112.webp)
 
 [ガールズコレクション会場]
@@ -59,24 +69,33 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000114/data/adv_still_anime_000114/adv_still_anime_000114.webp)
 まな: 今はsumimiのういちゃんなんで！
 初華: まなちゃん……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000112/data/adv_still_anime_000112/adv_still_anime_000112.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000113/data/adv_still_anime_000113/adv_still_anime_000113.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000114/data/adv_still_anime_000114/adv_still_anime_000114.webp)
 (Background change)
 (Background change)
+(Transition)
 (Background change)
 
 [初華のマンション ロフト]
 
 初華: ただいま〜。さきちゃん、プリン買ってきたよ。 さきちゃん……？
+(Transition)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000115/data/adv_still_anime_000115/adv_still_anime_000115.webp)
 (祥子): 初華へ　 　今までありがとう
 初華: ……！！
+(Transition)
 (Background change)
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 祥子: ただいま戻りました
+(Transition)
 清告: ……
+(Transition)
 祥子: ……またつけっぱなしで寝て……
 MC: というわけで！　 今日のゲストは異色の経歴さん集めました！　まずにゃむち！
 にゃむ: はーい！
@@ -85,6 +104,7 @@ MC: バラエティで見ない日ないよね〜
 MC: あははっ！　そっからか〜！ でも今は動画も配信もなんでもやってるよね
 にゃむ: やっぱりアタシのこと応援してくれる人に にゃむちのこと応援しててよかったなって 思ってほしくて——
 祥子: ……課題、今のうちに終わらせておかないと
+(Transition)
 (Background change)
 
 [Win-Wing-Production オープンスペース]
@@ -94,6 +114,7 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 スタッフA: あれだけ売れっ子だったのに！？　もったいな〜。 やっぱAve Mujicaの解散ショックだったのかなぁ
 スタッフB: じゃない？　ハイ解散〜ってほっぽり出したわけだし。 ま、所詮『お嬢様のバンドごっこ』だったってことでしょ
+(Transition)
 まな: おはようございま〜す！
 初華: おはようございます
 スタッフA: お、おはようございます！ あっ、私、急ぎの打ち合わせあるんだった！
@@ -111,7 +132,9 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 にゃむ: ……
 にゃむ: 袋小路さん、３時からスタジオって空いてます？ 声出ししたくて——
 初華: ……
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 
 [羽丘女子学園 昇降口]
@@ -119,7 +142,9 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 祥子: ……また
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000116/data/adv_still_anime_000116/adv_still_anime_000116.webp)
 祥子: ……
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 
 [花咲川女子学園 1-B教室]
@@ -131,11 +156,14 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 初華: ……
 海鈴: 仕事なので、これで失礼します
 立希: ……
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 
 [羽丘女子学園 校門前]
 
+(Transition)
 祥子: ……おじいさま
 定治: ……
 (Background change)
@@ -144,6 +172,7 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 祥子: でも……お父様が
 定治: はぁ……あれはもう豊川の人間ではないと言っただろう
 祥子: ……
+(Transition)
 (Background change)
 
 [豊川家 撞球室]
@@ -151,31 +180,39 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 祥子: （またここに、戻ってきてしまいましたわ…………）
 祥子: （お父様のことも見捨てて、バンドも解散させて……）
 祥子: （……形見の人形だけを抱えて……また、ひとり）
+(Transition)
 祥子: わたくしは……わたくしが嫌いですわ
+(Transition)
 (Background change)
 
 [にゃむの寮 自室]
 
 にゃむ: ……ふぅ
 にゃむ: ——はい祐天寺です。ええっ、舞台ですか？　 プロデューサーから直接オーディションの案内？
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
+(Transition)
 にゃむ: あー……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000118/data/adv_still_anime_000118/adv_still_anime_000118.webp)
 (Caption): 演技力をあげる 役に吹き込む 命を演技術 オーディションで生き残るためのメソッド 役を憑依させる演技術 俳優入門 演技 ドラマの見方 映画塾 ハリウッド演劇術 心の動く演技 俳優のたまご 演技力 上 演技力 下 職業としての演技 惹きつける演技 芝居と世界 ハリウッドから学ぶ演劇術
 にゃむ: ……演技はまだ勉強中なんです。 今はバラエティ方面でがんばりたいなって思ってるんで……
 にゃむ: はい……せっかくの機会なのにすみません。 ありがとうございます
 にゃむ: はい、よろしくおねがいします
+(Transition)
 にゃむ: っ……
+(Transition)
 (Background change)
 
 [初華のマンション ロフト]
 
 初華: ……
+(Transition)
 (Background change)
 (Message) 祥子: お元気で
 (Message) 祥子: お世話になりました
 (Message) 初華: 今どこにいるの？
 (Message) 初華: 大丈夫？
 (Message) 初華: 連絡ください
+(Transition)
 (Background change)
 初華: ……さきちゃん

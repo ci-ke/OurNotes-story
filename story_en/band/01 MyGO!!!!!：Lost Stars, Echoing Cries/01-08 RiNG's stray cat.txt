@@ -58,6 +58,7 @@ Soyo: It's Shiina.
 Anon: Huh, that's such a cool name! It's so unfair that your name is Shiina.
 Taki: No one asked you...
 Tomori: ...
+(Transition)
 (Background change)
 Taki: We didn't end up deciding anything in the end.
 Anon: It's because Rikki keeps complaining, right? Tomori-chan said she'd work hard at the tambourine, though.
@@ -66,6 +67,7 @@ Tomori: Yeah... Anon-chan... thank you.
 Anon: What?
 Tomori: I didn't think I'd be able to go back...
 Anon: ...! Yeah... You're welcome!
+(Transition)
 (Background change)
 
 [The Way Home]
@@ -74,13 +76,16 @@ Tomori: ...
 Taki: Tomori, you wanted to go back to the band, too?
 Tomori: ? Yeah...
 Taki: I see. Your high school. It's Haneoka, right?
+(Transition)
 (Background change)
 Taki: If I'd graduated as planned, we could've gone there together...
+(Transition)
 (Background change)
 Tomori: ...?
 Tomori: I'll see you later.
 Taki: What...? Yeah... Be careful on your way home...
 Taki: ...
+(Transition)
 (Background change)
 
 [RiNG - Studio]
@@ -100,8 +105,10 @@ Taki: What? You said that playing live was our short-term goal, didn't you?
 Anon: But we haven't rehearsed even once...
 Taki: You shut up. Tomori, what do you think about playing live?
 Tomori: I... I think...
+(Transition)
 (Background change)
 Anon: But, you can just try your hardest so that it doesn't go wrong next time, right?
+(Transition)
 (Background change)
 Tomori: I'll work hard.
 Taki: Well then, that settles it.
@@ -131,6 +138,7 @@ Taki: Wha... That's my sheet music...!
 ??? (Rāna): ...
 Tomori & Soyo & Taki & Anon: ...!?
 Anon: (She's good at playing guitar...)
+(Transition)
 (Background change)
 
 [RiNG - Cafeteria]
@@ -164,6 +172,7 @@ Soyo: Um...
 Taki: *Sigh*... Wait, she didn't pay for her parfait!
 Soyo: Ahaha...
 Tomori: ...
+(Transition)
 (Background change)
 (Background change)
 Taki: Honestly, what's with all of them? Leaving in the middle of a discussion like that...

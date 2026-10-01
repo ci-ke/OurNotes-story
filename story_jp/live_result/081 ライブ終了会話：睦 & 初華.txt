@@ -1,5 +1,6 @@
 10189:adv_script_afterlive_10189 ライブ終了会話：睦 & 初華
 
+(Transition)
 (Background change)
 睦: 初華が歌い出しただけで、空気が変わった。 すごい
 初華: すごいのは私だけじゃないよ。これはムジカ５人の力

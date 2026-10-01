@@ -1,5 +1,6 @@
 10607:adv_script_chieri_shizuku_linkstory_2 Chieri & Shizuku 2
 
+(Transition)
 (Background change)
 
 [Shopping Street]
@@ -28,6 +29,7 @@ Shizuku: Oh...
 Shopping Street Lady: Oh, would you? That would be such a help~!
 Chieri: The brooms are where they always are! Shizuku, let us go!
 Shizuku: All right.
+(Transition)
 Shopping Street Lady: You two really saved me today. Thank you~
 Shopping Street Lady: Hehe! You make a pretty good team! Cherie, I am glad you have made such a lovely friend.
 Chieri: Shizuku is a subordinate Chieri personally approved! The Chieri Union is only going to get bigger!

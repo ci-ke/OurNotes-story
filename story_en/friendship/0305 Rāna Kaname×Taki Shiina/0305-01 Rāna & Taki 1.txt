@@ -8,6 +8,7 @@
 Taki: It's really raining now. Exactly like the forecast.
 Taki: Good thing I brought a folding umbrella.
 Taki: Hm? The girl over there is...
+(Transition)
 Rāna: ...
 Taki: What are you doing here?
 Rāna: Playing with cats.

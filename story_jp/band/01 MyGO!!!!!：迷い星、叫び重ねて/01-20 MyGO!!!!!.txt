@@ -17,6 +17,7 @@
 そよ: ……私、先行ってるね
 立希: はぁ……ちゃんとライブしたかったのに、結局これ！？
 そよ: ……こうなると思ってた
+(Transition)
 (Background change)
 
 [RiNG 前室]
@@ -66,6 +67,7 @@
 そよ: 立希ちゃんも
 立希: わかってる
 燈: …………
+(Transition)
 (Background change)
 
 [RiNG ステージ]
@@ -81,9 +83,11 @@
 オーナー: ああ、居場所を見つけたっていうからさ
 燈: ……立希ちゃん
 立希: うん
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4)
 (Caption): 迷星叫　ライブシーン
+(Transition)
 (Background change)
 燈: …………
 愛音: ありがとうございました！ 『迷星叫』でした！
@@ -105,9 +109,12 @@
 燈: ……ありがとう
 そよ: …………
 愛音: ふふ……じゃ、次。 ともりんは？
+(Transition)
 (Background change)
 燈: あの……私たち、みんな迷子で。 目の前のことに、いつも迷ってて……
+(Transition)
 燈: すごく仲良しでもなくて…… 喧嘩もいっぱいして、苦しくて…… 傷つけたり、ちゃんと言えなかったり……
+(Transition)
 (Background change)
 燈: でも、今ここにいる……
 燈: もう、何があっても離さない……
@@ -115,15 +122,18 @@
 そよ & 立希: …………
 愛音 & 楽奈: …………
 燈: 私たち『MyGO』の曲、聴いてください……！
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4)
 (Caption): 迷路日々　ライブシーン
+(Transition)
 (Background change)
 燈: ……次が最後の曲です！
 燈: 今日はありがとうございました。 MyGOでした！
 燈: ……迷子でもいい
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp)
 燈: 迷子でも進め！！
+(Transition)
 (Background change)
 
 [RiNG 前室]
@@ -153,10 +163,12 @@
 愛音: あぁ～もう！ いいから、楽奈ちゃん楽屋連れてこ！
 そよ: ……燈ちゃん
 燈: ……？
+(Transition)
 そよ: 離さないでくれて、ありがとう
 燈: ……そよちゃん……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 燈: ……
+(Transition)
 (Background change)
 燈: （……『MyGO!!!!!』……）
 燈: （迷っても、一緒に……！）

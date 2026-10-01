@@ -1,5 +1,6 @@
 10507:adv_script_mutsumi_sakiko_linkstory_1 Mutsumi & Sakiko 1
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production Office]

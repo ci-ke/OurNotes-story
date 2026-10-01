@@ -1,5 +1,6 @@
 10513:adv_script_umiri_sakiko_linkstory_1 Umiri & Sakiko 1
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Meeting Room]

@@ -6,6 +6,7 @@ My voice has never reached Dad, not even once.
 
 [The Next Morning]
 
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_family_morning_kadan_07/adv_movie_family_morning_kadan_07/adv_movie_family_morning_kadan_07.mp4)
 (Caption): 一家Dumb Rock!バンスト1章　豪華なファミリー朝ごはん
@@ -40,6 +41,7 @@ My voice has never reached Dad, not even once.
 (Subtitle) Miku: (That's because you were about to say something unnecessary. Do you forget things after three steps? Are you bird-brained?)
 (Subtitle) Raika: ...! W-Well, I guess things like that happen...! Ahaha...!
 (Subtitle) Miku: Hehehehe...
+(Transition)
 Yomogi: Cherie-san... do you want this omelet? I'm not really big on seafood...
 Chieri: Yomogi, you were also avoiding the vegetables earlier, weren't you? You can't be picky about food!
 Yomogi: Uh... I'm not in a position to be picky, but yet I am, I'm sorry~!
@@ -55,16 +57,20 @@ Shizuku: Yeah...
 Miku: ("From now on," "together"... She's really...)
 Miku: Raika-chan, can we talk for a bit, just the two of us?
 Raika: ? Yeah... Then shall we go to the dining room door?
+(Transition)
 Raika: So, what's this about...?
 Miku: It's about Shizuku-chan. And this morning.
 Raika: This morning... Oh!
+(Transition)
 (Background change)
 Raika: Miku, wake up, wake up!
 Miku: Hm... Huh, Raika-chan...!?
+(Transition)
 Raika: Ms. Nanny is here. Come say hello with me, Miku.
 Miku: Ms. Nanny... you mean Shizuku-chan's...? Huh, why me?
 Raika: It was you who helped Shizuku so quickly yesterday, Miku! Come on, hurry up!
 Miku: Hey... could you not drag me...!
+(Transition)
 (Background change)
 Shizuku's Nanny: It's a pleasure to meet you. I am the one in charge of looking after young lady Shizuku.
 Miku: (A classical maid outfit... In a normal residential street, it really stands out...)
@@ -105,6 +111,7 @@ Shizuku's Nanny: How reassuring. Well then, as a small token of gratitude, pleas
 Raika: Thank you so much! Please come on in!
 Miku: Hey, wait...!!
 Miku: (Geez, you idiot!! Don't say yes when you don't even understand!!)
+(Transition)
 (Background change)
 Raika: Why does this have to be kept secret from Shizuku? Ms. Nanny could have seen Shizuku before leaving.
 Miku: More importantly, you do understand what this means, right?
@@ -154,6 +161,7 @@ Shizuku: Um... I'm not allowed to belong to both?
 Chieri: No, you're not! Now, please make your choice!
 Raika: Shizuku has already chosen family, right~?
 Shizuku: Maybe I should take more time to think this through...
+(Transition)
 (Background change)
 
 [The Next Day - Break Time]
@@ -167,15 +175,18 @@ Miku: (Okay, I've contacted the real estate agent. Next is...)
 Miku: ...
 Classmate: Miku-chan, time to move~
 Miku: Yeah, I'm coming~
+(Transition)
 (Background change)
 
 [After School]
 
 Miku: Good work~
 Miku: (The soonest I could move would be around summer vacation...)
+(Transition)
 (Background change)
 (Message) Mother: Miku-chan, are you eating properly? Have you gotten along with the other girls in the dorm?
 (Message) Mother: Will you be able to come home during summer vacation? I'm looking forward to hearing all about what you've been up to, Miku-chan.
+(Transition)
 (Background change)
 Miku: (If she knows my current situation, I might get brought back before summer vacation...)
 Miku: *Sigh*...
@@ -195,15 +206,18 @@ Shizuku: I'd love to go and see, but Raika told me to wait here.
 Miku: Speaking of which, where is Raika-chan?
 Shizuku: There was a visitor. She said she'd come back after dealing with—
 The woman in a suit: As I said, let's talk properly one more time!
+(Transition)
 Raika: We're finished talking~! Now go on, leave!
 Shizuku: It seems she's still dealing with that.
 Miku: Hey, that person... She was also here the day I moved into this dorm...
 Chieri: Hehe, you newcomers wouldn't know. That person is Suzuki-san, and she is Raika's father's subordinate.
 Miku: Huh... So Raika-chan's father works for a music company.
+(Transition)
 Chieri: He is not just any employee. I heard that Raika's father is the company president!
 Chieri: How's that for Chieri's knowledge!
 Shizuku: Amazing! Cherie, you know everything!
 Chieri: Yes, Chieri is amazing! You can respect me more!
+(Transition)
 Suzuki: Please face reality. No matter how you look at it, this is in the red, red!
 Suzuki: Then wouldn't it be safer to entrust it to your father's company?
 Raika: Entrust~? You said you would tear down the live house, didn't you!

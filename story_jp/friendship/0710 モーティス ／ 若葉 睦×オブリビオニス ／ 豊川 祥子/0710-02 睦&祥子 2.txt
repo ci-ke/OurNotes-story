@@ -1,5 +1,6 @@
 10508:adv_script_mutsumi_sakiko_linkstory_2 睦&祥子 2
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production 会議室]

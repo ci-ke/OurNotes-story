@@ -1,5 +1,6 @@
 10511:adv_script_umiri_nyamu_linkstory_2 Umiri & Nyamu 2
 
+(Transition)
 (Background change)
 
 [Residential Street]
@@ -20,6 +21,7 @@ Umiri: How cold.
 Nyamu: That's not what I mean... I'm just going to the supermarket.
 Umiri: The supermarket.
 Nyamu: Yeah. I'm out of stuff in the fridge, so I need groceries.
+(Transition)
 Umiri: You wear sunglasses to go to the supermarket...?
 Nyamu: What? Got a problem with that?
 Umiri: Of course not.
@@ -44,6 +46,7 @@ Umiri: Is there a problem?
 Nyamu: No... not really... But once we're inside, we split up. Being seen with you could give me away too.
 Umiri: That is true. Understood.
 Umiri: Then I will see you later.
+(Transition)
 Nyamu: ...
 Umiri: You took a while.
 Nyamu: (I tried to lose her by coming out later...)

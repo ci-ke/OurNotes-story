@@ -64,4 +64,5 @@ Yuno: ...Okay, this should work.
 Yuno: I tweaked the melody, so give it a listen.
 Arale: Yes!
 Yuno: Okay, here we go. From a little bit before that part―
+(Transition)
 (Background change)

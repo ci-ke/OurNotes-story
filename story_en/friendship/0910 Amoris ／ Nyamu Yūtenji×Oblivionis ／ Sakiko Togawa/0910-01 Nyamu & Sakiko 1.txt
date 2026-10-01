@@ -1,5 +1,6 @@
 10516:adv_script_nyamu_sakiko_linkstory_1 Nyamu & Sakiko 1
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Open Space]
@@ -27,6 +28,7 @@ Nyamu: You're in a position where you meet people. They'll look down on you. And
 Sakiko: ...
 Sakiko: Well, you have a fair point.
 Nyamu: Hehe, there we go! Now then, first things first...
+(Transition)
 Nyamu: This blouse! Look at these frills, aren't they cute? Here, hold it up... Oh, it totally suits you~!
 Sakiko: Is that so?
 Nyamu: And to go with that blouse... This skirt! The silhouette is pretty mature♪ So if you pair it with the blouse...

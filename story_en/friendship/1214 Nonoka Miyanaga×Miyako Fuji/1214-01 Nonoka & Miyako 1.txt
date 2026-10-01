@@ -41,6 +41,7 @@ Nonoka: !!
 Nonoka: I-I lose...
 Miyako: So... there you have it. Excuse me.
 Nonoka: Miyako-chaaaaaan...!
+(Transition)
 (Background change)
 Miyako: (Hmph... It's no big deal. I'm sure there are plenty of people who've never been called by a nickname.)
 Miyako: Huh...? Why is it raining in here...?

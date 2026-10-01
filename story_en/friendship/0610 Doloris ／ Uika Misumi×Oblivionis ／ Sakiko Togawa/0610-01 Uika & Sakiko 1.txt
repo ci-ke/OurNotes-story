@@ -1,5 +1,6 @@
 10498:adv_script_uika_sakiko_linkstory_1 Uika & Sakiko 1
 
+(Transition)
 (Background change)
 
 [Uika's Mansion - Living Room]
@@ -10,6 +11,7 @@ Uika: I'm home, Saki-chan. Oh, you're already making dinner.
 Sakiko: Yes. Napa cabbage was on sale today.
 Uika: Then napa cabbage is the star tonight. I'll take over from here, so you can sit down, Saki-chan.
 Sakiko: It's all right. I'm nearly finished. You must be tired from work... Oh?
+(Transition)
 Sakiko: What is all that, if I may ask?
 Uika: Oh, this? I did a little shopping after work.
 Sakiko: That seems like quite a lot for "a little." What did you buy?

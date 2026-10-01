@@ -1,6 +1,7 @@
 10581:adv_script_raika_miku_linkstory_3 Raika & Miku 3
 
 (Background change)
+(Transition)
 
 [After School]
 
@@ -38,6 +39,7 @@ Miku: I-It came up so suddenly that it startled me a little...
 Neighbor: Sorry about that. I think they just wanted to say hello.
 Miku: R-Right... I'm sorry.
 Neighbor: It's nothing. Don't worry about it. See you around.
+(Transition)
 Miku: *Sigh*...
 Raika: Oh, really~?
 Miku: What?

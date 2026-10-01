@@ -19,6 +19,7 @@ Soyo: If you don't have a preference, I'll just grab something. Is that okay wit
 Tomori: Yeah... Thank you.
 Soyo: Well then, please wait a moment.
 Soyo: (What would Tomori-chan like? If I recall correctly, the drink she likes is...)
+(Transition)
 Soyo: Sorry to keep you waiting, Tomori-chan. Is caffè mocha okay?
 Tomori: Ah... yeah. Thank you. It's warm...
 Soyo: I thought a warm drink might be better. I'm glad they had caffè mocha.

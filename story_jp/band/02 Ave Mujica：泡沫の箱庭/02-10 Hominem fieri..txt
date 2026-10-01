@@ -2,6 +2,7 @@
 
 （たとえひとでなしでも、人と呼べないような者でも。 逃げずに向き合わなくては……彼女のように）
 
+(Transition)
 (Background change)
 
 [羽丘女子学園 校門前]
@@ -32,13 +33,16 @@
 燈: ……
 そよ: ……ちょうどいいから、２人も来てくれる？
 愛音 & 燈: ？
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 モーティス: 帰って！ なんで連れてきたの？　祥子ちゃん悪い子なんだよ？
 そよ: お願い、少しだけでいいの
 愛音 & 燈: ……
 そよ: 祥ちゃんも……
 祥子: ……
+(Transition)
 モーティス: ほんとうに人間の血、流れてる？
 祥子 & そよ: っ！
 モーティス: <size=140%>このひとでなし！ どうしてっ！　いままで放っておいてノコノコと！
@@ -47,16 +51,20 @@
 そよ: モーティスちゃん……
 モーティス: あなたも裏切り者よ……！ あなたも！　あなたも！　………帰ってよぉ
 祥子: ……
+(Transition)
 (Background change)
 愛音: あのさ、さっきの『ひとでなし』ってヤツ。 ドラマのセリフ？
 そよ: ドラマ？
 愛音: 『愛の埠頭』…… 森みなみの
 そよ: あっ……じゃああれも……
 祥子: ……！
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000129/data/adv_still_anime_000129/adv_still_anime_000129.webp)
 モーティス: 帰って！　顔も見たくないっ！
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp)
 劇中みなみ: 『帰って！　顔も見たくないっ！』
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000129/data/adv_still_anime_000129/adv_still_anime_000129.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp)
 祥子: （……そういうこと、ですの……）
@@ -68,25 +76,32 @@
 祥子: （わたくしは、本当に愚かですわ）
 祥子: （睦を傷つけただけでなく、自らの罪から 目を逸らして、見ないようにして、忘れたいなんて……）
 祥子: （何もわかっていなかった。 愚かで弱い人間……いえ、人間ですらありませんわ）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000019/data/adv_still_anime_000019/adv_still_anime_000019.webp)
+(Transition)
 祥子: 人間になりたい、って…… こういうこと、ですのね……
 祥子: ……あの子の言う通り、わたくしはひとでなしですわ。 うぅ……うっ……
 燈: ……
 愛音 & そよ: ……
+(Transition)
 (Background change)
 (Background change)
+(Transition)
 (Background change)
 
 [豊川家 祥子の部屋]
 
 祥子: ……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp)
+(Transition)
 祥子: ……
 祥子: （燈はいつも必死で…… 出口の見えない道でも、彼女は足掻き続けている……）
 祥子: （たとえひとでなしでも、人と呼べないような者でも。 逃げずに向き合わなくては……彼女のように）
 祥子: （わたくしがすべきことは………）
+(Transition)
 (Background change)
 (Background change)
+(Transition)
 (Background change)
 
 [若葉家 門前]
@@ -94,15 +109,23 @@
 祥子: ……そう、ですの
 家政婦: すみません。睦さんはお会いにならないそうです……
 祥子: 会ってもらえるまで、 こちらで待たせてもらえますか？
+(Transition)
 (Background change)
 (Background change)
+(Transition)
 (Background change)
+(Transition)
 (Background change)
+(Transition)
+(Transition)
 祥子: （睦に会いたい……睦に謝りたい）
 祥子: （睦……わたくしは、あなたのためなら——）
+(Transition)
 (Background change)
 モーティス: ……
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 モーティス: 『またきてる』『祥子ちゃん連れて帰って』 『そよちゃんが連れてきたんだよ！』
 モーティス: 〜〜〜！　 そよちゃんなんで！　既読スルーしないで！！！
@@ -114,14 +137,18 @@
 (Background change)
 睦: ……祥、ずっと立ってる
 モーティス: 好きで立ってるんでしょ
+(Transition)
 (Background change)
 睦: モーティス、おねがい
 モーティス: もうしゃべらないでよ。いやなことしか言わないんだから 黙ってて
 睦: ……でも
 モーティス: やめてよ
+(Transition)
 睦: 祥に、会いたい
 モーティス: <size=175%>っ！　 やめてやめてやめてやめてぇっ！！
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 祥子: ……
 睦: はぁ……はぁっ……祥

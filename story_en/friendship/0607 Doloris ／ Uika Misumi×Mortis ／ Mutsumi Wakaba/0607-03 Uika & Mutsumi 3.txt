@@ -1,10 +1,12 @@
 10491:adv_script_uika_mutsumi_linkstory_3 Uika & Mutsumi 3
 
+(Transition)
 (Background change)
 
 [Photography Studio]
 
 Uika: Oh, Mutsumi-chan?
+(Transition)
 Uika: What a coincidence! Do you have a shoot here today?
 Mutsumi: Yeah. For a magazine cover.
 Uika: Oh, I see! I'm here for a sumimi shoot in the studio next door.

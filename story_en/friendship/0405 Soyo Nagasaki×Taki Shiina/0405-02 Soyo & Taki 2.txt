@@ -6,11 +6,14 @@
 
 Soyo: ...
 Soyo: (I guess I got here a little early. I'll spend some time at the café...)
+(Transition)
 Guest: Um, excuse me!
 Taki: Oh, yes. Can I help you?
 Guest: We don't have enough music stands. Where can I borrow some?
 Taki: It's over there... Oh, I'll lead you there.
+(Transition)
 Soyo: Huh...
+(Transition)
 Guest: Thank you very much!
 Taki: If you need anything else, just call me. Alright, next is cleaning... Whoa.
 Soyo: Isn't 'whoa' a bit rude for just meeting someone?

@@ -1,6 +1,7 @@
 10594:adv_script_miku_chieri_linkstory_1 Miku & Chieri 1
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Living Room]
 

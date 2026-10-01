@@ -1,18 +1,23 @@
 10517:adv_script_nyamu_sakiko_linkstory_2 Nyamu & Sakiko 2
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Meeting Room]
 
+(Transition)
 (Background change)
 Sakiko: (This one is very cute...)
 Sakiko: (As expected, this doll specialty store is truly reliable. The facial features, the clothes, everything is crafted with such care...)
+(Transition)
 (Background change)
 Sakiko: (Oh my, this was supposed to be a quick break from work. But I got so carried away admiring them.)
 Sakiko: Ah, this one...
 Sakiko: (It's similar to mother's memento...)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
 Sakiko: (That doll I left behind at the Togawa house... I wonder if it's alright...)
+(Transition)
 Nyamu: Whoa, what are these, dolls?
 Sakiko: !?
 Nyamu: When there are so many dolls lined up, it's kind of overwhelming~
@@ -36,6 +41,7 @@ Sakiko: Mutsumi's doll was a flower girl, and mine was a baker's daughter. And t
 Nyamu: Hehehe...
 Sakiko: Why are you laughing?
 Nyamu: Ahaha, no, no... It's just...
+(Transition)
 Nyamu: All the same as Ave Mujica, right?
 Sakiko: <size=175%>!
 Nyamu: Ah, I see. So that's where Sakiko's roots come from.

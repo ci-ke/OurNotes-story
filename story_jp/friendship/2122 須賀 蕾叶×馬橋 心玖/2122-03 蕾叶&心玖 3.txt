@@ -1,6 +1,7 @@
 10581:adv_script_raika_miku_linkstory_3 蕾叶&心玖 3
 
 (Background change)
+(Transition)
 
 [放課後]
 
@@ -38,6 +39,7 @@
 ご近所さん: ごめんね。 挨拶したかったみたい
 心玖: そう、ですよね……すみません
 ご近所さん: いいの、いいの。 それじゃあまたね
+(Transition)
 心玖: …………はぁ
 蕾叶: ……へえ〜？
 心玖: 何よ

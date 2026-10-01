@@ -6,6 +6,7 @@
 
 Natsume: (Five minutes left of break...)
 Natsume: (This feels like a good stopping point. I could head back early, but... I may as well practice until the last minute.)
+(Transition)
 Mahoro: Ah! I knew I'd find you here!
 Natsume: What do you want...?
 Mahoro: Don't "what do you want" me~ Natsume-chan, you still haven't turned in the assignment due today, have you?
@@ -28,9 +29,11 @@ Natsume: Right. I forgot. To bring it. To school.
 Mahoro: Honestly... Then make absolutely sure you bring it tomorrow, okay? I'll let the class rep know you said so.
 Natsume: Yeah, yeah... Still, you really are too nice for your own good.
 Mahoro: Huh? Me?
+(Transition)
 (Background change)
 Natsume: Yeah. Even when we first met, Kanata was one hundred percent in the wrong, but you were the one apologizing.
 Natsume: You kept smiling and acting harmless. I figured you were just a pushover.
+(Transition)
 (Background change)
 Mahoro: A pushover...? That's kind of harsh~
 Mahoro: But... maybe I was. Kanata was always a whirlwind... and she shone so brightly.

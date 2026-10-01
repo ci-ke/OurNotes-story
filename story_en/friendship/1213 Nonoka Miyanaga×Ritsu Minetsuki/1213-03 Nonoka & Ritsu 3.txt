@@ -27,6 +27,7 @@ Ritsu: Nono-chan... May I borrow your phone for a moment?
 Nonoka: Huh?
 Ritsu: Let's see... It looks like it's still on the default settings. Could you tell me what settings you normally use?
 Nonoka: My usual setup is...
+(Transition)
 Ritsu: All right, done.
 Nonoka: Whoa~~! That was fast!
 Ritsu: Try it with these settings, and if anything seems off, tap this icon.

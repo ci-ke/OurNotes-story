@@ -73,8 +73,10 @@
 マネージャー: 藤さん以外は個人チャンネルでそこそこ視聴者持ってるし、 宮永さんは弾いてみたで億バズ
 あられ: <size=150%>億！！！？？
 ののか: はりゃ？
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000191/data/adv_still_anime_000191/adv_still_anime_000191.webp)
 ののか: うーさーぎーおーいし かーのーやーまー♪
+(Transition)
 (Background change)
 あられ: わはっ！　うさイーターちゃんだ～～
 ユノ: これ宮永さんなの？
@@ -105,6 +107,7 @@
 マネージャー: ちゃんと練習時間はとってあるわ！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000192/data/adv_still_anime_000192/adv_still_anime_000192.webp)
 マネージャー: 合同練習はこのスケジュールの通り！ 空いてるところで個人練もよろしくね！
+(Transition)
 (Background change)
 あられ: ……
 ののか: ののちゃんギタ～
@@ -115,7 +118,9 @@
 あられ: わわわわわたし顔出しは――
 マネージャー: 作曲は千石さん、作詞は仲町さんかな。 じゃあこれからがんばろー！
 あられ: <size=200%>むむむりりりりりりりりりりりイ！！！！
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000193/data/adv_still_anime_000193/adv_still_anime_000193.webp)
+(Transition)
 (Background change)
 
 [仲町家 あられの部屋]
@@ -132,6 +137,7 @@
 あられ: 歌わなかったらバンドしなくていい！？
 あられ: そしたらライブも！　顔出しもしなくてすむのでは！ 天才かも～～～～！！
 あられ: ふっふっふ！ しばらく歌うのやーめっ！
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000194/data/adv_still_anime_000194/adv_still_anime_000194.webp)
 あられ: らーるーらーうららららー らーらーらーらー　らーらーらー♪
@@ -139,6 +145,7 @@
 あられ: ねえねえ、おしゃべりって歌になるんだよ！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000196/data/adv_still_anime_000196/adv_still_anime_000196.webp)
 あられ: ぼくの歌で、みんなが喜んでくれたら――
+(Transition)
 (ビオラ): うるさっ！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000194/data/adv_still_anime_000194/adv_still_anime_000194.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000195/data/adv_still_anime_000195/adv_still_anime_000195.webp)
@@ -154,6 +161,7 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000200/data/adv_still_anime_000200/adv_still_anime_000200.webp)
 (Ａ): 結局垢消しして逃亡か～
 (Ｂ): 来世では幸せにね
+(Transition)
 : 夢はパワー！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000197/data/adv_still_anime_000197/adv_still_anime_000197.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000198/data/adv_still_anime_000198/adv_still_anime_000198.webp)

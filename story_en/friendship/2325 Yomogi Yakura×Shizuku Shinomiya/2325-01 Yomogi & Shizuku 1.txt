@@ -1,16 +1,20 @@
 10603:adv_script_yomogi_shizuku_linkstory_1 Yomogi & Shizuku 1
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Living Room]
 
 Yomogi: *Sigh*...
+(Transition)
 (Background change)
 Shizuku: Just bite into it... *Munch*...
 Shizuku: Mm...! Mmm...!!
+(Transition)
 (Background change)
 Yomogi: That smile... I want to see it again...!
 Yomogi: Oh! That's it...!
+(Transition)
 Shizuku: Something you want to give me?
 Yomogi: Yes...! This is for you, Shizuku-san.
 Shizuku: An assortment of sweets? I don't recognize any of them.

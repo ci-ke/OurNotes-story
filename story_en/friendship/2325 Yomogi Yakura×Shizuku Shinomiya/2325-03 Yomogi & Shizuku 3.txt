@@ -1,6 +1,7 @@
 10605:adv_script_yomogi_shizuku_linkstory_3 Yomogi & Shizuku 3
 
 (Background change)
+(Transition)
 
 [One Day Off]
 
@@ -25,15 +26,18 @@ Shizuku: Understood.
 Yomogi: (Th-That was terrifying~!)
 Yomogi: (Shizuku-san is getting better at so many things, but... I can't help feeling nervous...!)
 Yomogi: (No, I'm overthinking it... right...? Shizuku-san's so much more capable than I am, so surely—)
+(Transition)
 (Background change)
 Yomogi: Gyaaaaaaah!! Shizuku-san, don't touch the iron yet!
 Shizuku: What? I turned it off.
 Yomogi: It doesn't cool down right after you turn it off~...! Are... are your hands okay!?
 Shizuku: Yes. You called out before I touched it. That saved me.
+(Transition)
 (Background change)
 Yomogi: Gyaaaaaaah!! Shizuku-san, your face is way too close to the stove~!!
 Shizuku: I'm sorry. I heard that turning this knob would light the flame, but I couldn't see any fire.
 Yomogi: At that distance, your face could catch fire...! Um, this stove is old, so there's a trick to turning it on...!
+(Transition)
 (Background change)
 Yomogi: Haaaaaaah...
 Yomogi: (That was not okay at all...!)

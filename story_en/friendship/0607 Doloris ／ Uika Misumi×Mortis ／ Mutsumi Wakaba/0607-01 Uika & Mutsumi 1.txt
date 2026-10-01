@@ -1,5 +1,6 @@
 10489:adv_script_uika_mutsumi_linkstory_1 Uika & Mutsumi 1
 
+(Transition)
 (Background change)
 
 [Wakaba's Home - Underground Studio]
@@ -7,8 +8,10 @@
 Uika: Good morning~
 Uika: Huh? No one's here...
 Uika: Maybe I really did get here a little early.
+(Transition)
 Uika: ...
 Uika: No one's here yet, so just for a little bit...
+(Transition)
 
 [A Little Over Ten Minutes Later]
 
@@ -42,7 +45,9 @@ Mutsumi: Okay. Then come to the living room.
 Uika: Oh, before that... I'll put away the audio equipment I used first.
 Mutsumi: Okay. I'll go ahead.
 Uika: Let's see, the eject button is...
+(Transition)
 Uika: (Wait... Is that on the CD rack...?)
+(Transition)
 Uika: (It is "Luminous Once More." Oh... and from here on, it's all PasPale CDs.)
 Uika: (Maybe... Mutsumi-chan likes idols?)
 Uika: (I hope someday we'll be able to talk about what we like... Things like that.)

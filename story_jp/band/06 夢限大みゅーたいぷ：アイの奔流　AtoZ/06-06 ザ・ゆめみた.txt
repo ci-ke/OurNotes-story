@@ -15,6 +15,7 @@
 ユノ: いや、ダメだ。今は正常な判断ができん…… 一旦夕方まで寝かせよう
 ユノ: もう練習の時間…… あとひとがんばり……いや、ふたがんばりか
 ユノ: ん～～～～～～っ……！ はぁ……
+(Transition)
 (Background change)
 
 [VR Floor]
@@ -23,7 +24,9 @@
 ユノ: ！？
 あられ: ――♪
 ユノ: え……このフレーズって……
+(Transition)
 あられ: ――♪
+(Transition)
 (Background change)
 ユノ: （あたしが苦し紛れに送ったやつ…… なんで完璧に演奏して……）
 あられ: ――あっ！　ユノさんちゃん！
@@ -41,9 +44,11 @@
 ユノ: いや…… ていうか、なんでそのフレーズ練習してるの？
 ユノ: ２０秒しかなかったでしょ、添付したファイル
 都子: それはあられさんが……
+(Transition)
 あられ: ぼくもユノさんちゃんのために、 やれることは全部やりますっ！！
 律 & 都子 & ののか: ？
 あられ: このフレーズ、練習します！ ハミングだけど！
+(Transition)
 都子: ――と
 ユノ: ……え、全然わかんない
 あられ: えっと、ユノさんちゃん、ぼくたちが練習時間をなるべく 取れるようにって言ってくれてたじゃないですか！
@@ -62,14 +67,17 @@
 ののか: ね～！　２０秒でも心ウキウキ～♪
 ののか: それに～……ユノちゃんのびっぐらーぶが 伝わったのです！　そのお返しっ！
 ユノ: あー……そっか……
+(Transition)
 (Background change)
 ユノ: （こいつらのやることに、理屈なんてないんだった……）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp)
 ユノ: （……あの時から、あったのは理屈じゃなくて……）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp)
@@ -83,17 +91,21 @@
 ののか: ののちゃんも、ののちゃんも～っ！
 律: 私も大好きです。 ギターは特にキャッチーで……
 都子: わ、私も……っ。 千石さん、本当にお疲れ様でした……！
+(Transition)
 ユノ: ……そっか
 ユノ: ごめん、やっぱり今日練習できない
 律 & あられ & ののか & 都子: え～～～～～～～っ！？？？
 あられ: ななななななんでですか！？
 ユノ: あと一日ちょうだい
 あられ: ユ、ユ、ユノさんちゃ～～～～～～～～～んっ！？？？
+(Transition)
 (Background change)
 ユノ: はぁ～……
+(Transition)
 (Background change)
 あられ: もちろんっ……！
 あられ: 大好きですっ！！！
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000049/data/adv_still_charaillust_000049/adv_still_charaillust_000049.webp)
 ユノ: ……あんな風に言われたら、応えないわけにいかないじゃん
@@ -102,5 +114,7 @@
 ユノ: （でも……）
 ユノ: （その変なヤツらが、何故かあたしを信じてくれてる）
 ユノ: （だったら――）
+(Transition)
 ユノ: やってやろうじゃん
+(Transition)
 (Background change)

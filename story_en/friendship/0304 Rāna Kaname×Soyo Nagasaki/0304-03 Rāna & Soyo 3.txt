@@ -30,6 +30,7 @@ Soyo: Oh, it's still hot... Here, have some water.
 Rāna: Mm...
 Soyo: You'd better wait a little longer.
 Rāna: I will.
+(Transition)
 Soyo: I’ll help myself to mine. The black tea here is really good.
 Rāna: ...
 Soyo: Rāna-chan... you still can't drink it?

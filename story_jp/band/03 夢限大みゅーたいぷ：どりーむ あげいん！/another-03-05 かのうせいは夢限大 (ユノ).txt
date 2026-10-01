@@ -57,6 +57,7 @@
 ユノ: 案外悪くないと思う。 それじゃ
 都子: え
 都子: ……千石さんこそ、キャラ変わってません……？
+(Transition)
 (Background change)
 ユノ: ふぅ……
 ユノ: ん？　コハルから……
@@ -64,8 +65,10 @@
 コハル: 『今度の週末ヒマ？』
 コハル: 『ごはん行こうよ！ どうせちゃんと食べてないんでしょ〜？』
 ユノ: ……食べてるし
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 ユノ: （１人じゃないから）
+(Transition)
 ユノ: （そうだよね、みんな）
 ユノ: ……よし
 ユノ: 作業やるか

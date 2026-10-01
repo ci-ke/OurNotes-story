@@ -1,6 +1,7 @@
 10600:adv_script_yomogi_chieri_linkstory_1 蓬咲&ちえり 1
 
 (Background change)
+(Transition)
 
 [学生寮『ピースミカ』 キッチン]
 

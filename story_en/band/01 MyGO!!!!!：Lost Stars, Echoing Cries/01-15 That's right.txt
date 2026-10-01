@@ -13,30 +13,37 @@ Soyo: We moved to a beautiful home, and my life changed significantly.
 Soyo: But, as my mom got busier, she often didn't come home.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000049/data/adv_still_anime_000049/adv_still_anime_000049.webp)
 Soyo: I was always alone in the beautiful home.
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000050/data/adv_still_anime_000050/adv_still_anime_000050.webp)
 Soyo: I enrolled at Tsukinomori because it was my mom's wish.
 Soyo: I think my mom had a longing for the prestigious Tsukinomori.
 Soyo: However, an unfamiliar rich girls' school is quite daunting to me...
+(Transition)
 (Background change)
 Soyo: If someone needs me, maybe the loneliness will disappear.
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000053/data/adv_still_anime_000053/adv_still_anime_000053.webp)
 Soyo: Thinking that way, I started cooking meals, doing laundry, and taking over household chores in place of my mom.
 Soyo: In the wind instrument club, which I joined because my classmate invited me, I worked hard practicing the contrabass.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000051/data/adv_still_anime_000051/adv_still_anime_000051.webp)
 Soyo: I've become someone my mom can rely on, and I've found my place at school too...
+(Transition)
 (Background change)
 Soyo: But, the loneliness never faded.
 Soyo: Somewhere in my heart, I felt like this wasn't the place where I belonged.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000052/data/adv_still_anime_000052/adv_still_anime_000052.webp)
 Soyo: I wondered if the loneliness would never fade away, until that moment...
+(Transition)
 (Background change)
 Sakiko: Soyo Nagasaki-san? I am Sakiko Togawa from Class C.
 Sakiko: This is a bit abrupt, but do you have any interest in bands?
 Soyo: The first time I met Saki-chan, was after the wind instrument club's performance at the Tsukinomori Music Festival.
+(Transition)
 (Background change)
 Soyo: She called out to me, and I thought if she needed me... Then, I decided to join the band.
 Soyo: I didn't have any special feelings about the band, and I wasn't expecting anything, either...
+(Transition)
 (Background change)
 Sakiko: Once again, thank you all for coming today.
 Sakiko: I have been greatly looking forward to meeting all of you!
@@ -44,6 +51,7 @@ Sakiko: Starting now, we are a band... We'll play music together and our destini
 Soyo: I found myself being excited at Saki-chan's words.
 Soyo: It was the first time in my life, that someone told me about destiny... Somehow, it felt a little ticklish. And it felt warm.
 Soyo: After that, it was always fun.
+(Transition)
 (Background change)
 Sakiko: If we send this video... it'll be our first live performance!
 Taki: We haven't gotten the gig yet. And we have to practice more...
@@ -57,8 +65,10 @@ Soyo: Well, since we decided on our band name, I thought we should start social 
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000055/data/adv_still_anime_000055/adv_still_anime_000055.webp)
 Soyo: When the five of us were together, I never felt lonely.
 Soyo: Going to karaoke, practicing in the studio, chatting at a café, standing on stage together... All of them became irreplaceable memories.
+(Transition)
 (Background change)
 Soyo: And yet...
+(Transition)
 (Background change)
 Sakiko: I am quitting CRYCHIC.
 Taki: Tomori was waiting for you!
@@ -68,10 +78,12 @@ Mutsumi: ...
 Mutsumi: I... I've never thought being in this band was fun, not even once.
 (Background change)
 Soyo: What...?
+(Transition)
 (Background change)
 Soyo: That... wasn't us disbanding. It isn't... over yet.
 (Background change)
 Soyo: We failed to connect with each other, that's all. We could still be friends again...
+(Transition)
 (Background change)
 
 [Nagasaki's Home - Soyo's Room]
@@ -79,12 +91,15 @@ Soyo: We failed to connect with each other, that's all. We could still be friend
 Soyo: (Even after a year had passed, I still couldn't give up on CRYCHIC...)
 Soyo: (CRYCHIC can start over again... I'm certain that everyone wants that...)
 Soyo: I mean... we were all so...
+(Transition)
 (Background change)
 Sakiko: All you think about is yourself.
+(Transition)
 (Background change)
 Soyo: That's not true... I... It was for all of us... All this time...
 (Background change)
 Soyo: All this time...
+(Transition)
 (Background change)
 
 [RiNG - Cafeteria]
@@ -120,11 +135,14 @@ Taki: Really. It isn't wrong for you to be in a band, Tomori.
 Tomori: But, everyone's going in different directions again... If things keep going like this, the band...
 Taki: Fine. I'll handle it. Tomori, you don't have to worry!
 Tomori: Taki-chan...
+(Transition)
 (Background change)
 Taki: ...
 Taki: *Sigh*...
+(Transition)
 (Background change)
 Taki: Big sis. There's something I'd like to ask you...
+(Transition)
 (Background change)
 
 [Civic Hall]

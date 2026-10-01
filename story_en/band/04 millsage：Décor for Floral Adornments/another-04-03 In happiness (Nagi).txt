@@ -6,6 +6,7 @@
 
 [Episode 19: One Week After the Session]
 
+(Transition)
 (Background change)
 
 [Residential Street]
@@ -19,6 +20,7 @@ Nagi: She's plenty fired up even normally.
 Mahoro: Come on, Natsume-chan will get mad at you again. She'll say you're setting a bad example for Hotaru.
 Nagi: True...
 Nagi: (It's been about a week since that session.)
+(Transition)
 Nagi: (Mahoro should have been hurt, but before I knew it, she was smiling like she always did.)
 Mahoro: Oh, I just remembered! We need to put in the order for Hotaru-chan's costume!
 Nagi: Oh, right. Hotaru's finally getting a costume.
@@ -58,9 +60,11 @@ Mahoro: For someone like me, who has nothing, to get hold of anything, I have to
 Mahoro: And even so, I can't help wanting to keep moving forward.
 Nagi: I see...
 Nagi: (You're so strong, Mahoro.)
+(Transition)
 (Background change)
 Nagi: (While I keep turning away from challenges and hard work...)
 Nagi: (Mahoro is still trying to move forward, even if she has to crawl her way there.)
+(Transition)
 (Background change)
 Nagi: (I can't do that... I can't put myself on the line like that.)
 Nagi: (And yet...)

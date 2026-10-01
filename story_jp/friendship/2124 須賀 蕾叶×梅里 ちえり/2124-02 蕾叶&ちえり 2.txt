@@ -1,6 +1,7 @@
 10586:adv_script_raika_chieri_linkstory_2 蕾叶&ちえり 2
 
 (Background change)
+(Transition)
 
 [羽丘女子学園 廊下]
 

@@ -45,6 +45,7 @@
 愛音: ん？　なに？
 燈: パーティって、なにするの……？
 愛音: よくぞ聞いてくれました～！ えーっと、とりあえず今考えてるのは〜……
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mygo_exstory_02_01/adv_movie_mygo_exstory_02_01/adv_movie_mygo_exstory_02_01.mp4)
 (Caption): MyGOエクストラ　妄想パート（2話）
@@ -64,6 +65,7 @@
 (Subtitle) 愛音: 夜景が見えるとっておきの席に案内してもらって、 ピアノの生演奏を聴きながら豪華フルコース！
 (Subtitle) 愛音: 美味しいご飯をじーっくり味わう感じね！
 (Subtitle) 愛音: で、最後にはサプライズでケーキが〜〜……！
+(Transition)
 (Background change)
 そよ: 誰から誰へのサプライズなの？
 愛音: もー、細かいなー。 こういうのあったらいいなって話じゃん

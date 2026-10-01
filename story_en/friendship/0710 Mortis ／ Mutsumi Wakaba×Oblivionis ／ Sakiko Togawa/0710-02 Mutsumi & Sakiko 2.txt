@@ -1,5 +1,6 @@
 10508:adv_script_mutsumi_sakiko_linkstory_2 Mutsumi & Sakiko 2
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Meeting Room]

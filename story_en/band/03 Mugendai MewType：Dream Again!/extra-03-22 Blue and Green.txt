@@ -45,6 +45,7 @@ Ritsu: Tuna are delicious no matter how they're prepared, just as you two can co
 Arale: Whoa, you're right!
 Yuno: I'm not buying it.
 Arale: <size=175%>Whaaat?!
+(Transition)
 Ritsu: Is that so? Then let me test it from another angle...
 Yuno: Nope. Don't bother.
 Miyako: It's not exactly a flattering resemblance, either.
@@ -52,13 +53,16 @@ Nonoka: But tuna are so cute~!
 Staff: Attention, everyone near the tuna tank. Please move one step closer. Our tuna tank talk will now begin.
 Staff: Fish that are constantly on the move, like tuna, are known as migratory fish.
 Staff: They can only take in oxygen while they swim. That is why they never stop moving, even when they're asleep...
+(Transition)
 (Background change)
 Nonoka: Beep-beep-beep-beeeeep~!
 Arale & Nonoka: Picniiiiiic~!
 Ritsu: First, let's spread the picnic mat out here. Nonoka-san?
 Nonoka: On it~!
+(Transition)
 Arale: So cute! It's all colorful and sparkly!
 Nonoka: Hehe~ Come in, come in! Make yourselves at home~!
+(Transition)
 Yuno: What is this, your house...?
 Yuno: Ugh, the ground's kind of lumpy.
 Miyako: Come to think of it, field trips used to feel like this...
@@ -84,13 +88,17 @@ Arale: Why chikuwa?
 Nonoka: Because it's round and cute!
 Miyako: I suppose the slices are round...
 Yuno: It was looking so promising...
+(Transition)
 Arale: I-I brought lunch too! I wasn't sure what to bring, so I went with rice balls!
 Yuno: Oh, a classic.
 Arale: And, and there's moooore... A Magilulu Collab Bubble Set~!
 Arale: I bought it a while ago, but I never had anyone to play with... so I thought, "Today's the day!"
 Arale: Was it a little too childish after all...?
+(Transition)
 Miyako: Arale-san...
+(Transition)
 Arale: Miyako-san! Is that...?!
+(Transition)
 Arale & Miyako: Magilulu Collab Bubble Sets!!
 Arale: I knew you'd get it! If not today, then when?!
 Miyako: Yes. It seemed like the optimal choice.

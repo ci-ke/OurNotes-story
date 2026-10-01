@@ -17,6 +17,7 @@ Sakiko: Have you found any band members?
 Anon: Ah... yes. Nagasaki... Nagasaki Soyo-chan.
 Sakiko: I see.
 Anon: Ah...
+(Transition)
 (Background change)
 
 [Haneoka Girls' Academy - Astronomy Club Room]
@@ -34,6 +35,7 @@ Anon: Hm?
 Anon: (This is the lyrics she showed me before, "Haruhikage"...)
 Anon: Tomori-chan... If there's something you're thinking about, saying it out loud is the best thing to do.
 Tomori: ......
+(Transition)
 (Background change)
 
 [Haneoka Girls' Academy - School Gate]
@@ -54,6 +56,7 @@ Soyo: ......
 Soyo: ...? Anon-chan...?
 (Message) Anon: Soyo-san, where are you? Can you come to RiNG?
 Soyo: ......
+(Transition)
 (Background change)
 
 [RiNG Cafeteria]
@@ -133,8 +136,10 @@ Anon: I don't know about spending a lifetime on this, but to start with, let's t
 Tomori: Then, staying until our first live performance is non-negotiable.
 Anon: *Sigh*... You really are super serious about every little thing... Oh, I'm just kidding! I'll work really hard!
 Taki: A lifetime is a lifetime, you konw? You sure you want that girl in the band?
+(Transition)
 ??? (Rāna): Lifetime...
 ??? (Rāna): What an interesting woman.
+(Transition)
 (Background change)
 
 [Haneoka Girls' Academy - Classroom 1-A]
@@ -152,6 +157,7 @@ Tomori: Uh, um...
 Anon: (Huh...? What about me...?)
 Classmate A: Tomori-chan, can you play an instrument?
 Tomori: No, I can't...
+(Transition)
 (Background change)
 
 [Hanasakigawa Girls' Academy - Classroom 1-B]
@@ -169,6 +175,7 @@ Umiri: Did you find new band members?
 Taki: That's not it.
 Umiri: Then, your band is getting back together? That's great.
 Taki: *Sigh*...
+(Transition)
 (Background change)
 
 [Tsukinomori Girls' Academy - Vegetable Garden]

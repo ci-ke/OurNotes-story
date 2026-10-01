@@ -1,10 +1,12 @@
 10491:adv_script_uika_mutsumi_linkstory_3 初華&睦 3
 
+(Transition)
 (Background change)
 
 [撮影スタジオ]
 
 初華: あれ、睦ちゃん？
+(Transition)
 初華: 偶然だね！　今日はここで撮影？
 睦: うん。雑誌の表紙
 初華: そうだったんだ！ 私は隣のスタジオでsumimiの撮影なんだ

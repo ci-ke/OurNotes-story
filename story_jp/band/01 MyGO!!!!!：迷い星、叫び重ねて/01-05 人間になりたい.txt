@@ -40,6 +40,7 @@
 燈: 人間になりたい
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
 燈: 祥ちゃんと出会ったのはそんな時だった——
+(Transition)
 ??? (祥子): ダメですわ！！
 (Background change)
 燈: う……
@@ -56,11 +57,14 @@
 燈: …………
 祥子: ……わたくしの勘違いでしたの。 そういうつもりではなかったんですのね……
 燈: うん……
+(Transition)
 燈: あ、膝……
 祥子: ……？　ああ、やってしまいましたわ…… あなたを突き飛ばした時に、擦りむいてしまったようです
 祥子: 大丈夫ですわ。このくらい問題ありませんから。 それでは、ごきげんよう
+(Transition)
 燈: ま……待って！ うち、近くだから……
 祥子: え……？
+(Transition)
 (Background change)
 
 [高松家 燈の部屋]
@@ -83,13 +87,16 @@
 燈: それは……その……
 祥子: 歌詞ですの！？
 燈: え……？
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000022/data/adv_still_anime_000022/adv_still_anime_000022.webp)
 (Background change)
 燈: あ、あの……ここ……
 祥子: わたくしの家ですわ
+(Transition)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_ningen_mygo_03/adv_movie_ningen_mygo_03/adv_movie_ningen_mygo_03.mp4)
 (Caption): 人間になりたいうた
 (Subtitle) 燈: あ……
+(Transition)
 (Background change)
 燈: ……
 祥子: 『人間になりたいうた』……本当に素敵な歌詞…… これを書けるなんて、すごいですわ
@@ -97,6 +104,7 @@
 祥子: あなた、お名前は？
 燈: ……燈……
 祥子: 燈さん……わたくしと、バンドを組んでくださらない？
+(Transition)
 (Background change)
 そよ: 燈ちゃんって、月ノ森の裏に住んでるんだね。 どこかですれ違ってたかも
 燈: あ……
@@ -111,6 +119,7 @@
 そよ: 話すのはほぼ初めてだよね。 睦ちゃんも
 睦: うん……
 祥子: もう１人、ドラム担当の方は初対面ですわ
+(Transition)
 (Background change)
 
 [羽沢珈琲店]
@@ -153,6 +162,7 @@
 祥子: 燈さんのお家には、 歌詞を書き留めたノートがたくさんありますの
 祥子: 曲はピアノで弾いたものがありますから、 後ほどスタジオで披露しますわ
 燈: ……？　スタジオって……？
+(Transition)
 (Background change)
 
 [スタジオ]
@@ -171,6 +181,7 @@
 燈: え……う……
 祥子: ……？
 燈: 私が……歌うの……？
+(Transition)
 (Background change)
 
 [帰り道]

@@ -1,6 +1,7 @@
 10596:adv_script_miku_chieri_linkstory_3 Miku & Chieri 3
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Miku's Room]
 
@@ -45,6 +46,8 @@ Chieri: Ow!
 Chieri: Chieri will not give up until you write it for meeee!
 Miku: *Sigh*... She is seriously exhausting...
 Miku: (But...)
+(Transition)
 Chieri: That is why Chieri absolutely, absolutely needs a song by Miku that lets Chieri drum at her absolute best!!
+(Transition)
 Miku: Hehe...
 Miku: (I will not write a song just for you. But I will write a song that lets you play at your "absolute best.")

@@ -1,6 +1,7 @@
 10587:adv_script_raika_chieri_linkstory_3 Raika & Chieri 3
 
 (Background change)
+(Transition)
 
 [Shopping Street]
 

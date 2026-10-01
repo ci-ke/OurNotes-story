@@ -20,14 +20,17 @@ Rāna: ......
 Anon: There's no time left, so let's buy breakfast somewhere.
 Taki: Oh, I got some bread from my senpai—
 Rāna: ...?
+(Transition)
 (Background change)
 Tomori: The lyrics... are done...
 Anon: Hey, Tomorin...! You can't sleep during class...!
+(Transition)
 (Background change)
 Taki: ......
 (Message) Anon: The lyrics are done!
 Taki: ...!
 Taki: My stomach hurts, so I'm going home!
+(Transition)
 (Background change)
 
 [Chihaya's Home - Anon's Room]
@@ -52,6 +55,7 @@ Soyo: Wait... these are the clothes we're modifying, right? Why's there another 
 Soyo: What's this tag... "ANON TOKYO"...?
 Anon: Good, right?
 Soyo: You have other things to do first, don't you?
+(Transition)
 (Background change)
 
 [Several Hours Later]

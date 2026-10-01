@@ -5,10 +5,12 @@
 [Street Piano]
 
 Hotaru: Phew... Thank you very much.
+(Transition)
 Passerby A: Oh, man, that was wonderful! I cannot believe we got to hear piano like that out on the street!
 Passerby B: Your piano was amazing today too! I might have to come by here again.
 Houka: ♡
 Hotaru: Oh, Houka-san...?
+(Transition)
 Houka: Oh my. You found me.
 Hotaru: Um, practice is cancelled today, is it not...?
 Houka: Yes. I simply came here on my own, so please do not worry.
@@ -36,8 +38,10 @@ Hotaru: Oh...
 Houka: Perhaps I had convinced myself that hearing her so often in the band was enough...
 Houka: How foolish of me. How arrogant.
 Hotaru: ...
+(Transition)
 Hotaru: (Kanata-san's playing was truly incredible. Such wonderful music, beyond anything I could ever reach.)
 Hotaru: (The music Houka-san... the music everyone loved so dearly.)
+(Transition)
 Hotaru: I-I'll do my best!
 Houka: ...?
 Hotaru: Making music exactly like Kanata-san's... That may be difficult for me.

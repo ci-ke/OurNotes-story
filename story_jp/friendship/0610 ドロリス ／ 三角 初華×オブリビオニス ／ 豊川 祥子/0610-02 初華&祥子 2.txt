@@ -1,5 +1,6 @@
 10499:adv_script_uika_sakiko_linkstory_2 初華&祥子 2
 
+(Transition)
 (Background change)
 
 [帰り道]
@@ -34,6 +35,7 @@
 祥子: ええ。試しに買ってみるのもいいかも
 祥子: ただし、買いすぎは……
 初華: わかってるって
+(Transition)
 (Background change)
 初華: あ、見えてきた！ さきちゃん、行こっ
 (Background change)

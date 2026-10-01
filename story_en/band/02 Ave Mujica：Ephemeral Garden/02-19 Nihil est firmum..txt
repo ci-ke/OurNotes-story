@@ -2,6 +2,7 @@
 
 (This small world will surely come to an end someday. Like waking from a dream in the morning... all at once, whether I want it or not.)
 
+(Transition)
 (Background change)
 (Background change)
 
@@ -19,25 +20,33 @@ Sakiko: ...
 Butler: What's the matter, milady?
 Sakiko: I'm not getting on board.
 Sakiko: <size=150%>I have to go!
+(Transition)
 (Background change)
 Butler: Sakiko-sama! It's dangerous! Stop!
+(Transition)
+(Transition)
 (Background change)
 Sakiko: Haa... Haa...!
 Sakiko: <size=175%>Ah!
 Sakiko: (There's no time to nurse my pain!)
+(Transition)
 (Background change)
 Sakiko: Haa... Haa...!
 Sakiko: (Uika!)
+(Transition)
 (Background change)
 
 [Port]
 
+(Transition)
+(Transition)
 (Background change)
 Sakiko: Thank you for calling out to me. I don't have much on me... so please take me as far as possible.
 Driver: I won't just leave the Togawa young lady behind. Where are you headed?
 Sakiko: Thank you. Could you direct me to the house of Misumi-san...?
 Driver: Yeah... They moved to the mainland. Maybe the older sister... Ah...
 Sakiko: Older sister? Where is she?
+(Transition)
 (Background change)
 
 [Togawa Family's Villa]
@@ -50,33 +59,40 @@ Sakiko: Wait, Uika! Hatsune-san...!
 Hatsune: ...!
 Hatsune: Saki-chan, you should go back now. You shouldn't be with me...
 Sakiko: I'm not going back.
+(Transition)
 (Background change)
 Sakiko: Why didn't you reply? Was it my grandfather's order?
 Hatsune: No...
 Sakiko: Hatsune-san, what is your relationship with my grandfather?
 Hatsune: I'm... Sadaharu Togawa's daughter...
+(Transition)
 Sakiko: Grandfather's daughter...?
 Hatsune: Yes. My mother used to be the caretaker here. She quit after I was born, so you've never met her, right?
+(Transition)
 Sakiko: You're an illegitimate child?
 Hatsune: Legally, I'm considered a stranger, so the inheritance rights of the Togawa family won't be affected.
 Sakiko: I'm not talking about that.
 Sakiko: You are Hatsune-san, right? Is "Uika" your alias then?
 Hatsune: It's my younger sister's name.
 Sakiko: Eh?
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
 Hatsune: The girl who was more energetic than me, loved catching bugs, and wanted to become an idol... was the real Uika.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
 Hatsune: I pretended to be Uika because I wanted to see you, Saki-chan.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
 Hatsune: I'm sorry for lying all this time... I'm really sorry!
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000077/data/adv_still_anime_000077/adv_still_anime_000077.webp)
+(Transition)
 Sakiko: What will you do from now on?
 Hatsune: Since I'll be working as a live-in caretaker, I think I'll transfer to a new school too.
 Sakiko: Are you really okay with that?
 Hatsune: Eh?
 Sakiko: What about sumimi? What about Ave Mujica?
+(Transition)
 Hatsune: I knew that one day, it would come to an end.
 Hatsune: The idol life, the band life. I was just being let off the hook.
 Hatsune: It could end tomorrow, or even today. I was scared every day. Sometimes I thought it would be easier to just let go of everything...
@@ -89,7 +105,9 @@ Sakiko: Is it because I asked you...
 Hatsune: <size=175%>No! I was happy!
 Hatsune: Even if it was in place of someone else.
 Sakiko: ...!
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 Sakiko: ...
 Hatsune: I was happy to be needed by Saki-chan. I wanted to help you forget everything...
@@ -99,16 +117,21 @@ Sakiko: Even I—
 Hatsune: I know.
 Hatsune: I know how you and your father have been living. Because it was all my fault—
 Sakiko: Eh?
+(Transition)
+(Transition)
 Hatsune: Now you understand, right? It's all... all my fault.
 Sakiko: ...
+(Transition)
 (Background change)
 Hatsune: That's the last ferry.
 Sakiko: ...Come with me for a moment.
+(Transition)
 (Background change)
 Hatsune: Haa... Haa... Saki-chan...! Saki-chan! What about the ferry? The last ferry is about to leave!
 Sakiko: Here we are. It almost seems like it's a different place in the daytime.
 Hatsune: This place... Ah, Saki-chan,don't sit there. You'll get your clothes dirty.
 Sakiko: I already slipped, you see.
+(Transition)
 Hatsune: There's a bug.
 Sakiko: Are you afraid of bugs?
 Hatsune: Yeah...
@@ -126,16 +149,19 @@ Sakiko: ...
 Hatsune: This island isn't so bad. The stars are beautiful here. I was really... really happy to meet Saki-chan, and be able to spend even a little time together.
 Hatsune: Although I don't have the right to say that... But I think I can keep going because of these memories.
 Hatsune: So...
+(Transition)
 (Background change)
 Sakiko: All you think about is yourself.
 Hatsune: ...
 Sakiko: But, there is one thing I've come to understand.
 (Background change)
 Sakiko: We watched the stars together here, didn't we? Was that you?
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000021/data/adv_still_charaillust_000021/adv_still_charaillust_000021.webp)
 Hatsune: <size=175%>...!
 Sakiko: I knew it. You're the one who loves the stars, Hatsune.
 Hatsune: ...!!
+(Transition)
 (Background change)
 Sakiko: Phew...
 Hatsune: Saki-chan...?
@@ -144,8 +170,10 @@ Hatsune: Eh? To where?
 Sakiko: <size=150%>Of course, to Tokyo!
 Hatsune: Huh~?
 Sakiko: If we take the shortcut, we'll make it to the ferry in time. Let's run, Hatsune!
+(Transition)
 (Background change)
 Hatsune: <size=150%>Hey, don't pull me. S-Saki-chan~~~~!
+(Transition)
 (Background change)
 
 [On the Ferry]
@@ -171,9 +199,11 @@ Sakiko: <size=175%>I'm so sick of this......!!
 Hatsune: ...!
 Sakiko: Who's not forgiving you!? Who decided that? Why do I have to do what they say?
 Sakiko: Hatsune, you're the same! You... FOOL~~~!
+(Transition)
 Hatsune: Saki-chan...
 Sakiko: What is it? I'm upset, you know. Don't take my determination lightly.
 Hatsune: Yeah...
+(Transition)
 (Background change)
 Hatsune: ...
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000163/data/adv_still_anime_000163/adv_still_anime_000163.webp)
@@ -181,12 +211,16 @@ Hatsune: ...
 Hatsune: ...
 Sakiko: Hmm...
 Hatsune: ...
+(Transition)
 (Background change)
 Sakiko: Here it is...!
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000164/data/adv_still_anime_000164/adv_still_anime_000164.webp)
+(Transition)
 Sakiko: At least this...
 Hatsune: ...
 Sadaharu: Acting like a sneaky thief...
+(Transition)
 Sakiko: I just came to get my belongings.
 Sadaharu: Hatsune, I believe your role was done the moment you brought Sakiko back.
 Hatsune: Uh, um...
@@ -203,8 +237,11 @@ Sakiko: <size=175%>I'll live with her!
 Hatsune: Saki-chan...!
 Sakiko: Please take care of my father!
 Sadaharu: ...
+(Transition)
 (Background change)
+(Transition)
 (Background change)
+(Transition)
 Sakiko: Hehe! That face grandfather made! It's exactly like a deer in the headlights! Hehe.
 Sakiko: Thank you.
 Hatsune: ...
@@ -216,11 +253,14 @@ Hatsune: Ugh...! H-Hurry...
 Sakiko: Look, I took it off. Are you really scared of such a tiny ladybug?
 Hatsune: I-It's a little scary~! Saki-chan, don't point it this way~
 Sakiko: Hehe, Hatsune.
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000008/data/adv_still_charaillust_000008/adv_still_charaillust_000008.webp)
 Hatsune: Mmm~ stop laughing~! Hehe...
 Sakiko: Hehe.
 Sakiko & Hatsune: <size=150%>Ahaha.
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 Hatsune: What will we do from now on?
 Sakiko: This world is full of things that can't be helped...

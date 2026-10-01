@@ -54,6 +54,7 @@ Nagi: Thanks.
 Nagi: (I'm sorry.)
 Nagi: From now on, I'm counting on you as a vocalist too... Hotaru.
 Hotaru: ! Y-yes!
+(Transition)
 (Background change)
 
 [The Way Home]
@@ -78,9 +79,12 @@ Mahoro: (Everything I did... is half-baked.)
 Mahoro: It's still so far away...
 Mahoro: (If only I had more talent. If only I had anything I could be proud of.)
 Mahoro: (Maybe the three of us could have made it work.)
+(Transition)
 (Background change)
 Mahoro: (Even the dual-vocal setup... only happened because I couldn't handle it myself.)
+(Transition)
 Mahoro: (Back then, no one said they preferred it with only me on vocals.)
+(Transition)
 (Background change)
 Mahoro: (They decided on dual vocals so easily.)
 Mahoro: What... can I actually do...? Is there anything... I'm doing right...?
@@ -88,6 +92,7 @@ Mahoro: (Could I really say any of this to Kanata with my head held high...?)
 Mahoro: ...
 Mahoro: No... I just have to keep working...!
 Mahoro: Hello...? May I book a studio for right now...?
+(Transition)
 (Background change)
 
 [Shiomi Residence - Hotaru's Room]

@@ -1,6 +1,7 @@
 10586:adv_script_raika_chieri_linkstory_2 Raika & Chieri 2
 
 (Background change)
+(Transition)
 
 [Haneoka Girls' Academy - Corridor]
 

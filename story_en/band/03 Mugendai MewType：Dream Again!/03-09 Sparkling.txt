@@ -28,6 +28,7 @@ Nonoka: Okaaay!
 Manager: Minetsuki-san plays guitar too, so I'm counting on you, Miyanaga-san.
 Nonoka: Leave it to meee!
 Arale: (This is only going to fan the flames...)
+(Transition)
 (Background change)
 Miyako: (I-It's finally here...)
 Miyako: <size=200%>(My! First! Tankōbon! Release! Day!!!)
@@ -46,6 +47,8 @@ Viola: Hehe. What a coincidence, seeing you again.
 Viola: If this encounter is fate... I hope it lasts.
 Miyako: That line...!
 Viola: Like fireworks...
+(Transition)
+(Transition)
 Miyako & Viola: <align="left">I won't let this end in one fleeting moment—</align> <align="right">—I won't let this end in one fleeting moment.</align>
 Viola: I love that line.
 Miyako: You really do know my work... Even though that was only a one-shot...
@@ -56,18 +59,24 @@ Miyako: What...?
 Viola: You weren't born with that sparkle. No matter how hard you try, you'll never make it yours.
 Miyako: (That's why they make me so angry...)
 Viola: And yet, you can't look away.
+(Transition)
 Viola: Even when you close your eyes, their light spills in uninvited.
+(Transition)
 Viola: ...
 Miyako & Viola: <align="right">—It hurts.</align> <align="left">(It hurts.)</align>
 Viola: But your stories make me feel like... it's okay to be that way.
+(Transition)
+(Transition)
 Miyako: (She...)
 Miyako: (She sees who I am through my work...)
+(Transition)
 Miyako: ...
 Miyako: Oh, I'm sorry...
 Viola: Don't wipe them away.
 Miyako: What...?
 Viola: Because you're sparkling and beautiful.
 Miyako: ...
+(Transition)
 (Background change)
 Miyako: This parfait is delicious...
 Miyako: I never knew there was such a lovely place this close to school.
@@ -91,6 +100,7 @@ Viola: I'd love to see you perform live, Yako-sensei♡ I know you'd shine up th
 Miyako: Perform live...
 Viola: Some things only make sense once you've tried them...
 Viola: So will you?
+(Transition)
 (Background change)
 Manager: This is Ritsu Minetsuki-san. Her avatar's in the works as we speak!
 Ritsu: I'm Ritsu Minetsuki. I sincerely apologize for all the trouble...

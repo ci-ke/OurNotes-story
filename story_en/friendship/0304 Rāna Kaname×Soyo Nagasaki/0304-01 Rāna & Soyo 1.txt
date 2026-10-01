@@ -9,6 +9,7 @@ Soyo: (That person behind me... Is that Rāna-chan?)
 Soyo: (I don’t think this is her way home, though...)
 Soyo: ...
 Soyo: (Well, never mind. Maybe she just wants to stop by somewhere.)
+(Transition)
 
 [A Few Minutes Later]
 
@@ -29,6 +30,7 @@ Soyo: (But it's Rāna-chan, she would never...)
 Rāna: ...
 Soyo: (Well, Rāna-chan is also human. Even she would have moments like that.)
 Soyo: ...
+(Transition)
 Soyo: Hey, Rāna-chan.
 Rāna: Soyo.
 Soyo: Um, today was rough, wasn't it?

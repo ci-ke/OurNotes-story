@@ -1,5 +1,6 @@
 10495:adv_script_uika_nyamu_linkstory_1 Uika & Nyamu 1
 
+(Transition)
 (Background change)
 
 [Ikebukuro Streets]

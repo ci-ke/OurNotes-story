@@ -1,6 +1,7 @@
 10599:adv_script_miku_shizuku_linkstory_3 Miku & Shizuku 3
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Miku's Room]
 
@@ -23,6 +24,7 @@ Shizuku: The strong wind had blown them all over the yard. I have not collected 
 Miku: Oh no, I didn't notice at all... We need to bring them in right away.
 Miku: Shizuku, let's run to the yard!
 Shizuku: Got it.
+(Transition)
 (Background change)
 Miku: Phew... Is that all of them?
 Shizuku: What do we do after we bring them in?

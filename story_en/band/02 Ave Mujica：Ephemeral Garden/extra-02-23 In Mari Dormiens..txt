@@ -2,8 +2,10 @@
 
 These beautiful flowers... They should rest here.
 
+(Transition)
 (Background change)
 Sakiko: If only those days had continued... I could have been happy.
+(Transition)
 (Background change)
 Sakiko: Without shedding a single tear, bathed in warm light—
 (Background change)
@@ -15,9 +17,11 @@ Tomori?: Huh...?
 Sakiko: Mother, Tomori... and I. We no longer belong there.
 Sakiko: All those dazzling, beautiful memories lie buried beneath the grave of the weak person I once was.
 Sakiko: I became a god for the sake of Ave Mujica. And gods... do not waver.
+(Transition)
 (Background change)
 Tomori?: ...
 Sakiko: It's about time you dropped that facade. You are no Tomori.
+(Transition)
 Girl: —Hehe, that's more like it.
 Girl: A temptation of this caliber can no longer shake you. I'm glad to see that.
 Sakiko: The past, bound by attachments and laden with sin... I have already forgotten it. We stand now only upon the traces of the tears we have shed.
@@ -29,6 +33,7 @@ Sakiko: That voice is—
 Uika: "Saki-chan! Give me your hand...!"
 (Background change)
 Girl: I'll be looking forward to what comes next. Oblivionis, Goddess of Forgetfulness.
+(Transition)
 Sakiko: Wait—who are you—!
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mujica_exstory_03_01/adv_movie_mujica_exstory_03_01/adv_movie_mujica_exstory_03_01.mp4)
@@ -56,6 +61,8 @@ Sakiko: Wait—who are you—!
 (Subtitle) Sakiko: —It's time. Let us go, Uika.
 (Subtitle) Sakiko: Let us show them what a true masquerade is.
 (Subtitle) Uika: Alright...!
+(Transition)
+(Transition)
 (Background change)
 
 [A Few Hours Later]
@@ -64,11 +71,13 @@ Oblivionis: Tonight's masquerade draws to a close. Everyone, may you have a plea
 Secretary: Oblivionis, please accept this bouquet. It is a token of gratitude from the Togawa Group.
 Nyamu: Whoa, such gorgeous roses!
 Sakiko: (That person is actually... grandfather's secretary.)
+(Transition)
 (Background change)
 Audience I: To think the Togawa Group would stoop to clinging to a mere band to salvage their image. How the mighty have fallen, trying to curry favor with the masses...
 Audience J: No, no, they were right to set their sights on Ave Mujica. You saw it, didn't you? The level of their performance and world-building! They're the real deal!
 Audience K: They might even be able to recoup those massive losses. And as his granddaughter, she must be content to protect the family name. Truly, blood is thicker than water. What beautiful familial devotion.
 Sadaharu: ...
+(Transition)
 (Background change)
 Sakiko: (We cannot rely on the Togawa's blessings forever...)
 Sakiko: (We must become independent from the Togawa and make Mujica unshakable. That is my sole purpose.)
@@ -76,6 +85,7 @@ Sakiko: (I will captivate every guest here and turn them all into collaborators 
 Oblivionis: Thank you. What a beautiful bouquet... On behalf of everyone, I express our gratitude.
 Oblivionis: As long as you desire a sweet feast, Ave Mujica will remain your faithful partners.
 Oblivionis: With that, I bid you a good night.
+(Transition)
 (Background change)
 
 [After the Performance]
@@ -85,7 +95,9 @@ Oblivionis: With that, I bid you a good night.
 Sakiko: Phew... The breeze feels so refreshing.
 Sakiko: The heat of the party was a bit much. But we were able to mingle with the guests as well...
 Sakiko: Even so...
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 Sakiko: (Was that a waking dream...? Or some phantom taking the shape of a girl...?)
 Sakiko: (No, surely it was—)

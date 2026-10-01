@@ -14,18 +14,22 @@ Anon: What!?
 Soyo: What do we do about rehearsing?
 Taki: ...
 Tomori: ...
+(Transition)
 (Background change)
 
 [Shiina's Home - Taki's Room]
 
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000020/data/adv_still_charaillust_000020/adv_still_charaillust_000020.webp)
 Taki: *Sigh*...
+(Transition)
 (Background change)
 Sakiko: Is something wrong?
 Taki: ...
 Sakiko: Oh. You were struggling with this phrase here. Then, will this work?
+(Transition)
 (Background change)
 Taki: ...
+(Transition)
 (Background change)
 
 [RiNG - Studio]
@@ -49,6 +53,7 @@ Taki: Until you can play it, you'll practice alone.
 Soyo: Since we've all gathered, let's play together.
 Taki: Let's start rehearsal.
 Anon: ...
+(Transition)
 Rāna: I'm satisfied.
 Taki: Hey! We're not done yet. Why are you trying to go home?
 Rāna: ?
@@ -65,6 +70,7 @@ Taki: And... Hm? Where's stray cat?
 Tomori: Um, she left just now...
 Taki: Huh!?
 Soyo: She really is like a cat~
+(Transition)
 (Background change)
 
 [Shiina's Home - Taki's Room]
@@ -72,11 +78,14 @@ Soyo: She really is like a cat~
 Taki: *Sigh*... We didn't even manage a decent rehearsal...
 Taki: Do we do it without the stray cat? Or...
 Taki: There's no guarantee she will even show up for the live. And if I keep changing the arrangement, a beginner like Anon won't be able to keep up...
+(Transition)
 (Background change)
 Sakiko: I will write music worthy of Tomori's lyrics.
 Sakiko: Please, tell me anything you think of. This is my duty as the music's composer!
+(Transition)
 (Background change)
 Taki: Why am I remembering this now...?
+(Transition)
 (Background change)
 
 [Hazawa Coffee Shop]
@@ -91,6 +100,7 @@ Sakiko: ...!! How could I possibly—
 Sakiko: ...
 Mutsumi: I think you could probably meet with her on the day of the live show.
 Sakiko: When is it?
+(Transition)
 (Background change)
 
 [RiNG - Studio]

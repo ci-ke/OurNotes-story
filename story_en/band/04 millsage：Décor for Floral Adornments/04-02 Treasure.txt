@@ -8,6 +8,7 @@ Of course! More than anything, I just want them to be happy.
 
 [Present Day]
 
+(Transition)
 (Background change)
 Hotaru: Thank you very much...!
 Passerby A: Hotaru-chan~, your piano playing was wonderful today as always!
@@ -24,6 +25,7 @@ Child: Wow...! I'll look forward to it!
 Hotaru: Yeah! Leave it to me!
 Hotaru: On that day one year ago...
 Hotaru: After I met Kanata-san, we started playing piano together here from time to time.
+(Transition)
 
 [Six Months Earlier]
 
@@ -67,8 +69,10 @@ Kanata: Of course! More than anything, I just want them to be happy.
 Kanata: They're my treasure.
 Hotaru: ...!
 Hotaru: Treasure...
+(Transition)
 (Background change)
 Hotaru: But about six months ago...
+(Transition)
 (Background change)
 Hotaru: (Kanata-san isn't coming... I wonder what happened.)
 Hotaru: !
@@ -84,6 +88,7 @@ Hotaru: (Kanata-san...!)
 (Message) Kanata: There's your homework until next time. When we meet again, let me hear it.
 (Message) Kanata: That happy music of yours, Hotaru.👍
 (Message) Kanata: See ya! 👋
+(Transition)
 (Background change)
 Hotaru: After that message, Kanata-san stopped coming here.
 Hotaru: ...
@@ -96,11 +101,14 @@ Hotaru: Well then... This is a song by my friend... or rather, my master's band.
 Hotaru: (I still haven't been to one of their lives, but we played this together here so many times that I remember it.)
 Hotaru: (It's a really wonderful song, and I love it.)
 Hotaru: —♪
+(Transition)
 ??? (Mahoro): ...!
 ??? (Mahoro): It really is a millsage song... She's playing it...!
+(Transition)
 (Background change)
 Hotaru: Whew...
 Hotaru: (I wonder if everyone who listened is smiling...)
+(Transition)
 ??? (Mahoro): …
 Hotaru: (Huh? Is that person staring at me...?)
 Hotaru: Ah...!

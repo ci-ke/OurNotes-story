@@ -1,10 +1,13 @@
 10497:adv_script_uika_nyamu_linkstory_3 Uika & Nyamu 3
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Meeting Room]
 
+(Transition)
 Nyamu: I got it, the new drink~!
+(Transition)
 Nyamu: Hmm...
 Nyamu: The lighting's a little weak...
 Uika: Oh, Nyamu-chan.
@@ -20,6 +23,7 @@ Nyamu: Oh, right. Since you're here, wanna get in the shot too, Uiko?
 Nyamu: I could caption it something like, "Ran into Uiko at the office~"
 Uika: But I think we should ask Saki-chan about that first.
 Nyamu: It'll be fine. If anything, the band kind of needs this, right?
+(Transition)
 Nyamu: We did break up once, you know? We need to show everyone we're okay now~ For the fans.
 Uika: Hmm... Do you think so?
 Nyamu: We can just have Sakiko check it afterward, right?
@@ -32,6 +36,7 @@ Nyamu: The lighting here isn't enough~ So first, we need a light, right? And if 
 Uika: You carry all this around with you?
 Nyamu: Obviously. What's the point if you don't make yourself look good when you can?
 Nyamu: Don't worry, I'll make you look good. Just watch from there.
+(Transition)
 Nyamu: Okay, so you'll sit here. Then the light should go... Yeah, right here.
 Uika: Nyamu-chan? Um... Will this take much longer?
 Nyamu: Yeah, I'm almost done. Just hang on a sec.
@@ -41,12 +46,15 @@ Nyamu: Wait, seriously? Posting lots of off-shots and friendly-looking pics is, 
 Uika: I see... I guess I still have a lot to learn.
 Nyamu: You're so not like a modern idol...
 Uika: Ahaha...
+(Transition)
 Nyamu: Okay, taking it now~ Three, two, one!
 Nyamu: Okay, thanks~♪
 Uika: You're welcome. Did it come out okay?
 Nyamu: Leave it to me. After all the work I put in, and even if it's kind of meh, I can edit it and...
 Nyamu: <size=175%>...!?
+(Transition)
 Nyamu: (What is this, Uiko? Wait, I haven't even put a filter on this yet, right?)
 Nyamu: (So that means... this is all natural?! Huh?! Those huge eyes, that glossy, healthy-looking skin... All of it?!)
+(Transition)
 Nyamu: I take it back... You really are an idol.
 Uika: ?

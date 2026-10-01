@@ -1,5 +1,6 @@
 10518:adv_script_nyamu_sakiko_linkstory_3 Nyamu & Sakiko 3
 
+(Transition)
 (Background change)
 
 [Inside the Taxi]

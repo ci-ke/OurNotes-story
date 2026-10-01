@@ -22,6 +22,7 @@ Houka: Of course♪
 Houka: I do have rather discerning tastes, and this café is especially renowned for its pancakes.
 Hotaru: Pancakes...!
 Houka: Hehe. Then let us place our order first.
+(Transition)
 Houka: Now then... shall we turn to the subject that brought us here today?
 Houka: About millsage... you said you hoped to help us somehow...
 Hotaru: Y-yes...!
@@ -43,10 +44,13 @@ Houka: The main reason was the departure of Kanata-san and Natsume-san... Natsum
 Houka: As a result, music that was once performed by five people is now being carried by three.
 Houka: We have managed to cover the guitar and piano parts with programmed tracks, but...
 Houka: The vocals, however, are different. Someone still needs to take on that role.
+(Transition)
 (Background change)
 Houka: That was when Mahoro-san volunteered to sing.
+(Transition)
 Houka: Nagi-san said singing was not her strength, and in my case... handling vocals while drumming would not be realistic.
 Houka: Even if it was by process of elimination, Mahoro-san was the only real option.
+(Transition)
 (Background change)
 Houka: But... millsage's songs were written around Kanata-san's voice.
 Houka: To be frank, Kanata-san was in a class of her own, both in her piano playing and her vocal performance.
@@ -87,9 +91,11 @@ Hotaru: U-um...
 Houka: With your music, I truly believe we can make it a reality.
 Houka: "A future where everyone can be happy."
 Hotaru: With... my music...?
+(Transition)
 (Background change)
 Kanata: But y'know, "music that makes everyone happy..."
 Kanata: If anyone can make that happen, it's you, Hotaru!
+(Transition)
 (Background change)
 Hotaru: ...
 Hotaru: (I still don't know what I can do... or whether I can really do it properly...)
@@ -98,6 +104,7 @@ Hotaru: (then I want to try believing in Houka-san.)
 Hotaru: All right... I'll give it a try!
 Houka: My, thank you very much♪
 Houka: Let us strive together, shall we?
+(Transition)
 (Background change)
 
 [Izawa House - Natsume's Room]

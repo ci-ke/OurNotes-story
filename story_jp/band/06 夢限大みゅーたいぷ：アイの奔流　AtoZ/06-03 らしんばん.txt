@@ -19,9 +19,11 @@
 都子: 体操服、着てるんですか？
 ののか: ユ～ノ～ちゃ～～～～～～～～～～んっ！！
 ユノ: うわぁ～～～～～～～～～～っ！！！？？？？
+(Transition)
 (Background change)
 ユノ: 夢……
 ユノ: 重症だ…………
+(Transition)
 (Background change)
 
 [VR Floor]

@@ -10,6 +10,7 @@ Taki: Umiri. Are you free today?
 Umiri: This is unusual. I have plans.
 Taki: I see. Then it's fine.
 Umiri: Once they're done, I'll be free, though. What's your business?
+(Transition)
 (Background change)
 
 [RiNG - Studio]
@@ -63,15 +64,20 @@ Taki: Everything she did was to try to bring CRYCHIC back!
 Tomori & Anon: ...! ...
 Taki: She said that she doesn't need you or Rāna... She just used you to tie Tomori and me together!
 Anon: ...
+(Transition)
 (Background change)
 Soyo: Tomori...? Do you mean Takamatsu Tomori-chan?
 Soyo: She's my friend.
+(Transition)
 Soyo: Anon-chan and I are forming a band. Do you want to be in it with us, Taki-chan?
+(Transition)
 (Background change)
 Soyo: Anon-chan, because of you, I was able to speak with Tomori-chan for the first time in a long time.
+(Transition)
 (Background change)
 Soyo: Hey, you think we can start over again?
 Soyo: With the band. Me and Tomori-chan and Taki-chan.
+(Transition)
 (Background change)
 Anon: Oh...
 Tomori: That's not right! Soyo-chan said we'd keep playing in the band... Even after the live was over... So...!
@@ -90,8 +96,10 @@ Tomori: ! Anon-chan...
 Anon: Tomori-chan, you should play in CRYCHIC with Soyo-san.
 Tomori & Taki: ...
 Tomori: I hate this...
+(Transition)
 (Background change)
 Tomori: Being in a band... it's not what I wanted to do...
+(Transition)
 (Background change)
 
 [Two Weeks Later]
@@ -103,6 +111,7 @@ Taki: What?
 Umiri: To the band.
 Taki: It's finished.
 Umiri: I see.
+(Transition)
 (Background change)
 Tsukinomori Student A: Morning's greetings~
 Mutsumi: Morning's greetings. Ah...
@@ -112,10 +121,12 @@ Soyo: That's not true~
 Tsukinomori Student C: Will you teach me?
 Soyo: I don't know. Should I?
 Mutsumi: ...
+(Transition)
 (Background change)
 Tomori: "It all went wrong again. All of it... All of it..."
 Tomori: "I hate sad things. I hate suffering."
 Tomori: "I should never have done it. Everything... Everything..."
+(Transition)
 (Background change)
 
 [Haneoka Girls' Academy - Classroom 1-A]
@@ -151,6 +162,7 @@ Tomori: "I wish I could go away, but I'm always doing the wrong thing."
 Tomori: "My mouth grows empty. I thirst for words."
 (Background change)
 Tomori: "What should I do...?"
+(Transition)
 (Background change)
 ??? (Uika): That's dangerous!
 Tomori: ...?
@@ -162,6 +174,7 @@ Tomori: What...?
 Tomori: ...
 ??? (Uika): Even in the city, you can see the North Star.
 ??? (Uika): I thought I wouldn't be able to see the stars in Tokyo, so I was surprised the first time I spotted it.
+(Transition)
 (Background change)
 Tomori: That's the Ursa Major.
 Tomori: The North Star is in Ursa Minor... It's there.
@@ -179,8 +192,10 @@ Tomori: ...
 ??? (Uika): This is like a song.
 Tomori: What...?
 ??? (Uika): When you sing, it feels like it reaches people, right? Even things you have a hard time saying... more than words, the feeling gets through.
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000056/data/adv_still_anime_000056/adv_still_anime_000056.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000057/data/adv_still_anime_000057/adv_still_anime_000057.webp)
+(Transition)
 Tomori: ...
 ??? (Uika): Well then, I'm leaving now. I hope your feelings get through.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp)
@@ -189,6 +204,7 @@ Tomori: A song...
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp)
 (Caption): Conveyed to someone precious Crying out with a voice that cannot form a poem Song  Poem
 Tomori: This is a song.
+(Transition)
 (Background change)
 
 [Haneoka Girls' Academy - Classroom 1-A]
@@ -198,6 +214,7 @@ Anon: ...
 Tomori: Perform... live with me.
 Anon: What will we do about Soyo-san?
 Tomori: Ah...
+(Transition)
 (Background change)
 
 [RiNG - Entrance]
@@ -207,6 +224,7 @@ Tomori: Yes...
 Ririko: Ahaha, this is super sudden~
 Ririko: Ah~ We might be able to do it at the beginning of this live. Is it okay if it's a short slot?
 Tomori: Yes, thank you.
+(Transition)
 (Background change)
 Ririko: And that's what happened~
 Taki: What? Tomori is doing live...?
@@ -214,6 +232,7 @@ Ririko: Taki-chan, she didn't tell you?
 Taki: ...
 Ririko: I don't know what happened, and I'm not going to pry, but I'm worried about you~
 Taki: When is it?
+(Transition)
 (Background change)
 
 [RiNG - Stage]
@@ -226,6 +245,7 @@ Tomori: (Standing here alone, makes me feel much lonelier than usual...)
 Tomori: (Maybe something is going wrong again. Maybe everything is going wrong again.)
 Tomori: (But... I want to move forward.)
 Tomori: Everyone is gone and I don't have music, but this is a song.
+(Transition)
 (Background change)
 Tomori: "I will sing a song."
 (Background change)
@@ -235,5 +255,6 @@ Tomori: "I got lost," "I took detours." "Even so, there were people who helped m
 Tomori: "I let go of their hands."
 Tomori: "I didn't want to forget." "I didn't want to lose anything." "I gathered up the fragments still left inside me."
 Tomori: "They became a song." "That's right. This is a song."
+(Transition)
 (Background change)
 Rāna: An interesting girl.

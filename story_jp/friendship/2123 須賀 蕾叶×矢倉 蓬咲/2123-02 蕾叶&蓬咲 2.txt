@@ -1,6 +1,7 @@
 10583:adv_script_raika_yomogi_linkstory_2 蕾叶&蓬咲 2
 
 (Background change)
+(Transition)
 
 [学生寮『ピースミカ』 リビング]
 

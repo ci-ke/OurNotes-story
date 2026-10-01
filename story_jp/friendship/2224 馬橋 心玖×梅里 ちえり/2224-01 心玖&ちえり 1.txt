@@ -1,6 +1,7 @@
 10594:adv_script_miku_chieri_linkstory_1 心玖&ちえり 1
 
 (Background change)
+(Transition)
 
 [学生寮『ピースミカ』 リビング]
 

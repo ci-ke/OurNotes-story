@@ -1,5 +1,6 @@
 10556:adv_script_hotaru_mahoro_linkstory_2 Hotaru & Mahoro 2
 
+(Transition)
 (Background change)
 
 [Family Restaurant]
@@ -25,6 +26,7 @@ Mahoro: I work at a family restaurant. Not this one, but still! You could say I'
 Mahoro: I've tried pretty much everything on the menu, so ask me anything! What sounds good? Something light? Or dessert?
 Hotaru: Um... Well...
 Mahoro: Ahaha, that was a lot to throw at you all at once, huh? Let's look through it together.
+(Transition)
 Mahoro: I'll borrow the tablet for a second.
 Mahoro: The seasonal pasta was really good. The fair will be ending soon, so it might be worth trying while you can.
 Mahoro: And the vegetable soup is a hidden gem! It's packed with nutrients, and you can get free refills!
@@ -44,6 +46,7 @@ Hotaru: If there is ever something I'm not doing well, please feel free to look 
 Mahoro: H-Hotaru-chan...! Aww, you're tugging at my big-sis heart...!
 Mahoro: If you're saying that, then leave it to me! I'll give you the best family restaurant experience ever—
 Mahoro: Eek!?
+(Transition)
 Hotaru: Oh! The water...!
 Mahoro: Ahh, something to wipe it up with...! Hotaru-chan, did any get on you?
 Hotaru: I'm okay...!

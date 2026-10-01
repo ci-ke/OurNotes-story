@@ -9,6 +9,7 @@
 Yuno: Nothing's coming... Absolutely nothing...
 Yuno: A-At least... if I could just write this much...
 Yuno: Urgh...
+(Transition)
 (Background change)
 
 [VR Floor]
@@ -28,6 +29,7 @@ Arale: Nationwide Tour New Song.mp3... This is it! Isn't this the new song!?
 Manager: Seems like it. Wanna listen?
 Arale & Ritsu & Nonoka & Miyako: Yes!!!!
 Manager: Alright then... click♪
+(Transition)
 Nonoka: ...Huh?
 Arale: It's only about 20 seconds long...?
 Miyako: Is the file corrupted, maybe...?
@@ -53,6 +55,7 @@ Miyako: Doing everything you can to meet a deadline... That's what it means to m
 Nonoka: Ooh~
 Arale: S-So cool...!
 Miyako: Sengoku-san... I wish you the best of luck...!
+(Transition)
 Nonoka: Wow~!
 Ritsu: Looks like time's up. Good work today, everyone.
 Miyako: Good work today.
@@ -60,6 +63,7 @@ Miyako: Arale-san...?
 Arale: Oh, sorry! I just really wanted to hear it one more time...!
 Ritsu: The new tour song?
 Arale: Yeah. Because it sounded so cool...!
+(Transition)
 Ritsu: ...It really is cool.
 Arale: Right? Right? It's this cool and it's only 20 seconds! I'm sooooo looking forward to hearing the full version!
 Ritsu: Yeah.

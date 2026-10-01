@@ -17,6 +17,7 @@
 爽世：……我先走囉。
 立希：唉……明明想好好辦場演出的，又搞成這樣！？
 爽世：……我早知道會這樣了。
+（转场）
 （背景切换）
 
 【RiNG 休息區】
@@ -66,6 +67,7 @@
 爽世：還有小希也是。
 立希：我知道啦。
 燈：……
+（转场）
 （背景切换）
 
 【RiNG 舞台】
@@ -81,9 +83,11 @@
 店長：是啊，我聽她說她找到歸宿了。
 燈：……小希。
 立希：嗯。
+（转场）
 （背景切换）
 （播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12/adv_movie_mayoiuta_mygo_12.mp4）
 （说明）：迷星叫　ライブシーン
+（转场）
 （背景切换）
 燈：……
 愛音：謝謝大家！ 這首歌是《迷星叫》！
@@ -105,9 +109,12 @@
 燈：……謝謝妳。
 爽世：……
 愛音：呵呵……那麼接下來， Tomorin呢？
+（转场）
 （背景切换）
 燈：那個……我們大家都迷失了方向。 總是對眼前的事物感到迷茫……
+（转场）
 燈：大家的感情也不算非常要好…… 我們吵過很多次架，經歷過痛苦…… 有時傷害對方，有時沒能好好訴說……
+（转场）
 （背景切换）
 燈：但是，我們現在就在這裡……
 燈：不管發生什麼都不會再分開……
@@ -115,15 +122,18 @@
 爽世 & 立希：……
 愛音 & 樂奈：……
 燈：還請聽我們「MyGO」的歌……！
+（转场）
 （背景切换）
 （播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12/adv_movie_melody_mygo_12.mp4）
 （说明）：迷路日々　ライブシーン
+（转场）
 （背景切换）
 燈：……接下來是最後一首歌！
 燈：今天真的很感謝大家。 我們是MyGO！
 燈：……迷失方向也無所謂。
 （插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000009/data/adv_still_charaillust_000009/adv_still_charaillust_000009.webp）
 燈：在迷茫中前進吧！！
+（转场）
 （背景切换）
 
 【RiNG 休息區】
@@ -153,10 +163,12 @@
 愛音：啊啊～真是的！ 快點帶小樂回休息室吧！
 爽世：……小燈。
 燈：……？
+（转场）
 爽世：謝謝妳沒有離開我。
 燈：……小爽……
 （插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp）
 燈：……
+（转场）
 （背景切换）
 燈：（……「MyGO!!!!!」……）
 燈：（就算迷茫也要一起……！）

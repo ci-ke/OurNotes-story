@@ -1,5 +1,6 @@
 10510:adv_script_umiri_nyamu_linkstory_1 海鈴&にゃむ 1
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production 会議室]
@@ -13,6 +14,7 @@
 海鈴: こちらのことはお構いなく。 今のうちに終わらせてしまいたいので
 にゃむ: がんばれ〜
 海鈴: はい
+(Transition)
 海鈴: ……………………
 にゃむ: ……
 海鈴: ……………………

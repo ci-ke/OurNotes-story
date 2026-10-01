@@ -1,6 +1,7 @@
 10587:adv_script_raika_chieri_linkstory_3 蕾叶&ちえり 3
 
 (Background change)
+(Transition)
 
 [商店街]
 

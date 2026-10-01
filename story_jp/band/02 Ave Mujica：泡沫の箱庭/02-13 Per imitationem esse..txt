@@ -2,6 +2,7 @@
 
 いくら飾りたてたとしても、本物にはなれない
 
+(Transition)
 (Background change)
 
 [海鈴のマンション 自室]
@@ -9,15 +10,19 @@
 海鈴: ……時間ですね。昼休憩にしますか
 海鈴: カリリンメイト、なくなってきましたね。 補充しておかないと……
 海鈴: ……
+(Transition)
 海鈴の母: 『うーちゃん♪　あら、これ天井じゃない。 どこ〜？　お母さん、うーちゃんの顔が見たいのに〜』
 海鈴: 要件は？
 海鈴の母: 『ああ、そうそう。 来週の土曜、お父さんのお誕生日でしょう？ プレゼントどうしようかと思って』
 海鈴: ……
 海鈴の母: 『あらまたそれ？　お昼はちゃんと食べないと』
 海鈴の母: 『帰って来たらうーちゃんのだ〜いすきな 目玉焼きのせたやきそば、たっくさん作るわね♡』
+(Transition)
 (Background change)
 海鈴: ……はぁ
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 海鈴: ……
 ディスラプションのドラム: うん、いい感じ！ てか海鈴、今日暗いよね。音は相変わらずいい感じだけど
@@ -33,12 +38,14 @@
 海鈴: ……
 ディスラプションのドラム: ……嫌？
 海鈴: いえ、ディスラプションのおかげでAve Mujicaが なくなっても親に迷惑かけずに生きていられるんで
+(Transition)
 (Background change)
 海鈴: お疲れ様です
 立希: あ
 海鈴: ベースケース、見といてください
 立希: え？
 立希: はああ？
+(Transition)
 (Background change)
 
 [ショッピングモール]
@@ -51,6 +58,7 @@
 海鈴: にゃむちコラボ
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000140/data/adv_still_anime_000140/adv_still_anime_000140.webp)
 海鈴: ……媚びてますね
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000138/data/adv_still_anime_000138/adv_still_anime_000138.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000139/data/adv_still_anime_000139/adv_still_anime_000139.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000140/data/adv_still_anime_000140/adv_still_anime_000140.webp)
@@ -63,6 +71,7 @@
 にゃむ: ……いいです
 袋小路: そう、なんだ。あっ、オーディション次があるから いつもみたいに積極的にいけば大丈夫！ チャンスは一瞬。一回一回を掴んでこう！
 にゃむ: ……ちょっと、すみません〜
+(Transition)
 にゃむ: いそがしいんだけど〜
 海鈴: 『いまどこですか』
 にゃむ: 無人島
@@ -72,9 +81,11 @@
 にゃむ: こわ……
 スタッフ: あの〜、祐天寺さん。 八幡さん、待ってるっぽいんだけど
 にゃむ: ええ……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000023/data/adv_still_charaillust_000023/adv_still_charaillust_000023.webp)
 海鈴: やっぱり事務所じゃないですか
 にゃむ: ちょ、なにやってんの
+(Transition)
 海鈴: 会いたくなって
 にゃむ: ぜったい嘘
 にゃむ: あ。その袋、にゃむちコーデじゃん
@@ -86,6 +97,7 @@
 にゃむ: はあ？
 海鈴: では
 にゃむ: 待って待って、振られたってなに？　ちょっとぉ！
+(Transition)
 (Background change)
 にゃむ: ふぅん。ムーコ誘ったんだ
 海鈴: すぐに了解をもらえるとは思ってませんでしたが ……若葉さんをあんなふうにしたのは、私たちの責任ですし
@@ -93,13 +105,16 @@
 海鈴: え？
 にゃむ: いままで絶対責任取ろうとしなかったのに
 海鈴: ……あ
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 にゃむ: ……え、なに？
 海鈴: ……ふぅ
 海鈴: 信用できないってそういうことですか
 にゃむ: 仕切る割には、責任はサキコに取らすような しゃべり方しかしてなかったもんね
 にゃむ: すみませ〜ん、オーダーいいですか
+(Transition)
 海鈴: ……ジンジャーエール、きついのください
 海鈴: ごっく……ごくっ……
 にゃむ: そんな一気に飲むと、けぷってなるよ？
@@ -111,6 +126,7 @@
 海鈴: 飲まないとやってられない。沁みる過去があるんです
 にゃむ: それって長い？
 海鈴: この一生で、いちばん最初に組んだバンド——
+(Transition)
 (Background change)
 海鈴: いい感じです。オーディションを前にして やっと安定してきましたね！
 メンバーA: あ〜……うん、だね！　みんな練習がんばったもん
@@ -122,6 +138,7 @@
 メンバーA・B: ……
 海鈴: けっこううまくやってたんですよ。 スカウトがくるオーディションにも出演が決定して
 海鈴: みんな一致団結してた。デビューできるかもしれない。 そんな夢を見たライブ当日……
+(Transition)
 (Background change)
 海鈴: メンバー全員にボイコットされて……
 海鈴: なんで！？　なんで来ないんですか！？　 もうとっくに時間は……！　一向に返信ないし……！
@@ -135,6 +152,7 @@
 海鈴: Ave Mujicaもそのひとつのはずだったんですけどね
 (Background change)
 海鈴: 豊川さんと若葉さんが、 他のバンドでやってるのを見たら……
+(Transition)
 (Background change)
 にゃむ: 嫉妬ってやつぅ？ へ〜Ave Mujicaやりたいんだ
 海鈴: 問題の多いバンドでしたが
@@ -148,10 +166,12 @@
 海鈴: 言質取りましたよ。 お支払いお願いします。今月厳しいので
 にゃむ: そりゃそんだけ買ったらね
 にゃむ: ……
+(Transition)
 (Background change)
 海鈴: （……誰からも返事がありませんね）
 海鈴: （トントン拍子にいくとは思ってませんでしたが、 こうも反応がないと——）
 海鈴: ！
+(Transition)
 (Background change)
 海鈴: モーティスさん、こっちです
 モーティス: ね〜〜まだ着かないのぉ〜？
@@ -159,6 +179,7 @@
 モーティス: もう１５分経ったぁ！　やだやだおんぶ！　だっこ！ 車乗る〜〜っ！
 海鈴: あと５分です。自分の足でがんばってください
 モーティス: いぃ〜〜〜っ
+(Transition)
 (Background change)
 海鈴: モーティスさん。 確認ですが、あなたギター弾けませんよね
 モーティス: うん……でもAve Mujicaやらないと 私消えちゃうから……
@@ -171,13 +192,18 @@
 モーティス: ……
 海鈴: 『本物』になるんですよ
 モーティス: ……！
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 初華: ……
+(Transition)
 (Message) 海鈴: Ave Mujicaをやりませんか
 (Background change)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp)
 (Caption): 投稿 ８いいね りっきーのドラムセットに潜入！ いつもと全然メンバーの見え方ちがう😆 誰とも目合わない💦 #MyGO　#ANON　#Drum
+(Transition)
 (Background change)
 初華: ……っ
 語り部: いくら飾りたてたとしても、本物にはなれない

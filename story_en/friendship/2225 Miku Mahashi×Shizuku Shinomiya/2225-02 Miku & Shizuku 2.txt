@@ -1,6 +1,7 @@
 10598:adv_script_miku_shizuku_linkstory_2 Miku & Shizuku 2
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Kitchen]
 
@@ -8,6 +9,7 @@ Shizuku: There's half the milk left... And the eggs...
 Miku: I'm home... Wait, what are you doing!?
 Shizuku: I'm checking what we have in the refrigerator.
 Miku: Checking it...!? Sorry, I need to close it for now!
+(Transition)
 Miku: Ugh... The air around here is cold too... Shizuku, how long has the refrigerator been open?
 Shizuku: It has been about ten minutes...
 Miku: Ten minutes...?!
@@ -26,9 +28,11 @@ Shizuku: But at this rate, I will only keep relying on everyone.
 Shizuku: There is so much I do not know. I want to learn so I can do those things myself.
 Shizuku: I want to share "everyday life" with everyone.
 Miku: Oh...
+(Transition)
 (Background change)
 Shizuku: If you use it, it decreases. If it decreases, it runs out. So you restock it before that.
 Shizuku: Life is about repeating that cycle... And everyone is doing that... It's amazing...!
+(Transition)
 (Background change)
 Miku: So that is what you meant...
 Miku: Shizuku, I am sorry. I should have asked why before I jumped in to correct you.

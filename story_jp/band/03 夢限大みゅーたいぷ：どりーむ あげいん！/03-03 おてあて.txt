@@ -3,6 +3,7 @@
 『好き』にはパワーがあるから！
 
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000203/data/adv_still_anime_000203/adv_still_anime_000203.webp)
+(Transition)
 (Background change)
 あられ: ら
 ビオラ: ら
@@ -14,6 +15,7 @@ A子: ら
 あられ: 大好評のあの企画！
 A子: なんですか～？
 あられ: ジェスチャー歌ボ曲クイズ～！
+(Transition)
 (Background change)
 ビオラ: 次の歌ってみた『ライオンダンス』にしようよ
 あられ: だーかーらー
@@ -35,6 +37,7 @@ A子: あー、うん
 あられ: …… ぼく的に最悪と言っていい
 あられ: もー！　絶対ここがなり入れたほうがいいでしょ！ なんでわかんないかなーっ。録り直し！
 ビオラ: ……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000205/data/adv_still_anime_000205/adv_still_anime_000205.webp)
 (Caption): えれあ性格終わってる こっわ リークされてて草 スタッフからも嫌われてるわな
 あられ: この間の動画？　えーすごい！　伸びてる！
@@ -45,6 +48,7 @@ A子: あー、うん
 あられ: でも、なんか新しい手打っていかないとね
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000208/data/adv_still_anime_000208/adv_still_anime_000208.webp)
 あられ: 数字は大事！
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000205/data/adv_still_anime_000205/adv_still_anime_000205.webp)
 (Caption): えれあ性格終わってる こっわ リークされてて草 スタッフからも嫌われてるわな
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000206/data/adv_still_anime_000206/adv_still_anime_000206.webp)
@@ -67,9 +71,11 @@ A子: あー、うん
 あられ: （また夢を見たい）
 (Background change)
 あられ: （歌って、おしゃべりして、 わたしの大好きをみんなに伝えたい！）
+(Transition)
 (Background change)
 マネージャー: ――仲町さんは今日も見学希望ね
 あられ: （でもグループはムリィーーーーーーーーーーー！！）
+(Transition)
 (Background change)
 
 [宮永家 ののかの部屋]
@@ -85,10 +91,14 @@ A子: あー、うん
 ななか: ののちゃーん、おフロー！
 ののか: わあ、ななフラきちゃう！
 ののか: そう、おフロ！　今日も来てくれてありがと～。 おつかれなさいませ～
+(Transition)
 (Background change)
 教師: いったんここまで。板書の時間取るわね
+(Transition)
 都子: ♡
+(Transition)
 都子: ……！
+(Transition)
 都子: ……
 教師: 藤さん
 都子: はいぃ！
@@ -102,6 +112,7 @@ A子: あー、うん
 都子: （『でも連載と学業とバンド活動、大変ですよね。 いざとなれば隔週にもできるのでいつでも相談してください』）
 都子: 隔週…………
 都子: …………
+(Transition)
 (Background change)
 マネージャー: バンド練習の前に いい話と悪い話、どっちから聞きたい？
 ののか: いい話！
@@ -114,10 +125,12 @@ A子: あー、うん
 マネージャー: 〆切、頑張ってくれてるからね。感謝の気持ち
 まるくん: マルィ！
 マネージャー: で、ここからが悪い話
+(Transition)
 マネージャー: みゅーたいぷのSNSが荒れております
 あられ: <size=150%>ぴゃあーーーーーーーーーーーーーーーーー！！！？？？
 ののか: ログアウトしちゃった
 マネージャー: 仲町さーん！！！
+(Transition)
 あられ: まだ何もしゃべってないのに……クチは災いのモト…… イワザル……イワザル……イワザル……
 マネージャー: 叩かれてるのは宮永さん
 ののか: はりゃ
@@ -146,6 +159,7 @@ A子: あー、うん
 ののか: ほ～
 マネージャー: んじゃ、練習はじめよう！
 ののか: は～い
+(Transition)
 (Background change)
 
 [藤家 都子の部屋]
@@ -182,11 +196,13 @@ A子: あー、うん
 都子: にょもも……にゅきき……
 都子: ハッ！
 都子: よしっ…… てっぺんまでにネーム送って明け方までにSDキャララフ５体！
+(Transition)
 (Background change)
 都子: <size=200%>生き抜いてやっからなーーーーーっ！！
 (Background change)
 (Background change)
 (Background change)
+(Transition)
 (Background change)
 ユノ: え、大丈夫？
 都子: ……
@@ -197,6 +213,7 @@ A子: あー、うん
 ユノ: え？　寝オチ？
 マネージャー: ……ちょっとお家に電話してくるわ
 ののか: ……
+(Transition)
 (Background change)
 都子: （寝てしまった……）
 都子: お昼までに台詞修正とアシスタントさんたちへの指示入れ、 お昼休みは昨日寝落ちしちゃった分楽器練習にあてる。 立ち絵素材の戻しがお昼にくるはずだから内容次第で即対応――
@@ -216,15 +233,19 @@ A子: あー、うん
 都子: はは
 ののか: はりゃ～？
 都子: （ムリだ……）
+(Transition)
 (Background change)
+(Transition)
 あられ: ふー……
 あられ: …………
 あられ: くぅ～～～～～～～～～♡♡
 あられ: （今週もチュパサチュ良すぎるぅ！ 富士見夜子先生のマンガからしか得られない栄養、 あると思います……！）
 あられ: （嫌なこといっぱいあっても癒されるの 神でしかないっ）
 あられ: ……
+(Transition)
 (Background change)
 都子: 炎上……
+(Transition)
 (Background change)
 あられ: （私も、夜子先生に何かできたら……）
 ??? (？): あ～、いた～！　あられちゃーん！
@@ -235,6 +256,7 @@ A子: あー、うん
 ののか: うんっ
 あられ: 宮永さん……っ、同じ学校だったんですかー！？
 ののか: そだよ～
+(Transition)
 (Background change)
 ののか: 都子ちゃんとののちゃんは２年生だけど、 この間がはじめましてなんだ～
 ののか: ののちゃんAで都子ちゃんB組～

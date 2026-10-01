@@ -1,5 +1,6 @@
 10514:adv_script_umiri_sakiko_linkstory_2 海鈴&祥子 2
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production 会議室]
@@ -16,6 +17,7 @@
 海鈴: ……少し待っていてください
 祥子: え……？　海鈴？
 祥子: ……どちらへ？
+(Transition)
 海鈴: お待たせしました
 海鈴: ひとまず事務所の備品から 風邪予防グッズを貰ってきました
 祥子: え、こんなに？
@@ -33,6 +35,7 @@
 (Background change)
 海鈴: ティモリスに似ている、と
 祥子: ああ……
+(Transition)
 (Background change)
 海鈴: マスクのおかげで ちょっとした騒ぎになりかけました
 祥子: それは大変でしたわね

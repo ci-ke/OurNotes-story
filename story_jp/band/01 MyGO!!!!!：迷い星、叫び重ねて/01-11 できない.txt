@@ -14,18 +14,22 @@
 そよ: 練習どうするの？
 立希: …………
 燈: ……
+(Transition)
 (Background change)
 
 [椎名家 立希の部屋]
 
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000020/data/adv_still_charaillust_000020/adv_still_charaillust_000020.webp)
 立希: …………はぁ
+(Transition)
 (Background change)
 祥子: どうしましたの？
 立希: ……
 祥子: ……ああ、ここのフレーズで悩んでいらしたのですね。 では、こちらでいかがです？
+(Transition)
 (Background change)
 立希: …………
+(Transition)
 (Background change)
 
 [RiNG スタジオ]
@@ -49,6 +53,7 @@
 そよ: せっかく集まったんだし、 みんなで一緒にやろうよ
 立希: ……練習始めるから
 愛音: …………
+(Transition)
 楽奈: 満足
 立希: ちょっとまだ終わってないんだけど。 何帰ろうとしてんの？
 楽奈: ？
@@ -65,6 +70,7 @@
 燈: えと、さっき帰った……
 立希: はあ！？
 そよ: ほんと猫みたいだね〜
+(Transition)
 (Background change)
 
 [椎名家 立希の部屋]
@@ -72,11 +78,14 @@
 立希: ……はぁ。ろくな練習できなかった……
 立希: 野良猫抜きか。それとも……
 立希: ライブに来るって保証もないし、 これ以上楽譜いじったら素人が対応できなくなる……
+(Transition)
 (Background change)
 祥子: 燈の歌詞にふさわしい曲を書いてみせますわ
 祥子: 気になることがあれば、何でもおっしゃってくださいね。 これは曲を書いたわたくしの責務ですわ
+(Transition)
 (Background change)
 立希: なんで今さら、思い出すんだよ……
+(Transition)
 (Background change)
 
 [羽沢珈琲店]
@@ -91,6 +100,7 @@
 祥子: …………
 睦: ……ライブの日なら、会えると思う
 祥子: ……いつですの？
+(Transition)
 (Background change)
 
 [RiNG スタジオ]

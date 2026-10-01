@@ -1,5 +1,6 @@
 10512:adv_script_umiri_nyamu_linkstory_3 Umiri & Nyamu 3
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Open Space]
@@ -8,10 +9,12 @@ Umiri: ...
 Nyamu: *Sigh*...
 Umiri: Oh, Yūtenji-san. Good morning.
 Nyamu: Oh, Umiko. Hey, you have to hear this~!
+(Transition)
 Umiri: I am working right now. I will give you attention later.
 Nyamu: So, you know how I had the morning off today?
 Umiri: Hm.
 Nyamu: I've been super busy lately, so I figured I might as well treat myself and went to get a hand treatment.
+(Transition)
 (Background change)
 Nyamu: It was a pretty popular place, and I got a reservation right away, so I was like, "lucky me♪"
 Umiri: That is good to hear.

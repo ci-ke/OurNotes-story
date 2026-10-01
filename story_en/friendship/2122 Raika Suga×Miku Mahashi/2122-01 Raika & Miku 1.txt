@@ -1,6 +1,7 @@
 10579:adv_script_raika_miku_linkstory_1 Raika & Miku 1
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Kitchen]
 

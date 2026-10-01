@@ -13,6 +13,7 @@ Taki: Huh? What is it?
 Uika: Oh... is this not the one you liked?
 Taki: Eh? Ah... Misumi-san?
 Uika: Um... well... The other day—
+(Transition)
 Umiri: Are you cheating? Let's settle this in court.
 Uika: Huh?
 Taki: What's going on?
@@ -20,11 +21,14 @@ Umiri: Sneaking around like this... it's not something I can overlook. You shoul
 Uika: W-Wait a second. What are you talking about? I just wanted to apologize for what happened before.
 Taki: Before?
 Uika: You know, behind the school building...
+(Transition)
 Classmate A: Doloris and Timoris look so picture-perfect today, too~♪
 Classmate B: Two celebrities in the same class—it's like something out of a manga. Though it looks like there's some kind of drama going on...?
+(Transition)
 Umiri: It seems we've drawn quite a bit of attention.
 Uika: Let's go somewhere else. Okay?
 Taki: Huh... well, okay.
+(Transition)
 (Background change)
 
 [Hanasakigawa Girls' Academy - Vending Machine]
@@ -44,6 +48,7 @@ Uika: (Oh... she's with MyGO!!!!!...)
 Taki: Stray cat, when did you... Hey, don't make things difficult for Misumi-san.
 Umiri: Unfortunately, it seems there's no matcha in the vending machine.
 Rāna: Then that.
+(Transition)
 Uika: Huh? Oh, this almond milk? If Taki-chan doesn't want it...
 Taki: Rāna, don't try to take everything. This one's mine.
 Uika: Huh?
@@ -64,6 +69,7 @@ Umiri: Using material things as bait—isn't that one of your bad habits, Taki-s
 Taki: That's not true. That was an equal exchange.
 Umiri: Then the same goes for Kaname-san's case, doesn't it?
 Uika: Ah, ahaha...
+(Transition)
 Rāna: Tasty.
 Taki: Hey, what did I just say!? Sorry, Misumi-san.
 Uika: It's fine. I wanted to give it to her.
@@ -73,6 +79,7 @@ Taki: Follows me all the way here and just leaves... You too, stray cat. Back to
 Rāna: Yeah.
 Uika: Huh!? Rāna-chan!? She just walked into the bushes...
 Taki: *Sigh*... Unbelievable. Come on, we're going to be late.
+(Transition)
 Uika & Taki: ...
 Taki: Are they doing okay?
 Uika: What?

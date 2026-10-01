@@ -2,16 +2,21 @@
 
 確かに、みんな浮かれて ユメでも見てたんだろうね
 
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 ユノ: （――これでよかったんだ。 みゅーたいぷから離れてよかった）
 ユノ: （バンドくらい、仕事だと割り切ればうまくやれる。 そう思ってた）
+(Transition)
 (Background change)
 コハル: 最高のバンドなんでしょ？ あたしたち
+(Transition)
 (Background change)
 ユノ: ……っ
 ??? (ののか): ユ<size=110%>～<size=120%>～<size=130%>～<size=140%>ノ<size=150%>～<size=160%>～<size=170%>～<size=180%>ちゃ<size=190%>～<size=200%>～<size=210%>～<size=220%>ん
 ののか: <size=175%>いーーーーーーーたーーーーーーーー！！
+(Transition)
 ののか: いっぱい探したんだよ！ マグロちゃんのとこにもいないし！
 ののか: これ！　お土産のウツボクッキー――
 ユノ: なんで来たの
@@ -25,6 +30,7 @@
 ユノ: ……気遣って迎えにきたんでしょ
 ユノ: いい人ぶらなくていいよ。 そういうの、いいから
 ののか: ……はぁ……
+(Transition)
 ののか: …………
 ユノ: ？
 ののか: <size=150%>っも～～～～～～～～～～～～～～！！！！！！！
@@ -34,10 +40,12 @@
 ののか: みんな言いたい放題！　帰ってとか！
 ののか: 話しかけるなとか、嫌いとか！
 ののか: アホとかバカとか偽善者とかクソガキとか！！
+(Transition)
 ユノ: え……そんなこと言ってな……
 ののか: <size=175%>みんなワガママばっかり！！！
 ののか: ののちゃんは ののちゃんのやりたいようにやります！！！
 ののか: <size=175%>一生帰らないぃ！！！
+(Transition)
 ののか: ユノちゃんがバンドやるまで、 ぜったいぜったいぜ～～～～ったい……
 ののか: <size=175%>かーえーらーなーーーーーーーーいッ！！！！
 ユノ: ちょ……
@@ -53,6 +61,7 @@
 律: ののちゃん……！ こんな、変わり果てた姿に……
 ののか: <size=150%>がう！！　ぐるるるる……
 律: ののちゃん、ユノさんを離してあげて
+(Transition)
 ののか: <size=150%>いーーやーー！
 あられ: あのう……
 ユノ: ？
@@ -64,12 +73,15 @@
 律: ののちゃん、落ち着いて…… どう……どう……
 ののか: ぐるるるる……ガブッ
 律: ぎゃっ
+(Transition)
 あられ: ああっ、リアルでお会いしたら 絶対に伝えたかったことがありましてっ
 あられ: のびしも伝と同時期に作曲担当されていた 『メメンタルオーパーツ』！ あのエンディングテーマ曲が大好きで！
+(Transition)
 あられ: でもあのタイトルって音楽関係のクレジットが ボヤ～っとしてたじゃないですかっ
 あられ: だからつい最近ユノさんちゃんの作曲だったんだって知って！ も～この感動をぜひ本人に直接伝えたくて！　あとあと！
 ユノ: めんどくさ
 あられ: え……
+(Transition)
 律: ……
 ユノ: こういう友達ごっこみたいなのが無理なの
 ユノ: バンドはやらない
@@ -77,12 +89,15 @@
 律: ユノさん……
 ののか: んッんッ、だめ゛――
 律: ののちゃん
+(Transition)
 あられ: みゅーたいぷが、ダメなんですか……？
 ユノ: ……みゅーたいぷってより……
 ユノ: はぁ……
 ユノ: タイアップ来たでしょ？ あれの作詞……
 ユノ: 昔やってたバンドのメンバーなんだ――
 (Background change)
+(Transition)
+(Transition)
 (Background change)
 コハル: おお！　ここいいんじゃない？
 カエデ: 図書準備室か～
@@ -91,6 +106,7 @@
 コハル: えー、いいじゃん！　必要でしょ、 私たちバンド組むんだし！
 ユノ: 先生にバレたらどうすんの？
 ユイナ: その時はその時
+(Transition)
 コハル: 曲！　作ってきてくれたんだよね？
 ユノ: まだざっくりだけど
 コハル: くぅ～！　曲できたし、バンド名も決まったし、 まずはやっぱー……
@@ -117,9 +133,11 @@
 ユノ: 言わないよ！ 何そのイメージ！
 コハル & カエデ & ユイナ: あははっ！
 一同: <size=150%>かんぱーい！
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000266/data/adv_still_anime_000266/adv_still_anime_000266.webp)
 ユイナ: うま～
+(Transition)
 (Background change)
 コハル: 初ライブおつかれ！
 カエデ: まだ手震えてるよ～
@@ -133,6 +151,7 @@
 ユノ: できた
 ユイナ: まじだ～
 コハル: ひょ～…
+(Transition)
 ユノ: あたし、音楽で食べていきたい
 ユイナ: え
 コハル: ……ユノならできるよ！
@@ -140,10 +159,12 @@
 ユノ: あたしもすごいけど！ そうじゃなくて……
 ユノ: あたしたち、みんなで
 ユノ: あたしたち、最高のバンドでしょ
+(Transition)
 (Background change)
 ユノ: わかるんだ、 メジャーシーンに出たら絶対売れる
 (Background change)
 ユノ: 世界にも行けるはずだし
+(Transition)
 (Background change)
 ユイナ: …… それ、ガチで言えちゃうのがユノなんだよね
 コハル: 行きますか！ 世界！
@@ -156,18 +177,22 @@
 コハル: 取るぞ！　世界！
 カエデ & ユイナ: おー！
 ユノ: ――こいつらと生きていくんだ。 音楽で
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000267/data/adv_still_anime_000267/adv_still_anime_000267.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000268/data/adv_still_anime_000268/adv_still_anime_000268.webp)
 (Caption): 兼 supermacy バンド 練習室！ やった～ 認可済
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000269/data/adv_still_anime_000269/adv_still_anime_000269.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000270/data/adv_still_anime_000270/adv_still_anime_000270.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000267/data/adv_still_anime_000267/adv_still_anime_000267.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000268/data/adv_still_anime_000268/adv_still_anime_000268.webp)
 (Caption): 兼 supermacy バンド 練習室！ やった～ 認可済
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000269/data/adv_still_anime_000269/adv_still_anime_000269.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000270/data/adv_still_anime_000270/adv_still_anime_000270.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000291/data/adv_still_anime_000291/adv_still_anime_000291.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000292/data/adv_still_anime_000292/adv_still_anime_000292.webp)
+(Transition)
 ユノ: 来年も、またその次も、高校生になっても
 ユノ: 大人になっても、ずっと
 ユノ: あたしたち、最高のバンドだ！
@@ -175,6 +200,7 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000291/data/adv_still_anime_000291/adv_still_anime_000291.webp)
 ユノ: 結局、バンドは一年で解散した
 ユノ: みんな『自分の夢ができたから辞めたい』って いつもみたいに笑ってたよ
+(Transition)
 (Background change)
 あられ: ……引き留めなかったんですか？
 ユノ: 学生バンドにはよくあることでしょ
@@ -184,11 +210,13 @@
 ユノ: 本気で目標にしてたのは、 あたしひとりだったってだけで
 ユノ: しょせん他人だし、 誰かに期待なんてしてたあたしが子どもだったんだ
 ののか: ユノちゃ――
+(Transition)
 ユノ: だからみゅーたいぷにも 必要以上に関わりたくなかった
 ののか: ……
 ユノ: ビジネスでならうまくやれるかと思ったけど、 結局ダメだったし
 ユノ: 引っかき回してゴメン
 あられ: …………
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10.mp4)
 (Caption): 夢みた10話　焚き火での作曲シーン
@@ -250,11 +278,13 @@
 (Subtitle) あられ: ふ〜んふふ〜ん♪
 (Subtitle) 都子: ぐっ……！
 (Subtitle) ののか: あう゛ぁんぎゃるど！
+(Transition)
 (Background change)
 ののか: <size=175%>あう゛ぁんぎゃるど！
 ユノ: ブラッシュアップの余地あり
 律: トラックごと消してますよ
 都子: ふ……っ
+(Transition)
 ののか: みゅ～～～～……
 ののか: <size=175%>た～～～～～いぷ！
 ユノ: いや、あたしは辞めたんだって……
@@ -262,11 +292,14 @@
 ののか: 今はみゅーたいぷ3.0 でーす
 ユノ: 無敵かコイツ……
 律: 曲の改良中という意味では 3.3くらいですね
+(Transition)
 あられ: おっきいおにくっ！ 焚火で焼くの？
 律: うん
 ユノ: 好き放題だな
 律: ユノさんが教えてくれたんですよ？
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000225/data/adv_still_anime_000225/adv_still_anime_000225.webp)
+(Transition)
 (Background change)
 ユノ: ……
 ののか: <size=150%>甘いのもたべよー！
@@ -277,6 +310,7 @@
 律: ユノさん、お肉いかがですか
 ユノ: いらん
 ユノ: それより、さっきの続き
+(Transition)
 ユノ: ――ん
 ユノ: いいんじゃない
 ののか: やた～！
@@ -293,14 +327,17 @@
 ユノ: 話聞いてた？
 ののか: <size=175%>聞いてた！！
 ののか: 聞いてたから、 もっと、もーっと……っ
+(Transition)
 ののか: <size=150%>みんなとみゅーたいぷやりたくなった！
 ユノ: ……
+(Transition)
 あられ: ～～～～～～～～っ
 律: はい！
 あられ: ぼくも！
 都子: ……
 ユノ: ……ふっ。 ほんと、好き放題
 あられ: ……！
+(Transition)
 ののか: <size=150%>みんなも入ろ～！
 ユノ: イヤ
 ののか: なにお～！
@@ -309,6 +346,7 @@
 ののか: 逃がさないっ
 都子: えっ、私は関係な――
 ののか: <size=175%>海がおいでと言っているーー！
+(Transition)
 (Background change)
 あられ: ……
 律: 何してるの？　SNS……？
@@ -321,5 +359,6 @@
 都子: いやいやいや！
 ユノ: てか夜の海ほんとに危ないからやめな
 ののか: ！　そうかも！
+(Transition)
 あられ: あ、ぼくもちょっとだけ入ってみたいなーって……
 ユノ: やめときなって

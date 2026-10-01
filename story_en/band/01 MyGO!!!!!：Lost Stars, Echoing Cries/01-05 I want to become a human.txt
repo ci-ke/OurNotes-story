@@ -40,6 +40,7 @@ Tomori: I just want to live like everyone else.
 Tomori: I want to become a human.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000020/data/adv_still_anime_000020/adv_still_anime_000020.webp)
 Tomori: That was when I met Saki-chan...
+(Transition)
 ??? (Sakiko): No, don't!!
 (Background change)
 Tomori: Ugh...
@@ -56,11 +57,14 @@ Sakiko: Dead!? What!?
 Tomori: ...
 Sakiko: I completely misunderstood... You didn't mean to do that...
 Tomori: Yeah...
+(Transition)
 Tomori: Oh, your knee...
 Sakiko: ...? Oh my, I've done it... It seems I scraped it when I pushed you away.
 Sakiko: It's all right. This is not a problem. Well then, farewell.
+(Transition)
 Tomori: W-Wait! My home is close, so...
 Sakiko: What...?
+(Transition)
 (Background change)
 
 [Takamatsu's Home - Tomori's Room]
@@ -83,13 +87,16 @@ Sakiko: "I made friends like everyone else, but even when I'm with everyone, it 
 Tomori: That's... um...
 Sakiko: Are they song lyrics!?
 Tomori: What...?
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000022/data/adv_still_anime_000022/adv_still_anime_000022.webp)
 (Background change)
 Tomori: U-Um... Where are we...?
 Sakiko: This is my home.
+(Transition)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_ningen_mygo_03/adv_movie_ningen_mygo_03/adv_movie_ningen_mygo_03.mp4)
 (Caption): 人間になりたいうた
 (Subtitle) Tomori: Ah...
+(Transition)
 (Background change)
 Tomori: ...
 Sakiko: "The Song About Wanting to Become a Human"... These truly are wonderful lyrics...! It's amazing that you can write this.
@@ -97,6 +104,7 @@ Sakiko: I apologize for not introducing myself sooner. My name is Sakiko Togawa.
 Sakiko: What's your name?
 Tomori: Tomori...
 Sakiko: Tomori-san... won't you start a band with me?
+(Transition)
 (Background change)
 Soyo: Tomori-chan, you live behind Tsukinomori, don't you? We might have passed each other somewhere!
 Tomori: Ah...
@@ -111,6 +119,7 @@ Sakiko: I've known Mutsumi since we were little. Soyo-san and I are in the same 
 Soyo: But this is practically the first time we've talked, isn't it? And the same goes for Mutsumi-chan!
 Mutsumi: Yeah...
 Sakiko: There's one more. The drummer. This is the first time I'll be meeting her.
+(Transition)
 (Background change)
 
 [Hazawa Coffee Shop]
@@ -153,6 +162,7 @@ Soyo: I've never written lyrics, so just the fact that you were able to do it is
 Sakiko: Tomori-san has lots of notebooks filled with lyrics at her home!
 Sakiko: I have music I played on the piano. I'll play it for you in the studio later.
 Tomori: ...? The studio...?
+(Transition)
 (Background change)
 
 [Studio]
@@ -171,6 +181,7 @@ Sakiko: I'll get your mic ready!
 Tomori: Eh... Ugh...
 Sakiko: ...?
 Tomori: I'm... going to sing...?
+(Transition)
 (Background change)
 
 [The Way Home]

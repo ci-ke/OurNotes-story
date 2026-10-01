@@ -35,6 +35,7 @@ Ritsu: You pulled me out of there, Arale-chan. I'm not turning back now.
 Arale: Ricchan...
 Ritsu: We'll be okay... I'm sure of it.
 Arale: Hehe...
+(Transition)
 (Background change)
 Arale: I am so, so, so, <size=150%>SO sorry!!
 Nonoka: Whoa.
@@ -80,6 +81,7 @@ Arale: You guys...
 Arale: Thaaank yooouuuuu!
 Arale: ! Very much!!
 Yuno & Miyako & Nonoka: ...
+(Transition)
 (Background change)
 Arale: Mmmmmm... *Sigh*...
 Arale: ...!
@@ -95,6 +97,7 @@ Arale: Ngh...
 (Caption): Trending New Release Fled from Event Fairy Bouquet Custom Car Spice Curry
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000241/data/adv_still_anime_000241/adv_still_anime_000241.webp)
 Arale: ...!
+(Transition)
 Arale: (This hurts... I don't want to see this...)
 Arale: (But...)
 Arale: (If I'm going to move forward, I need to know exactly what's going on.)
@@ -114,9 +117,11 @@ Arale: Those tears are fake. She's doing exactly what she did to me.
 Arale: (I couldn't see it back then, but now I know Viola did the same thing to Utami-san.)
 Arale: (I won't just take it lying down anymore. I will never go back to who I was then.)
 Arale: I...
+(Transition)
 (Background change)
 Arale: This time, <size=200%>I'm going to fight baaaaaack!!!
 (Background change)
+(Transition)
 (Background change)
 (Message) Manager: Did you manage to get some proper rest today?
 (Message) Arale: Thank you! I'm doing okay!
@@ -126,6 +131,7 @@ Arale: "I dragged one of their members away and ruined the whole event." That's 
 Miyako: Arale-san?
 Arale: ! Miyako-san!
 Arale: Wow~ what a coincidence!
+(Transition)
 (Background change)
 Arale: <size=150%>Wooooow!
 Arale: It's the original fan art piece~! This is amazing! So amazing! Wooooow!
@@ -142,12 +148,15 @@ Miyako: ...
 Miyako: (Your entire inner monologue is coming out at full volume?!)
 Miyako: (Am I even supposed to be hearing this?! This sounds extremely private!)
 Miyako: (I-I-I don't really understand, but I'm sensing powerful waves of compassion and serious distress...)
+(Transition)
 (Background change)
 Arale: Yako-sensei, I really love the stories you wri...
+(Transition)
 (Background change)
 Arale: Hmm...
 Miyako: Ah...
 Miyako: ...
+(Transition)
 (Background change)
 Miyako: *Sigh*...
 Miyako: (The tragic reality that I can't think of a single helpful thing to say when Arale-san needs it most!)
@@ -156,6 +165,7 @@ Miyako: *Sigh*...
 ??? (Viola): Excuse me!
 Miyako: ?
 Viola: ...!
+(Transition)
 Miyako: <size=150%>(Who is she?!)
 Miyako: (I don't know anyone this gorgeous! Wait, me?! Does she actually need something from me?!)
 Viola: ...
@@ -167,6 +177,7 @@ Viola: I knew it! You're Fujimi Yako-sensei, aren't you?
 Miyako: ...!
 Maru-kun: (Miyako...?)
 Maru-kun: (H-Hey, Miyako! Miyakooooooo!!!)
+(Transition)
 Viola: I've been wanting to meet you...
 Viola: Oh, I'm sorry. I happened to overhear you talking in the bookstore earlier.
 Viola: And I'd seen a photo of you online before...
@@ -184,5 +195,7 @@ Miyako: (She probably charms everyone like this and just breezes through life wi
 Viola: Hehe.
 Miyako: <size=150%>(Ngh...!!!!!)
 Maru-kun: <size=180%>(Miyakooooooooo<voffset=-1.2em><pos=5.8em>ooooo!!!!!!)</voffset>
+(Transition)
 Viola: Thank you very much...
+(Transition)
 (Background change)

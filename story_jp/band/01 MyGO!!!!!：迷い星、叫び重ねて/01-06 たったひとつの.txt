@@ -14,6 +14,7 @@
 睦: ……
 立希: ねえ、早く受付済ませたら
 そよ: あ、それもそうだね。 すみませ～ん――
+(Transition)
 祥子: この機械にはいろんな飲み物が入ってますの？
 立希: ドリンクバー。 好きに持ってっていいやつ
 祥子: 立希さん、お詳しいのね
@@ -26,6 +27,7 @@
 祥子: ここですの？ ……あら？　出ませんわ……
 立希: 何やってんの…… 押すとこ違うんだけど
 そよ: 遊ばないでくださーい。 ほら、お部屋行こ
+(Transition)
 (Background change)
 祥子: カラオケってなんて楽しいんですの！
 そよ: まだ歌ってないのに～。 ……あっ、曲始まる
@@ -48,21 +50,27 @@
 燈 & そよ & 立希: え……！？
 立希: 歌った……
 祥子: まあ！　上手ですわ、睦！
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000023/data/adv_still_anime_000023/adv_still_anime_000023.webp)
 (Caption): 眩しいんだ
 燈: 眩しい
+(Transition)
 そよ: ほーら、立希ちゃんも曲入れて？
 立希: 私はいいって。 ……燈。これ、検索したら曲出るから
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000024/data/adv_still_anime_000024/adv_still_anime_000024.webp)
 (Caption): はやさしく連
 燈: 優しい
+(Transition)
 燈: 曲が……出る……
 祥子: 立希さん、わたくしにも教えてくださる？
 立希: えっ……
 そよ: 立希ちゃん、ファイト～♪
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000025/data/adv_still_anime_000025/adv_still_anime_000025.webp)
 (Caption): 美しい
 燈: 美しい
+(Transition)
 祥子: とても素敵な歌声でしたわ、燈！
 そよ: 緊張も解けてきたんじゃない？
 立希: ……スタジオよりはマシ
@@ -75,9 +83,11 @@
 そよ: わぁ、睦ちゃんが笑ってる～
 祥子: 睦は笑いますわよ
 燈: ……ふふっ
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000026/data/adv_still_anime_000026/adv_still_anime_000026.webp)
 (Caption): 温かいの
 燈: 温かい
+(Transition)
 (Background change)
 
 [羽沢珈琲店]
@@ -97,6 +107,7 @@
 睦: うん
 立希: いい曲にしてよ？
 祥子: もちろん。 燈の歌詞にふさわしい曲を書いてみせますわ
+(Transition)
 (Background change)
 
 [スタジオ]
@@ -114,8 +125,10 @@
 祥子: いいえ、『CRYCHIC』ですわ
 祥子: クライは叫ぶ、シックは上品で洗練されたという意味……
 燈: あ……
+(Transition)
 (Background change)
 燈: 心の、叫び……
+(Transition)
 (Background change)
 祥子: わたくしたちの歌を皆さん聴いてと、 叫び出したいくらいですから
 祥子: 皆さん、準備はよろしくて？
@@ -133,10 +146,13 @@
 そよ: もう、立希ちゃんっ！ 燈ちゃん、がんばって！
 燈: うん……
 燈: CRYCHICです。 『春日影』やります
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4)
 (Caption): 春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
+(Transition)
 燈: はぁ……はぁ……
+(Transition)
 (Background change)
 
 [ライブハウス 舞台袖]
@@ -157,6 +173,7 @@
 祥子: ……また、必ずライブいたしましょう！
 一同: うん！
 祥子: 燈……いい顔してますわ！
+(Transition)
 (Background change)
 そよ: ……あ、ねえみんな、SNS見て！ 燈ちゃんの歌、感動したって！
 立希: え、今日のライブ、もうコメント来てる？ 私も見たいんだけど
@@ -176,12 +193,15 @@
 燈: 祥ちゃん……？
 祥子: …………
 燈: ……？
+(Transition)
 (Background change)
 燈: また、何かがズレていたんだと思う
 燈: 私の歌がダメだったから、祥ちゃんもきっと……
+(Transition)
 (Background change)
 祥子: 今日は言うことがあって来ましたの
 祥子: ……CRYCHICを、やめさせていただきますわ
+(Transition)
 (Background change)
 燈: （きっと、私がずれてたから）
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000028/data/adv_still_anime_000028/adv_still_anime_000028.webp)

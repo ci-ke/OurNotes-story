@@ -2,8 +2,10 @@
 
 （わたくしはどこまでも……愚かですわ）
 
+(Transition)
 (Background change)
 そよ: （睦ちゃん……学校にも来ないし、 どうしてるんだろう……）
+(Transition)
 (Background change)
 : <align="center">Ave Mujica　モ<color=#000000><mark=#C0C0C080>ーティス
 : <align="center">モーティス<color=#000000><mark=#C0C0C080>　睦ちゃん
@@ -12,32 +14,41 @@
 (Background change)
 そよ: っ……！
 そよ: （……睦ちゃんに……会いに行かなくちゃ……）
+(Transition)
 (Background change)
 
 [羽丘女子学園 校門前]
 
 愛音: あ、ともりん。あれ見て！
+(Transition)
+(Transition)
 燈: ……祥ちゃん
+(Transition)
 運転手: おかえりなさいませ、お嬢様
 祥子: ……
+(Transition)
 愛音: すっごー！　ほんとにお嬢様だったんだ
 愛音: デビューした時話題になったもんね。 オブリビオニスは豊川グループの……
 燈: とがわ、グループ……
 愛音: え〜？　CMで森みなみもやってたじゃん。 と・が・わ、グループ♪
 燈: ……
+(Transition)
 (Background change)
 
 [高松家 燈の部屋]
 
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000119/data/adv_still_anime_000119/adv_still_anime_000119.webp)
 (Caption): 幸せ 祥ちゃん
 燈: ……
+(Transition)
 (Background change)
 燈: えっと……
 祥子: これはギターパートなので睦が弾きますわ。 次はキーボードなのでわたくしが
 燈: ……うん
 祥子: で、その下がそよ。ベースですわね。 一番下が立希のパートですわ
 祥子: わからないことがあったらいつでも聞いてくださいな
+(Transition)
 (Background change)
 祥子: まあ、いい眺めですわね。 あ、ここからあの歩道橋が見えるんですのね
 燈: うん……
@@ -45,27 +56,36 @@
 祥子: 毎日が楽しくて、練習が待ち遠しくて この５人でCRYCHICをできることが 本当に幸せで……
 燈: ……
 祥子: バンド名のとおり、 わたくしたちの歌を聞いて〜！　と叫び出してしまいそう
+(Transition)
 (Background change)
 燈: ……祥ちゃん
+(Transition)
 (Background change)
 
 [翌日 放課後]
 
+(Transition)
 (Background change)
 
 [羽丘女子学園 昇降口]
 
 祥子: （！　……またですの！？）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000120/data/adv_still_anime_000120/adv_still_anime_000120.webp)
 (Caption): 祥ちゃんは 幸せ？
+(Transition)
 祥子: ……っ
+(Transition)
 愛音: ——それでね、ともりん
 愛音: え。なに、今の音
 燈: ……？
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000121/data/adv_still_anime_000121/adv_still_anime_000121.webp)
 (Caption): 祥ちゃんは 幸せ？ もうやめて
+(Transition)
 燈: ！　 待って、祥ちゃん！　祥ちゃん！
 愛音: ちょっと、どういうこと？
+(Transition)
 (Background change)
 祥子: （——もういい加減にして！）
 祥子: （わたくしがしあわせ？　わたくしのことを知りたい？ 今までわたくしがどんな気持ちでいたと思っていますの！？）
@@ -74,12 +94,15 @@
 祥子: （燈……）
 燈: ……っ！　祥ちゃん……
 愛音: ともりん、大丈夫？ あれ、あそこにいるの祥子ちゃん？
+(Transition)
 祥子: （……どうして？　 転んでも傷ついても、あなたは……）
 祥子: （あなたは……！）
 執事: お嬢様？
 祥子: ……いえなんでも
+(Transition)
 燈: 待って……！
 愛音: ……まかせて。 私中学３年間、クラスでアンカーだったから！
+(Transition)
 (Background change)
 祥子: ……出してちょうだい
 愛音: <size=150%>すみません、ちょっと待ってください！
@@ -90,9 +113,12 @@
 燈: はぁ……はぁ……はぁ……
 執事: 出発いたします
 祥子: ええ
+(Transition)
 祥子: （……勝手についてきてどういうつもりですの）
 祥子: （……もう終わっているというのに。 もうどうにもならないというのに……）
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 愛音: すっご〜い……でかくない？ 庭に薔薇も咲いてたし、貴族じゃん！
 愛音: わっ、この部屋ビリヤードある！　ヤバくない？
@@ -113,11 +139,15 @@
 燈: ……
 愛音: ……行こ、ともりん
 祥子: ……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000122/data/adv_still_anime_000122/adv_still_anime_000122.webp)
 (Caption): 祥ちゃんは つたわらないものに かたちをくれた あの日祥ちゃんに 会えたこと なくしたくない 祥ちゃんに 届きたくて届かない 祥ちゃんにみえている幸せを 一緒に見たくて 教えてほしくて 帰り道にいつも あの日にかえりたい 一緒に歩きたい
+(Transition)
 祥子: ……
 祥子: （期待して拒絶して、それでも尚—— 燈の言葉は捨てられないでいる。 わたくしはどこまでも……愚かですわ）
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 
 [RiNG スタジオ]
@@ -128,7 +158,9 @@
 立希: まだ
 愛音: よかった〜
 立希: ったく…… ……燈、どうかした？
+(Transition)
 燈: ……
+(Transition)
 愛音: あ〜…… ともりん、今日ちょっとお疲れ気味かも
 立希: なんかあったの？
 愛音: さっき祥子ちゃん家で『バンドやろう』って言って。 でも追い返されちゃって……
@@ -143,10 +175,12 @@
 愛音: ちょっと〜、そよりんまだだよ
 立希: そのうち来るでしょ
 燈: ……
+(Transition)
 
 [放課後]
 
 (Background change)
+(Transition)
 (Background change)
 
 [若葉家 睦の部屋]
@@ -154,11 +188,13 @@
 そよ: 睦ちゃん……？　いるの？　 ……入るね
 モーティス: ——はい、はい……
 そよ: （誰かと電話してる……？）
+(Transition)
 モーティス: そうなんです………いえ、ずっと眠ったままで
 モーティス: もしもし、お医者さんですか？ はい………はい、睦ちゃんが起きないんです
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
 モーティス: はい、はい……ずっと寝たままなんです
 そよ: 睦ちゃん？
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp)
@@ -170,5 +206,6 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp)
 そよ: ひっ……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000128/data/adv_still_anime_000128/adv_still_anime_000128.webp)
 モーティス: そよちゃん…… そよちゃん、睦ちゃんを起こして……

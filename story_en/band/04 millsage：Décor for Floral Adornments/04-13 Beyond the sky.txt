@@ -50,6 +50,7 @@ Hotaru: Kiddo...
 Houka: I am afraid if I stayed late now, I would be cutting it rather close to curfew... My apologies.
 Mahoro: Aww, come on, everyone. You don't have to worry about me! Thanks for today. See you!
 Hotaru: All right... I'll be going, then.
+(Transition)
 (Background change)
 
 [The Way Home]
@@ -97,8 +98,10 @@ Houka: If you do it without even realizing it, surely that means you love singin
 Hotaru: ...
 Hotaru: (Me, sing...?)
 Hotaru: (Actually, back when I used to play with Kanata-san... no, even before that...)
+(Transition)
 (Background change)
 Hotaru: (When I was little, I did sing while I played.)
+(Transition)
 (Background change)
 Hotaru: But... loving something and being able to sing properly are two different things, aren't they...?
 Houka: Who can say? There is a saying, after all. Passion is the best teacher.
@@ -108,6 +111,7 @@ Hotaru: Ah, yes...! Thank you for today...!
 Hotaru: ...
 Hotaru: (Would doing that really help Mahoro-san...?)
 Hotaru: (What would Kanata-san do... in a situation like this?)
+(Transition)
 Hotaru: (Kanata-san...)
 (Background change)
 
@@ -116,10 +120,12 @@ Hotaru: (Kanata-san...)
 Mahoro: —♪
 Mahoro: *Cough* Cough, cough...!
 Mahoro: Ngh... Hah, hah...
+(Transition)
 Mahoro: This isn't good enough... Not even close...!
 Mahoro: (This time, I have to get it right.)
 Mahoro: (For everyone.)
 Mahoro: (And for Kanata's dream... the dream she never got to fulfill.)
+(Transition)
 (Background change)
 
 [Six Months Earlier]
@@ -160,9 +166,11 @@ Mahoro: It's still a little early for us, right?
 Kanata: Hmm... I guess so.
 Kanata: If that's what you think, Mahoro, then let's do that!
 Mahoro: Right, right! That's better.
+(Transition)
 (Background change)
 (Mahoro): I had no idea.
 (Mahoro): That Kanata did not have much time left.
+(Transition)
 (Background change)
 Mahoro: (Kanata's dream never came true...)
 Mahoro: (Because I never tried hard enough.)
@@ -171,6 +179,7 @@ Mahoro: (Because I was a coward, spoiled and weak.)
 Mahoro: (The disappointed smile Kanata gave me back then... is burned into me and won't let go.)
 Mahoro: (I have to atone...)
 Mahoro: (I have to stand onstage at Suzuya Music Hall with millsage and send our music beyond the sky, all the way to Kanata.)
+(Transition)
 (Background change)
 Mahoro: (Otherwise, I...)
 Mahoro: (I could never forgive myself. Not even in death.)

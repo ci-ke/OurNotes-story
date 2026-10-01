@@ -9,7 +9,9 @@ Hotaru: (To make everyone's wishes come true, I need to get better... Better—)
 Audience A: Wow... Who is she? Is she a professional?
 Audience B: I've never heard piano like that before...
 Hotaru: Thank you so much! Oh...?
+(Transition)
 Mahoro: Hey! I came to watch.
+(Transition)
 Hotaru: Mahoro-san! Hi!
 Mahoro: Good work, Hotaru-chan. Even on days without band practice, you come here and play piano?
 Hotaru: Yes. I can practice at home, of course. But only here can I play for someone and let the music reach them.
@@ -35,6 +37,7 @@ Hotaru: (If I had met Mahoro-san... if I had met everyone in millsage...)
 Hotaru: (Or...)
 Hotaru: (If I had never met Kanata-san...)
 Hotaru: (Then...)
+(Transition)
 Mahoro: Hotaru-chan?
 Hotaru: Oh! Sorry.
 Hotaru: (No. There is no point thinking about "if only.")

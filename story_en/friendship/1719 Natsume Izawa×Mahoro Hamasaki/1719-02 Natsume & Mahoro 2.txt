@@ -1,11 +1,14 @@
 10565:adv_script_natsume_mahoro_linkstory_2 Natsume & Mahoro 2
 
+(Transition)
 (Background change)
 
 [The Garage]
 
 Mahoro: Oh, it's open... I wonder if someone's already here...
+(Transition)
 (Background change)
+(Transition)
 Mahoro: Natsume-chan...?
 Natsume: Oh, Mahoro. Just who I needed. Give me a hand for a second.
 Mahoro: Huh? You want help... taking selfies?
@@ -24,6 +27,7 @@ Mahoro: But phone cameras are supposed to be amazing these days. For an icon, I 
 Natsume: Really? Then... here. My phone. Pretend you're a professional cameraman and do your thing, please.
 Mahoro: A professional...!?
 Mahoro: (Still... It has a nice ring to it...!)
+(Transition)
 Mahoro: Ahem... So, what kind of picture are we taking today?
 Natsume: Something cool.
 Mahoro: Cool, got it~ How about we start with a profile shot? Do you want to use a filter?
@@ -35,6 +39,7 @@ Mahoro: Oh... I've got it. What if I stretch up and take it from above...!
 Natsume: Are you sure about this? You're wobbling.
 Mahoro: I'm fine, I'm fine...! Okay, here goes... Whoa!?
 Natsume: !?
+(Transition)
 Mahoro: Got it! That was close...!
 Natsume: H-Hey... Are you okay?
 Mahoro: Ahaha... Sorry, sorry. But look, your phone's safe!

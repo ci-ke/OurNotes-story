@@ -1,6 +1,7 @@
 10585:adv_script_raika_chieri_linkstory_1 Raika & Chieri 1
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Living Room]
 
@@ -17,12 +18,15 @@ Raika: Anyway! What are we doing today?
 Chieri: Let's see...
 Chieri: Chieri has competed against Raika in all sorts of contests... Once, we had a race to hang up the laundry.
 Raika: Cherie hung everything up nice and neat! Though I finished faster!
+(Transition)
 (Background change)
 Chieri: Another time, it was a race from the shopping district to P-Stay.
 Raika: Ah, when we ran like crazy carrying all those groceries! Cherie was pretty fast, too~
+(Transition)
 (Background change)
 Chieri: And then, our eat-off at "Manpuku Keiko Diner."
 Raika: Aunt Keiko's giant portions were so good~ And I even got to have your fried chicken, so I was thrilled!
+(Transition)
 (Background change)
 Chieri: Rrgh... I was this close every single time! I just happened to be off my game, that's all...!
 Chieri: But Chieri's different today!
@@ -39,6 +43,7 @@ Raika: I won't back down... I'll never give up on my family!
 Chieri: Wha...! You suddenly got so strong...!
 Chieri: Chieri can do it too... Chieri can do it! The union leader... never loses~!
 Chieri & Raika: <size=120％>Graaahhh!!</size>
+(Transition)
 Chieri: Ah... nooo!
 Raika: Your hand hit the table, Cherie! I win~!!
 Chieri: Ughhh, I thought I could win this one...!!

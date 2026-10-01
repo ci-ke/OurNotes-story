@@ -1,6 +1,7 @@
 10597:adv_script_miku_shizuku_linkstory_1 心玖&寧月 1
 
 (Background change)
+(Transition)
 
 [練習スタジオ]
 

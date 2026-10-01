@@ -25,6 +25,7 @@ Mutsumi: I'll try... contacting her again...
 Soyo: I see. Thank you.
 Mutsumi: ...
 Soyo: Don't worry. Things will go back to being the way they were. Just leave it to me.
+(Transition)
 (Background change)
 
 [Haneoka Girls' Academy - Classroom 1-A]
@@ -44,6 +45,7 @@ Anon: Oh right, the moustache penguin! It was also on one of the bandages you ga
 Tomori: You remembered...?
 Tomori: Um... I'll give this moustache penguin to you, too.
 Anon: I'll take it. Thanks~
+(Transition)
 (Background change)
 
 [After School]
@@ -55,6 +57,7 @@ Classmate A: We're rehearsing in the studio today! If you'd like, let's all go t
 Anon: (I'm not really that serious though...)
 Anon: (But I can't say that... *Sigh*...)
 Anon: Thank you, all of you~! It's a good opportunity, so please take me along~
+(Transition)
 (Background change)
 
 [RiNG Entrance]
@@ -76,6 +79,7 @@ Anon: (What? Oh no...! I never imagined that she and the girl from yesterday wou
 Anon: Ah... I'm sorry for complaining about a friend of yours...
 Soyo: Hehe, it's all right. Getting spoken to in that tone of voice with no warning, it's only natural to be surprised.
 Soyo: Well, instead of standing around, why don't we have tea together at that café?
+(Transition)
 (Background change)
 
 [RiNG Cafeteria]
@@ -158,20 +162,26 @@ Soyo: Yeah, of course~
 Anon: (Yay~~~~!! I love you, Soyo-san!!)
 Soyo: I see. So, Tomori-chan turned it down. Well, she is a sensitive girl~
 Anon: ...?
+(Transition)
 (Background change)
 (Message) Anon: Thank you for today~ It's totally okay with me if you're just a support member. I'm just super happy to get to be in a band with you!
 (Message) Anon: I'm looking forward to everything from here on out!
 Anon: That's a relief... I might be able to build a band.
 Anon: I wonder if I'll be able to start over this way.
 Anon: ...
+(Transition)
 (Background change)
 Soyo: Tomori...? Do you mean Takamatsu Tomori-chan?
+(Transition)
 (Background change)
 Anon: I wonder where Tomori-chan and Soyo-san became friends...?
+(Transition)
 (Background change)
 Tomori: Thank you for inviting me to join your band... But... I'm sorry.
+(Transition)
 (Background change)
 Anon: She's sensitive, huh...? I might have been a little too pushy about it.
+(Transition)
 (Background change)
 Soyo: ...
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000007/data/adv_still_anime_000007/adv_still_anime_000007.webp)
@@ -180,4 +190,5 @@ Soyo: Maybe later.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000008/data/adv_still_anime_000008/adv_still_anime_000008.webp)
 (Caption): Post  Following
 Soyo: ...
+(Transition)
 (Background change)

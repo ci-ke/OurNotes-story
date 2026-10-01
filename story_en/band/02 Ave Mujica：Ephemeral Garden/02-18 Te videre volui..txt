@@ -2,7 +2,9 @@
 
 A light shone through. My once dim world was filled with light. I felt as if I had been reborn.
 
+(Transition)
 (Background change)
+(Transition)
 Hatsune: What I'm about to share with you is the play of a girl with all her secrets... the story of Hatsune Misumi.
 Hatsune: My father is Sadaharu Togawa. Saki-chan's grandfather.
 (Background change)
@@ -27,8 +29,10 @@ Hatsune: I felt suffocated. Every time I felt like I was about to choke, I would
 Hatsune: Haa... Haa...! Haa!
 Hatsune: Only when I gazed at the starry sky in the mountains at night, did I feel like I could breathe. I would take deep breaths. Again and again, deeply, deeply...
 Hatsune: Phew... It was like a great sigh.
+(Transition)
 (Background change)
 Hatsune: Summer arrived. It was summer break, Uika and I had a daily routine of bringing the lunch our mother made to our father at the fishing port.
+(Transition)
 (Background change)
 Uika: "Not fair! It's always you, big sis!"
 Hatsune: "There are also your favorite sweets, Uika."
@@ -47,15 +51,18 @@ Hatsune: "Huh?"
 Uika: "Saki-chan knows everything, can do anything! And told me all about Tokyo!"
 Uika: "When I said I wanted to become an idol in Tokyo, she promised to support me~!"
 Uika: "Hatsune, you should come with me too~!"
+(Transition)
 Hatsune: I had been strictly told by my mother that I must never meet her. Otherwise, we would both be doomed to unhappiness...
 Hatsune: "I'm not going. Uika, you shouldn't go either."
 Uika: "Huh? Why? That's weird! I already promised to play with her!"
 Hatsune: No matter what I said, she wouldn't listen to me. The sweets she held in her hand were surely meant for Saki-chan.
 Hatsune: It's so unfair.
 Hatsune: Uika told me everything she had played and talked about with Saki-chan in vivid detail as if she were sharing her very memories with me.
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000079/data/adv_still_anime_000079/adv_still_anime_000079.webp)
 Hatsune: She told me how Saki-chan had invited her to go bug hunting. How she had caught a big rhinoceros beetle for her.
 Hatsune: How they both screamed together when a huge spider suddenly appeared.
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000080/data/adv_still_anime_000080/adv_still_anime_000080.webp)
 Hatsune: Throughout the summer nights, I listened to countless stories about Saki-chan from Uika.
 Hatsune: What kind of girl is she? What kind of girl is she? What kind of girl is she!?
@@ -68,7 +75,9 @@ Uika: "I promised to play with Saki-chan..."
 Hatsune: I want to play with her too.
 Uika: "She's going back to Tokyo tomorrow, and I really wanted to see her..."
 Hatsune: <size=175%>I want to see her too!
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 Hatsune: Haa... Haa... Haa...!
 Hatsune: Before I knew it, I was standing in front of the villa. You must never go to that villa. I remembered my mother's quiet voice.
@@ -80,10 +89,13 @@ Hatsune: The sound of joyful laughter... I had never laughed like that before.
 Sakiko: "Morning's greetings."
 Hatsune: Our eyes met! I tried to run away, but...
 Sakiko: "Uika, what shall we play today?"
+(Transition)
 Hatsune: I'm not Uika...
 Sakiko: "Uika?"
+(Transition)
 Hatsune: I'm...
 Hatsune: "Let's go catch bugs! I know a place where there are big butterflies!"
+(Transition)
 (Background change)
 Hatsune: I imitated Uika's smile. And just like that, I spent the entire day playing with Saki-chan.
 Hatsune: I shouted with excitement like Uika, laughed like Uika, and had an unbelievably wonderful time!
@@ -95,6 +107,7 @@ Sakiko: "Yes, I wish we could have played more."
 Hatsune: "Then... shall we play at night too?"
 Sakiko: "Huh!? But... it's scary at night."
 Hatsune: "I'll come for you! I'll knock on the window as a signal!"
+(Transition)
 Hatsune: I threw a small stone at the window of the room Saki-chan had shown me.
 (Background change)
 Hatsune: There. Click... click.
@@ -128,11 +141,13 @@ Hatsune: But, when Saki-chan looked at me with eyes sparkling like the Milky Way
 (Background change)
 Hatsune: This is the beginning of the "liar." This is the beginning of the "secret."
 Hatsune: No one knows, and no one must ever know. She tightened her own hands around her neck. The story of a girl burdened with secrets...
+(Transition)
 (Background change)
 Hatsune: My foster father died. He never returned from the sea.
 Hatsune: I comforted Uika, who kept crying. I'm the older sister, so I shouldn't cry. I must support my mother and Uika.
 Hatsune: I was desperately trying to hold back my tears, but...
 Uika: <size=150%>"Hatsune, you aren't sad because he's not your dad!"
+(Transition)
 (Background change)
 Hatsune: <size=150%>"I loved him as well!"
 Hatsune: Weren't you feeling suffocated?
@@ -149,14 +164,17 @@ Hatsune: No! No...!
 Hatsune: Saki-chan is the stage prop for the tragedy!
 Hatsune: No. No. NO! NO! NO......!! I want to see...
 Hatsune: <size=140%>Saki-chan, Saki-chan, Saki-chan... Saki-chan, Saki-chan, Saki-chan, Saki-chan, Saki-chan, Saki-chan!!!
+(Transition)
 (Background change)
 Hatsune: <size=175%>SAKI-CHAN!!!!!
+(Transition)
 Hatsune: If I go to Tokyo... will I be able to see Saki-chan?
 (Background change)
 Hatsune: That night, I left the house with just a small bag, and the pocket money I had saved up.
 Hatsune: The deck of the last ferry was strangely vast and lonely.
 Hatsune: As the cold night wind howled beside my ears, the shadow of the island growing smaller, reminded me of my mother crying with her back hunched at the funeral...
 Hatsune: And I cried a little.
+(Transition)
 (Background change)
 Hatsune: As soon as I arrived in Tokyo, I was scouted.
 (Background change)
@@ -165,12 +183,14 @@ Hatsune: If I become an idol, Saki-chan might notice me.
 Mana: "What's your name?"
 Hatsune: I can't use "my name"... It can't be "Hatsune." I have to become someone Saki-chan knows.
 Uika: "Uika... I'm Uika Misumi."
+(Transition)
 Uika: I'm the worst... I've abandoned my mother, my family, even my name.
 Uika: As a minor, I would need my parents' permission to live in Tokyo. Sadaharu Togawa. I gave the name of my real father.
 (Background change)
 Uika: I could get a little closer to Saki-chan by doing that. The people at the agency were slightly surprised.
 Uika: I didn't understand why they didn't ask more questions. I didn't understand why I didn't have to go back to the island. At that time, I knew nothing.
 Uika: As Uika, I was set to debut as sumimi.
+(Transition)
 (Background change)
 Uika: The opening event was in a large, new commercial building in the city. It was such a glamorous stage that it felt strange for a rookie before their debut to be standing on it.
 Uika: The world I saw while singing was filled with sparkling adults, and it seemed like a world completely out of my reach.
@@ -186,10 +206,12 @@ Kiyotsugu: "Congratulations. You've made your dream come true."
 Uika: He was so happy for me as if it was his own achievement. I was happy.
 Uika: Maybe I could open up to this person. I opened up about my father.
 Uika: I said I believed my debut was made possible with his support. I wanted him to know how grateful I am.
+(Transition)
 Uika: That was a mistake.
 Uika: "And so, I want to see Saki-chan..."
 Uika: "You must not go to the villa." Why did my mother only say that to me?
 Uika: Everything was a mistake. The tragedy began.
+(Transition)
 (Background change)
 Kiyotsugu: Aren't you ashamed as a parent? That girl said she was grateful!
 Kiyotsugu: To you, who abandoned your responsibilities as a parent, without recognition or support!
@@ -201,33 +223,43 @@ Kiyotsugu: But...!
 Sadaharu: <size=175%>You don't understand the terrifying power of the Togawa family!
 Kiyotsugu: ...!
 Sadaharu: I'll pretend I didn't hear that. If you care about Sakiko, keep your mouth shut.
+(Transition)
 (Background change)
 Uika: <size=150%>Saki-chan's father lost everything because of me! No, that's not it!
 (Background change)
 Uika: I took him away from Saki-chan! I took Saki-chan's father from her! The grand house she was born and raised in! Her entire life!
 Uika: I never thought it would turn out like this! I just... wanted to see her...
 Uika: I wanted to see her so badly...
+(Transition)
 (Background change)
 Uika: A house smaller than the entrance of the mansion she had lived in until yesterday.
+(Transition)
 (Background change)
 Uika: To help support the household, she worked, worked, worked, and worked... Her family, her friends, and even her smiles... I took away everything from her.
+(Transition)
 (Background change)
 Uika: And yet...
+(Transition)
 (Background change)
 Uika: What, a band?
 Sakiko: Yes. We will be professional as well.
 Uika: All right. I'm in.
 Uika: It's a request from you, Saki-chan.
 Uika: Even though I shouldn't...
+(Transition)
 (Background change)
 Uika: You can stay here as long as you want. I'll always stay by your side...
 Uika: Even though I shouldn't...
+(Transition)
 (Background change)
 Uika: Shared destiny, huh...
+(Transition)
 (Background change)
 Uika: You can stay here as long as you want. Even without Mujica, will you... stay with me?
+(Transition)
 (Background change)
 Uika: Let's reunite Ave Mujica! Let's stay together forever...!
+(Transition)
 Uika: Even though I shouldn't...
 Uika: The fact that I keep deceiving Saki-chan by saying things like that...
 Uika: <size=175%><cspace=0.2em><rotate=2>makes<rotate=-3>me<rotate=18>feel<rotate=-2>disgusted<rotate=3>...<rotate=-1>
@@ -236,20 +268,25 @@ Sadaharu: Hatsune. Go back home.
 Uika: ...
 Sakiko: ? Hatsune?
 Uika: ...
+(Transition)
 (Background change)
 Sadaharu: Don't ever see Hatsune again. You don't need to go to school either.
 Sakiko: Eh?
 Sadaharu: You're going to Switzerland. Don't leave the house until all the procedures are done.
 Sakiko: (What's going on?)
+(Transition)
 (Background change)
 Sakiko: Uika, why aren't you answering?
+(Transition)
 (Message) Sakiko: Where are you right now?
 (Message) Sakiko: Call me if you see this.
+(Transition)
 Sakiko: Uika...
 (Background change)
 
 [The Next Morning]
 
+(Transition)
 (Background change)
 Sakiko: <size=150%>! That must be Uika!
 Umiri: "Togawa-san, why did Misumi-san skip practice today?"
@@ -261,7 +298,10 @@ Umiri: "What exactly did I do wrong? Are you still not able to trust me, even no
 Umiri: "As for Misumi-san, I can't even get in touch with her, and she's not coming to school either!"
 (Background change)
 Sakiko: <size=175%>!
+(Transition)
 (Background change)
 Umiri: "When I visited her home, I found last week's town newsletter still in the mailbox!"
+(Transition)
 (Background change)
+(Transition)
 Hatsune: Farewell, Saki-chan.

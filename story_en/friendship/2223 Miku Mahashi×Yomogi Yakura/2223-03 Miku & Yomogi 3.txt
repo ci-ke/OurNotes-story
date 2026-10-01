@@ -1,9 +1,11 @@
 10593:adv_script_miku_yomogi_linkstory_3 Miku & Yomogi 3
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Living Room]
 
+(Transition)
 Miku: Phew...
 Miku: (I could not quite pull the song together. I wanted to at least lock in the first chorus, but...)
 Miku: (It is late enough already. Maybe I will just have some water and go to bed.)

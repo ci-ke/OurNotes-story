@@ -22,11 +22,13 @@ Taki: We have our own way of doing things here.
 Soyo: That's why I only order when you're alone here. I don't order this kind of thing usually, right?
 Taki: *Sigh*...
 Soyo: I guess I got ignored. Anyway, I'll work on my homework.
+(Transition)
 Soyo: ...
 Taki: Earl Grey, hot.
 Soyo: It took a little longer than usual.
 Taki: What? A complaint?
 Soyo: No, I just thought it was unusual. Well then, I'll have it.
+(Transition)
 Soyo: Huh...?
 Soyo: Wait, did you really do it for me?
 Taki: It's nothing. I just happened to be boiling water. Don't expect me to make it this way next time.

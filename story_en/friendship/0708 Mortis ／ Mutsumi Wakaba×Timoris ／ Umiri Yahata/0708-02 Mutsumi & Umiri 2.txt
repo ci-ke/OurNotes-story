@@ -1,5 +1,6 @@
 10502:adv_script_mutsumi_umiri_linkstory_2 Mutsumi & Umiri 2
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Meeting Room]
@@ -16,8 +17,10 @@ Mutsumi: You do?
 Umiri: Yeah, just a little though.
 Mutsumi: For what part?
 Umiri: It's pretty cool, isn't it?
+(Transition)
 (Background change)
 Umiri: Not belonging to any public authority, yet staying true to their own principles and beliefs... And sometimes taking dangerous paths to reach the truth...!
+(Transition)
 (Background change)
 Umiri: That's the part I admire.
 Mutsumi: Hmm...
@@ -29,6 +32,7 @@ Mutsumi: But you do act in the masquerades, don't you?
 Umiri: You might be right, but...
 Mutsumi: Want to give it a try? Right now.
 Umiri: Hmm...
+(Transition)
 
 [A Few Minutes Later]
 

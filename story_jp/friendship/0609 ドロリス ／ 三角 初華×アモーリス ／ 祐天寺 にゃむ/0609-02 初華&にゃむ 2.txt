@@ -1,5 +1,6 @@
 10496:adv_script_uika_nyamu_linkstory_2 初華&にゃむ 2
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production 会議室]

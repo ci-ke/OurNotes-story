@@ -26,6 +26,7 @@ Yuno: Um... Where was I? Right, the pre-chorus...
 Yuno: *Sigh*... Hello?
 Nonoka: <size=45>Guiltyyyyy~~~~!!!</size>
 Yuno: !
+(Transition)
 (Background change)
 Nonoka: I saw that you read them! No leaving me on read! Therefore, guilty!
 Yuno: Sorry, I'm busy right now...
@@ -33,6 +34,7 @@ Nonoka: Suuuspicious! If you don't like getting them, just say so!
 Nonoka: Something fun happened today, and I wondered what you were up to, so I sent you all those messages, Yuno-chan~
 Nonoka: You used to reply to me, Yuno-chan! Even if your replies had zero warmth...!
 Yuno: I really was working, okay?
+(Transition)
 (Background change)
 Yuno: I was going to reply to everything once I finished.
 Nonoka: Really...?
@@ -44,5 +46,6 @@ Yuno: Yeah, I know.
 Nonoka: And I'm rooting for you with your composing, too! Don't push yourself, and make sure you get some sleep!
 Nonoka: Okay, bye! Good night!
 Yuno: Yeah, good ni... She hung up on me.
+(Transition)
 (Background change)
 Yuno: *Sigh*... What was that even about?

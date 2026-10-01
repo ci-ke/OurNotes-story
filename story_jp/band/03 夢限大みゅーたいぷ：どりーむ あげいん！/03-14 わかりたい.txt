@@ -2,9 +2,11 @@
 
 世界に生まれて１７年、知らないことばっかりだ
 
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000298/data/adv_still_anime_000298/adv_still_anime_000298.webp)
 (Caption): ビオラ ～被害者の心理的プロセスと脱却方法～
+(Transition)
 都子: …………
 律: こんなに分厚くなるとは思わなくて、 読みづらかったらすみません
 都子: ……いえ、立派な資料でした。 峰月さんの自伝漫画が作れそうです
@@ -16,6 +18,7 @@
 都子: ビオラさんは本当の私をわかってくれたんです。 ビオラさんがいたから、私は自分に自信が持てた
 律: ……
 都子: だから、ビオラさんがいないと私……
+(Transition)
 (Background change)
 律: そっか……私と都子さんって ウィンナーとソーセージなんだ
 都子: え……？
@@ -23,12 +26,14 @@
 都子: おはぎと、ぼたもちは……同じじゃ……
 律: ……私、自分は真面目で無口で、面白くなくて…… ずっと自分がないって思ってたんです
 都子: え……おはぎとぼたもちの話は……
+(Transition)
 律: そんな私に、ビオラは道を作ってくれました。 優等生のクレマチスとして
 (Background change)
 律: ビオラを信じて、ビオラの言葉に従うように なってからは、いつも目の前に正解が落ちていて……
 律: 楽だった
 律: それでも最初は、自分で掴み取った道だと 思ってたんです。自分にはその道しかないんだとも
 律: でも、その考えさえもビオラの狙い通りでした
+(Transition)
 (Background change)
 都子: ……そうだとしても、 周囲に求められるなら良いんじゃないですか？
 都子: 私はずっとそうして生きてきました。 自分が選んだ世界で生き残るために
@@ -37,12 +42,17 @@
 律: ビオラにもらった正解を食べすぎて、 好きなものとか、やりたいこととか……
 律: 自分は何が大切なのかもわからなくなっちゃって
 律: そこに、ビオラはもっと甘くて美味しい言葉を 詰め込んでいくんです
+(Transition)
 (Background change)
 ビオラ: 私、ずっとお会いしたくて……
+(Transition)
 ビオラ: 一目惚れしたんです
+(Transition)
 (Background change)
 ビオラ: ……この出会いが運命なら、続いてほしい
+(Transition)
 ビオラ: キラキラして、綺麗だから
+(Transition)
 (Background change)
 律: よくおばあちゃんが言ってました。 甘いものを食べすぎると体に良くないよって……
 都子: ……
@@ -54,26 +64,34 @@
 都子: え……
 律: 私たち、もっと色んなこと話したほうが良いと思います。 都子さんはどんなお肉が好きとか、焼き方とか……
 律: あられちゃんの受け売りなんですけど
+(Transition)
 (Background change)
 律: ののちゃんも、きっと同じ気持ちなんだと思います。 都子さんをわかりたくて……
 都子: ……
+(Transition)
 (Background change)
 律: だから、ビオラとはもう――
 都子: ごめんなさい！ ごめんなさい、私……
 都子: この冊子、お返しします……
 律: 都子さん！
 律: …………
+(Transition)
 (Background change)
 都子: （わからない……）
 都子: ……
+(Transition)
 (Background change)
 (Message) ビオラ: 私たち運命ですね
 都子: ……っ
 都子: （わかりたくないです……）
 都子: （ビオラさん……）
+(Transition)
+(Transition)
 (Background change)
 ユノ: ……
+(Transition)
 ユノ: （――バイバイ）
+(Transition)
 (Background change)
 律: ののちゃーん
 ののか: ！　りっちゃん！
@@ -90,10 +108,12 @@
 律: どこの水族館か特定できれば……
 ののか: マグロ……
 ののか: <size=175%>……ハッ！
+(Transition)
 (Background change)
 ののか: <size=140%>うさイーターちゃんの マグロちゃんク～～～～～イズ！
 ののか: <size=140%>かんとうでマグロちゃんにあえるすいぞくかんは～？
 子どもたち: <size=175%>ここだけー！！
+(Transition)
 (Background change)
 ののか: <size=175%>マグロちゃ～～～～～～～～ん！！！
 あられ & 律: えっ！？
@@ -108,7 +128,9 @@
 あられ: えっ
 ののか: 花畑　みんなが住みよい　わけじゃない
 あられ: あ……
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 律: ……
 あられ: ………………っ、ののちゃんさん
@@ -119,15 +141,18 @@
 あられ: ぐっ…… つ、伝わりましたか！？
 ののか: ……？
 あられ: <size=150%>ぼく、あの時のののちゃんさんのちゅ～、 すごく嬉しかったです！
+(Transition)
 (Background change)
 ののか: 『好き』にはパワーがあるから！
 あられ: パワー……
+(Transition)
 (Background change)
 ののか: ……
 あられ: だから、当たって砕けましょう！
 あられ: って砕けちゃダメだ！ ぐぐい～っといきましょう！
 あられ: それでダメなら……みんなで考えましょう
 ののか: ……ありがとう
+(Transition)
 あられ: <size=150%>！？！？　ギュウ～で手が、イデデデデデデッ
 ののか: ちゃんっと伝わったよ！
 あられ: ……！
@@ -138,6 +163,7 @@
 (Background change)
 ののか: <size=150%>電車～～～～～～～～～！
 ののか: <size=175%>乗るっ！
+(Transition)
 (Background change)
 (ののか): ――あれは、まだ幼稚園の頃のこと
 園児A: うわああ～ん、いやー
@@ -152,6 +178,7 @@
 みんな: <size=150%>ふーるーさーとー
 園児A: ふふっ……きゃははっ！
 ののか: みんなの笑ったお顔が好き。 みんなが楽しいのが一番うれしい
+(Transition)
 (Background change)
 ののか: わーすーれーがーたき ふーるーさーとー
 ののか: ……
@@ -160,8 +187,10 @@
 中学生A: うれしい～。ママがうさイーターちゃん大好きで
 中学生B: 私の分もいい？
 ののか: いいよぉ
+(Transition)
 ののか: （だけど、最近なんだか……）
 ののか: （な～んだか、ちょっとへんな気持ち）
+(Transition)
 中学生A: これお礼！　ホントにありがとー！
 中学生B: ばいばーい
 ののか: ば～い
@@ -183,6 +212,7 @@
 ののか: 『かなり好きかも』 ののちゃんも大好き！
 ののか: 『最近のののちゃん元気いっぱい』…… そう！
 ののか: ――同い年の、ユノちゃん！ どんな子なんだろう？
+(Transition)
 (Background change)
 マネージャー: ここ、前回の契約からの変更点
 ののか: バンド？
@@ -194,15 +224,21 @@
 マネージャー: そ、あとは藤さん
 ののか: 漫画家さん……
 マネージャー: それと、これから契約予定の仲町さん。 ４人でバンドを組んでほしいんだ
+(Transition)
 (Background change)
 ののか: この歌みたの子が、あられちゃん……
+(Transition)
 ののか: バンド……
 ののか: <size=175%>バンド！
+(Transition)
 (Background change)
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000264/data/adv_still_anime_000264/adv_still_anime_000264.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000265/data/adv_still_anime_000265/adv_still_anime_000265.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000264/data/adv_still_anime_000264/adv_still_anime_000264.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000265/data/adv_still_anime_000265/adv_still_anime_000265.webp)
 (Background change)
@@ -215,12 +251,17 @@
 ののか: こんなに幸せでいいんでしょうか？
 ののか: いいんです！
 ののか: ユノちゃんと、都子ちゃんと、あられちゃんと、りっちゃんと！
+(Transition)
 ののか: これからもいっぱい、 みんなとバンドできるなんて夢みた――
+(Transition)
 都子: <size=150%>私は！ あなたが嫌いなんです！！
 ののか: え
+(Transition)
 ユノ: あたし、バンドやめる
+(Transition)
 (Background change)
 ののか: はぁっ、はぁっ、はぁっ
+(Transition)
 園児C: ひとのいやがることはしちゃいけませんって せんせいいってたよー
 ののか: ……っ
 ののか: <size=175%>ののののの～～～～～～～～～っ！！！

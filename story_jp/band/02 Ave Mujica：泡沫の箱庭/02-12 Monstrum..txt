@@ -2,17 +2,25 @@
 
 あなたなんかいらない……
 
+(Transition)
 (Background change)
+(Transition)
+(Transition)
+(Transition)
 モーティス: 沈んでいく……
+(Transition)
 (Background change)
 睦: 祥……ごめんなさい
 祥子: ……睦はなにもっ！　 わたくしこそ、ごめんなさい
 睦: ううん
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 モーティス: 睦ちゃん、たのしそうだなぁ
 モーティス: 消える……消えたくない
 (Background change)
+(Transition)
 海鈴: 私とも元サヤに戻りませんか？
 海鈴: もう一度、私とAve Mujicaをやりませんか？ ということです
 (Background change)
@@ -26,6 +34,7 @@
 祥子: Ave Mujicaは、もう……
 (Background change)
 モーティス: えっ……？
+(Transition)
 (Background change)
 立希: ……えっと、スマホ
 海鈴: お先に失礼します
@@ -51,28 +60,38 @@
 立希: そういうとこ。そりゃ振られるでしょ
 立希: 海鈴信用できないし
 海鈴: っ……！
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 祥子: 今日はこのページまでにしましょうか。 勉強もだいぶ追いつきましたわね
 祥子: 月ノ森はもう少し先まで進んでいるようですから あともうひとがんばりですわ
 睦: 祥、学校は？
 祥子: 今は大事な時期ですもの。睦のそばにいますわ
 睦: ……
+(Transition)
 (Background change)
 祥子: いい天気ですわね。 すこし、外に出ません？
 祥子: お日様の光を浴びるのはよいことですわ
 睦: ……うん
+(Transition)
 (Background change)
 祥子: えっ
 睦: 行きたい
 祥子: ……っ
+(Transition)
 (Background change)
 睦: ……カラオケ
 祥子: ここは……懐かしいですわね
 睦: 入ろう
 祥子: あっ……
+(Transition)
 (Background change)
 祥子: 睦はPastel＊Palettesでしたっけ。 ええと……
+(Transition)
+(Transition)
+(Transition)
+(Transition)
 (Background change)
 睦: ……ふぅ
 祥子: 睦、上手ですわ
@@ -96,12 +115,14 @@
 祥子: え？
 モーティス: 祥子ちゃんもぜんっぜんわかってない。 『睦ちゃん』なんて最初からいないよ？
 祥子: ……どういうことですの？
+(Transition)
 (Background change)
 
 [撮影所 休憩ルーム]
 
 みなみ: ……
 にゃむ: （あ、みなみさん……）
+(Transition)
 にゃむ: あの〜……森さん。おつかれさまです〜
 みなみ: あ〜……にゃむちゃん、ひさしぶり。 バラエティ出ずっぱりで、すごいじゃない
 にゃむ: ありがとうございます〜！ みなみちゃんもまた映画の主演って
@@ -109,17 +130,20 @@
 にゃむ: えっ
 みなみ: そういうのに利用するつもりでうちに来たと思ったから プロデューサーに推薦しといてあげたのに
 にゃむ: ……えっ！？ あれってみなみさんの推薦だったんですか？
+(Transition)
 にゃむ: 学校はちゃんと行くって約束で上京させてもらってるから 親に申し訳なくって！
 みなみ: いいって別に。誤魔化さなくても。 ビビってるのわかってるから
 にゃむ: ……え
 みなみ: 怖いよねえ。あの子。私も怖いもん
 みなみ: 睦ちゃんが本気出したら私なんか一瞬で かき消されちゃうからね
 にゃむ: ええ……ええっと……
+(Transition)
 みなみ: 睦ちゃんはね、生まれついての役者
 にゃむ: ……えっ
 (Background change)
 モーティス: 睦ちゃんも私もたくさんある役のひとつなの
 祥子: ……っ
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000132/data/adv_still_anime_000132/adv_still_anime_000132.webp)
 モーティス: 睦ちゃんはこの家で生きるのにちょうどいい お人形さんのような子で
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000133/data/adv_still_anime_000133/adv_still_anime_000133.webp)
@@ -143,6 +167,7 @@
 祥子: ……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp)
 モーティス: 睦っていう役が『睦ちゃん』って意識を持って…… 他のみんなは消えちゃった
+(Transition)
 (Background change)
 モーティス: 私は睦ちゃんを助ける役を掴めたから 生き残ってAve Mujicaのモーティスになれた
 モーティス: 祥子ちゃんが作り出したんだよ
@@ -154,13 +179,16 @@
 にゃむ: ……
 みなみ: 自分が演技してることにすら気づいてない。 あ、いえ。人生のすべてが演技かもしれない
 みなみ: あの子と四六時中いっしょにいると惨めになるのよ。 わかる？　……わかるよねえ？
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
+(Transition)
 みなみ: あなたが手を出したのはそういう子なの。 一緒にバンドやったくらいで逃げちゃうんなら 残念だけど、この世界向いてないんじゃない？
 にゃむ: は……っ
 モーティス: 私は睦ちゃんを助けなくちゃいけない。 だからAve Mujicaって舞台が必要なの
 (Background change)
 モーティス: 私が消えちゃったら睦ちゃんが困るでしょ？ だからAve Mujicaやって
 祥子: それは……睦が苦しみ続けることを 望むということですの？
+(Transition)
 (Background change)
 モーティス: <size=175%>なんでそうなるのっ！？
 モーティス: <size=175%>そうだけど、そうじゃない！

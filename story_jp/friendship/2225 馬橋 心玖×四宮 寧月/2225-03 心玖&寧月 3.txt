@@ -1,6 +1,7 @@
 10599:adv_script_miku_shizuku_linkstory_3 心玖&寧月 3
 
 (Background change)
+(Transition)
 
 [学生寮『ピースミカ』 心玖の部屋]
 
@@ -23,6 +24,7 @@
 心玖: うわ〜、全然気づかなかった〜…… 急いで取り込もう
 心玖: 寧月、庭まで走るよ！
 寧月: わかった
+(Transition)
 (Background change)
 心玖: ――ふぅ、これで全部かな
 寧月: 取り込んだ後は、どうするのだ？

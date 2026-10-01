@@ -57,6 +57,7 @@ Yuno: That's all. You could think about it if you feel like it.
 Yuno: I actually think it's not bad at all. Goodbye.
 Miyako: Huh?
 Miyako: Sengoku-san... you're the one who's changed, aren't you...?
+(Transition)
 (Background change)
 Yuno: Phew...
 Yuno: Hm? Messages from Koharu...
@@ -64,8 +65,10 @@ Koharu: "Hey!"
 Koharu: "Are you free this weekend?"
 Koharu: "Let's go grab a meal! You aren't eating properly anyway, are you~?"
 Yuno: I'm eating properly...
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000271/data/adv_still_anime_000271/adv_still_anime_000271.webp)
 Yuno: (Because we're not alone.)
+(Transition)
 Yuno: (Right? Everyone.)
 Yuno: Okay...
 Yuno: Time to get to work.

@@ -9,8 +9,10 @@ Because Tomori's LIVE shows are amazing.
 [Hanasakigawa Girls' Academy - Classroom 1-B]
 
 Taki: ...
+(Transition)
 (Background change)
 Taki: I can't do it like Sakiko can!!
+(Transition)
 (Background change)
 Taki: (Big sis and Sakiko could do it. Why can't I...?)
 Umiri: You're getting messages one after another.
@@ -23,6 +25,7 @@ Umiri: Well then, I have band rehearsals, so I'll be going.
 Taki: I'm amazed you can say that to me when I'm depressed about my band...
 Umiri: The fact that you can worry over your band makes me feel a little jealous. If that's all.
 Taki: ...?
+(Transition)
 (Background change)
 
 [Hanasakigawa Girls' Academy - School Gate]
@@ -35,6 +38,7 @@ Tomori: Taki-chan...
 Taki: ...!
 Anon: She ran!! Tomori-chan, let's chase after her!
 Tomori: A-Anon-chan! ...
+(Transition)
 (Background change)
 Anon: Don't run away~~~~!!
 Taki: I'm not running! This is because you keep chasing me!!
@@ -43,6 +47,7 @@ Taki: Why would I ever do what you say...? And you're trespassing!
 Anon: It's fine! Even if they find out, I'll just write an apology, and I'm really good at writing!
 Taki: It's not fine! I'll get scolded too!!
 Anon: Oh, shut up! If you'd just stop, it'd solve everything!
+(Transition)
 (Background change)
 Tomori: I wonder where they both went...
 Tomori: Taki-chan...! And Anon-chan...
@@ -55,6 +60,7 @@ Tomori: Anon-chan, Taki-chan, are you okay...?
 Anon: Ow...!!
 Taki: It's your fault I fell! What were you thinking, jumping at me like that!?
 Anon: It was because you weren't stopping at all! Oww, I totally scraped my knee~~
+(Transition)
 Tomori: ...! Blood...
 Taki: I got scraped too! What are you gonna do about this...!
 Tomori: This is the sixth sea creature series!
@@ -83,10 +89,13 @@ Rāna: What are you doing?
 Taki: You...! Why are you here!?
 Rāna: Hm? I was playing with the cat.
 Taki: Huh...!? Wait, you, that uniform... You go to our middle school!?
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000018/data/adv_still_charaillust_000018/adv_still_charaillust_000018.webp)
 Rāna: I'm a third year.
 Taki: Seriously... I didn't know that at all...
+(Transition)
 Anon: Well... At least we found Rāna-chan.
+(Transition)
 (Background change)
 
 [The Live Event Day]
@@ -133,6 +142,7 @@ Soyo: Okay~
 Soyo: Thank you for telling us! We'll be right out!
 Soyo: We're having the pre-show meeting.
 Anon: I guess we'd better go...
+(Transition)
 
 [During the Live Show]
 

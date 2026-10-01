@@ -45,6 +45,7 @@ Tomori: Ano-chan...
 Anon: Hm? What?
 Tomori: What do people do at an anniversary party...?
 Anon: I'm so glad you asked~! Well, what I'm thinking right now is...
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mygo_exstory_02_01/adv_movie_mygo_exstory_02_01/adv_movie_mygo_exstory_02_01.mp4)
 (Caption): MyGOエクストラ　妄想パート（2話）
@@ -64,6 +65,7 @@ Anon: I'm so glad you asked~! Well, what I'm thinking right now is...
 (Subtitle) Anon: They'll show us to a special table with a night view, and we'll enjoy a full-course dinner with live piano music!
 (Subtitle) Anon: You know, really taking our time and enjoying a delicious meal!
 (Subtitle) Anon: And then, to finish it all off, a surprise cake~~!
+(Transition)
 (Background change)
 Soyo: Who exactly is surprising whom?
 Anon: Come on, you're being so nitpicky. I'm just saying, wouldn't something like that be nice?

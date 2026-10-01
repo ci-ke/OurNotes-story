@@ -1,9 +1,11 @@
 10593:adv_script_miku_yomogi_linkstory_3 心玖&蓬咲 3
 
 (Background change)
+(Transition)
 
 [学生寮『ピースミカ』 リビング]
 
+(Transition)
 心玖: ……ふぅ……
 心玖: （曲、まとまんなかったな。 １サビまで固めておきたかったけど……）
 心玖: （さすがにもう遅いし、水だけ飲んで寝ようかな）

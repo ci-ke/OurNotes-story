@@ -14,6 +14,7 @@ Rāna: ?
 Soyo: I remember playing spot-the-difference games like this.
 Anon: ......
 Anon: This isn't how it was supposed to go~!
+(Transition)
 (Background change)
 
 [A Few Days Ago]
@@ -25,6 +26,7 @@ Anon: I already had to give up on the limo because everything was booked, so at 
 Anon: Oh, this place looks good! Let's see the reviews...
 Anon: Wow, amazing! A bunch of people gave it full marks!
 Anon: Wait, isn't this place perfect!? Alright, it's decided! "Found the place~! Now for the meeting spot..."
+(Transition)
 (Background change)
 
 [On the Day]
@@ -51,6 +53,7 @@ Anon: No way! It was in video mode~! One more time! We're doing that again!
 Taki: It's almost time for our reservation.
 Anon: Huh...? I was just about to get my revenge shot. Oh well, I'll send the video for now.
 Anon: Alright, let's finally head to the restaurant! Everyone, follow me~!
+(Transition)
 (Background change)
 
 [In Front of the Restaurant]
@@ -64,6 +67,7 @@ Anon: Yeah, looks like it... Oh no, what do we do~!
 Rāna: Is it over?
 Anon: No, it's too early to give up! There has to be somewhere! Somewhere that's open!
 Tomori: ......
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4)
 (Caption): MyGOエクストラ　ファミレス（3話）
@@ -110,6 +114,7 @@ Tomori: ......
 (Subtitle) Soyo: Here you go, Tomori-chan.
 (Subtitle) Tomori: Thank you...
 (Subtitle) Tomori: (It looks similar... but it's different.)
+(Transition)
 (Background change)
 Anon: Oh, Tomorin. Did you finish the spot-the-difference game?
 Tomori: Huh...? Yeah.
@@ -139,10 +144,13 @@ Taki: And if we have time for that, maybe we should be practicing.
 Rāna: Let's play.
 Anon: We can party a little too, can't we~?
 Tomori: ......
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
 Tomori: Mistakes... or not mistakes...
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 Tomori: I still don't really know...
+(Transition)
 Tomori: But I want to keep moving forward like this...
 Tomori: Because that's all I can do.
 Anon & Soyo & Taki & Rāna: ......

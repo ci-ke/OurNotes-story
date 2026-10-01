@@ -6,6 +6,7 @@
 
 [Weekend]
 
+(Transition)
 (Background change)
 
 [Live House - Floor]
@@ -13,10 +14,13 @@
 Hotaru: (Th-This is a live house...!)
 Hotaru: (I made it... I finally made it here!)
 Hotaru: (Ugh, Mom, I'm sorry...)
+(Transition)
 Hotaru: ...
 Hotaru: (But...)
+(Transition)
 Hotaru: (Since I was told I couldn't come until high school, I thought it was going to be some kind of dangerous place...)
 Hotaru: (But it’s actually pretty clean, and there are lots of students here too...)
+(Transition)
 Hotaru: (It's not that scary... Far from it, in fact...)
 Hotaru: (It kind of feels like I've grown up a little, and my heart won't stop racing...!)
 Hotaru & ???: Hwah! Kyah!
@@ -39,12 +43,15 @@ Hotaru: U-Um... what...?
 Hotaru: ...
 Hotaru: (Looks like there are all kinds of people here...)
 Hotaru: (Right, Kanata-san!)
+(Transition)
 Hotaru: (But... I don't see any sign of her...)
+(Transition)
 Hotaru: (I wonder if there's a dressing room here, like the concert hall...)
 Hotaru: (But once the show starts, she'll definitely come out on stage...!)
 Hotaru: (Will she notice me? I bet she'll be surprised.)
 Hotaru: Hehe...
 Hotaru: (I can't wait.)
+(Transition)
 (Background change)
 Performer A: Good evening~!
 Hotaru: !
@@ -60,7 +67,9 @@ Hotaru: (This is... what Kanata-san was talking about!)
 Hotaru: (Wow, wow! They really do say it...!)
 Hotaru: Hehe...
 Hotaru: (She was right... This might actually be fun!)
+(Transition)
 Performer B: Thank you! The final band is up next. Let's hear it for them!
+(Transition)
 (Background change)
 Hotaru: (It was over before I knew it...)
 Hotaru: (So this is what a live feels like...!)
@@ -82,9 +91,11 @@ Hotaru: (Tragedy...?)
 ??? (Mahoro): Good evening, we're millsage!
 Hotaru: Ah...!
 Hotaru: (They're here...!)
+(Transition)
 Hotaru: !?
 Hotaru: (Mahoro-san...?! The girl I met the other day? She's in the band...!)
 Hotaru: (And that mysterious girl from earlier is here too...!)
+(Transition)
 Hotaru: Huh...?
 Hotaru: (The performance already started, but...)
 Hotaru: (Kanata-san hasn't come out.)
@@ -92,10 +103,12 @@ Hotaru: (But I'm sure this is Kanata-san's song...)
 Hotaru: (And Mahoro-san is the one singing... not Kanata-san...)
 Hotaru: (I can hear the piano... but there isn't one anywhere onstage...)
 Hotaru: (And...)
+(Transition)
 Mahoro: —♪
 Hotaru: (What is it about this song...?)
 Hotaru: (I know this song. It should be beautiful.)
 Hotaru: (But it sounds so, so sad.)
+(Transition)
 (Background change)
 
 [After the Show]
@@ -132,6 +145,7 @@ Nagi: That's not it. She's here for Mahoro.
 Nagi: This is... Hotaru Shiomi-san.
 Houka: ...!
 Hotaru: (She reacted the same way...)
+(Transition)
 Nagi: Can you stay a little longer?
 Houka: I don't mind.
 Hotaru: (Does that mean... they don't suspect me anymore...?)
@@ -142,6 +156,7 @@ Mahoro's Voice: Yeah, I'm coming.
 Hotaru: ! Mahoro-san.
 Mahoro: Hello... Hotaru-chan.
 Mahoro: You really came...
+(Transition)
 (Background change)
 
 [Live House - Dressing Room]
@@ -153,6 +168,7 @@ Mahoro: I was going to explain it all back then, but...
 Mahoro: I must have caught you off guard with today's live too...
 Hotaru: ...? No...
 Hotaru: (Explain...?)
+(Transition)
 Houka: Mahoro-san, did you already know Shiomi-san?
 Mahoro: I wouldn't say I know her that well... The other day, I saw Hotaru-chan playing the piano and went up to talk to her.
 Mahoro: You know that video that's been getting some buzz? The one with the girl playing the street piano.
@@ -162,6 +178,7 @@ Mahoro: She was playing "everscape" in the video, so... I couldn't stop thinking
 Mahoro: ...
 Mahoro: You came today... to see Kanata, right?
 Hotaru: Y-Yes! I thought I'd be able to see her if I came to the live, but...
+(Transition)
 Nagi & Houka & Mahoro: ...
 Hotaru: ...?
 Hotaru: (Why does the air feel so heavy...?)

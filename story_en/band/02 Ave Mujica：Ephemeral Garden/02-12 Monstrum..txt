@@ -2,17 +2,25 @@
 
 I don't need someone like you...
 
+(Transition)
 (Background change)
+(Transition)
+(Transition)
+(Transition)
 Mortis: I'm sinking away...
+(Transition)
 (Background change)
 Mutsumi: Saki... I'm sorry.
 Sakiko: Mutsumi didn't do anything wrong! I'm the one who's really sorry.
 Mutsumi: It's okay...
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 Mortis: Mutsumi-chan, you look so happy.
 Mortis: I'm going to disappear... I don't want to disappear.
 (Background change)
+(Transition)
 Umiri: How about reuniting with me as well?
 Umiri: Would you like to reform Ave Mujica with me? That's all I wanted to say.
 (Background change)
@@ -26,6 +34,7 @@ Mutsumi: Saki...
 Sakiko: Ave Mujica... is already...
 (Background change)
 Mortis: Huh...?
+(Transition)
 (Background change)
 Taki: Um... phone.
 Umiri: I'll be leaving now.
@@ -51,28 +60,38 @@ Umiri: What's wrong?
 Taki: That's what I'm talking about. Of course you'd be dumped.
 Taki: After all, Umiri, you're just too untrustworthy.
 Umiri: ...!
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 Sakiko: Shall we stop at this page for today? You're making progress with your studies.
 Sakiko: It seems like the classes in Tsukinomori are a little ahead. There's a bit more to learn.
 Mutsumi: Saki, aren't you going to school?
 Sakiko: It's an important time right now. I'll stay by your side.
 Mutsumi: ...
+(Transition)
 (Background change)
 Sakiko: The weather is really nice. How about... going for a walk?
 Sakiko: Getting some sunshine is also good for you.
 Mutsumi: Okay.
+(Transition)
 (Background change)
 Sakiko: Eh?
 Mutsumi: I want to go.
 Sakiko: ...
+(Transition)
 (Background change)
 Mutsumi: Karaoke...
 Sakiko: This place is...! How nostalgic.
 Mutsumi: Let's go in.
 Sakiko: Ah...
+(Transition)
 (Background change)
 Sakiko: You sang a song by Pastel＊Palettes, didn't you? Let me see...
+(Transition)
+(Transition)
+(Transition)
+(Transition)
 (Background change)
 Mutsumi: Phew...
 Sakiko: Mutsumi, you're good at this.
@@ -96,12 +115,14 @@ Mortis: With whom?
 Sakiko: Eh?
 Mortis: Sakiko-chan, you don't understand anything either. "Mutsumi-chan" has never existed from the beginning.
 Sakiko: What do you mean?
+(Transition)
 (Background change)
 
 [Photography Studio - Rest Room]
 
 Minami: ...
 Nyamu: (Ah, Minami-san...)
+(Transition)
 Nyamu: Um, hello, Mori-san.
 Minami: Ah, Nyamu-chan, long time no see. It's amazing that you are always on variety shows lately!
 Nyamu: Thank you~! Minami-chan, you are starring in another movie, right?
@@ -109,17 +130,20 @@ Minami: I heard you turned down an audition for the stage play? I'm so disappoin
 Nyamu: Eh?
 Minami: I recommended you to the producer because I thought you came to my house precisely for my connections.
 Nyamu: Eh!? That was your recommendation?
+(Transition)
 Nyamu: The condition for me coming to Tokyo was to study properly. If I fail, I'll be so sorry to my parents!
 Minami: It's okay. You don't have to lie to me. I know you're just scared.
 Nyamu: Eh?
 Minami: That kid is really scary, right? I'm scared of her too.
 Minami: If Mutsumi-chan shows her real skills, I'll be completely overshadowed in an instant.
 Nyamu: Um... um...
+(Transition)
 Minami: Mutsumi-chan... is a born actress.
 Nyamu: Eh?
 (Background change)
 Mortis: Mutsumi-chan and I are both just one of many roles.
 Sakiko: ...
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000132/data/adv_still_anime_000132/adv_still_anime_000132.webp)
 Mortis: Mutsumi-chan is the child who perfectly fits into this family. She's like a doll.
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000133/data/adv_still_anime_000133/adv_still_anime_000133.webp)
@@ -143,6 +167,7 @@ Mortis: But she met the guitar.
 Sakiko: ...
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000084/data/adv_still_anime_000084/adv_still_anime_000084.webp)
 Mortis: The character "Mutsumi" gained the consciousness we call  "Mutsumi-chan"... and everyone else disappeared.
+(Transition)
 (Background change)
 Mortis: Because I held onto the role of Mutsumi-chan's savior, I survived, and became Mortis of Ave Mujica.
 Mortis: It was Sakiko-chan who created all this.
@@ -154,13 +179,16 @@ Minami & Mortis: A "Monster."
 Nyamu: ...
 Minami: She doesn't even know she's acting. No, everything in her life might be acting.
 Minami: Being around that child all the time makes me feel miserable. Can you understand? You must understand, right?
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
+(Transition)
 Minami: This is the kind of child you tried to mess around with. If just being in the same band with her made you run, I'm sorry, but you're not fit for this industry.
 Nyamu: Huh...
 Mortis: I have to save Mutsumi-chan, so I need this stage of Ave Mujica.
 (Background change)
 Mortis: If I disappear, Mutsumi-chan will be in trouble, too. So, let's play as Ave Mujica.
 Sakiko: That means... You wish to let Mutsumi suffer forever?
+(Transition)
 (Background change)
 Mortis: <size=175%>How is that your takeaway!?
 Mortis: <size=175%>I mean, that's not wrong, but that's not what I mean!

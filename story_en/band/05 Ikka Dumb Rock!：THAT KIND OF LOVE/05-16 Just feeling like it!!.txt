@@ -9,10 +9,13 @@ Did Miku really leave because she hated family?
 Raika: ...
 Raika: (Miku... you didn't have to leave your guitar behind...)
 Raika: (I thought you were enjoying playing it though.)
+(Transition)
 (Background change)
 Miku: Eating breakfast together, playing in a band... I hated the life here, all of it!
+(Transition)
 (Background change)
 Raika: ...Every bit of it, huh...
+(Transition)
 (Background change)
 Shizuku: Ah... Raika, good morning.
 Raika: Good morning, Shizuku. I'll dish up the rice now.
@@ -28,6 +31,7 @@ Chieri: *Sigh*... Seriously...
 Chieri: Chieri's bread is on the shelf. Eat it with gratitude~!
 Raika: Yeah... Sorry.
 Shizuku: ...
+(Transition)
 (Background change)
 Chieri: Alright, Chieri's heading out first! You've got the cleanup!
 Raika: Hmm...
@@ -65,6 +69,7 @@ Shizuku: Sorry for keeping it secret until now. It was given to me the day befor
 Shizuku: Actually, I had intended to hand it over after understanding Miku's words...
 Chieri: Wh-What do you mean!?
 Shizuku: Actually, that night...
+(Transition)
 (Background change)
 Miku: So, if you click here, the song plays. Did you get that?
 Shizuku: Mm. I'm glad I had Yomogi teach me the basics beforehand. Thanks to that, I could understand what you said.
@@ -74,6 +79,7 @@ Miku: Hmm... Just a feeling?
 Shizuku: Just a feeling...
 Miku: Don't overthink it. I'm counting on you.
 Shizuku: ...
+(Transition)
 (Background change)
 Shizuku: After saying that, Miku went back to packing.
 Yomogi: So that's what happened...
@@ -118,6 +124,7 @@ Raika: Let's hear from Miku herself what she was really thinking.
 Chieri & Yomogi & Shizuku: ...!
 Yomogi: That said... we don't even know where Miku-san is, do we?
 Chieri: If that's the case, then there's only one thing to do!
+(Transition)
 (Background change)
 
 [That Night]
@@ -137,6 +144,7 @@ Miku: It's complete...
 Miku: Maybe I'll play the guitar...
 Miku: (Oh... again. I've left that behind.)
 Miku: (Because I don't want to get involved in "family" anymore...)
+(Transition)
 (Background change)
 Miku: I did it... I was able to play it a little...!
 Miku: (Papa left, and it was just me and Mama. Mama took on more work, and gradually grew worn out.)
@@ -149,6 +157,7 @@ Miku: Ah...! I need to hide it in the closet—
 Miku's Mother: Miku... You took that out and played with it again? What, is that supposed to be a jab at me?
 Miku: No, it's not! This is—
 Miku's Mother: You really wanted to leave with that person, didn't you...! You should have just left me behind!
+(Transition)
 Miku: (I didn't want to make Mama angry, so I put the guitar in the back of the closet for a while.)
 Miku: M-Mama~ I got dinner ready.
 Miku's Mother: *Sniff*... Ugh... I've had enough...! Why is it always me...!
@@ -159,6 +168,7 @@ Miku's Mother: Ah... Ahh, sorry, Miku-chan...! I'm such a useless Mama, I'm sorr
 Miku's Mother: I can't live without Miku-chan...!
 Miku: ...
 Miku: It's okay. Miku will hold it together. So... It'll be alright.
+(Transition)
 Miku: ("I hope tomorrow Mama will smile." "I hope my family won't break any further.")
 Miku: (Every day I prayed like that, and all I thought about was how to hold my broken "family" together.)
 Miku: (Once I got used to that life, I also started finding time to play guitar, and made sure Mama never found out.)
@@ -171,6 +181,7 @@ Miku's Mother: He's a really wonderful person. I think he'll make a great Papa f
 Miku: Huh...
 Miku's Mother: Mama is thinking of remarrying. Let's leave this hard life behind together, okay?
 Miku: ...
+(Transition)
 (Background change)
 Miku: (I believed that if I tried hard enough, we could be happy as family one day.)
 Miku: (But reality was different. Mother eventually found another adult to rely on, and was saved by him.)
@@ -180,10 +191,13 @@ Miku: ("Mama is so happy. Miku-chan, thanks to your efforts.")
 Miku: (I thought she would say that to me one day.)
 Miku: Um... That data is...
 Miku: (I don't know what a "happy family" is. That doesn't matter. But...)
+(Transition)
 (Background change)
 Miku: (Those people don't have to go through something like this. They can just laugh like idiots, without a care.)
 Miku: (This song only fits people who can seriously scream like idiots, "As long as you've got family, life's the best.")
+(Transition)
 (Background change)
 Miku: I can't do that, huh...
+(Transition)
 Miku: Forget it...
 Miku: Um, tomorrow's schedule is... Vocal training, then dance lesson...

@@ -1,16 +1,20 @@
 10603:adv_script_yomogi_shizuku_linkstory_1 蓬咲&寧月 1
 
 (Background change)
+(Transition)
 
 [学生寮『ピースミカ』 リビング]
 
 蓬咲: はぁ〜……
+(Transition)
 (Background change)
 寧月: そのまま、かじる…… はぐっ……
 寧月: ん……！ んんん〜〜〜……！！
+(Transition)
 (Background change)
 蓬咲: あの笑顔……また見たいな〜……！
 蓬咲: はっ！　そうだ……！
+(Transition)
 寧月: 私に渡したいもの？
 蓬咲: はいっ……！ 寧月さんに、これ
 寧月: おお……菓子の詰め合わせのようなものか？ どれも見たことがない

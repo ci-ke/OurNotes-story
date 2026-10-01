@@ -14,6 +14,7 @@
 そよ: 昔やったなぁ、その間違い探し
 愛音: …………
 愛音: こんなはずじゃなかったのに～！
+(Transition)
 (Background change)
 
 [数日前]
@@ -25,6 +26,7 @@
 愛音: あ、このお店いいじゃん！ 口コミは〜……
 愛音: ……わっ、すご！ 満点の人たくさんいる！
 愛音: え、ここしかなくない！？　ここで決定！ 『お店決まったよ～！　集合場所は～……』
+(Transition)
 (Background change)
 
 [当日]
@@ -51,6 +53,7 @@
 立希: そろそろ予約の時間でしょ
 愛音: えー……せっかくリベンジしようと思ってたのに。 まあいいや、とりあえず撮れた動画送っとくね
 愛音: じゃあいよいよ、お店行っちゃおっか！ みんなついてきてー！
+(Transition)
 (Background change)
 
 [レストランの前]
@@ -64,6 +67,7 @@
 楽奈: 終わり？
 愛音: ま、まだ諦めるには早いって！ どっか！　どっか空いてるはず！
 燈: …………
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4)
 (Caption): MyGOエクストラ　ファミレス（3話）
@@ -110,6 +114,7 @@
 (Subtitle) そよ: はい、燈ちゃんの分ね
 (Subtitle) 燈: ……ありがとう
 (Subtitle) 燈: （似てる……けど、違う）
+(Transition)
 (Background change)
 愛音: あ、ともりん。 間違い探しクリアできた？
 燈: え……うん
@@ -139,10 +144,13 @@
 楽奈: バンドやろ
 愛音: 適度にパーティもやろうよ〜！
 燈: …………
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp)
 燈: ……間違いとか。そうじゃない、とか
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp)
 燈: 今はまだ、わからない……
+(Transition)
 燈: けど。このまま、進んでいきたい……から
 燈: それしかできない、から
 愛音 & そよ & 立希 & 楽奈: …………

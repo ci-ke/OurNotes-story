@@ -1,6 +1,7 @@
 10601:adv_script_yomogi_chieri_linkstory_2 Yomogi & Chieri 2
 
 (Background change)
+(Transition)
 
 [One Day Off]
 
@@ -27,11 +28,13 @@ Yomogi: Whaaaat!? I'm the first subordinate!? Since when!?
 Chieri: The day Chieri came to P-Stay. Don't you remember?
 Yomogi: I-I could never forget! You were talking about a union and subordinates the first time we met...!
 Chieri: That's right... That was the day the Chieri Union began. Chieri held her very first subordinate induction ceremony right at the front door.
+(Transition)
 (Background change)
 Chieri: Raika kept going on with that whole "We're family, so~" thing... But you were different, weren't you, Yomogi?
 Yomogi: Huh...?
 Chieri: You were so overwhelmed by Chieri's incredible aura that you couldn't even speak! You were trembling with emotion!!
 Yomogi: ...!!
+(Transition)
 (Background change)
 Chieri: That was when Chieri made up her mind. Chieri needed to take proper care of her very first subordinate.
 Chieri: Aren't you happy? Your union leader is doing all this for you! You're moved too, aren't you?!

@@ -24,6 +24,7 @@ Raika: Alright, I'll take you to "P-Stay!" Leave your luggage to me!
 Raika: Okay, let's go!
 Miku: Huh!? Wait, my hand...!
 Miku: (You don't need to come with me, you know...!!)
+(Transition)
 (Background change)
 Raika: Here we are! This is "P-Stay!"
 Miku: Huh... Here?
@@ -31,6 +32,7 @@ Miku: (It's more like a detached house than a dorm...)
 Raika: Three minutes on foot from the live house! Or thirty seconds if you run! Great place, right~?
 Raika: Alright, I'll open the door. This is our home~!
 Miku: Our... home...!?
+(Transition)
 (Background change)
 Chieri: You finally made it! The newcomer for the Chieri Union!!
 Yomogi: Ugh... My heart's not ready...!
@@ -82,6 +84,7 @@ Yomogi: I just can't do this, I can't even try. I'll just stay weak forever... O
 Yomogi: Ugh~ There's a towel on my escape route... I've got no courage, no luck, no good fortune at all...!!
 Raika: Ahaha. I see, you just wanted to be friends with Miku~
 Yomogi: I was being laughed at again...
+(Transition)
 Miku: (There's someone who starts stupid, elementary-school-level squabbles...)
 Miku: (And there's someone whose emotions are like a roller coaster...)
 Miku: (Living with these people is the worst...!!)
@@ -102,6 +105,7 @@ Miku: Apparently, this isn't the dorm I'll move into♪
 Raika: Ahaha, nice joke~!
 Raika: Look, I've got your documents, Miku. So this is the right place!
 Miku: I guess you've got the wrong person♪ Bye.
+(Transition)
 (Background change)
 Miku: (Living in a place like that, with those people!? Impossible, absolutely impossible!!)
 Miku: (Especially what she said. Why—)

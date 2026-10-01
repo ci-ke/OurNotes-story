@@ -33,11 +33,13 @@ Yuno: ?
 Ritsu: I think it must be thanks to that meat on the bone.
 Yuno: Meat on the bone...?
 Ritsu: Yes...!
+(Transition)
 (Background change)
 Yuno: So what? Do whatever you want.
 Ritsu: Huh...?
 Yuno: Something being over and not wanting it to end are two different things, right?
 Yuno: If you could just let go that easily, you wouldn't be struggling with it... You don't want it to end, do you?
+(Transition)
 (Background change)
 Ritsu: I can't forget that taste.
 Yuno: ...

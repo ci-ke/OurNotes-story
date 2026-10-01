@@ -1,5 +1,6 @@
 10509:adv_script_mutsumi_sakiko_linkstory_3 睦&祥子 3
 
+(Transition)
 (Background change)
 
 [若葉家 地下スタジオ]
@@ -7,8 +8,10 @@
 睦: ……祥
 祥子: 睦？
 睦: 時間
+(Transition)
 (Background change)
 祥子: あ……もうこんなに暗く……
+(Transition)
 (Background change)
 祥子: ごめんなさい。学校では、自由にピアノを弾くことが できないものですから、つい
 祥子: ここではのびのびと練習ができて助かりますわ。 いつもありがとうございます
@@ -21,6 +24,7 @@
 睦: 昔、聴かせてもらった
 祥子: ！
 祥子: （もしかして……あの頃のことを覚えて……？）
+(Transition)
 (Background change)
 祥子: ――あれはまだ、お母様が元気だった頃
 祥子: ……ふう
@@ -30,6 +34,7 @@
 睦: …………
 祥子: 睦は、穏やかに微笑んで
 祥子: 確か、その後――
+(Transition)
 (Background change)
 睦: 海みたいだった
 祥子: ……え？
@@ -44,8 +49,10 @@
 祥子: ……いえ、なんでもありません
 睦: ？
 祥子: （ただ……）
+(Transition)
 (Background change)
 祥子: （すべてが。変わってしまったわけではないのかも）
+(Transition)
 (Background change)
 祥子: ……睦
 睦: ？
@@ -53,4 +60,5 @@
 祥子: 先ほどの曲を最初から。 あなたに聴いてほしくて
 睦: うん
 祥子: ……ありがとう。 では――
+(Transition)
 (Background change)

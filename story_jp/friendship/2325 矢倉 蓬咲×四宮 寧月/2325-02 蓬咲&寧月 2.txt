@@ -1,5 +1,6 @@
 10604:adv_script_yomogi_shizuku_linkstory_2 蓬咲&寧月 2
 
+(Transition)
 (Background change)
 
 [ある休日]
@@ -43,6 +44,7 @@
 寧月: 酸素
 蓬咲: ……はぁ〜
 蓬咲 & 寧月: １、２、１、２、１、２……
+(Transition)
 (Background change)
 蓬咲: ぜぇっ、はぁっ……！！
 蓬咲: 矢倉蓬咲っ、奇跡のミッション達成です〜〜〜！！

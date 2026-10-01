@@ -19,26 +19,33 @@ Raika: ...
 Raika: It's covered in scratches everywhere... It's really shabby, isn't it...
 Raika: Oh, this mark on the wall... That's my height from the day I started elementary school...!
 Raika: And there are so many stickers that I put up without asking. This one, that one... and that one over there too.
+(Transition)
 Raika: (When I was little, I was always told never to go up on stage. Because I'd fall, it's dangerous, or something like that.)
 Raika: (When I wouldn't listen, saying "I'll be fine! I'm tough!" Granny said this to me.)
 Raika: ("When the day comes that you play in a band with your own family, you can step up here.")
+(Transition)
 Raika's Grandmother: I'm back, "Nest!!"
 Raika: Wow~~~!!!
 Raika: (One day, I want to stand there with my family, too.)
 Raika: (I've always been waiting for that day to come, just waiting and waiting.)
+(Transition)
 Raika: I'm back, "Nest!" And to everyone seeing us for the first time, nice to meet you!
 Raika: Let's go, my family!
 Raika: (Because you all came, my dream came true.)
+(Transition)
 Raika: That was fun...!
 Raika: And we got these huge cheers at our last live!
 Raika: Three months later, we'll fill the place up and make a huge ruckus with even more guests.
+(Transition)
 Raika: One day, we'll put together a setlist of nothing but Miku's original songs, and do our first solo live at "home" too...!
 Raika: We'll go on a nationwide tour and travel together, then come back here and do a "We're home!" live...!!
+(Transition)
 Raika: There were so many things I wanted to make happen here with everyone.
 Raika: Sorry, "Nest."
 Raika: (We're a family of five.)
 Raika: (Unless all five of us are happy, we can't call it a peaceful family.)
 Raika: (Happiness that's built on someone's sacrifice... That shouldn't exist.)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000010/data/adv_still_charaillust_000010/adv_still_charaillust_000010.webp)
 Raika: Oh. Hello, Granny?
 Raika's Grandmother: "Raika~~! You eating well~!?"
@@ -46,6 +53,7 @@ Grandmother's Band Member A: "Huh, Raika's calling!? Heeey~~~!! We've got a live
 Grandmother's Band Member C: "You miss us Grannies being around, don't you~!"
 Raika: Ahaha, you're loud! Good to see everyone's doing well~
 Raika's Grandmother: "Well, we're the same as ever. Raika... About family—"
+(Transition)
 Raika: Remember back when it rained so hard we couldn't go camping, so we just camped inside "Nest" instead?
 Raika: Remember? I had you set up a tent on the floor!
 Raika's Grandmother: "Huh? Oh yeah... That's because Raika, you were crying your eyes out, saying you absolutely had to go."
@@ -60,9 +68,11 @@ Raika: But all of it was so much fun!
 Raika's Grandmother: "Raika... So you have decided."
 Raika: Yeah. I will give "Nest" to Suzuki-san and bring Miku back.
 Raika: "Nest" is our home... It's our treasure. I never even thought of letting it go. But...
+(Transition)
 (Background change)
 Raika: To protect this home, one of my family is carrying all the pain alone...!
 Raika: That is not peace. Because no one would be happy...
+(Transition)
 (Background change)
 Raika: I... I want to choose the happiness for everyone in my family...!!
 Raika's Grandmother: "To be able to say that... You've really found a good family, Raika."
@@ -78,6 +88,7 @@ Raika's Grandmother: "Okay, leave it to me! Oh~ I'm actually looking forward to 
 Raika: Oh, so you're coming back to talk to Suzuki-san! When are you getting back!? You're gonna see my family, right!?
 Raika's Grandmother: "Yeah. I'll finish up what I need to do and come back... Probably five days later~"
 Raika: ...Five days from now... Wait, Miku's internal live showcase is...
+(Transition)
 (Background change)
 Chieri: The best idea to bring Miku back?
 Raika: Yeah! Once Miku's idol debut is confirmed, we won't be able to bring her back.
@@ -117,10 +128,12 @@ Raika: Everyone...! Alright, let's all work together to bring Miku back!!
 Chieri & Yomogi & Shizuku: Yes!! Yeah.
 Yomogi: Oh... But when you say "bring Miku back," what exactly are we going to do?
 Raika: About that, actually I have an idea...
+(Transition)
 (Background change)
 
 [Idol Group In-company Live Show - The Day Of]
 
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4)
 (Caption): 一家Dumb Rock!バンスト1章　心玖を取り戻す朝ごはん
@@ -146,3 +159,4 @@ Raika: About that, actually I have an idea...
 (Subtitle) everyone: Thanks for the meal!!
 (Subtitle) Raika: Let's go, my family!! Let's bring Miku back!!
 (Subtitle) Yomogi & Chieri & Shizuku: Ohh!!
+(Transition)

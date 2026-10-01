@@ -3,13 +3,17 @@
 間違いだらけだけど……ぼくはぼくだから
 
 (Background change)
+(Transition)
+(Transition)
 (Background change)
 律: あ……
 あられ: ごめん、 ダメだ…… 怖い……っ
 律: ……そうだよね
+(Transition)
 (Background change)
 あられ: ……
 あられ: ！　時間……！
+(Transition)
 (Background change)
 マネージャー: メッセージは送ったけど、遅刻なんて珍しいね
 あられ: 遅れちゃってすみません！
@@ -45,6 +49,7 @@
 マネージャー: うぬう
 ユノ: （訳アリ極まったか？）
 ユノ: （あの動画…… 今回のことには関係なきゃいいけど）
+(Transition)
 (Background change)
 らき: あ！　あられちゃん
 あられ: なにー？
@@ -82,6 +87,7 @@
 あられ: え、え～っと……電車の時間が！ 失礼します！
 ののか: あっ
 ののか: あ～……
+(Transition)
 (Background change)
 あられ: （ヤバイヤバイヤバイ）
 あられ: （ののちゃんさんのお手当てだ…… 気付かれてる）
@@ -89,9 +95,12 @@
 あられ: （痛い…… 時間が経てば治るかもって思ってたけど……）
 あられ: （ダメなんだ。 みんなのおかげで少しマシになったかもって思ったのに……）
 あられ: （昔のことも……昨日のことも……）
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 あられ: （……わかんないよ……）
+(Transition)
 (Background change)
 ビオラ: CDの特典の撮影、楽しかったね♡
 ビオラ: 律のメイドさん衣装なんて初めてだよね。 いつもクールな王子様のクレマチスなのに
@@ -109,6 +118,7 @@
 律: わかりました
 ビオラ: えらいえらい
 ビオラ: いい子だね、あられちゃんとは大違い♡
+(Transition)
 (Background change)
 律: ――配信、ご視聴いただきありがとうございました
 律: 明日１３時から、スズナーレ１階イベントスペースにて、 フェアリィブゥケ、ファーストビジュアルブック 発売記念イベントを行います
@@ -123,17 +133,20 @@
 (Background change)
 ビオラ: ――律ってば～……
 ビオラ: あられちゃんの曲弾いてる♡
+(Transition)
 (Background change)
 ユノ: ……ん？
 ユノ: 『クレマチス、配信切り忘れ』 『えれあ曲を演奏してる』……
 ユノ: えれあって……
 ユノ: こりゃ……訳アリにも程がある……
+(Transition)
 (Background change)
 ビオラ: ～♪
 ビオラ: ……夜分に申し訳ありません
 ビオラ: ……そうです、クレマチスの配信、 明日のイベントの集客用の演出で
 ビオラ: はい、切り忘れのテイで。 マネージャーさんにお伝えするのが遅くなってしまって……
 ビオラ: はい、はい、失礼します
+(Transition)
 (Background change)
 律: …………
 律: あられちゃん……！
@@ -144,57 +157,77 @@
 律: ！
 律: はぁ、はぁ、はぁ……
 律: 全部聞かれた……？
+(Transition)
 (Background change)
 ビオラ: 昔のファンに見つかったら大変なことになっちゃうかな…？
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000295/data/adv_still_anime_000295/adv_still_anime_000295.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000028/data/adv_still_charaillust_000028/adv_still_charaillust_000028.webp)
 あられ: 変わらないよ！　離れてもずっと友達！
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000295/data/adv_still_anime_000295/adv_still_anime_000295.webp)
 (Background change)
 ビオラ: みゅ～たいぷ、とか
+(Transition)
 (Background change)
 歌美: 『……次のリーダーは、ビオラちゃんになります』
+(Transition)
 (Background change)
 ビオラ: こんなひどい動画、 誰が……
+(Transition)
 (Background change)
 あられ: りっちゃん、 ギターちょっと弾けるよね！？ りっちゃんのギターでぼくが歌うの！
+(Transition)
 (Background change)
 ビオラ: 私、律がいないと、どうにかなっちゃうかも……
+(Transition)
 (Background change)
 あられ: 略してマジるる、ここテストに出るぞー
+(Transition)
 (Background change)
 ビオラ: よくできました♡
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000028/data/adv_still_charaillust_000028/adv_still_charaillust_000028.webp)
 律: どうか……
 (Background change)
 律: どうか、あられちゃんだけには……っ
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000028/data/adv_still_charaillust_000028/adv_still_charaillust_000028.webp)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000235/data/adv_still_anime_000235/adv_still_anime_000235.webp)
 (Caption): この配信は終了しました クレマチスのギター配信 千石ユノ
 あられ: …………なんで……
 あられ: 見なきゃよかった……
+(Transition)
 (Background change)
 律: あられちゃん……！
+(Transition)
 (Background change)
 あられ: （わかってしまった）
 あられ: （言いたかったこと、わかったよ。 あの時のわたしと、同じ顔……）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000236/data/adv_still_anime_000236/adv_still_anime_000236.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000237/data/adv_still_anime_000237/adv_still_anime_000237.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000236/data/adv_still_anime_000236/adv_still_anime_000236.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000238/data/adv_still_anime_000238/adv_still_anime_000238.webp)
 (Caption): 今日学校に書きこみ見てきた 変な人が来て一斉下校になった あれれちゃん来たら危ないかも… うちは親が念のために送り迎えしてくれるって 元気出して
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000237/data/adv_still_anime_000237/adv_still_anime_000237.webp)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000239/data/adv_still_anime_000239/adv_still_anime_000239.webp)
 (Caption): うた きもい
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000238/data/adv_still_anime_000238/adv_still_anime_000238.webp)
 (Caption): 今日学校に書きこみ見てきた 変な人が来て一斉下校になった あれれちゃん来たら危ないかも… うちは親が念のために送り迎えしてくれるって 元気出して
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000239/data/adv_still_anime_000239/adv_still_anime_000239.webp)
 (Caption): うた きもい
 あられ: ……っ！
+(Transition)
 (Background change)
 律: たすけて
+(Transition)
 (Background change)
 (Background change)
 あられ: （わたしにはどうすることもできない）
@@ -206,6 +239,7 @@
 あられ: って、ここスズナーレ！？？
 ビオラ: こんにちは～！　フェアリィブゥケです！
 観客たち: <size=120%>わ～～～～～～！</size>
+(Transition)
 (Background change)
 ビオラ: 今日はフェアリィブゥケの初イベントに足を運んでくださり、 本当にありがとうございます！　リーダーのビオラです！
 ベル: 右よし！　左よし！ フェアリィブゥケ、ベルでーす！　よろしくぅ！
@@ -259,6 +293,8 @@
 (Subtitle) ビオラ: そんな……
 (Subtitle) ビオラ: あられちゃん……どうして……
 (Subtitle) 律: あられちゃん……！
+(Transition)
+(Transition)
 (Background change)
 あられ & 律: はぁ……はぁ……
 律: はぁ……

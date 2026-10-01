@@ -1,6 +1,7 @@
 10580:adv_script_raika_miku_linkstory_2 蕾叶&心玖 2
 
 (Background change)
+(Transition)
 
 [学生寮『ピースミカ』 心玖の部屋]
 

@@ -2,44 +2,55 @@
 
 私の人生、ぜんぶあげたい。あげる……
 
+(Transition)
 (Background change)
 (Background change)
+(Transition)
 (Background change)
 祥子: ……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp)
 (Caption): 石の下の僕にも 温かい光を とどけてくれた まぶしくて 向き合えなかった 祥ちゃんは つたわらないものに かたちをくれた 祥ちゃんに 届きたくて届かない
+(Transition)
 (Background change)
 祥子: ただの学生でしかないあなたに、 他人の人生を抱えきれますの？
 祥子: 出来もしないことを口になさらないで
+(Transition)
 (Background change)
 初華: さっき感動しちゃった。 Ave Mujicaのこと、すごく大切にしてくれてるんだーって
 祥子: それはそうですわ。皆さんの人生を預かるのですから
+(Transition)
 (Background change)
 祥子: ——残りの人生、わたくしにくださいませんか？
+(Transition)
 (Background change)
 にゃむ: 絶対一緒に成り上がってやろうって思ってたのに
 にゃむ: 何が『一生くれ』よ
 (Background change)
 にゃむ: 晴れて強制ソウルメイト計画は大成功
+(Transition)
 (Background change)
 祥子: ……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp)
 (Caption): きっとまた 間違えてしまった でも正解なんて 知らないから ずっと探してる
 祥子: （己の言葉と行動に、責任を果たさねば——）
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp)
+(Transition)
 (Background change)
 
 [翌朝]
 
+(Transition)
 (Background change)
 海鈴: 食べますか？　カリリンメイト
 モーティス: ……
 海鈴: いりませんか……
 海鈴: （あの日以来……）
+(Transition)
 (Background change)
 海鈴: あのあと若葉さんの家に行っても結局見てるだけでしたけど
 立希: ……はぁ。そういうことでしょ
 海鈴: ……？　そういうこと？
+(Transition)
 (Background change)
 海鈴: （あれからモーティスさんの様子を見にくるようには していますが……）
 海鈴: （何も進展ありませんし、これでいいんでしょうか……）
@@ -52,17 +63,21 @@
 モーティス: 祥子ちゃん……私、私……ギターは……
 祥子: ただの一度のズレも許しません。できますわね、『あなた』になら
 モーティス: ……
+(Transition)
 (Background change)
 みなみ: あら〜にゃむちゃん。今更何しにきたの？
 にゃむ: おはようございます。ムジカの練習にきました
 みなみ: ふ〜〜ん………入れば？
 にゃむ: はいっ！　失礼します！
+(Transition)
 (Background change)
 祥子: 揃いましたわね。 集まっていただいたのは、他でもありません
 祥子: <size=150%>Ave Mujicaを復活いたします
 祥子: あなたがたの人生、しかと受け取りました。 今後何があろうと脱退は認めません
+(Transition)
 モーティス: ……
 にゃむ: ……？
+(Transition)
 祥子: これは契約ですわ
 祥子: わたくしたちは運命共同体、 病める時も健やかなる時も運命を共にしていただきます
 初華: ……はい！
@@ -71,8 +86,15 @@
 モーティス: ……
 祥子: 八幡さん、来週にもライブをしたいのでスケジュール調整を
 海鈴: 承知しました
+(Transition)
+(Transition)
+(Transition)
+(Transition)
+(Transition)
 祥子: <size=150%>Ave Mujica、復活マスカレードですわ
+(Transition)
 (Background change)
+(Transition)
 
 [本番当日]
 
@@ -93,6 +115,7 @@
 祥子: （……重い）
 (Background change)
 祥子: （……もう、逃げられない。逃げてはならない。 ……これから先、ずっとこの重さを背負っていくのですわね）
+(Transition)
 (Background change)
 モーティス: ——♪
 にゃむ: 本当に消えちゃったんだ〜ムーコ
@@ -107,9 +130,17 @@
 モーティス: ……
 にゃむ: 『夢を……見てた。愛しても愛しきれない』
 モーティス: 睦ちゃんに、言ってほしかったな
+(Transition)
 (Background change)
+(Transition)
+(Transition)
+(Transition)
+(Transition)
+(Transition)
+(Transition)
 モーティス: 月の光が僕らを照らしている。目覚めの時——
 モーティス: ドロリス、ティモリス、アモーリス、オブリビオニス…… 月がのぼったよ
+(Transition)
 ドロリス: ……僕は……
 オブリビオニス: ここは
 ティモリス: ロフトムーンではないようですね
@@ -123,6 +154,7 @@
 モーティス: 私も……
 アモーリス: （……睦ちゃんに愛されたかったよ）
 アモーリス: （一緒に、生きたかった）
+(Transition)
 (Background change)
 モーティス: （まだ……まだ、間に合うんなら）
 モーティス: （神様。睦ちゃんに会えるなら、なんでもあげる。 私、もうそれだけだよ）
@@ -132,6 +164,7 @@
 (Caption): Crucifix X　ライブシーン
 (Subtitle) ドロリス: 運命の歯車は再び、動き出す
 (Subtitle) ドロリス: ようこそ、AveMujicaの世界へ
+(Transition)
 
 [終演後]
 
@@ -141,10 +174,12 @@
 初華: 戻ってこない？
 初華: ロフト、そのままにしてるんだ。 狭かったらもっと広いところに引越してもいいし、私——
 祥子: この車は……
+(Transition)
 定治: ……
 祥子: どこにでも現れますのね、おじいさま
 定治: 初音。帰りなさい
 初華: ……
 祥子: ？　初音？
 初華: ……
+(Transition)
 語り部: 幕引きは必ず訪れる。 ただここにあるのは、彼女のための断頭台——

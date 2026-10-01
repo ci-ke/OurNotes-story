@@ -42,6 +42,7 @@ Miku: Studio time, playing lives—everything's going to cost money from now on.
 Raika: Ahaha, sorry! I'll figure something out!
 Miku: *Sigh*...
 Miku: (After that troublesome family reunion live, so many things happened.)
+(Transition)
 (Background change)
 Raika: Granny and others, welcome—
 Raika's Grandmother: <size=200%>You complete idiot!!!</size>
@@ -62,6 +63,7 @@ Miku: Umm...
 Raika's Grandmother: There's so much we need to catch up on. Let's all have a meal together! It's a meeting of both families!!
 Raika: Yes~~!
 Miku: (There was a day when Grandmother and others descended upon us. They were dozens of times more powerful than Raika, and we were scolded, praised, and kept busy all day long...)
+(Transition)
 (Background change)
 Suzuki: I heard beforehand that the live house would be transferred to us, but...
 Suzuki: How dare they do something like that on the day of the internal showcase live...!
@@ -71,6 +73,7 @@ Suzuki: At least I got the studio worked out... *Sigh*... I should've never scou
 Suzuki: I just wanted to show up those colleagues who got ahead of me~
 Raika's Grandmother: Well, Suzuki-san, you also did quite a number on the kids, so let's call it even.
 Suzuki: Ugh... Yes... I also sincerely apologize...
+(Transition)
 (Background change)
 Miku: (And after that, Raika's home, "Roarin' Nest," was handed over.)
 Miku: (I was fired for causing trouble. Including Raika, we were all banned from that company.)
@@ -148,9 +151,11 @@ Raika: Huh?
 Miku: You gave up "Nest" because of me... That's why I'm saying we should take that live house back.
 Miku: You said you want to see what our "home" becomes, didn't you?
 Raika: ...!
+(Transition)
 (Background change)
 Raika: There were so many things I wanted to make happen here with everyone.
 Raika: Sorry, "Nest."
+(Transition)
 (Background change)
 Raika: Miku...!
 Raika: Ugh~~ Thank you sooo much~~~~!! Your love is so big that I can't see ahead~~!!
@@ -164,6 +169,7 @@ Miku: We'll talk about that later! Look at the time! If we don't leave now, we w
 Raika: Huh! That's true!
 Raika: Everyone, today's the big debut of our stage outfits~!! Let's bring it together~~!
 Miku: Got it, everyone, get ready in three minutes! And check your costumes!
+(Transition)
 (Background change)
 The Audience: Waahh...!
 Raika: ...!

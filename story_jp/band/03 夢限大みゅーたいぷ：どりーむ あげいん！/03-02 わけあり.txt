@@ -24,6 +24,7 @@
 あられ: （マジるること『マジカルフィジカル☆くるる』のオタクが クラスにいるなんて、運命すぎる～～～っ）
 あられ: （この感じだとオンラインじゃなくても なんとかなりそうかも……良かったぁ～）
 あられ: （あと、問題は――）
+(Transition)
 (Background change)
 
 [VR Floor]
@@ -78,6 +79,7 @@
 あられ: ぴっ！？
 マネージャー: フロア切り替えるよー
 ののか: ええ～い
+(Transition)
 (Background change)
 ののか: お～
 都子: すごい……
@@ -119,11 +121,13 @@
 ユノ: え？
 都子: ……！
 ののか: <size=150%>あられちゃ～～～～～～～～～～～～ん！！！
+(Transition)
 (Background change)
 マネージャー: ——出血はしてないってことで
 あられ: ふぁう（はい）
 マネージャー: じゃあ楽器練習始めるよ！ 仲町さんは舌を大事に見学してて
 あられ: ふぁひー
+(Transition)
 (Background change)
 あられ: （あ、すごい…… 都子さん、もうこんなにできるようになってる）
 あられ: （…………）
@@ -141,6 +145,7 @@
 ユノ: ……何言ってんの？
 あられ: ――…………
 ののか: あ
+(Transition)
 (Background change)
 あられ: <size=150%>ああああああああああああああああああああっ！！！
 あられ: うぅ～～～……っ。 今日の人生ダメメのメ～～～～～
@@ -151,6 +156,7 @@
 あられ: よし、明日は―― <size=150%>いち！　軽率にしゃべらない！</size>　 <size=150%>に！　歌わない！</size>
 あられ: <size=200%>さん！ 絶対にしゃべらない、歌わない！</size>
 あられ: ん！　おやすみ！
+(Transition)
 (Background change)
 
 [翌日]
@@ -163,6 +169,7 @@
 律: ……？
 律: ……
 ??? (ビオラ): ふふっ♪
+(Transition)
 (Background change)
 ??? (ビオラ): あーられちゃん
 あられ: ……！
@@ -195,15 +202,18 @@
 ぼた: えっ、待ってよー
 らき: あられちゃーん
 律: …………
+(Transition)
 (Background change)
 あられ: 転校したんだ……
 あられ: あんなに難しい中学、受験して…… そのまま大学まで行けたはずなのに……
 あられ: 学校に居づらくなったのかな。 わたしが、あんなことになったから
+(Transition)
 あられ: ――終わったことだから！ 今をがんばる！
 あられ: ……っ！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000202/data/adv_still_anime_000202/adv_still_anime_000202.webp)
 (Caption): マジるる！ ナイスバルク
 あられ: ――――♪
+(Transition)
 (Background change)
 ビオラ: イベントの件は確定ね
 ベル: 最近マネちゃん怒ってばっか～。 告知のリポスト遅いとかー、英語の綴り間違えるなーとかー
@@ -228,15 +238,18 @@
 ビオラ: 律、あられちゃんに会ってから元気ないから 元気出してほしくて……
 ビオラ: 私、律がいないと、どうにかなっちゃうかも……
 律: …………
+(Transition)
 (Background change)
 らき: 良かった……
 ぼた: 良かったね……
 あられ: マジるるコラボカフェ、ホント最高だった……！
+(Transition)
 らき: 私達本屋さん寄ってくー
 ぼた: またねー
 あられ: ばいばーい
 あられ: ……
 あられ: いないよね…… さすがに使う路線まで変えたら大丈夫か……
+(Transition)
 (Background change)
 あられ: （やっぱりオンラインコースにしておけばよかったかなあ……）
 あられ: （でもなにがなんでも理由作らないと、 永遠にあのままだったろうし……）
@@ -254,6 +267,7 @@
 律: ……遠くなっちゃったんだね
 ユノ: ……
 ユノ: ワケアリか……？
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01.mp4)
 (Caption): 夢みた1話　あられの家でのシーン

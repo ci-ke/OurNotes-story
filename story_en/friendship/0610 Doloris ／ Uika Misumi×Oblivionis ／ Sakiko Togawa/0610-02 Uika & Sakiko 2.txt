@@ -1,5 +1,6 @@
 10499:adv_script_uika_sakiko_linkstory_2 Uika & Sakiko 2
 
+(Transition)
 (Background change)
 
 [The Way Home]
@@ -34,6 +35,7 @@ Uika: Since we're going anyway, let's try them.
 Sakiko: Yes. Perhaps we could buy some to try.
 Sakiko: But we must not buy too much...
 Uika: I know, I know.
+(Transition)
 (Background change)
 Uika: Oh, there it is! Let's go, Saki-chan!
 (Background change)

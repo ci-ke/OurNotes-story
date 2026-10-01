@@ -47,7 +47,9 @@ Houka: Yes.
 Mahoro: Yeah...
 Hotaru: Ah. Mahoro-san. Your keychain...
 Mahoro: ...
+(Transition)
 Hotaru: (I can give it back to her later...! Right now, I need to focus on the performance...)
+(Transition)
 (Background change)
 Natsume: Alright, it's finally time. Let's go...!
 Hotaru: Yes!
@@ -55,10 +57,13 @@ Mahoro: ...
 Mahoro: It's so bright...
 Mahoro: (I have to go.)
 Mahoro: (For millsage.)
+(Transition)
 (Background change)
 Mahoro: (For Kanata.)
+(Transition)
 (Background change)
 Mahoro: (My own feelings... they don't matter at all.)
+(Transition)
 (Background change)
 
 [Stage]
@@ -110,11 +115,13 @@ Mahoro: (Then... what's the point of me being here?)
 Mahoro: —♪ *cough* ...
 Nagi: (Mahoro?)
 Natsume: (This isn't good. Her voice is giving up.)
+(Transition)
 (Background change)
 Mahoro: (How did I sing back then...?)
 Mahoro: (What was I supposed to sing again?)
 Mahoro: (Huh...? Huh?)
 Mahoro: (Why... am I even here...?)
+(Transition)
 (Background change)
 Mahoro: ...!
 Audience A: Huh, what's wrong? Trouble?
@@ -124,6 +131,7 @@ Mahoro: (Wait, please...)
 Mahoro: (No, that's not it...)
 Mahoro: (millsage is so much more than this...)
 Mahoro: (It's not just about someone like me...)
+(Transition)
 Mahoro: (If it were Kanata, she'd be so much more—)
 Hotaru: — ♪
 Mahoro: !
@@ -135,6 +143,7 @@ Hotaru: (My singing, my piano... It's all for millsage.)
 Hotaru: (To help everyone... so they can find happiness.)
 Hotaru: (Because that's why I'm standing here right now!)
 Hotaru: — ♪
+(Transition)
 Mahoro: Haa... Haa...
 Mahoro: (Hotaru-chan is singing my part...)
 Mahoro: (Her voice is so clear and beautiful, yet so strong.)

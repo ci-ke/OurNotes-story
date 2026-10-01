@@ -1,9 +1,11 @@
 10602:adv_script_yomogi_chieri_linkstory_3 蓬咲&ちえり 3
 
 (Background change)
+(Transition)
 
 [学生寮『ピースミカ』 リビング]
 
+(Transition)
 ちえり: む〜……
 ちえり: むむむ〜……
 蓬咲: ふぅ～……良いお湯だった〜……！

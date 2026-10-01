@@ -1,11 +1,13 @@
 10584:adv_script_raika_yomogi_linkstory_3 Raika & Yomogi 3
 
 (Background change)
+(Transition)
 
 [P-Stay Dorm - Living Room]
 
 Raika: Yomogiiii! Help meee!
 Yomogi: Aaaah! Please don't hug me!! My heart's pounding out of my chest!!
+(Transition)
 Raika: Oh, sorry! Okay, okay, I'm letting go!
 Yomogi: *Pant*... *Pant*... Jeez, what was that all of a sudden...?
 Raika: Yomogi, come shopping with me!
@@ -32,6 +34,7 @@ Yomogi: Huh...?
 Raika: It might be hard on my own, but I've got you, Yomogi.
 Raika: With our unbeatable team, let's find the perfect present that'll really wow Yamada-san!
 Yomogi: <size=120％>!!</size>
+(Transition)
 Yomogi: That was almost exactly like the scene in Volume 7 of "Saga of the Steel-spirit Bancho: Onishigure," where Godo-kun first learns to trust his friends!!
 Yomogi: "I might not be able to do this on my own... But I've got him." On the very next page after Godo-kun says that, his friend appears! It's such an unbelievably hype scene!
 Raika: Ooh! Yomogi's all fired up!
@@ -39,6 +42,7 @@ Yomogi: I never thought a weakling like me would get the chance to recreate that
 Yomogi: Raika-san! I feel like I can do anything right now!!
 Raika: Thank yooou~! I'll be counting on you this weekend!
 Yomogi: <size=120％>Yes!!</size>
+(Transition)
 
 [Shopping Day]
 

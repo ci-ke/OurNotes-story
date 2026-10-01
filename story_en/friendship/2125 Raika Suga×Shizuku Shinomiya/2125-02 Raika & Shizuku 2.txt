@@ -1,6 +1,7 @@
 10589:adv_script_raika_shizuku_linkstory_2 Raika & Shizuku 2
 
 (Background change)
+(Transition)
 
 [One Day Off]
 

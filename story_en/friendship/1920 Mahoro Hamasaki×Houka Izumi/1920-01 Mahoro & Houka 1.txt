@@ -24,6 +24,7 @@ Mahoro: W-Well... I thought it might be good to have a safety net, just in case.
 Houka: Hehe. You are surprisingly timid about this, are you not?
 Mahoro: Ugh... When we were designing the costumes together, I should have pushed for something a little looser...
 Houka: It was our first time having costumes at all. I suppose it is only natural that there would be some unexpected complications.
+(Transition)
 Houka: Everyone was so excited—Kanata-san especially.
 Mahoro: Ahaha... That is true. I was so happy too.
 Mahoro: It made me feel like we were real professionals.
@@ -31,6 +32,7 @@ Houka: Natsume-san seemed dissatisfied right until the end. She wanted everythin
 Mahoro: Natsume-chan is really particular about things, you know~
 Mahoro: On the other hand, Nagi-chan did not say a thing. She just said, "As long as it does not look strange, I will leave it to you."
 Houka: Hehe. We could have made hers a little cuter.
+(Transition)
 Mahoro: Nagi-chan would definitely get mad about that...
 Mahoro: Wait... If you think about it, were Kanata and I the only ones getting all excited?
 Houka: Not at all. I was every bit as excited as the two of you.

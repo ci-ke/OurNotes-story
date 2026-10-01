@@ -9,6 +9,7 @@ Natsume: Looks like the others are running late. Every last one of them, when pr
 Hotaru: Um... What should we do? Should we wait until everyone gets here?
 Natsume: Yeah. I'll just play some guitar until they get here.
 Hotaru: Okay, I understand.
+(Transition)
 Natsume: ...
 Hotaru: ...
 Natsume: Hey... Why are you staring at me like that?
@@ -23,18 +24,23 @@ Natsume: ...!?
 Natsume: (I-It...)
 Natsume: (It can't be a mantis!!!)
 Natsume: (No, no, no! Bugs? No way! So scary, scary, scary! Just go away already!)
+(Transition)
 Hotaru: Hm? You stopped playing... Is something wrong?
+(Transition)
 Natsume: ...!
 Natsume: (Oh no... Hotaru is right in front of me.)
 Natsume: (To Hotaru, Natsume Izawa is the cool senior guitarist... I can't let her see me like this...!)
 Natsume: I-It's nothing. That was an intentional rest. Silence is part of the performance too...!
 Natsume: (Wait... Why are you coming this way, mantis!? I can't move!)
 Natsume: (No, stop, don't come any closer!  Ugh, no, no, no—)
+(Transition)
 Hotaru: Oh, a mantis. Did it wander in by accident?
 Natsume: !?
 Hotaru: Please stay still... I'll take you outside now.
+(Transition)
 (Background change)
 Hotaru: There you go. Bye-bye.
+(Transition)
 (Background change)
 Natsume: ...
 Hotaru: Phew. I'm glad I could let it out safely. It would have been awful if someone had accidentally stepped on it.

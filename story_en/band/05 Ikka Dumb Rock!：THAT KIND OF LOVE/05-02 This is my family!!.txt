@@ -15,16 +15,19 @@ Miku: Worried, huh...
 (Message) Miku (Miku): Thank you! I'll let you know once I arrive at the dorm and finish unpacking🍀
 Miku: (<r=My>My</r> <r=father>father-in-law</r> and <r=brother>brother-in-law</r> will not be worried about me anyway.)
 Miku: (Actually, even mother...)
+(Transition)
 (Background change)
 Miku: The move... That's quite far away.
 Miku's Mother: Apparently, the club team that scouted Hiro-kun has their home ground there.
 Miku's Mother: This time, we can live in a big detached house, and we've also found a new school for you.
 Miku's Mother: I heard that the school provides plenty of support for both studies and extracurricular activities...
+(Transition)
 Miku: ...
 Miku's Mother: It was so sudden, so you must have been surprised.
 Miku's Mother: But... we have too many painful memories in this town, right? So I think this is a good opportunity.
 Miku's Mother: From now on, I won't let you suffer anymore, Miku-chan. So feel free to rely on Mama.
 Miku's Mother: Because you're also my child, Miku-chan.
+(Transition)
 (Background change)
 Miku: (She probably wants to be more like a family, and more like a mother to me.)
 Miku: (But I'm already...)
@@ -33,6 +36,7 @@ Miku: (From today on, I won't be pushed around by "family" anymore. A quiet, pea
 Miku: Hehe...
 Miku: ! Ahem...
 Miku: Um... Right, pick up the key. The place is...
+(Transition)
 (Background change)
 Miku: Huh, underground?
 Miku: Live house "Roarin' Nest..." It's here, but...
@@ -88,6 +92,7 @@ Raika: Oh, no, not me! Just come in first!
 Raika: Fortune in~! I'll carry your luggage, pass it to me!
 Miku: Huh, um...
 Miku: (Wh-What's up with this girl...!?)
+(Transition)
 (Background change)
 Raika: Okay, there we go! I'll put your luggage here.
 Miku: Sorry, thank you very much~
@@ -112,16 +117,19 @@ Miku: Ahaha... sorry. Then, could I have the dorm key?
 Yori: As I said, you should ask Raika for that~
 Miku: Okay, where is Raika-san now...?
 Yori: Stage.
+(Transition)
 (Background change)
 Raika: Miku~~ Sorry for the wait~~~!
 Miku: Huh... Guitar...?
 Raika: You two, hurry to the stage too!
+(Transition)
 (Background change)
 Chieri: Argh, seriously!! You're just tall and get in the way! Don't block Chieri's path!
 Yomogi: Gyaaah! Don't push, don't push me!! I'm gonna get pushed off the wing...!
 Raika: Yomogi, you're playing from there again today? You should come out~
 Yomogi: Playing here is already my limit...
 Chieri: Then keep playing all gloomy over there! Chieri's gonna have all the stage lights!
+(Transition)
 (Background change)
 Chieri: Ta-da!! Here comes the leader of the Chieri Union, Chieri Umezato!
 Chieri: A big round of applause is more than welcome!
@@ -140,9 +148,12 @@ Miku: (I dunno... The air coming from the stage wing is weird.)
 Miku: (Actually, what's this?)
 Raika: Ahaha, glad to see you're fine! Well then, Miku, please hear us out for one song.
 Raika: This is my family!
+(Transition)
 Miku: (Whoa...)
 Miku: (The sound's a total mess. No one's listening to anyone else.)
 Miku: (Well, that makes sense, considering their conversation just now.)
 Miku: (But...)
+(Transition)
 Raika: —♪
+(Transition)
 Miku: Huh...

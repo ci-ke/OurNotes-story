@@ -3,6 +3,7 @@
 I wanna ride that!
 
 (Background change)
+(Transition)
 (Background change)
 Yuno: Mmmmmm... Ahh...
 Arale: It's evening already~
@@ -21,6 +22,7 @@ Miyako: Yes.
 Arale: Nnngh... That's part of what makes you so amazing, Yako-sensei, but as your fan, I still want you to rest when you can...!
 Yuno: Can we just decide already? We're either going, or we're not.
 Arale: <size=175%>We're goooooing!
+(Transition)
 (Background change)
 
 [Ferris Wheel]
@@ -43,6 +45,7 @@ Miyako: I'll pass.
 Nonoka: Why not?! I wanna, wanna, wanna run together~!
 Miyako: Oh, look outside!
 Nonoka: Huh!?
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_yumemita_exstory_03_01/adv_movie_yumemita_exstory_03_01/adv_movie_yumemita_exstory_03_01.mp4)
 (Caption): ゆめみたエクストラ　観覧車（3話）
@@ -70,6 +73,7 @@ Nonoka: Huh!?
 (Subtitle) Ritsu: Yeah...
 (Subtitle) Miyako: And that's why I'm not doing it!!
 (Subtitle) Arale & Ritsu: Huh?
+(Transition)
 (Background change)
 Nonoka: Nooo~ Nono-chan wants to go running with Miyako-chan and Yuno-chan~!
 Yuno: Leave me out of this.
@@ -90,8 +94,11 @@ Nonoka: Yay~! Running together♪ Running together♪
 Yuno: Absolutely not.
 Miyako: I, too, must firmly decline.
 Arale: Ah~~ B-but we definitely need the stamina, and it wouldn't hurt for all of us to run together...
+(Transition)
 Miyako & Yuno: ...
+(Transition)
 Arale: Nnghhhh... Ricchan, save meeee!!
+(Transition)
 (Background change)
 
 [Station]
@@ -105,6 +112,7 @@ Ritsu: I'm glad...
 Arale: We should do something like this again!
 Arale: I want us to keep trying new things together and keep expanding our world, all the way to infinity!
 Nonoka: Then Yuno-chan can plan the next afterparty~!
+(Transition)
 Yuno: How did you get there?
 Arale: Yes! Let's go somewhere different next time!
 Yuno: I haven't even agreed to a next time.
@@ -119,6 +127,7 @@ Nonoka: <color=#EEEEEE><size=105%>Again soooon♪
 Ritsu: <color=#EEEEEE><size=105%>Again soon.
 Yuno: Ngh...
 Yuno: Haaaaaah...
+(Transition)
 Nonoka: Huh? Yuno-chaaaan? Yuuuno-chaaaaaaaaaan!
 Arale: Th-this can only mean...! The shutters on Yuno-san-chan's heart have slammed shut!!!
 Yuno: ...

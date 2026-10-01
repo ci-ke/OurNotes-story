@@ -2,27 +2,33 @@
 
 幸せである必要あるんですか？
 
+(Transition)
 (Background change)
 にゃむ: こんばんにゃむにゃむ〜♪
 にゃむ: 最近更新できなくてごめんね〜。今日はね！ 今日は〜……
 にゃむ: ……はぁ〜……
+(Transition)
 (Background change)
 アカウントA: にゃむち、最近見ないね
 アカウントB: にゃむち更新ないし違う人見てる〜
 アカウントC: にゃむち好きだったけど、もういい　かな
 にゃむ: ……『昨日好きでも、今日飽きた』
+(Transition)
 (Background change)
 (Message) うみこ: 三角さんの参加も決まりました
 (Message) うみこ: つきましては週末RiNGに来てください
 (Message) うみこ: 豊川さんのこと話し合います
+(Transition)
 (Background change)
 にゃむ: うぅ……
 (Background change)
 にゃむ: 宅配なんか頼んだっけ？　はぁ〜い……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
 (Caption): 戻る 録画 ズーム 音量 メニュー ホーム
 にゃむ: う゛ぇ゛……ウミコじゃん。 家に来るとかマジめんど。無視無視……
 にゃむ: <size=175%>あ〜〜〜もう！！！
+(Transition)
 (Background change)
 海鈴: ここだけ綺麗ですね
 にゃむ: ああ？　で、なに？
@@ -37,9 +43,11 @@
 海鈴: ！
 にゃむ: アタシには仕事があんの。 それなりに勝算がないとやれるわけないし
 にゃむ: <size=150%>アタシ、アンタみたいなドMじゃないからっ！
+(Transition)
 海鈴: あ、そんなに押さないでください
 にゃむ: <size=175%>い〜から帰って！
 にゃむ: ……
+(Transition)
 (Background change)
 モーティス: ——♪
 海鈴: ……
@@ -54,6 +62,7 @@
 モーティス: 私、本気でやってんのに
 海鈴: えっ……！
 海鈴: ……
+(Transition)
 (Background change)
 乗客A: ねえ、あれさ。やっぱそうだよね睦ちゃんだ〜！
 乗客B: ギター持ってる。かわいい〜
@@ -61,17 +70,22 @@
 モーティス: ……すぅ……すぅ
 電車アナウンス: まもなく経堂、経堂です——
 睦: ……降りなきゃ
+(Transition)
 (Background change)
 睦: （たしか……燈の家は……）
+(Transition)
 睦: ……あ
+(Transition)
 燈: ……睦ちゃん
 (Background change)
 燈: ……星。いっしょに、見る？
 睦: うん……
+(Transition)
 (Background change)
 場内アナウンス: 火球と呼ばれる明るい流星が流れてきました。 牡牛座南流星群です——
 初華: ……
 場内アナウンス: 放射点が南と北、ふたつに分かれています——
+(Transition)
 (Background change)
 初華: ……あ
 燈 & 睦: ……！
@@ -79,15 +93,18 @@
 睦: 燈、いこう
 初華: 待って！　ふたりはCRYCHICやるの？
 睦: えっ……
+(Transition)
 (Background change)
 モーティス: いま、なんて……？
 初華: さきちゃんが、CRYCHIC復活させたいって聞いて
+(Transition)
 (Background change)
 燈: 私は……
 睦: 燈、本当に祥が言ったの？
 燈: ……うん
 燈: 私は、まだ……わからなくて…… CRYCHICのこと
 燈: だから……これ
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp)
 (Caption): 照らされた世界 チカチカ まぶしくて 広すぎる青の その絶対に見つからない どこかで咲いているはずなのに でも ぐるぐる まるまって 見ようとしなかったのは
 初華: これって……
@@ -96,12 +113,15 @@
 初華: （この歌詞……この歌詞だから、さきちゃんは……）
 睦: 祥もおなじだった。燈の歌詞に出会って 祥はCRYCHICを作ったから
 睦: CRYCHICが祥の大事なバンドになって ずっと忘れられなくて
+(Transition)
 (Background change)
 睦: でも忘れたかったからムジカができた……
 (Background change)
 初華: <size=175%>……！！
+(Transition)
 (Background change)
 祥子: ぜんぶ忘れさせて……
+(Transition)
 (Background change)
 初華: じゃあ…………あれは………
 初華: ——この歌は違うね。CRYCHICじゃない。 いまの燈ちゃんの、MyGO!!!!!の歌だよ
@@ -134,11 +154,14 @@
 燈: ……睦ちゃん………？
 モーティス: はっ！　……はぁ……はぁ……！
 燈: ……あ
+(Transition)
 (Background change)
+(Transition)
 (Background change)
 モーティス: 睦ちゃんがしんじゃった！　しんじゃった！ しんじゃった！
 モーティス: もしもし。もしもしっ！　お医者さんですか？
 モーティス: ……もうっ！
+(Transition)
 
 [翌日]
 
@@ -147,7 +170,9 @@
 [RiNG カフェテリア]
 
 祥子: 今日はお集まりいただき、ありがとうございます
+(Transition)
 愛音: ……
+(Transition)
 立希: いいけど。なんでCRYCHIC復活なの？
 祥子: 睦のためですわ
 立希: 祥子はどうなの？　 本気でCRYCHICやりたいと思ってんの？
@@ -170,6 +195,7 @@
 海鈴: ふたりとも生き続けられる。 生きていないとしあわせにだってなれないんですよ
 祥子: それでもわたくしに、Ave Mujicaは選べませんわ
 モーティス: ……
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
 モーティス: 私は睦ちゃんを助ける役で、でも睦ちゃんはいなくて…… そしたら私は……
@@ -177,18 +203,21 @@
 睦たち: くすくす……くすくす……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
 モーティス: うっ……
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp)
 (Background change)
 モーティス: やだやだ、消えたくないっ！　ぜったいに消えないもん！
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
 『睦』: <size=175%>私の役、取らないで！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
 モーティス: ……！　 睦ちゃんがいないなら、私がその役をやればいい
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
 モーティス: 『私』が……！　『若葉睦』を！
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
@@ -205,7 +234,10 @@
 モーティス: 私も、祥が私を選んで苦しむ姿を見たくない。 祥が思ってくれてるように私も祥を思ってるから
 初華: ……っ
 モーティス: CRYCHICじゃなくてもいい。 祥とバンドができれば、それで……
+(Transition)
 楽奈: ふっ……おもしれー女の子
+(Transition)
 祥子: 睦……
+(Transition)
 にゃむ: なにそれ……
 にゃむ: きんも

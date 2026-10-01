@@ -1,5 +1,6 @@
 10492:adv_script_uika_umiri_linkstory_1 Uika & Umiri 1
 
+(Transition)
 (Background change)
 
 [Shopping Mall]
@@ -9,17 +10,20 @@ Uika: Let's see... It's been a while since I've been to a mall, so I kind of wan
 Umiri: Sounds good. Work wrapped earlier than planned, and we still have time before we need to be at the next location.
 Uika: Then why don't we take our time and wander around?
 Umiri: Yes. Let's go.
+(Transition)
 
 [Luxury Brand Store]
 
 Umiri: Everything on this shelf, please.
 Uika: Huh? The whole shelf?!
+(Transition)
 (Background change)
 
 [High-End Jewelry Store]
 
 Umiri: The new collection as a set, please.
 Uika: Oh...
+(Transition)
 (Background change)
 
 [Popular Lifestyle Goods Store]

@@ -1,10 +1,12 @@
 10591:adv_script_miku_yomogi_linkstory_1 Miku & Yomogi 1
 
+(Transition)
 (Background change)
 
 [After Band Practice]
 
 Yomogi: *Huff*... *Pant*... I have to change into it... Fast~~~!
+(Transition)
 (Background change)
 Miku: I'm home~
 Yomogi: Haaah...
@@ -16,6 +18,7 @@ Yomogi: Y-You are right...! I was in such a panic that it felt like my body was 
 Miku: Well, I guess some people are like that. They get home and just have to change right away.
 Yomogi: Yes! Exactly!!
 Miku: Whoa, personal space!
+(Transition)
 Yomogi: The outside world is always so frightening... All those strangers, all those eyes... I cannot take it anymore...
 Yomogi: The moment I leave my safe zone, I do not even know how to breathe or walk anymore. It is pathetic...
 Yomogi: I cannot even act normal. Every second, I am embarrassing myself, and knowing that tears my heart apart... My mind is in a million pieces!!
@@ -28,10 +31,12 @@ Yomogi: When I wear this, it feels like I am wearing Godo-kun's resolve too. Lik
 Miku: I see. So that is why you changed first thing.
 Yomogi: Exactly! If I stay in my outside clothes, it still feels like I have to keep fighting.
 Miku: Ah... I get it now.
+(Transition)
 (Background change)
 Miku: (Yomogi-san always seems like she wants to hide somewhere, so I had wondered why her regular clothes stand out so much.)
 Miku: (But maybe those are Yomogi-san's "armor." Clothes for fighting all the things outside that scare her.)
 Miku: (And when she takes off that "armor," she can be herself...)
+(Transition)
 (Background change)
 Miku: That is a nice T-shirt.
 Yomogi: What!? You think so too, Miku-san!?

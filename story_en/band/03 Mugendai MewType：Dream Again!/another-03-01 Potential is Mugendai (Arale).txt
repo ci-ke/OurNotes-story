@@ -17,6 +17,7 @@ Manager: Sengoku-san, I asked you to handle the work for the tie-up. How is that
 Yuno: It'll be done soon. I also plan to release one live song by this weekend.
 Nonoka: Miyako-chan and Yuno-chan are both at full power~~!
 Manager: Miyanaga-san and others are gonna be going full power too! So, here is the band rehearsal schedule.
+(Transition)
 Ritsu: Thank you. This is... pretty tough.
 Nonoka: Mmm... Mmmm~~~?
 Arale: Nono-chan-san, what's wrong?
@@ -39,6 +40,7 @@ Nonoka: The story of how Arale-chan and Ms. Manager met... I wanna hear it!
 Arale: Huh? It's not that interesting though... It was more like, you know, talking about how I felt about joining the agency.
 Nonoka: That's great~! That's what I wanna hear! Your feelings at that time, Arale-chan!
 Arale: Umm... My feelings on that day was...
+(Transition)
 (Background change)
 
 [Agency - Meeting Room]
@@ -67,6 +69,7 @@ Arale: I want to have a dream again... I want to talk to everyone through songs.
 Arale: So...
 Manager: Yeah.
 Arale: So, I'm looking forward to working with you...!
+(Transition)
 (Background change)
 Arale: And that's the kind of conversation we had...
 Ritsu: I see... You really are amazing, Arale-chan.
@@ -80,10 +83,12 @@ Arale: Maybe... I am.
 Arale: Even now... No, more than ever before! I love singing, and I want to deliver my feelings to everyone!
 Arale: So... No matter how tough it gets, I'll keep working hard, more and more!
 Everyone: Hehe...
+(Transition)
 Manager: You said it, didn't you?
 Arale: Huh?
 Manager: Actually, I have a few more plans to discuss with you~! This one, and this one, and this one too!
 Nonoka: Whoa~~ A mountain of plans!
+(Transition)
 Manager: I thought about saving them, but after hearing your declaration just now, honestly, I'm grateful~!
 Arale: D-D-D-Declaration, save! Declaration, save...!!
 Nonoka: Okay, Arale-chan's declaration is saved! "No matter how tough it gets, I'll keep working hard, more and—"

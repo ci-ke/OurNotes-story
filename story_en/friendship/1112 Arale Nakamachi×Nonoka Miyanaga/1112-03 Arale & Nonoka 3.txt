@@ -10,8 +10,11 @@ Nonoka: Arale-chaaaan~!
 Arale: Nono-chan-san...? Where are you~?
 Nonoka: Over here~
 Arale: "Over here"... where's "here"...?
+(Transition)
 Nonoka: Fwoooooosh~~!!
+(Transition)
 Nonoka: <size=45>Ta-da~~!</size>
+(Transition)
 Arale: U-Up there!?
 Nonoka: Up here~!
 Arale: You scared me~ You're really good at flying, Nono-chan-san.
@@ -41,6 +44,7 @@ Nonoka: I'm not done yet! B-B-Booooom!
 Arale: Th-That's amazing...! But, um... aren't you still getting bigger and bigger!?
 Nonoka: Nono-chan's size is Mugen-dai~!
 Arale: That's incredible and all, but maybe you should start shrinking back down...!
+(Transition)
 Nonoka: I don't know how to change back!
 Arale: What?
 Nonoka: And I can't stop growing either~~!

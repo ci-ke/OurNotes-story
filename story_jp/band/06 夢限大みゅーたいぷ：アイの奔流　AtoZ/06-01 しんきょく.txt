@@ -2,6 +2,7 @@
 
 そう、全国ツアーの看板曲！
 
+(Transition)
 (Background change)
 
 [VR Floor]
@@ -54,14 +55,17 @@
 あられ: バンド練習ですっ！！
 マネージャー: わかってればよし！ 長くなっちゃったけど、ＭＴＧは以上！　練習開始！
 一同: はーいっ！
+(Transition)
 (Background change)
 
 [千石家 ユノの部屋]
 
 ユノ: ふーっ、終わった……
 ユノ: …………
+(Transition)
 (Background change)
 あられ: ぼく、ユノさんちゃんなら絶対にいい曲作ってくれると 思ってて……！　期待してますっ！
+(Transition)
 (Background change)
 ユノ: （簡単に言ってくれるけど……）
 ユノ: （いい曲って言っても、当然いろいろある）

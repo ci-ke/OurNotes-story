@@ -23,9 +23,11 @@ Miyako: Look. There's a rabbit tap-dancing with a tuna over there.
 Nonoka: No way!! One of them can't breathe!
 Nonoka: Where, where?! Miyako-chan, I can't find it anywhe...
 Miyako: Who knows where it went? Perhaps I saw it. Perhaps I didn't.
+(Transition)
 Nonoka: Heyyy! You're already in the elevator!
 Miyako: Then I'll see you upstairs.
 Nonoka: Grrr...
+(Transition)
 (Background change)
 Miyako: Phew... I think I finally lost her. Now to hurry to the classroom...
 Nonoka: Not so faaaaaast!!

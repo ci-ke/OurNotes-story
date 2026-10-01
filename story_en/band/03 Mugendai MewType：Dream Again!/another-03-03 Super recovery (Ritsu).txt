@@ -2,22 +2,26 @@
 
 I'm not your toy anymore.
 
+(Transition)
 (Background change)
 
 [Lunch Break]
 
 Nonoka: Finally meeting you in person~ The real Ricchan!
 Ritsu: Once again, nice to meet you.
+(Transition)
 Miyako: ...
 Arale: W-Well, I can't believe we go to the same school, the same class as Ricchan, and we can even have lunch together!
 Nonoka: Indeed~ Happy to have more lunch buddies!
 Ritsu: Sorry for the sudden interruption.
 Nonoka: It's not an interruption, it's happy sharing~
+(Transition)
 Nonoka: But Ricchan, why did you come here~?
 Ritsu: Huh?
 Arale: Oh... By here, you mean the school, or MewType...?
 Nonoka: Both!
 Ritsu: Umm...
+(Transition)
 (Background change)
 
 [Fairy Bouquet Agency - Meeting Room]
@@ -57,6 +61,7 @@ Ritsu: ...!
 Employee A: This isn't something we can decide on our own, so I'll check with the other party.
 Viola: ...! Thank you so much!
 Ritsu: ...
+(Transition)
 (Background change)
 Viola: I'll take my leave now.
 Ritsu: What are you after?
@@ -74,6 +79,7 @@ Viola: Hmm...?
 Ritsu: (I won't let any other sad thing happen to Arale-chan.)
 Ritsu: (This time, I'll be by her side.)
 Viola: Congratulations on graduating from being a model student.
+(Transition)
 (Background change)
 Ritsu: ...
 Arale: Ricchan?

@@ -7,8 +7,10 @@ That's just running away, isn't it?
 [Chihaya's Home - Anon's Room]
 
 Anon: This is bad, this is bad...!
+(Transition)
 (Background change)
 Anon: (That girl Rāna... Her personality is weird, but her guitar skills are like a pro's...!)
+(Transition)
 (Background change)
 Anon: (And yet... Talking about "G" and "F," just how embarrassing can I possibly be!)
 Anon: (And, if that Rāna girl joins the band... then I'll be as invisible as air!)
@@ -25,6 +27,7 @@ Nyamu: "So, this time, I'm going to show you easy, perfect make-up!"
 Nyamu: "With this, you'll be fine even on busy mornings! Let's make things easier by using time-saving techniques and level-up a rank!"
 Anon: Make things easier by using time-saving techniques...
 Anon: ...! This might be it...!
+(Transition)
 (Background change)
 
 [Haneoka Girls' Academy - Classroom 1-A]
@@ -45,6 +48,7 @@ Anon: ? Something hard to say?
 Tomori: Um...
 Tomori: I don't... want to perform live...
 Anon: What...!?
+(Transition)
 (Background change)
 
 [RiNG - Cafeteria]
@@ -66,6 +70,7 @@ Soyo: Tomori-chan, thank you for telling us. You're scared, right?
 Soyo: But you know, this time we'll talk about everything, so it'll be all right. So... you see? Let's try playing live, okay?
 Tomori: ...
 Taki: ...
+(Transition)
 (Background change)
 
 [RiNG - Emergency Stairs]
@@ -78,11 +83,13 @@ Soyo: Should we give up on the live show?
 Taki: ...!
 Soyo: We can just keep going like this, never performing live. We can play as a band just in the studio...
 Taki: I want to perform live.
+(Transition)
 (Background change)
 Taki: When I first heard Tomori's song... I thought it was about me. All the feelings I couldn't put into words, Tomori turned all of them into a song...
 Taki: It told me that it's all right for me to be alive.
 Soyo: Taki-chan...
 Taki: That's why... when we were going to be a band again, it made me really happy... I thought Tomori felt the same way... but...
+(Transition)
 (Background change)
 Soyo: Hehe... You should tell Tomori-chan all of that.
 Taki: It's all just coming from my own ego, so...
@@ -93,6 +100,7 @@ Soyo: Just like Tomori-chan's song reached you, I'm sure that your feelings will
 Taki: ...
 Taki: I don't ever want to make Tomori feel lonely again.
 Soyo: I agree...
+(Transition)
 (Background change)
 
 [RiNG - Cafeteria]

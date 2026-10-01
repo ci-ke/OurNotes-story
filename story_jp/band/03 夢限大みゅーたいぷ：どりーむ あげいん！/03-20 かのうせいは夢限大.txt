@@ -2,12 +2,15 @@
 
 いっぱいみんなと歌でおしゃべりできる！
 
+(Transition)
 (Background change)
 都子: 楽しい……
 ののか: ！
 ののか: いえ～い！
+(Transition)
 あられ: 『In my Words』でした。 聴いてくれてありがとうございます
 あられ: 次の曲は、 みんなといっしょに歌えたらうれしいです
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4)
 (Caption): 夢みた13話　『愛は衝動』ライブシーン
@@ -21,6 +24,7 @@
 (Subtitle) あられ: みんなとおしゃべりできて、 さいっこーに楽しかったです！
 (Subtitle) あられ: せーのっ
 (Subtitle) 夢限大みゅーたいぷ: ありがとうございましたーーーーー！！！
+(Transition)
 (Background change)
 ビオラ: ねえ、あられちゃん。 明日の放課後、一緒にカラオケ行かない？
 あられ: えっ！　行く行く！　もちろん行くっ！
@@ -28,6 +32,9 @@
 ビオラ: ……あのね
 あられ: ん？
 ビオラ: わたし、あられちゃんの歌――
+(Transition)
+(Transition)
+(Transition)
 (Background change)
 あられ: ～～～～～～～～～～っ！！
 ののか: ♪　マネさん遅いね～
@@ -37,9 +44,11 @@
 あられ: あのあのあのあの全国ライブ決定って……っ
 マネージャー: やるよ！
 あられ: ぴゃ～～～～～～～～～～っ！！！
+(Transition)
 ののか: お～
 律: 全国ライブ！
 ユノ: すご
+(Transition)
 マネージャー: 『夢限大みゅーたいぷ』になったからね
 マネージャー: その気合いと、夢限の可能性を信じて！
 あられ: ……！
@@ -53,8 +62,10 @@
 あられ: ぴゃあああ～
 ユノ: ……
 あられ: いっぱいみんなと歌でおしゃべりできる！
+(Transition)
 マネージャー: 新しいタイアップの依頼も来てるよ
 夢限大みゅーたいぷ: <size=130%>ええっ！？</size>
+(Transition)
 都子: 猛練習しなくてはいけませんね
 あられ: 合宿だ！
 ののか: 合宿ぱふぱふ～
@@ -72,6 +83,7 @@
 ののか: ユノちゃんのほーふ！
 ユノ: はあ～？ どう考えても月一新曲でしょ！
 あられ: すご！！
+(Transition)
 (Background change)
 都子: ののかさん、 ビッグののちゃんって何ですか
 ののか: ビッグののちゃん……は……
@@ -81,12 +93,15 @@
 ののか: 都子ちゃーーーーんっ
 まるくん: やめろー
 ののか: がうう
+(Transition)
 あられ & ののか & 都子 & ユノ: ！
 (Background change)
 律: それでは！ みんな揃って
 あられ: 夢限大～～～～～～～～～
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp)
 夢限大みゅーたいぷ: みゅーたいぷーー！
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3.mp4)
 (Caption): 夢みた13話　完！

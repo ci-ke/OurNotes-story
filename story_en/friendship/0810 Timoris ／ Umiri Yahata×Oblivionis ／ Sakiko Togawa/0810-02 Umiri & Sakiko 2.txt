@@ -1,5 +1,6 @@
 10514:adv_script_umiri_sakiko_linkstory_2 Umiri & Sakiko 2
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Meeting Room]
@@ -16,6 +17,7 @@ Sakiko: Pardon me again... I truly am fine. I make sure to take care of myself.
 Umiri: Please wait here for a moment.
 Sakiko: Huh...? Umiri?
 Sakiko: Where are you going...?
+(Transition)
 Umiri: Sorry to keep you waiting.
 Umiri: I got some things from the office to help prevent a cold.
 Sakiko: All of this?
@@ -33,6 +35,7 @@ Sakiko: What...?
 (Background change)
 Umiri: That I looked like Timoris.
 Sakiko: I see...
+(Transition)
 (Background change)
 Umiri: The mask almost caused a bit of a scene.
 Sakiko: That must have been difficult.

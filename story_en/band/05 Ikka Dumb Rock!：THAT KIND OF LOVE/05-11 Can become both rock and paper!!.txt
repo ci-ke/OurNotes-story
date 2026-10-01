@@ -7,6 +7,7 @@ Isn't it kind of infuriating to convince yourself of that?
 [One Hour Later]
 
 Raika: <size=150%>Everyone, good morning...!! Breakfast is ready~~~!!</size>
+(Transition)
 (Background change)
 Raika: Today we've got clay pot rice! And I cooked it perfectly—
 Chieri: Raika! What happened to the spare toothpaste?
@@ -37,6 +38,7 @@ Miku: (Ahhhhh!! Come on!! So much stress!!!)
 Miku: I really have to go now. Sorry~ See you.
 Raika: Ah... She's gone.
 Raika: Hm... We were going well yesterday, though... It might not work out like this...
+(Transition)
 (Background change)
 
 [After School]
@@ -61,6 +63,7 @@ Miku: Well then, see you tomorrow! Bye-bye!
 Raika: Huh, wait, I've not finished my greetings...!
 Chieri: Please don't push, Chieri can walk alone!
 Classmate: Bye... Bye-bye...?
+(Transition)
 (Background change)
 
 [Shopping Street - "Manpuku Keiko Diner"]
@@ -122,6 +125,7 @@ Raika: Aunt Keiko! "Nest" is in big trouble now~
 Chieri: Next weekend, we have to fill the place up. So we need a plan to gather guests!
 Aunt Keiko: Oh, that's perfect timing! Rai-chan and everyone, are you free tomorrow?
 Everyone: ?
+(Transition)
 (Background change)
 
 [The Next Day]
@@ -136,10 +140,12 @@ Raika: Come on, Miku, Yomogi! You two help hand out flyers too!!
 Yomogi: It's impossible... There are too many people...!
 Miku: Yomogi-san, if you are still going to hide behind me, you might as well have stayed at the dorm...
 Yomogi: I would like to do that... But Raika-san said...
+(Transition)
 (Background change)
 Yomogi: I-I-Impossible! That is way too hard for me~~!!
 Raika: It's okay! Even at the diner, you managed to sit on the chair in the end!
 Raika: You've got us, your family, by your side, Yomogi! So let's go together!
+(Transition)
 (Background change)
 Yomogi: There's no way I can say no to that...!
 Miku: Yomogi-san, you're kind of principled, and you have a strong sense of responsibility.

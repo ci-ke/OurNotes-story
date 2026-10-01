@@ -19,6 +19,7 @@ Ritsu: ...
 Arale: Let's do our best on the recording too, so they'll be happy with the finished song!
 Ritsu: Yeah... Let's work hard!
 Arale: Ooh!
+(Transition)
 (Background change)
 Arale: Good work—
 Arale: Huh...!?
@@ -30,6 +31,7 @@ Nonoka: Today is Yuno-chan's Sukusukugrin day.
 Yuno: Schooling.
 Nonoka: And Nono-chan has invited her to lunch!
 Arale: Ah.
+(Transition)
 Arale: Miyako-san... Uh... Umm...
 Ritsu: Are you okay?
 Miyako: I'm not okay.
@@ -42,6 +44,7 @@ Miyako: I said a lot of awful things to Arale-san.
 Miyako: I know an apology won't make it right, but I am truly sorry.
 Arale: Aww, please raise your head!
 Arale: Ah! Right! Here!
+(Transition)
 Miyako: Magilulu sticker...
 Arale: Please take this!
 Arale: Truth is, I'd wanted to give it to you way earlier, but I knew that there are times when people need to be watched over.
@@ -79,10 +82,13 @@ Miyako: I will also live the way I want to.
 Nonoka: ?
 Miyako: Before that, I will do what needs to be done.
 Nonoka: Miyako-chan, where are you going...?
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000274/data/adv_still_anime_000274/adv_still_anime_000274.webp)
 Miyako: An act of atonement...
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000275/data/adv_still_anime_000275/adv_still_anime_000275.webp)
 Miyako: <size=100％>Akihabara marathon, a hundred laps.</size>
+(Transition)
 (Background change)
 
 [A Few Days Later]
@@ -119,6 +125,7 @@ Arale: ...
 Arale: (What I can do.)
 Arale: (No...)
 Arale: (What I want to do.)
+(Transition)
 (Background change)
 Arale: Di...
 Arale: Disclosure request~~~~~~~~~~~~~!!???
@@ -135,6 +142,7 @@ Arale: I'm not afraid of that kind of thing anymore!
 Manager: If you say so...
 Manager: ...
 Miyako: ...
+(Transition)
 Arale: Um, there's something I want to tell everyone.
 Nonoka & Miyako & Manager: ?
 Arale: I'll chat with everyone through my songs.
@@ -156,6 +164,7 @@ Yuno: You're already yourself.
 Ritsu: ?
 Miyako: ...
 Miyako: I agreed to the live show.
+(Transition)
 Arale: Ms. Manager...
 Manager: For the first time... The whole band is in agreement.
 Arale: ...
@@ -175,6 +184,7 @@ Arale: Maybe...
 Nonoka: That's great~
 Yuno: I'm probably not the right person to say this, but... Are you okay?
 Arale: ?
+(Transition)
 Yuno: Not only composing... Writing lyrics also means facing yourself.
 Ritsu: I see.
 Yuno: During composition for the tie-up song, I kind of...
@@ -198,27 +208,35 @@ Arale: !
 Arale: If I'm with everyone, I can do this!
 Miyako: !
 Manager: To think the day would come when you'd say that... I'm so moved!
+(Transition)
 Ritsu: Well then, everyone. For the live show, let me borrow your hands.
 Miyako: Huh?
 Nonoka: Hand~!
 Yuno: Huh? Huh?
 Arale: What? What~?
 Ritsu: Yo~~
+(Transition)
 (Background change)
 Teacher: Alright, let's try solving one problem using that formula.
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000276/data/adv_still_anime_000276/adv_still_anime_000276.webp)
 (Caption): I never imagined we would be like this when we first met.
 Miyako: (I never imagined we would be like this when we first met.)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000277/data/adv_still_anime_000277/adv_still_anime_000277.webp)
 (Caption): That's my line.
 Miyako: (That's my line.)
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000278/data/adv_still_anime_000278/adv_still_anime_000278.webp)
 (Caption): This fate
 Miyako: (If this meeting is fated...)
+(Transition)
 Miyako: (I hope it continues.)
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000279/data/adv_still_anime_000279/adv_still_anime_000279.webp)
 Arale: Ta-da~~~~~~~~~~~!
+(Transition)
 Nonoka: The bakery is back!
 Ritsu: That anpan is the third collab with Magilulu.
 Arale: That's right, it's already started!
@@ -237,6 +255,7 @@ Arale: Yuno-san-chan's so busy.
 Ritsu: Looks like today and tomorrow are the peak.
 Arale: Yuno-san-chan, you can do it~!!
 Yuno: "Ooh!"
+(Transition)
 Arale: Huh? Miyako-san, you're not taking part in the Magilulu collab this time?
 Miyako: No, I just completely forgot about it. Starting tomorrow, it's bread life for me.
 Arale: Ooh... Let's do our best! *Munch*...!
@@ -264,6 +283,7 @@ Nonoka: That's for the live show!
 Ritsu: You never know who might be listening.
 Yuno: "I'm coordinating the equipment with Manager."
 Nonoka: For the live show!
+(Transition)
 (Background change)
 Arale: Wow~ We're so blessed~ All thanks to Yuno-san-chan and Ms. Manager~
 Arale: Oh, right! Who's coming with me to scout out the live venue?
@@ -279,8 +299,10 @@ Arale: Umm...!
 Arale: About recent Chupasachu, I learned that Sachu had always understood the feelings hidden behind Chupa's words...
 Arale: It had this tight and gripping feeling... Like those old one-shot stories, and it was really great!
 Miyako: One-shot...
+(Transition)
 (Background change)
 Viola: It was from before the series started, so I thought I'd never get to read it again... But then I found it in the tankōbon.
+(Transition)
 (Background change)
 Miyako: !!!
 Miyako: (So embarrassing!!! My own lingering attachments!!!!!!)
@@ -299,11 +321,13 @@ Miyako: I'm really happy to hear your comments.
 Arale: ♡ Oh, no, no, no, not at all~~!
 Ritsu: Miyako-san, here.
 Miyako: Yes.
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000280/data/adv_still_anime_000280/adv_still_anime_000280.webp)
 (Caption): Giant Yōkan
 Yuno: "Huh? A wheel stop?"
 Miyako: This is...
 Ritsu: It's emergency sugar for work. Please eat it when you really need it.
+(Transition)
 Miyako: So heavy... Thank you...
 Arale: I'll help carry it to the classroom!
 Nonoka: Nono-chan too~!

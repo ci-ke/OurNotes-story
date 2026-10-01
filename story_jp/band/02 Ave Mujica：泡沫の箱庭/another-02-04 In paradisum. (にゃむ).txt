@@ -6,24 +6,32 @@
 にゃむ: （役者になりたい）
 にゃむ: （そのためなら、配信でもバラエティでもなんでもやる）
 にゃむ: （やれることできることは全部やって、道をこじ開ける。 それがアタシのやり方。それしかできない、から）
+(Transition)
 (Background change)
 祥子: にゃむさん？　お待たせして申し訳ございません。 ご連絡した豊川祥子です
+(Transition)
 (Background change)
 にゃむ: （この誘い、乗るしかない。 sumimiの初華、森みなみの娘……いいカード揃ってる）
 にゃむ: （このカードで、チャンスを掴んでやる）
 にゃむ: （……役者になるんだ）
 にゃむ: （本物の役者に——）
+(Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp)
+(Transition)
 にゃむ: （………すごい）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
 にゃむ: （これが、本物——）
+(Transition)
 (Background change)
 にゃむ: （敵わない……どう足掻いても…… こんなの、絶対……）
+(Transition)
 (Background change)
 
 [全国ツアー初日 福岡公演]
 
+(Transition)
 (Background change)
 
 [楽屋]
@@ -38,16 +46,20 @@
 にゃむ: ……アタシ、諦めんよ。諦めんけん
 にゃむの母: ……身体にだけは気をつけなんばい
 にゃむ: （こんまま、こぎゃんところで終わっちゃたまらんばい）
+(Transition)
 (Background change)
 関係者A: では、この件については後日幹部会に確認ということで…… お時間いただきますが、よろしくお願いします
 にゃむ: 失礼します
 関係者B: 祐天寺さん。どうかした？
 にゃむ: いまお時間よろしいですか？ ちょっと、ご相談したいことがあるんですけど
 にゃむ: こういうことになっちゃってる時に、 本当にすみません
+(Transition)
 にゃむ: その代わりってわけじゃないんですけど、 アタシにドンドン仕事入れてください。 穴埋めでも、なんでもやります
 にゃむ: お願いします！
+(Transition)
 (Background change)
 にゃむ: （生き残ってやる……！）
+(Transition)
 (Background change)
 MC: というわけで！　 今日のゲストは異色の経歴さん集めました！　まずにゃむち！
 にゃむ: はーい！
@@ -55,29 +67,37 @@ MC: バラエティで見ない日ないよね〜
 にゃむ: ありがとうございます！ ほらアタシたち、人形って設定だったじゃないですか
 MC: あははっ！　そっからか〜！ でも今は動画も配信もなんでもやってるよね
 にゃむ: やっぱりアタシのこと応援してくれる人に にゃむちのこと応援しててよかったなって 思ってほしくて——
+(Transition)
 (Background change)
 にゃむ: （ここまでやってきたんだし、なんでもやっていかないと）
 にゃむ: （絶対に芸能界で生き残ってみせる！ ……けど——）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000117/data/adv_still_anime_000117/adv_still_anime_000117.webp)
+(Transition)
 にゃむ: （——生き残ってどうするの？ たとえこのまま生き残っても、 本物の役者に、向かっていく勇気なんて……）
 にゃむ: （違う！　アタシは役者になるんだ！ そうじゃなきゃ、今までやってきたことが——）
 にゃむ: （『逃げちゃうんならこの世界向いてないんじゃない』？ 違う！　そんなことない！　 このオーディションに受かって、それを証明してみせる）
+(Transition)
 (Background change)
 にゃむ: ……わっ、わ…… 『わかってる……それでも』………
 候補者A: ……？
 にゃむ: 『私は……』
 面接官: 祐天寺さん？　大丈夫ですか？
 にゃむ: は……はぁ……はぁ……
+(Transition)
 (Background change)
 にゃむ: ……っ！！
 にゃむ: （なさけなか！！　 一番大事な時にどうしてあんな……！）
 にゃむ: （バンドは終わったんだから……！ なんでも踏み台にして、先に進まなきゃって……！）
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000087/data/adv_still_anime_000087/adv_still_anime_000087.webp)
+(Transition)
 にゃむ: （……あれからずっとあの子が頭から離れない）
 にゃむ: （怖くて、大嫌いで……大好き）
 にゃむ: （ここで逃げたら、今までがんばってきたこと 全部無駄に終わる。家族にあれだけ応援してもらって…… このまま夢を諦めてたまるか……！）
 にゃむ: （……ぜったいに、アンタから逃げん）
 にゃむ: （アタシはもうムジカをやるしかない）
+(Transition)
 (Background change)
 にゃむ: 『生まれ変わるために必要だってわかってる！』
 にゃむ: 『でも、愛もなくなるの？　悲しみは？　恐れは？ 忘却は？　——死は？』
@@ -87,8 +107,10 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 にゃむ: 付き合ってくれるわけ？
 睦: ……わかった。どうぞ、アモーリス
 にゃむ: ……っ！
+(Transition)
 (Background change)
 にゃむ: （あいつはもういない）
+(Transition)
 (Background change)
 にゃむ: （でも、ここにいることを選んだのはアタシ。 夢を諦めたくないのもアタシ。だから——）
 にゃむ: 負くるわけにはいかんどたいね……！

@@ -13,6 +13,7 @@
 クラスメイトA: 次いつやるの？
 愛音: …………
 愛音: ……やっぱりいらないじゃん
+(Transition)
 (Background change)
 立希: ……なんで野良猫が燈とやってるわけ
 凛々子: 楽奈ちゃん、面白いことが大好きだからね～。 立希ちゃんは一緒にやらないの？
@@ -21,6 +22,7 @@
 立希: 野良猫！？ ていうか私、バイト中なんだけど
 凛々子: あ～、大丈夫だよ～。 いってらっしゃーい
 立希: ちょっと！　引っ張るな、野良猫！ 私は…………っ！
+(Transition)
 (Background change)
 
 [RiNG ステージ]
@@ -36,6 +38,7 @@
 燈: 『ごめんなさい』 『たいせつなひと』 『伝えたい思いはいつも喉が張り付いて声にならないから』
 燈: 『せめて残したいこの詩を』
 睦: …………
+(Transition)
 (Background change)
 
 [ライブ後]
@@ -57,6 +60,7 @@
 立希: 何が？
 立希: えっ？　あっ、ちょっと！
 燈: …………
+(Transition)
 (Background change)
 
 [羽丘女子学園 1-A教室]
@@ -73,6 +77,7 @@
 燈: ギター、弾いて！！
 愛音: ……っ！
 燈: あっ……愛音ちゃん！ 待って……！
+(Transition)
 (Background change)
 燈: はぁ、はぁ……！
 愛音: ……っ、なんで追いかけてくるの？ ギター、もういるでしょ
@@ -86,8 +91,10 @@
 燈: 愛音ちゃんは、必死でもがいてて…… そよちゃんも、私も、迷子だから……
 燈: 一緒に…… 一緒に、迷子になろう
 愛音: …………
+(Transition)
 (Background change)
 愛音: ……あ～あ、 燈ちゃんのせいだよ
+(Transition)
 (Background change)
 そよ: ……！
 愛音: そよさん、待って。話があるの
@@ -95,10 +102,12 @@
 愛音: そよさん！
 そよ: ついてこないで
 愛音: 話聞いてくれるまでついてくから！
+(Transition)
 (Background change)
 (Background change)
 愛音: そよさん！ ……って、なにこのマンション……！？
 そよ: 私の家。 はぁ……入れば？
+(Transition)
 (Background change)
 
 [長崎家 リビング]
@@ -121,6 +130,7 @@
 愛音: そうだよ。 私たちが始めたバンドじゃん
 そよ: ……っ
 そよ: ……だったら、私が終わらせてあげる
+(Transition)
 (Background change)
 
 [RiNG ステージ]
@@ -143,15 +153,18 @@
 そよ: ちょっ……ちょっと！ 離して！
 燈: …………！
 そよ: 勘違いしないで……！ 終わらせにきたの！
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10.mp4)
 (Caption): 詩超絆　ライブシーン
 (Subtitle) そよ: あ……！
 (Subtitle) 楽奈: ふふん
 (Subtitle) そよ: ちょっと……！
+(Transition)
 (Background change)
 燈: ……はぁ、はぁ…………っ
 愛音: ……っ、ありがとうございました！
+(Transition)
 (Background change)
 
 [RiNG 前室]

@@ -1,5 +1,6 @@
 10493:adv_script_uika_umiri_linkstory_2 Uika & Umiri 2
 
+(Transition)
 (Background change)
 
 [Win-Wing-Production - Meeting Room]

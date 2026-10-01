@@ -24,6 +24,7 @@ Arale: M-Me too! I... I like both...!
 Arale: (There are other Magilulu fans in my class?! "Magical Physical☆Kururu" fans?! This has to be fate~~~!)
 Arale: (Maybe I can actually survive offline after all... Thank goodness~)
 Arale: (That just leaves one problem...)
+(Transition)
 (Background change)
 
 [VR Floor]
@@ -78,6 +79,7 @@ Manager: We want to keep those updates coming, so band practice is up next!
 Arale: Eep?!
 Manager: Switching floors now~
 Nonoka: Wheee~!
+(Transition)
 (Background change)
 Nonoka: Ooh~
 Miyako: Wow...
@@ -119,11 +121,13 @@ Arale: <size=250%>Nngh!
 Yuno: Huh?
 Miyako: ...!
 Nonoka: <size=150%>Arale-chaaaaaaaaaan!!!
+(Transition)
 (Background change)
 Manager: All right, she's not bleeding.
 Arale: Yeth... (Yes.)
 Manager: Okay, let's start instrument practice! Nakamachi-san, you can watch and give that tongue a rest.
 Arale: Mmkay...
+(Transition)
 (Background change)
 Arale: (Wow, amazing... Miyako-san's already gotten this far.)
 Arale: (...)
@@ -141,6 +145,7 @@ Arale: And it's a companion piece to "Night of the Seagulls," the "Nobishimo Chr
 Yuno: What are you even talking about...?
 Arale: ...
 Nonoka: Oh.
+(Transition)
 (Background change)
 Arale: <size=150%>AAAAAAAAAAAAAAAAAAAAAH!!!
 Arale: Uuugh... I was a fail-fail-failure at life today~~~~~
@@ -151,6 +156,7 @@ Arale: Ugh... Maybe tomorrow I can keep it to just fail-fail...
 Arale: Okay, tomorrow... <size=150%>First! No blurting things out!</size> <size=150%>Second! No singing!</size>
 Arale: <size=200%>Third! Absolutely no talking or singing!</size>
 Arale: Mhm! Good night!
+(Transition)
 (Background change)
 
 [The Next Day]
@@ -163,6 +169,7 @@ Arale: Hm-hm-hmm~♪
 Ritsu: ...?
 Ritsu: ...
 ??? (Viola): Hehe♪
+(Transition)
 (Background change)
 ??? (Viola): Araaale-chan~
 Arale: ...!
@@ -195,15 +202,18 @@ Raki: Arale-chan?!
 Bota: Huh? Wait up!
 Raki: Arale-chaaan!
 Ritsu: ...
+(Transition)
 (Background change)
 Arale: So she transferred schools...
 Arale: She got into such a selective middle school... She could've stayed there all the way through university...
 Arale: Maybe it got too hard for her to stay there... Because of what happened to me.
+(Transition)
 Arale: No! That's all in the past! I've gotta do my best right now!
 Arale: ...!
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000202/data/adv_still_anime_000202/adv_still_anime_000202.webp)
 (Caption): Magiruru! Nice Bulk
 Arale: Hmmmm~♪
+(Transition)
 (Background change)
 Viola: The event's officially set, then.
 Bell: Manager's always mad at me lately~ She says I repost announcements too late and keep misspelling words in English~
@@ -228,15 +238,18 @@ Popo: Go on, eat it for her.
 Viola: Ritsu, you've seemed down ever since we ran into Arale-chan. I just wanted to cheer you up...
 Viola: I might just fall apart without you, Ritsu...
 Ritsu: ...
+(Transition)
 (Background change)
 Raki: Thank goodness...
 Bota: Yeah... What a relief.
 Arale: The Magilulu collab Café was seriously the best...!
+(Transition)
 Raki: We're gonna stop by the bookstore~
 Bota: See you~
 Arale: Bye-bye~
 Arale: ...
 Arale: No one's here, right...? I even took a different train line, so I should be safe...
+(Transition)
 (Background change)
 Arale: (Maybe I should've chosen the online course after all...)
 Arale: (But I had to give myself some reason to get out, or I'd have stayed like that forever...)
@@ -254,6 +267,7 @@ Arale: It's up on the seventh floor, and the food's great even without the colla
 Ritsu: You've gotten so far away...
 Yuno: ...
 Yuno: They've got history, huh...?
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01.mp4)
 (Caption): 夢みた1話　あられの家でのシーン

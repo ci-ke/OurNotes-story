@@ -1,5 +1,6 @@
 10606:adv_script_chieri_shizuku_linkstory_1 Chieri & Shizuku 1
 
+(Transition)
 (Background change)
 
 [P-Stay Dorm - Living Room]
@@ -15,6 +16,7 @@ Shizuku: Ah. This can wipe the floor, the table, and my clothes.
 Chieri: You cannot use the same cloth for the floor and your clothes! Honestly, you are such a helpless subordinate.
 Chieri: Just for today, Chieri will do it for you~ Watch carefully, learn, and admire Chieri!
 Shizuku: Understood. Thank you, Cherie.
+(Transition)
 (Background change)
 
 [The Next Day]
@@ -30,6 +32,7 @@ Shizuku: I see...
 Chieri: When it is full, take out the bag and put in a new one. Then you can throw things away again!
 Chieri: Now, Chieri will show you where we keep the trash bags and how to change one. Well? Do you feel like admiring Chieri now? Now you want to look up to Chieri, your number one, don't you!
 Shizuku: Yes. Cherie really does know everything.
+(Transition)
 (Background change)
 
 [The Day After That]

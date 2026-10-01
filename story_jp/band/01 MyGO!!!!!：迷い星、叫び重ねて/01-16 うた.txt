@@ -10,6 +10,7 @@
 海鈴: 珍しいですね。 予定があります
 立希: ……そう。 じゃあいい
 海鈴: それが終わればいけますが。 ……用件は？
+(Transition)
 (Background change)
 
 [RiNG スタジオ]
@@ -63,15 +64,20 @@
 燈 & 愛音: ……！ ……
 立希: あいつ、お前も楽奈もいらないって…… 燈と私を繋ぎ止めるために利用したんだよ！
 愛音: …………っ
+(Transition)
 (Background change)
 そよ: もしかして、燈って……高松燈ちゃん？
 そよ: ……お友達なの
+(Transition)
 そよ: 愛音ちゃんとバンドするんだけど、 立希ちゃんも一緒にやらない？
+(Transition)
 (Background change)
 そよ: 愛音ちゃんのおかげで、 久しぶりに燈ちゃんと話せたから
+(Transition)
 (Background change)
 そよ: ……ねえ、私たち、 もう１回やり直せないのかな？
 そよ: バンド。 私と、燈ちゃんと、立希ちゃんと
+(Transition)
 (Background change)
 愛音: ああ……
 燈: 違う！　そよちゃんは、バンドやってこうって…… ライブ終わっても……だから……！
@@ -90,8 +96,10 @@
 愛音: 燈ちゃんは、そよさんとCRYCHICやりなよ
 燈 & 立希: …………
 燈: もう、やだ……
+(Transition)
 (Background change)
 燈: バンドなんて、やりたくなかった……
+(Transition)
 (Background change)
 
 [２週間後]
@@ -103,6 +111,7 @@
 海鈴: バンドのことです
 立希: ……終わった
 海鈴: ……そうですか
+(Transition)
 (Background change)
 月ノ森生A: ごきげんよう～
 睦: ごきげんよう。 …………あ
@@ -112,10 +121,12 @@
 月ノ森生C: 今度教えて～
 そよ: え～、どうしようかな～
 睦: …………
+(Transition)
 (Background change)
 燈: 『またダメになった。 ぜんぶ ぜんぶ』
 燈: 『かなしいのはいやだ。 つらいのはいやだ。』
 燈: 『やらなければよかった なにもかも なにもかも』
+(Transition)
 (Background change)
 
 [羽丘女子学園 1-A教室]
@@ -151,6 +162,7 @@
 燈: 『口が空っぽになって 言葉が乾いてしまった』
 (Background change)
 燈: 『どうすれば……』
+(Transition)
 (Background change)
 ??? (初華): ――危ないよ
 燈: ……？
@@ -162,6 +174,7 @@
 燈: …………
 ??? (初華): 都会でも、北極星って見えるんだよね
 ??? (初華): 東京じゃ星は見えないって思ってたから、 見つけた時は驚いたな
+(Transition)
 (Background change)
 燈: ……あれが、おおぐま座
 燈: 北極星はこぐま座だから……あれ
@@ -179,8 +192,10 @@
 ??? (初華): 詩、みたいだね
 燈: え……？
 ??? (初華): 詩って伝わる気がするよね。 上手に言えないことも。言葉以上に、気持ちが
+(Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000056/data/adv_still_anime_000056/adv_still_anime_000056.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000057/data/adv_still_anime_000057/adv_still_anime_000057.webp)
+(Transition)
 燈: …………
 ??? (初華): それじゃ、もう行くね。 気持ち、伝わるといいね
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000058/data/adv_still_anime_000058/adv_still_anime_000058.webp)
@@ -189,6 +204,7 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000059/data/adv_still_anime_000059/adv_still_anime_000059.webp)
 (Caption): たいせつなひとに伝えた 言葉にならない声を うた 詩
 燈: これはうただ
+(Transition)
 (Background change)
 
 [羽丘女子学園 1-A教室]
@@ -198,6 +214,7 @@
 燈: 一緒に……ライブやって
 愛音: ……そよさん、どうすんの？
 燈: あ……
+(Transition)
 (Background change)
 
 [RiNG エントランス]
@@ -207,6 +224,7 @@
 凛々子: あはは、急だな～
 凛々子: あ～、このライブは頭ならちょっといけるかな。 ちょっと短くても大丈夫？
 燈: ……よろしくお願いします
+(Transition)
 (Background change)
 凛々子: ……ってことがあってさ～
 立希: え。燈が、ライブ……？
@@ -214,6 +232,7 @@
 立希: …………
 凛々子: 何があったか知らないし聞かないけど、お姉さん心配だな～
 立希: …………いつなんですか
+(Transition)
 (Background change)
 
 [RiNG ステージ]
@@ -226,6 +245,7 @@
 燈: （また、何か間違ってるかもしれない。 全部間違ってるかもしれない）
 燈: （でも……進みたい）
 燈: みんないなくて、曲もないけど、 これは歌です
+(Transition)
 (Background change)
 燈: 『僕は詩をうたいます。』
 (Background change)
@@ -235,5 +255,6 @@
 燈: 『僕が手を離してしまった』
 燈: 『忘れたくなくて』 『失いたくなくて』 『僕の中に残っている欠片を拾い集めて』
 燈: 『それが詩になって』 『そうだ　これは詩なんだ』
+(Transition)
 (Background change)
 楽奈: ……おもしれ～女の子

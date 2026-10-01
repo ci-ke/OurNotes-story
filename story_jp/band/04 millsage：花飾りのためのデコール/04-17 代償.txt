@@ -10,6 +10,7 @@
 凪: まほろ……っ！
 なつめ: ちょっ！　ああ、もうっ！
 朋花: ……millsageでした。ありがとうございました
+(Transition)
 (Background change)
 凪: 待って、ねえ待って！　……落ち着いて、まほろっ！
 まほろ: ……落ち着いてるよ
@@ -59,6 +60,7 @@
 朋花: あなただって、いわば共犯者ですよ？
 凪: ……っ！
 なつめ: もういいから！　どっちも黙りなさい！
+(Transition)
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_encore_millsage_17/adv_movie_encore_millsage_17/adv_movie_encore_millsage_17.mp4)
 (Caption): millsageバンスト1章　初ライブ後のアンコール（17話）
@@ -77,6 +79,7 @@
 (Subtitle): みんなが呼んでるよ、ボーカルさん
 (Subtitle): まほろ……！
 (Subtitle): 待って！　待ってくださいっ！
+(Transition)
 (Background change)
 凪 & 朋花: …………
 なつめ: ちょっとあんたたち、何突っ立ってんのよ！ 追いかけるわよ！
@@ -86,6 +89,7 @@
 凪: それがまほろのためだって……っ！
 なつめ: あーーーもう……！　ごちゃごちゃうるさい！
 なつめ: もういい、ひとりで行く！　 あんたらはお客さんの対応っ！　それくらいはやれ！！
+(Transition)
 (Background change)
 
 [海沿いの道]
@@ -115,9 +119,11 @@
 蛍: 待って……
 蛍: 待ってください……！
 蛍: ……うう
+(Transition)
 (Background change)
 蛍: （わたしは、バカだ）
 蛍: （大バカだ）
+(Transition)
 (Background change)
 蛍: （虹色は、わたしの欲望の色だったんだ）
 蛍: （音楽をひとりよがりに楽しみたいと思う気持ち）
@@ -127,9 +133,11 @@
 蛍: （あの空間が、何より心地よかったから）
 蛍: （誰かを救えた気になって）
 蛍: （結局、自分のことだけで）
+(Transition)
 (Background change)
 蛍: ううっ……ううううう……！
 なつめ: 蛍っ！　やっと見つけた……！
 なつめ: ……まほろは？
 なつめ: ……そう
+(Transition)
 蛍: ううっ……うわあああああん……っ

@@ -34,6 +34,7 @@ Miyako: Huh...
 Nonoka: And what changed after you became "MewType"?
 Miyako: What changed...
 Nonoka: Do you think the anpan you eat with MewType is more delicious?
+(Transition)
 Arale: Nono-chan-san, that's more like an otaku's duty, so it's not a favorite food...!
 Yuno: Is this actually helping as practice?
 Arale: I guess we're not really the right people to practice a Yako-sensei feature interview, are we...
@@ -64,6 +65,7 @@ Nonoka: Then I'll share the link everywhere!
 Arale: I'll spread it everywhere too!
 Miyako: I see...
 Miyako: That's it.
+(Transition)
 (Background change)
 
 [On the Day of the Interview]
