@@ -124,25 +124,25 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4)
 (Caption): 一家Dumb Rock!バンスト1章　心玖を取り戻す朝ごはん
-(Subtitle) shizuku: ……これで全員分だ。今のところは
-(Subtitle) raika: うん
-(Subtitle) raika: 今夜はちゃんと５人で食べよう
-(Subtitle) yomogi: これ……全部食べるんですか……？ 私、緊張で心臓もお腹もキリキリして……
-(Subtitle) chieri: 全部食べるんですっ！ 気合いが入らないでしょう！
-(Subtitle) raika: よし……みんな揃ったね
-(Subtitle) raika: それじゃあ手を合わせて〜……
+(Subtitle) 寧月: ……これで全員分だ。今のところは
+(Subtitle) 蕾叶: うん
+(Subtitle) 蕾叶: 今夜はちゃんと５人で食べよう
+(Subtitle) 蓬咲: これ……全部食べるんですか……？ 私、緊張で心臓もお腹もキリキリして……
+(Subtitle) ちえり: 全部食べるんですっ！ 気合いが入らないでしょう！
+(Subtitle) 蕾叶: よし……みんな揃ったね
+(Subtitle) 蕾叶: それじゃあ手を合わせて〜……
 (Subtitle) everyone: いただきまーす！！
-(Subtitle) raika: はむはむはむっ……！
-(Subtitle) chieri: もぐもぐもぐっ……！
-(Subtitle) shizuku: ……はむっ。もぐもぐ
-(Subtitle) yomogi: はぁぁ〜〜〜……よし……！ ずずっ……
-(Subtitle) yomogi: あづっ……！！　うう〜……
-(Subtitle) chieri: ……んっ
-(Subtitle) yomogi: ……！ ありがとう、ございます……！
-(Subtitle) raika: もぐもぐ……もぐもぐ……
-(Subtitle) yomogi・chieri・shizuku: もぐもぐ……
-(Subtitle) raika: はむっ……！
-(Subtitle) raika: ――はい、ご一緒にっ
+(Subtitle) 蕾叶: はむはむはむっ……！
+(Subtitle) ちえり: もぐもぐもぐっ……！
+(Subtitle) 寧月: ……はむっ。もぐもぐ
+(Subtitle) 蓬咲: はぁぁ〜〜〜……よし……！ ずずっ……
+(Subtitle) 蓬咲: あづっ……！！　うう〜……
+(Subtitle) ちえり: ……んっ
+(Subtitle) 蓬咲: ……！ ありがとう、ございます……！
+(Subtitle) 蕾叶: もぐもぐ……もぐもぐ……
+(Subtitle) 蓬咲 & ちえり & 寧月: もぐもぐ……
+(Subtitle) 蕾叶: はむっ……！
+(Subtitle) 蕾叶: ――はい、ご一緒にっ
 (Subtitle) everyone: ごちそーさまでした！！
-(Subtitle) raika: さあ行こうか、マイ・ファミリー！！ 心玖を取り返すぞ！！
-(Subtitle) yomogi・chieri・shizuku: おーっ！！
+(Subtitle) 蕾叶: さあ行こうか、マイ・ファミリー！！ 心玖を取り返すぞ！！
+(Subtitle) 蓬咲 & ちえり & 寧月: おーっ！！

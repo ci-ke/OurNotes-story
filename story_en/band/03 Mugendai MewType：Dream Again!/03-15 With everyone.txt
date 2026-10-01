@@ -192,64 +192,64 @@ Arale: ...
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10.mp4)
 (Caption): 夢みた10話　焚き火での作曲シーン
-(Subtitle) arale: Ah... Aww... Ahhhhhhhhh!
-(Subtitle) nonoka: Ah~~~~~♪
-(Subtitle) arale: Huh!?
-(Subtitle) arale: Umm?
-(Subtitle) ritsu: *Stomp*... *Stomp*...
-(Subtitle) ritsu: *Stomp*... *Stomp*...
-(Subtitle) nonoka: Let's sing together~!
-(Subtitle) arale: Huh? Yeah!
-(Subtitle) nonoka: Miyako-chan too~!
-(Subtitle) miyako: No, I...
-(Subtitle) nonoka: Haa... Haa...
-(Subtitle) miyako: Eek!
-(Subtitle) miyako: Hmm...♪
-(Subtitle) arale: A song! This is a song!
-(Subtitle) arale: Right? Nono-chan-san!
-(Subtitle) nonoka: Really?
-(Subtitle) arale: Yeah.
-(Subtitle) nonoka: A song... That's...
-(Subtitle) nonoka: Miyako-chan!
-(Subtitle) miyako: Yes...
-(Subtitle) nonoka: Bass Drum!
-(Subtitle) miyako: Like... this?
-(Subtitle) nonoka: Mm!
-(Subtitle) arale: That's good!
-(Subtitle) nonoka: Yuno-chan! Hi-hat!
-(Subtitle) yuno: Huh? This...?
-(Subtitle) nonoka: Nice beat!
-(Subtitle) arale: La~lalala~♪
-(Subtitle) yuno: Terrible sound...
-(Subtitle) yuno: Just quiet down a bit.
-(Subtitle) arale: Phew... Ah!
-(Subtitle) yuno: It's okay now, go on.
-(Subtitle) arale: Huh?
-(Subtitle) nonoka: Yuno-chan, give us a count~
-(Subtitle) arale: La~lala~lalala~♪
-(Subtitle) nonoka: Ah! Yuno-chan!
-(Subtitle) nonoka: Include the guitar too!
-(Subtitle) yuno: Huh...
-(Subtitle) ritsu: Please!
-(Subtitle) yuno: Yeah... a riff?
-(Subtitle) nonoka: Something like "te-re-re-te-re-re~"!
-(Subtitle) yuno: If it's an arpeggio, then ask Minetsuki-san.
-(Subtitle) ritsu: Yes!
-(Subtitle) nonoka: Ta-da! Ta-da!
-(Subtitle) yuno: A riff.
-(Subtitle) nonoka: Ooh~!
-(Subtitle) ritsu: Cool...
-(Subtitle) miyako: Hmm, hehe...♪
-(Subtitle) ritsu: Would it sound weird if the pitch went up just here?
-(Subtitle) miyako: Ah... I-I'll use the keyboard...
-(Subtitle) arale: I want to put it in a massive piano sound!
-(Subtitle) miyako: I wonder about the tempo...
-(Subtitle) arale: Ugh...
-(Subtitle) yuno: Wanna try putting it in? It would be interesting, right?
-(Subtitle) arale: Yay!
-(Subtitle) arale: Hmm~ Hm-hmm~♪
-(Subtitle) miyako: Ngh...
-(Subtitle) nonoka: Avant-garde!
+(Subtitle) Arale: Ah... Aww... Ahhhhhhhhh!
+(Subtitle) Nonoka: Ah~~~~~♪
+(Subtitle) Arale: Huh!?
+(Subtitle) Arale: Umm?
+(Subtitle) Ritsu: *Stomp*... *Stomp*...
+(Subtitle) Ritsu: *Stomp*... *Stomp*...
+(Subtitle) Nonoka: Let's sing together~!
+(Subtitle) Arale: Huh? Yeah!
+(Subtitle) Nonoka: Miyako-chan too~!
+(Subtitle) Miyako: No, I...
+(Subtitle) Nonoka: Haa... Haa...
+(Subtitle) Miyako: Eek!
+(Subtitle) Miyako: Hmm...♪
+(Subtitle) Arale: A song! This is a song!
+(Subtitle) Arale: Right? Nono-chan-san!
+(Subtitle) Nonoka: Really?
+(Subtitle) Arale: Yeah.
+(Subtitle) Nonoka: A song... That's...
+(Subtitle) Nonoka: Miyako-chan!
+(Subtitle) Miyako: Yes...
+(Subtitle) Nonoka: Bass Drum!
+(Subtitle) Miyako: Like... this?
+(Subtitle) Nonoka: Mm!
+(Subtitle) Arale: That's good!
+(Subtitle) Nonoka: Yuno-chan! Hi-hat!
+(Subtitle) Yuno: Huh? This...?
+(Subtitle) Nonoka: Nice beat!
+(Subtitle) Arale: La~lalala~♪
+(Subtitle) Yuno: Terrible sound...
+(Subtitle) Yuno: Just quiet down a bit.
+(Subtitle) Arale: Phew... Ah!
+(Subtitle) Yuno: It's okay now, go on.
+(Subtitle) Arale: Huh?
+(Subtitle) Nonoka: Yuno-chan, give us a count~
+(Subtitle) Arale: La~lala~lalala~♪
+(Subtitle) Nonoka: Ah! Yuno-chan!
+(Subtitle) Nonoka: Include the guitar too!
+(Subtitle) Yuno: Huh...
+(Subtitle) Ritsu: Please!
+(Subtitle) Yuno: Yeah... a riff?
+(Subtitle) Nonoka: Something like "te-re-re-te-re-re~"!
+(Subtitle) Yuno: If it's an arpeggio, then ask Minetsuki-san.
+(Subtitle) Ritsu: Yes!
+(Subtitle) Nonoka: Ta-da! Ta-da!
+(Subtitle) Yuno: A riff.
+(Subtitle) Nonoka: Ooh~!
+(Subtitle) Ritsu: Cool...
+(Subtitle) Miyako: Hmm, hehe...♪
+(Subtitle) Ritsu: Would it sound weird if the pitch went up just here?
+(Subtitle) Miyako: Ah... I-I'll use the keyboard...
+(Subtitle) Arale: I want to put it in a massive piano sound!
+(Subtitle) Miyako: I wonder about the tempo...
+(Subtitle) Arale: Ugh...
+(Subtitle) Yuno: Wanna try putting it in? It would be interesting, right?
+(Subtitle) Arale: Yay!
+(Subtitle) Arale: Hmm~ Hm-hmm~♪
+(Subtitle) Miyako: Ngh...
+(Subtitle) Nonoka: Avant-garde!
 (Background change)
 Nonoka: <size=175%>Avant-garde!
 Yuno: There's room for improvement.

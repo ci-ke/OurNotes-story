@@ -192,64 +192,64 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10/adv_movie_campfire_yumemita_10.mp4)
 (Caption): 夢みた10話　焚き火での作曲シーン
-(Subtitle) arale: あ……あう～……あ～～～～～～～～～
-(Subtitle) nonoka: あ～～～～～♪
-(Subtitle) arale: はえ！？
-(Subtitle) arale: えーと？
-(Subtitle) ritsu: ブーツッ、ブーツッ
-(Subtitle) ritsu: ブンツカッ……ブンツカッ……
-(Subtitle) nonoka: いっしょにうたお～！
-(Subtitle) arale: えっ、はい！
-(Subtitle) nonoka: 都子ちゃんも～！
-(Subtitle) miyako: いや、私は……
-(Subtitle) nonoka: はー……はー……
-(Subtitle) miyako: ヒッ
-(Subtitle) miyako: ん〜〜……♪
-(Subtitle) arale: うた！　うたですよ！　これ！
-(Subtitle) arale: ねっ、ののちゃんさん！
-(Subtitle) nonoka: そうなの？
-(Subtitle) arale: ええっ
-(Subtitle) nonoka: うた……それは……
-(Subtitle) nonoka: 都子ちゃん！
-(Subtitle) miyako: はい……
-(Subtitle) nonoka: バスドラ！
-(Subtitle) miyako: ……こう、ですか？
-(Subtitle) nonoka: ん！
-(Subtitle) arale: い～ですね！
-(Subtitle) nonoka: ユノちゃん！　ハイハット！
-(Subtitle) yuno: は？　……これ？
-(Subtitle) nonoka: ナイスビート！
-(Subtitle) arale: ら～ららら～♪
-(Subtitle) yuno: ひどい音……
-(Subtitle) yuno: ちょっと静かにして
-(Subtitle) arale: ふぅ……あっ！
-(Subtitle) yuno: もういいよ、続けて
-(Subtitle) arale: えっ
-(Subtitle) nonoka: ユノちゃん、カウントとってよ～
-(Subtitle) arale: ら～らら〜ららら〜♪
-(Subtitle) nonoka: あ！　ユノちゃん！
-(Subtitle) nonoka: ギターも入れて！
-(Subtitle) yuno: え……
-(Subtitle) ritsu: お願いします！
-(Subtitle) yuno: ええ……リフ？
-(Subtitle) nonoka: てれれてれれ～みたいな
-(Subtitle) yuno: アルペジオだったら峰月さんで
-(Subtitle) ritsu: はいっ
-(Subtitle) nonoka: じゃーんじゃーん
-(Subtitle) yuno: リフね
-(Subtitle) nonoka: お～！
-(Subtitle) ritsu: かっこいい……
-(Subtitle) miyako: ふ〜ん、ふふ……♪
-(Subtitle) ritsu: ここだけ高い音にいったら変ですか？
-(Subtitle) miyako: あ……キ、キーボードで……
-(Subtitle) arale: 分厚いピアノ！　入れたい！
-(Subtitle) miyako: テンポ的にどうでしょう……
-(Subtitle) arale: うぅ……
-(Subtitle) yuno: 入れてみる？　面白いんじゃない？
-(Subtitle) arale: わーい！
-(Subtitle) arale: ふ〜んふふ〜ん♪
-(Subtitle) miyako: ぐっ……！
-(Subtitle) nonoka: あう゛ぁんぎゃるど！
+(Subtitle) あられ: あ……あう～……あ～～～～～～～～～
+(Subtitle) ののか: あ～～～～～♪
+(Subtitle) あられ: はえ！？
+(Subtitle) あられ: えーと？
+(Subtitle) 律: ブーツッ、ブーツッ
+(Subtitle) 律: ブンツカッ……ブンツカッ……
+(Subtitle) ののか: いっしょにうたお～！
+(Subtitle) あられ: えっ、はい！
+(Subtitle) ののか: 都子ちゃんも～！
+(Subtitle) 都子: いや、私は……
+(Subtitle) ののか: はー……はー……
+(Subtitle) 都子: ヒッ
+(Subtitle) 都子: ん〜〜……♪
+(Subtitle) あられ: うた！　うたですよ！　これ！
+(Subtitle) あられ: ねっ、ののちゃんさん！
+(Subtitle) ののか: そうなの？
+(Subtitle) あられ: ええっ
+(Subtitle) ののか: うた……それは……
+(Subtitle) ののか: 都子ちゃん！
+(Subtitle) 都子: はい……
+(Subtitle) ののか: バスドラ！
+(Subtitle) 都子: ……こう、ですか？
+(Subtitle) ののか: ん！
+(Subtitle) あられ: い～ですね！
+(Subtitle) ののか: ユノちゃん！　ハイハット！
+(Subtitle) ユノ: は？　……これ？
+(Subtitle) ののか: ナイスビート！
+(Subtitle) あられ: ら～ららら～♪
+(Subtitle) ユノ: ひどい音……
+(Subtitle) ユノ: ちょっと静かにして
+(Subtitle) あられ: ふぅ……あっ！
+(Subtitle) ユノ: もういいよ、続けて
+(Subtitle) あられ: えっ
+(Subtitle) ののか: ユノちゃん、カウントとってよ～
+(Subtitle) あられ: ら～らら〜ららら〜♪
+(Subtitle) ののか: あ！　ユノちゃん！
+(Subtitle) ののか: ギターも入れて！
+(Subtitle) ユノ: え……
+(Subtitle) 律: お願いします！
+(Subtitle) ユノ: ええ……リフ？
+(Subtitle) ののか: てれれてれれ～みたいな
+(Subtitle) ユノ: アルペジオだったら峰月さんで
+(Subtitle) 律: はいっ
+(Subtitle) ののか: じゃーんじゃーん
+(Subtitle) ユノ: リフね
+(Subtitle) ののか: お～！
+(Subtitle) 律: かっこいい……
+(Subtitle) 都子: ふ〜ん、ふふ……♪
+(Subtitle) 律: ここだけ高い音にいったら変ですか？
+(Subtitle) 都子: あ……キ、キーボードで……
+(Subtitle) あられ: 分厚いピアノ！　入れたい！
+(Subtitle) 都子: テンポ的にどうでしょう……
+(Subtitle) あられ: うぅ……
+(Subtitle) ユノ: 入れてみる？　面白いんじゃない？
+(Subtitle) あられ: わーい！
+(Subtitle) あられ: ふ〜んふふ〜ん♪
+(Subtitle) 都子: ぐっ……！
+(Subtitle) ののか: あう゛ぁんぎゃるど！
 (Background change)
 ののか: <size=175%>あう゛ぁんぎゃるど！
 ユノ: ブラッシュアップの余地あり

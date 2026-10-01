@@ -46,30 +46,30 @@ Nonoka: Huh!?
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_yumemita_exstory_03_01/adv_movie_yumemita_exstory_03_01/adv_movie_yumemita_exstory_03_01.mp4)
 (Caption): ゆめみたエクストラ　観覧車（3話）
-(Subtitle) nonoka: Wooooow!
-(Subtitle) yuno: We're almost at the top.
-(Subtitle) arale: This is incredible! Everything's beautiful as far as you can see!
-(Subtitle) miyako: So this is what the view from a Ferris wheel looks like at sunset.
-(Subtitle) miyako: It's reference material... If I don't take a picture now, I'll forget the view in no time.
-(Subtitle) ritsu: Arale-chan, you're amazing.
-(Subtitle) arale: Huh?
-(Subtitle) ritsu: I never would've thought to end the day with a view this beautiful.
-(Subtitle) ritsu: My own plan was far too ordinary...
-(Subtitle) yuno: What part of that was ordinary...?
-(Subtitle) ritsu: Wasn't it?
-(Subtitle) miyako: Not in the slightest.
-(Subtitle) nonoka: Our one-of-a-kind Ricchan~!
-(Subtitle) arale: I had so much fun today, all thanks to you, Ricchan.
-(Subtitle) ritsu: Arale-chan...
-(Subtitle) arale: And we tried so many new things together today. It feels like my world opened up a little more.
-(Subtitle) arale: (Once, my world had closed in on itself.)
-(Subtitle) arale: (But when I found the courage to take that first step, you were all there for me.)
-(Subtitle) arale: (And now, my world...!)
-(Subtitle) arale: With all of you... I feel like I could go anywhere.
-(Subtitle) arale: The five of us, as Mugendai MewType... Let's go see what else is out there!
-(Subtitle) ritsu: Yeah...
-(Subtitle) miyako: And that's why I'm not doing it!!
-(Subtitle) arale・ritsu: Huh?
+(Subtitle) Nonoka: Wooooow!
+(Subtitle) Yuno: We're almost at the top.
+(Subtitle) Arale: This is incredible! Everything's beautiful as far as you can see!
+(Subtitle) Miyako: So this is what the view from a Ferris wheel looks like at sunset.
+(Subtitle) Miyako: It's reference material... If I don't take a picture now, I'll forget the view in no time.
+(Subtitle) Ritsu: Arale-chan, you're amazing.
+(Subtitle) Arale: Huh?
+(Subtitle) Ritsu: I never would've thought to end the day with a view this beautiful.
+(Subtitle) Ritsu: My own plan was far too ordinary...
+(Subtitle) Yuno: What part of that was ordinary...?
+(Subtitle) Ritsu: Wasn't it?
+(Subtitle) Miyako: Not in the slightest.
+(Subtitle) Nonoka: Our one-of-a-kind Ricchan~!
+(Subtitle) Arale: I had so much fun today, all thanks to you, Ricchan.
+(Subtitle) Ritsu: Arale-chan...
+(Subtitle) Arale: And we tried so many new things together today. It feels like my world opened up a little more.
+(Subtitle) Arale: (Once, my world had closed in on itself.)
+(Subtitle) Arale: (But when I found the courage to take that first step, you were all there for me.)
+(Subtitle) Arale: (And now, my world...!)
+(Subtitle) Arale: With all of you... I feel like I could go anywhere.
+(Subtitle) Arale: The five of us, as Mugendai MewType... Let's go see what else is out there!
+(Subtitle) Ritsu: Yeah...
+(Subtitle) Miyako: And that's why I'm not doing it!!
+(Subtitle) Arale & Ritsu: Huh?
 (Background change)
 Nonoka: Nooo~ Nono-chan wants to go running with Miyako-chan and Yuno-chan~!
 Yuno: Leave me out of this.

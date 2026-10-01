@@ -11,16 +11,16 @@ Arale: For the next song, I'd be happy if I could sing with everyone.
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4)
 (Caption): 夢みた13話　『愛は衝動』ライブシーン
-(Subtitle) arale: Love is Energy!
-(Subtitle) arale: When all of that mixes, I can chat with you through my songs!
-(Subtitle) viola: She really did, didn't she?
-(Subtitle) viola: That's why I can't stand her.
-(Subtitle) viola: Arale-chan.
-(Subtitle) arale: Let's sing!
-(Subtitle) arale: That was Mugendai MewType!
-(Subtitle) arale: Getting to chat with everyone was an absolute blast!
-(Subtitle) arale: Ready, set~!
-(Subtitle) Mugendai_Mewtype: Thank youuuuuuu!!!
+(Subtitle) Arale: Love is Energy!
+(Subtitle) Arale: When all of that mixes, I can chat with you through my songs!
+(Subtitle) Viola: She really did, didn't she?
+(Subtitle) Viola: That's why I can't stand her.
+(Subtitle) Viola: Arale-chan.
+(Subtitle) Arale: Let's sing!
+(Subtitle) Arale: That was Mugendai MewType!
+(Subtitle) Arale: Getting to chat with everyone was an absolute blast!
+(Subtitle) Arale: Ready, set~!
+(Subtitle) Mugendai MewType: Thank youuuuuuu!!!
 (Background change)
 Viola: Hey, Arale-chan. After school tomorrow, wanna go to karaoke together?
 Arale: Oh! Of course! I'm going!

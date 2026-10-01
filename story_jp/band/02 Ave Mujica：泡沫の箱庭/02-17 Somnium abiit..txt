@@ -130,8 +130,8 @@
 (Caption): Imprisoned XII　ライブシーン
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4)
 (Caption): Crucifix X　ライブシーン
-(Subtitle) doloris: 運命の歯車は再び、動き出す
-(Subtitle) doloris: ようこそ、AveMujicaの世界へ
+(Subtitle) ドロリス: 運命の歯車は再び、動き出す
+(Subtitle) ドロリス: ようこそ、AveMujicaの世界へ
 
 [終演後]
 

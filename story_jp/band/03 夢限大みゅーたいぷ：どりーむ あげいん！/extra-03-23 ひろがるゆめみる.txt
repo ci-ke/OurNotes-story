@@ -46,30 +46,30 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_yumemita_exstory_03_01/adv_movie_yumemita_exstory_03_01/adv_movie_yumemita_exstory_03_01.mp4)
 (Caption): ゆめみたエクストラ　観覧車（3話）
-(Subtitle) nonoka: わぁ～〜〜〜！
-(Subtitle) yuno: そろそろ頂上か
-(Subtitle) arale: すごいですよ！　もう、どこまでも綺麗！
-(Subtitle) miyako: 夕方の観覧車って、こんな景色なんですね
-(Subtitle) miyako: ……資料です。 こうして撮っておかないと、すぐに忘れてしまうので
-(Subtitle) ritsu: あられちゃんはすごいね
-(Subtitle) arale: へっ？
-(Subtitle) ritsu: こんなに綺麗な景色が見られるなんて、 私は思いつかなかったから
-(Subtitle) ritsu: 計画だって普通すぎるし……
-(Subtitle) yuno: どの辺が普通……？
-(Subtitle) ritsu: 普通では？
-(Subtitle) miyako: いえ、まったく
-(Subtitle) nonoka: スペシャルりっちゃん～
-(Subtitle) arale: ぼく、今日はりっちゃんのおかげで楽しかったよ
-(Subtitle) ritsu: あられちゃん……
-(Subtitle) arale: それに今日、みんなでたっくさん新しいことをして、 また世界が広がった気がしたんだ
-(Subtitle) arale: （一度閉じたぼくの世界）
-(Subtitle) arale: （でも、勇気を出して一歩踏み出した先には みんながいてくれて）
-(Subtitle) arale: （ぼくの世界は――！）
-(Subtitle) arale: ……ぼく、みんなとならどこまでも行けそうな気がする
-(Subtitle) arale: この５人で、夢限大みゅーたいぷで―― もっといろんな景色を見よう！
-(Subtitle) ritsu: ……うん
-(Subtitle) miyako: だからやりません！！
-(Subtitle) arale・ritsu: えっ？
+(Subtitle) ののか: わぁ～〜〜〜！
+(Subtitle) ユノ: そろそろ頂上か
+(Subtitle) あられ: すごいですよ！　もう、どこまでも綺麗！
+(Subtitle) 都子: 夕方の観覧車って、こんな景色なんですね
+(Subtitle) 都子: ……資料です。 こうして撮っておかないと、すぐに忘れてしまうので
+(Subtitle) 律: あられちゃんはすごいね
+(Subtitle) あられ: へっ？
+(Subtitle) 律: こんなに綺麗な景色が見られるなんて、 私は思いつかなかったから
+(Subtitle) 律: 計画だって普通すぎるし……
+(Subtitle) ユノ: どの辺が普通……？
+(Subtitle) 律: 普通では？
+(Subtitle) 都子: いえ、まったく
+(Subtitle) ののか: スペシャルりっちゃん～
+(Subtitle) あられ: ぼく、今日はりっちゃんのおかげで楽しかったよ
+(Subtitle) 律: あられちゃん……
+(Subtitle) あられ: それに今日、みんなでたっくさん新しいことをして、 また世界が広がった気がしたんだ
+(Subtitle) あられ: （一度閉じたぼくの世界）
+(Subtitle) あられ: （でも、勇気を出して一歩踏み出した先には みんながいてくれて）
+(Subtitle) あられ: （ぼくの世界は――！）
+(Subtitle) あられ: ……ぼく、みんなとならどこまでも行けそうな気がする
+(Subtitle) あられ: この５人で、夢限大みゅーたいぷで―― もっといろんな景色を見よう！
+(Subtitle) 律: ……うん
+(Subtitle) 都子: だからやりません！！
+(Subtitle) あられ & 律: えっ？
 (Background change)
 ののか: や～だ～、ののちゃんも都子ちゃんとユノちゃんと 一緒にランニングする～！
 ユノ: あたしを巻き込むな

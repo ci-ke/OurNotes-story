@@ -122,15 +122,15 @@
 睦: お願い、燈。もう一度CRYCHICを……！
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09.mp4)
 (Caption): 睦　モーティス突き落としシーン
-(Subtitle) mutsumi: 私の……
-(Subtitle) mortis: ！　返してっ……！
-(Subtitle) mutsumi: 言ったでしょ、祥はCRYCHICをやってくれるって！
-(Subtitle) mortis: やだやだ、Ave Mujicaやるんだもん！
-(Subtitle) mortis: ギターの練習だってこんなに――！
-(Subtitle) mutsumi: っ！　私の役取らないで！
-(Subtitle) mortis: あ……
-(Subtitle) mortis: え……
-(Subtitle) mutsumi_many: おお〜〜〜っ！
+(Subtitle) 睦: 私の……
+(Subtitle) モーティス: ！　返してっ……！
+(Subtitle) 睦: 言ったでしょ、祥はCRYCHICをやってくれるって！
+(Subtitle) モーティス: やだやだ、Ave Mujicaやるんだもん！
+(Subtitle) モーティス: ギターの練習だってこんなに――！
+(Subtitle) 睦: っ！　私の役取らないで！
+(Subtitle) モーティス: あ……
+(Subtitle) モーティス: え……
+(Subtitle) 睦たち: おお〜〜〜っ！
 燈: ……睦ちゃん………？
 モーティス: はっ！　……はぁ……はぁ……！
 燈: ……あ

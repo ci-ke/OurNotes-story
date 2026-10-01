@@ -11,16 +11,16 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4)
 (Caption): 夢みた13話　『愛は衝動』ライブシーン
-(Subtitle) arale: 愛は衝動！
-(Subtitle) arale: それがぜーんぶ混ざった時に、 歌でおしゃべりできるようになるんだ！
-(Subtitle) viola: ほんとだね
-(Subtitle) viola: だから、大嫌いなんだよ
-(Subtitle) viola: あられちゃん
-(Subtitle) arale: 歌おう！
-(Subtitle) arale: 夢限大みゅーたいぷでした！
-(Subtitle) arale: みんなとおしゃべりできて、 さいっこーに楽しかったです！
-(Subtitle) arale: せーのっ
-(Subtitle) Mugendai_Mewtype: ありがとうございましたーーーーー！！！
+(Subtitle) あられ: 愛は衝動！
+(Subtitle) あられ: それがぜーんぶ混ざった時に、 歌でおしゃべりできるようになるんだ！
+(Subtitle) ビオラ: ほんとだね
+(Subtitle) ビオラ: だから、大嫌いなんだよ
+(Subtitle) ビオラ: あられちゃん
+(Subtitle) あられ: 歌おう！
+(Subtitle) あられ: 夢限大みゅーたいぷでした！
+(Subtitle) あられ: みんなとおしゃべりできて、 さいっこーに楽しかったです！
+(Subtitle) あられ: せーのっ
+(Subtitle) 夢限大みゅーたいぷ: ありがとうございましたーーーーー！！！
 (Background change)
 ビオラ: ねえ、あられちゃん。 明日の放課後、一緒にカラオケ行かない？
 あられ: えっ！　行く行く！　もちろん行くっ！

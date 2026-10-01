@@ -146,9 +146,9 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10/adv_movie_utakotoba_mygo_10.mp4)
 (Caption): 詩超絆　ライブシーン
-(Subtitle) soyo: あ……！
-(Subtitle) rana: ふふん
-(Subtitle) soyo: ちょっと……！
+(Subtitle) そよ: あ……！
+(Subtitle) 楽奈: ふふん
+(Subtitle) そよ: ちょっと……！
 (Background change)
 燈: ……はぁ、はぁ…………っ
 愛音: ……っ、ありがとうございました！

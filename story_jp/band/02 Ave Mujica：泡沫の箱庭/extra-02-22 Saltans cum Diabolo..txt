@@ -40,35 +40,35 @@
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mujica_exstory_02_01/adv_movie_mujica_exstory_02_01/adv_movie_mujica_exstory_02_01.mp4)
 (Caption): Mujicaエクストラ　ダンスシーン（2話）
 (Subtitle) audiencee: 素晴らしい！ まるで水の妖精が降り立ったよう……！
-(Subtitle) audienced: ええ……！　思わずため息が出ちゃう……！
-(Subtitle) umiri: さすがは若葉さん。魅せてくれますね
-(Subtitle) nyamu: （なに、その目……！　アタシには無理だとでも？）
-(Subtitle) mutsumi: お手をどうぞ
-(Subtitle) nyamu: （……ぜってえ退かんばい……！）
-(Subtitle) nyamu: ……エスコートでもしてくれるわけ？
-(Subtitle) mutsumi: ……にゃむが望むなら
+(Subtitle) 観客D: ええ……！　思わずため息が出ちゃう……！
+(Subtitle) 海鈴: さすがは若葉さん。魅せてくれますね
+(Subtitle) にゃむ: （なに、その目……！　アタシには無理だとでも？）
+(Subtitle) 睦: お手をどうぞ
+(Subtitle) にゃむ: （……ぜってえ退かんばい……！）
+(Subtitle) にゃむ: ……エスコートでもしてくれるわけ？
+(Subtitle) 睦: ……にゃむが望むなら
 (Subtitle) audiencef: まぁまぁ、なんて麗しいペアなんでしょう！ 海上に咲く可憐な花々ですわ
 (Subtitle) audienceg: しかし、背の高い方は追いついていないような…… 彼女に比べると……いささか見劣りするというか
-(Subtitle) nyamu: （ワルツくらい授業でやった！ でも………！　どう足掻いても、観客の目は……！）
-(Subtitle) mutsumi: ……ダンスに集中して
-(Subtitle) mutsumi: もっと思いっきりやっていい
-(Subtitle) mutsumi: 合わせられるから
-(Subtitle) nyamu: ……上等！
-(Subtitle) nyamu: （やっぱこのオンナ……！）
-(Subtitle) nyamu: ……くっ
-(Subtitle) mutsumi: にゃむ
-(Subtitle) mutsumi: 上手
-(Subtitle) nyamu: ……はい！　おしまい！
-(Subtitle) nyamu: あーもう前髪崩れちゃったじゃん。アタシ、楽屋戻るわ〜
-(Subtitle) umiri: おや。そんなつれないことをおっしゃらず
-(Subtitle) nyamu: ん
-(Subtitle) umiri: 次は私と踊りませんか？
-(Subtitle) nyamu: は？
-(Subtitle) umiri: ふたりだけで楽しまないで、私も混ぜてくださいよ
-(Subtitle) nyamu: いや楽しんでたわけじゃ——えっ ちょ、ちょっ！　ウミコ……！
-(Subtitle) umiri: ダンスはパートナーとの共同作業。さあ、心をひとつに！
-(Subtitle) nyamu: アンタ、テンションおかしくなってない？
-(Subtitle) umiri: 私はいつだって素面ですよ
+(Subtitle) にゃむ: （ワルツくらい授業でやった！ でも………！　どう足掻いても、観客の目は……！）
+(Subtitle) 睦: ……ダンスに集中して
+(Subtitle) 睦: もっと思いっきりやっていい
+(Subtitle) 睦: 合わせられるから
+(Subtitle) にゃむ: ……上等！
+(Subtitle) にゃむ: （やっぱこのオンナ……！）
+(Subtitle) にゃむ: ……くっ
+(Subtitle) 睦: にゃむ
+(Subtitle) 睦: 上手
+(Subtitle) にゃむ: ……はい！　おしまい！
+(Subtitle) にゃむ: あーもう前髪崩れちゃったじゃん。アタシ、楽屋戻るわ〜
+(Subtitle) 海鈴: おや。そんなつれないことをおっしゃらず
+(Subtitle) にゃむ: ん
+(Subtitle) 海鈴: 次は私と踊りませんか？
+(Subtitle) にゃむ: は？
+(Subtitle) 海鈴: ふたりだけで楽しまないで、私も混ぜてくださいよ
+(Subtitle) にゃむ: いや楽しんでたわけじゃ——えっ ちょ、ちょっ！　ウミコ……！
+(Subtitle) 海鈴: ダンスはパートナーとの共同作業。さあ、心をひとつに！
+(Subtitle) にゃむ: アンタ、テンションおかしくなってない？
+(Subtitle) 海鈴: 私はいつだって素面ですよ
 (Background change)
 初華: わぁ……みんなすごい！　ね、さきちゃん
 祥子: ええ。わたくし、先に楽屋へ戻ってますわ。 初華は楽しんでらして

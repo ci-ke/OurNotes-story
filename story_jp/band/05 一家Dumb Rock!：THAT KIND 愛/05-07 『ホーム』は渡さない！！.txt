@@ -9,37 +9,37 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_family_morning_kadan_07/adv_movie_family_morning_kadan_07/adv_movie_family_morning_kadan_07.mp4)
 (Caption): 一家Dumb Rock!バンスト1章　豪華なファミリー朝ごはん
-(Subtitle) raika: やっぱりさ、ファミリーの朝はこれなんだよ……！
-(Subtitle) raika: 『１日の計はファミリーとの朝ご飯にあり』…… やっと、やっと叶うんだ……！
-(Subtitle) raika: さあ食べようか、マイ・ファミリー！ 一緒に手を合わせて、いっただっきま――……
-(Subtitle) raika: え〜〜っ！？　もう食べてる！？
-(Subtitle) chieri: 蕾叶も早く食べないと ちえりがクロワッサンぜ〜んぶいただきますよっ
-(Subtitle) yomogi: 完璧な焼き加減のベーコンエッグに、 フルーツの盛り合わせまで……ここ、天国かも〜……！
-(Subtitle) miku: 蓬咲さん、今朝は元気だね
-(Subtitle) yomogi: はいっ、豪華すぎて目が覚めました！
-(Subtitle) chieri: このパリッパリのウインナーもなかなかです……！
-(Subtitle) raika: ちょっとタイム！！ みんな『いただきます』は！？
-(Subtitle) miku: してたよ〜。蕾叶ちゃんは聞いてなかったみたいだけど
-(Subtitle) raika: えっ、そうだったの！？
-(Subtitle) shizuku: 蕾叶は食べないのか？ この調子だとあっという間になくなってしまいそうだぞ
-(Subtitle) raika: 食べる食べる！ いただきまーす！
-(Subtitle) raika: もぐもぐもぐっ……ん〜〜〜！　おいひ〜〜〜！！
-(Subtitle) chieri: 心玖、そのヨーグルトパフェ食べないなら ちえりがもらっちゃいますよっ
-(Subtitle) miku: うん、どうぞ〜
-(Subtitle) yomogi: くんくん……このオムレツにのってるのって〜……
-(Subtitle) shizuku: ロブスターだ
-(Subtitle) yomogi: ヒィッ……！
-(Subtitle) raika: ロブスター！？ 朝からこんなの食べていいの！？
-(Subtitle) shizuku: ？　皆は朝にこういうものを食べないのか？
-(Subtitle) raika: 朝っていうか人生で食べたことないよ！
-(Subtitle) shizuku: そうだったのか。 私の家で出る朝食とよく似ていると思ったのだが……
-(Subtitle) raika: それはそうだよ！　だって――
-(Subtitle) raika: いったあ！？
-(Subtitle) miku: あっ、ごめんね〜。 わたしの足、当たっちゃったみたい
-(Subtitle) raika: 当たっちゃったっていうか、思いっきり踏んだよね！？
-(Subtitle) miku: （それはあんたが余計なこと言いそうだったからでしょ。 ３歩歩いたら忘れるの？　鳥頭なの？）
-(Subtitle) raika: ……！ ま、まあそんなこともあるか〜……！　あはは……！
-(Subtitle) miku: ふふふふ……
+(Subtitle) 蕾叶: やっぱりさ、ファミリーの朝はこれなんだよ……！
+(Subtitle) 蕾叶: 『１日の計はファミリーとの朝ご飯にあり』…… やっと、やっと叶うんだ……！
+(Subtitle) 蕾叶: さあ食べようか、マイ・ファミリー！ 一緒に手を合わせて、いっただっきま――……
+(Subtitle) 蕾叶: え〜〜っ！？　もう食べてる！？
+(Subtitle) ちえり: 蕾叶も早く食べないと ちえりがクロワッサンぜ〜んぶいただきますよっ
+(Subtitle) 蓬咲: 完璧な焼き加減のベーコンエッグに、 フルーツの盛り合わせまで……ここ、天国かも〜……！
+(Subtitle) 心玖: 蓬咲さん、今朝は元気だね
+(Subtitle) 蓬咲: はいっ、豪華すぎて目が覚めました！
+(Subtitle) ちえり: このパリッパリのウインナーもなかなかです……！
+(Subtitle) 蕾叶: ちょっとタイム！！ みんな『いただきます』は！？
+(Subtitle) 心玖: してたよ〜。蕾叶ちゃんは聞いてなかったみたいだけど
+(Subtitle) 蕾叶: えっ、そうだったの！？
+(Subtitle) 寧月: 蕾叶は食べないのか？ この調子だとあっという間になくなってしまいそうだぞ
+(Subtitle) 蕾叶: 食べる食べる！ いただきまーす！
+(Subtitle) 蕾叶: もぐもぐもぐっ……ん〜〜〜！　おいひ〜〜〜！！
+(Subtitle) ちえり: 心玖、そのヨーグルトパフェ食べないなら ちえりがもらっちゃいますよっ
+(Subtitle) 心玖: うん、どうぞ〜
+(Subtitle) 蓬咲: くんくん……このオムレツにのってるのって〜……
+(Subtitle) 寧月: ロブスターだ
+(Subtitle) 蓬咲: ヒィッ……！
+(Subtitle) 蕾叶: ロブスター！？ 朝からこんなの食べていいの！？
+(Subtitle) 寧月: ？　皆は朝にこういうものを食べないのか？
+(Subtitle) 蕾叶: 朝っていうか人生で食べたことないよ！
+(Subtitle) 寧月: そうだったのか。 私の家で出る朝食とよく似ていると思ったのだが……
+(Subtitle) 蕾叶: それはそうだよ！　だって――
+(Subtitle) 蕾叶: いったあ！？
+(Subtitle) 心玖: あっ、ごめんね〜。 わたしの足、当たっちゃったみたい
+(Subtitle) 蕾叶: 当たっちゃったっていうか、思いっきり踏んだよね！？
+(Subtitle) 心玖: （それはあんたが余計なこと言いそうだったからでしょ。 ３歩歩いたら忘れるの？　鳥頭なの？）
+(Subtitle) 蕾叶: ……！ ま、まあそんなこともあるか〜……！　あはは……！
+(Subtitle) 心玖: ふふふふ……
 蓬咲: チェリさん……このオムレツいりますか？ 私海鮮はちょっと……
 ちえり: 蓬咲、さっきは野菜もちまちま避けてましたよね。 好き嫌いはいけませんよっ
 蓬咲: う〜っ、選り好みできる身分でもないのにすみません〜！

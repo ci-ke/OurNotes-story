@@ -4,35 +4,35 @@
 
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_formation_mewtype_yumemita_01/adv_movie_formation_mewtype_yumemita_01/adv_movie_formation_mewtype_yumemita_01.mp4)
 (Caption): 夢みた1話　みゅーたいぷ結成シーン
-(Subtitle) arale: 〜〜〜〜〜っ！！
-(Subtitle) nonoka: スイ～
-(Subtitle) nonoka: ふわ〜
-(Subtitle) nonoka: ん〜〜？
-(Subtitle) nonoka: マネージャーさん遅いね～
-(Subtitle) manager: お待たせぇ！
-(Subtitle) arale: ぴゃぁああぁぁ！
-(Subtitle) arale: はじめましてっ
-(Subtitle) arale: 神田白八馬アカデミー1年B組入学予定仲町あられです！
-(Subtitle) arale: 本日は所属クリエイターの親睦会という名の顔合わせ会ということで
-(Subtitle) arale: オヨビダテいただき誠に光栄のいたりでございまして
-(Subtitle) arale: いろいろとご迷惑をお掛けすることもあるかと思いますが
-(Subtitle) arale: 何卒よろしくお願いいたしまままままままま
-(Subtitle) yuno: バグ？
-(Subtitle) manager: 仲町さん落ち着いて
-(Subtitle) nonoka: しんこきゅ～
-(Subtitle) manager: そうね、深呼吸しましょう
+(Subtitle) あられ: 〜〜〜〜〜っ！！
+(Subtitle) ののか: スイ～
+(Subtitle) ののか: ふわ〜
+(Subtitle) ののか: ん〜〜？
+(Subtitle) ののか: マネージャーさん遅いね～
+(Subtitle) マネージャー: お待たせぇ！
+(Subtitle) あられ: ぴゃぁああぁぁ！
+(Subtitle) あられ: はじめましてっ
+(Subtitle) あられ: 神田白八馬アカデミー1年B組入学予定仲町あられです！
+(Subtitle) あられ: 本日は所属クリエイターの親睦会という名の顔合わせ会ということで
+(Subtitle) あられ: オヨビダテいただき誠に光栄のいたりでございまして
+(Subtitle) あられ: いろいろとご迷惑をお掛けすることもあるかと思いますが
+(Subtitle) あられ: 何卒よろしくお願いいたしまままままままま
+(Subtitle) ユノ: バグ？
+(Subtitle) マネージャー: 仲町さん落ち着いて
+(Subtitle) ののか: しんこきゅ～
+(Subtitle) マネージャー: そうね、深呼吸しましょう
 (Subtitle) everyone: ふぅ～、はぁ～
-(Subtitle) yuno: なんで？
-(Subtitle) manager: うん、イイネ～。ヨッ、みゅーたいぷ！
-(Subtitle) arale: みゅ？
-(Subtitle) yuno: 何それ？
-(Subtitle) manager: あ、スマン。こっちが先だった
-(Subtitle) manager: 今日からあなたたちはみゅーたいぷ！
-(Subtitle) yuno: は？
-(Subtitle) arale: みゅ～？　たいぷ、とは？
-(Subtitle) nonoka: 新しいゆ～ま？
-(Subtitle) manager: なわけ！　グループ名に決まってるでしょ！
-(Subtitle) arale: ぐる……？
+(Subtitle) ユノ: なんで？
+(Subtitle) マネージャー: うん、イイネ～。ヨッ、みゅーたいぷ！
+(Subtitle) あられ: みゅ？
+(Subtitle) ユノ: 何それ？
+(Subtitle) マネージャー: あ、スマン。こっちが先だった
+(Subtitle) マネージャー: 今日からあなたたちはみゅーたいぷ！
+(Subtitle) ユノ: は？
+(Subtitle) あられ: みゅ～？　たいぷ、とは？
+(Subtitle) ののか: 新しいゆ～ま？
+(Subtitle) マネージャー: なわけ！　グループ名に決まってるでしょ！
+(Subtitle) あられ: ぐる……？
 (Background change)
 あられ: <size=150%>えぇ〜〜〜〜〜〜〜っ！？！？
 マネージャー: 仲町あられ！

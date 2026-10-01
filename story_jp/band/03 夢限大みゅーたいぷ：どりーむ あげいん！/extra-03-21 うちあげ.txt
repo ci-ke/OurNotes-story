@@ -4,35 +4,35 @@
 
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_yumemita_exstory_01_01/adv_movie_yumemita_exstory_01_01/adv_movie_yumemita_exstory_01_01.mp4)
 (Caption): ゆめみたエクストラ　打ち上げ開催決定（1話）
-(Subtitle) arale: ……うんっ！
-(Subtitle) ritsu: あられちゃん
-(Subtitle) ritsu: りっちゃん、おはよ――
-(Subtitle) ritsu: なあぁああ～～～～～～～～っ！？？？
-(Subtitle) ritsu: なななななななななにが起きたんですか！？？
-(Subtitle) ritsu: あられちゃん、上！
-(Subtitle) nonoka: ――まるくんが1051匹～、まるくんが1052匹～
-(Subtitle) yuno: ――違う、またさっきと同じコード…… この４小節、ハマらない…… 永遠にハマらない……
-(Subtitle) miyako: スゥー……ハァー……スゥー……
-(Subtitle) nonoka: りっちゃん、あられちゃん、いらっしゃいませー！
-(Subtitle) arale: あの、この状況は……？
-(Subtitle) nonoka: よくぞ聞いてくれました！ 実はユノちゃんも都子ちゃんも ばったんばったんなのですっ
-(Subtitle) arale: ばったんばったん？
-(Subtitle) ritsu: 全国ツアーの作業ですね
-(Subtitle) nonoka: せ～～～いか～～～～い！
-(Subtitle) nonoka: ユノちゃんは新曲の作曲、 都子ちゃんは描かなきゃいけないイラストが た～～～～～～～～っくさんあって～……
-(Subtitle) ritsu: だから寝られるときに寝てほしいと、 羊の代わりにまるくんを数えてたんですね
-(Subtitle) arale: そうなの！？
-(Subtitle) nonoka: またまたせいか～～～いっ！
-(Subtitle) arale: えええっ！？？
-(Subtitle) yuno: はぁ……もうダメ…………
-(Subtitle) arale: ユ、ユノさんちゃーーーーーんっ！！
-(Subtitle) arale: ユノさんちゃん！　ユノさんちゃんっ！！
-(Subtitle) arale: し、ししししししし死ーーーーーーーーーっ！！？？？
-(Subtitle) ritsu: 都子さんは……
-(Subtitle) nonoka: んー、ビッグベア〜だけどなんだか幸せそう！
-(Subtitle) ritsu: わかりました
-(Subtitle) arale: りっちゃん？
-(Subtitle) ritsu: 打ち上げをやりましょう！
+(Subtitle) あられ: ……うんっ！
+(Subtitle) 律: あられちゃん
+(Subtitle) 律: りっちゃん、おはよ――
+(Subtitle) 律: なあぁああ～～～～～～～～っ！？？？
+(Subtitle) 律: なななななななななにが起きたんですか！？？
+(Subtitle) 律: あられちゃん、上！
+(Subtitle) ののか: ――まるくんが1051匹～、まるくんが1052匹～
+(Subtitle) ユノ: ――違う、またさっきと同じコード…… この４小節、ハマらない…… 永遠にハマらない……
+(Subtitle) 都子: スゥー……ハァー……スゥー……
+(Subtitle) ののか: りっちゃん、あられちゃん、いらっしゃいませー！
+(Subtitle) あられ: あの、この状況は……？
+(Subtitle) ののか: よくぞ聞いてくれました！ 実はユノちゃんも都子ちゃんも ばったんばったんなのですっ
+(Subtitle) あられ: ばったんばったん？
+(Subtitle) 律: 全国ツアーの作業ですね
+(Subtitle) ののか: せ～～～いか～～～～い！
+(Subtitle) ののか: ユノちゃんは新曲の作曲、 都子ちゃんは描かなきゃいけないイラストが た～～～～～～～～っくさんあって～……
+(Subtitle) 律: だから寝られるときに寝てほしいと、 羊の代わりにまるくんを数えてたんですね
+(Subtitle) あられ: そうなの！？
+(Subtitle) ののか: またまたせいか～～～いっ！
+(Subtitle) あられ: えええっ！？？
+(Subtitle) ユノ: はぁ……もうダメ…………
+(Subtitle) あられ: ユ、ユノさんちゃーーーーーんっ！！
+(Subtitle) あられ: ユノさんちゃん！　ユノさんちゃんっ！！
+(Subtitle) あられ: し、ししししししし死ーーーーーーーーーっ！！？？？
+(Subtitle) 律: 都子さんは……
+(Subtitle) ののか: んー、ビッグベア〜だけどなんだか幸せそう！
+(Subtitle) 律: わかりました
+(Subtitle) あられ: りっちゃん？
+(Subtitle) 律: 打ち上げをやりましょう！
 (Subtitle) everyone: …………え？
 (Background change)
 

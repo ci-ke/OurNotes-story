@@ -33,29 +33,29 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mujica_exstory_03_01/adv_movie_mujica_exstory_03_01/adv_movie_mujica_exstory_03_01.mp4)
 (Caption): Mujicaエクストラ　ダンスシーン（3話）
-(Subtitle) sakiko: ここは……フロア？　初華……？
-(Subtitle) uika: ……！　さきちゃん！
-(Subtitle) uika: よかった、気がついたんだ
-(Subtitle) sakiko: ……わたくしは、一体
-(Subtitle) uika: 覚えてない？　ひとりで踊ってたんだよ？
-(Subtitle) uika: あ、ごめん
-(Subtitle) uika: 様子がおかしかったから……
-(Subtitle) sakiko: そう……あなたが……
-(Subtitle) uika: えっ？
-(Subtitle) sakiko: まだ音楽は鳴りやんでいませんわ
-(Subtitle) uika: でも私、ワルツなんて……！
-(Subtitle) sakiko: 初華
-(Subtitle) sakiko: すべてをわたくしに委ねて
-(Subtitle) uika: ……うん！
+(Subtitle) 祥子: ここは……フロア？　初華……？
+(Subtitle) 初華: ……！　さきちゃん！
+(Subtitle) 初華: よかった、気がついたんだ
+(Subtitle) 祥子: ……わたくしは、一体
+(Subtitle) 初華: 覚えてない？　ひとりで踊ってたんだよ？
+(Subtitle) 初華: あ、ごめん
+(Subtitle) 初華: 様子がおかしかったから……
+(Subtitle) 祥子: そう……あなたが……
+(Subtitle) 初華: えっ？
+(Subtitle) 祥子: まだ音楽は鳴りやんでいませんわ
+(Subtitle) 初華: でも私、ワルツなんて……！
+(Subtitle) 祥子: 初華
+(Subtitle) 祥子: すべてをわたくしに委ねて
+(Subtitle) 初華: ……うん！
 (Subtitle) audienceh: 素晴らしい！　エクセレント！
-(Subtitle) thegirl: わぁ！　素敵なダンス！
-(Subtitle) sakiko: ！　この声、先ほどの——？
-(Subtitle) uika: あはは、さきちゃんすごい……！
-(Subtitle) sakiko: ふふ……初華こそ。さすがアイドル、ダンスはお手のものですわね
-(Subtitle) uika: ねえ、さきちゃん……さっき何が——
-(Subtitle) sakiko: ——時間ですわ。 行きますわよ、初華
-(Subtitle) sakiko: 本当のマスカレードというものをお見せして差しあげましょう
-(Subtitle) uika: うん……！
+(Subtitle) 少女: わぁ！　素敵なダンス！
+(Subtitle) 祥子: ！　この声、先ほどの——？
+(Subtitle) 初華: あはは、さきちゃんすごい……！
+(Subtitle) 祥子: ふふ……初華こそ。さすがアイドル、ダンスはお手のものですわね
+(Subtitle) 初華: ねえ、さきちゃん……さっき何が——
+(Subtitle) 祥子: ——時間ですわ。 行きますわよ、初華
+(Subtitle) 祥子: 本当のマスカレードというものをお見せして差しあげましょう
+(Subtitle) 初華: うん……！
 (Background change)
 
 [数時間後]

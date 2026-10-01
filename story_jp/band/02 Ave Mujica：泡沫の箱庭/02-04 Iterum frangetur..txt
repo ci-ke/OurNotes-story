@@ -385,11 +385,11 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03.mp4)
 (Caption): モーティスウォルドルフ人形捕食シーン
-(Subtitle) mortis: 辛かったね
-(Subtitle) mortis: 苦しかったね
-(Subtitle) mortis: 私だけは、睦ちゃんの味方
-(Subtitle) mutsumi: モーティス……
-(Subtitle) mutsumi: えっ……？
+(Subtitle) モーティス: 辛かったね
+(Subtitle) モーティス: 苦しかったね
+(Subtitle) モーティス: 私だけは、睦ちゃんの味方
+(Subtitle) 睦: モーティス……
+(Subtitle) 睦: えっ……？
 (Background change)
 スタッフA: CM開けます！　本番５秒前、４、３——
 モーティス: ——目が覚めるたびに生き返る。 目覚めないのは、永遠の死
