@@ -278,8 +278,12 @@ Sakiko: (What's going on?)
 (Background change)
 Sakiko: Uika, why aren't you answering?
 (Transition)
+[SkipLog] (Message) Sakiko: (Stamp)
+[SkipLog] (Message) Sakiko: (Stamp)
+[SkipLog] (Message) Sakiko: (Stamp)
 (Message) Sakiko: Where are you right now?
 (Message) Sakiko: Call me if you see this.
+[SkipLog] (Message) Sakiko: (Stamp)
 (Transition)
 Sakiko: Uika...
 (Background change)

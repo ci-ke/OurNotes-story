@@ -124,6 +124,7 @@ Arale: This time, <size=200%>I'm going to fight baaaaaack!!!
 (Transition)
 (Background change)
 (Message) Manager: Did you manage to get some proper rest today?
+[SkipLog] (Message send) Arale: Thank you! I'm doing okay!
 (Message) Arale: Thank you! I'm doing okay!
 Arale: (Ms. Manager is so nice...!)
 Arale: (But I can't keep leaning on everyone's kindness...)

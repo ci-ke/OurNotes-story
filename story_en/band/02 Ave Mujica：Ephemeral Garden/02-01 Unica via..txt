@@ -264,7 +264,8 @@ Sakiko: I have to make this work. I have to... I have to—!
 (Background change)
 Sakiko: I finished earlier than expected. I can still make it to practice.
 (Message) Soyo: Can you come today?
-(Message) Sakiko: My sincere apologies. I will make it on...
+[SkipLog] (Message) Soyo: Can you come today?
+(Message send) Sakiko: My sincere apologies. I will make it on...
 Sakiko: ? Who could that be...?
 Sakiko: Yes... this is Togawa. What...?
 (Transition)

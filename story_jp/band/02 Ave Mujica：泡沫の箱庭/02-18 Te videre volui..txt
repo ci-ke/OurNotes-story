@@ -278,8 +278,12 @@
 (Background change)
 祥子: ……初華、どうして出てくれないんですの
 (Transition)
+[SkipLog] (Message) 祥子: (Stamp)
+[SkipLog] (Message) 祥子: (Stamp)
+[SkipLog] (Message) 祥子: (Stamp)
 (Message) 祥子: 今どこにいるんですの？
 (Message) 祥子: 気づいたら連絡をください
+[SkipLog] (Message) 祥子: (Stamp)
 (Transition)
 祥子: ……初華
 (Background change)

@@ -133,9 +133,12 @@ Miku: *Sigh*... I'm tired... The lesson was too long...
 Miku: (It's quiet. I can even hear my ears ringing.)
 Miku: Right, my smartphone...
 Miku: Huh...!? What's with this number of notifications...!
+[SkipLog] (Message) 🏠Raika🍚: (Stamp)
 (Message) 🏠Raika🍚: Mi~~ku~~~!! Answer the phone~~~!!
+[SkipLog] (Message) Chieri Umezato👑Union Leader: (Stamp)
 (Message) yomogi: I'm so sorry for bothering you with all these messages...😭😭😭 But I just wanted to talk to you one more time...!
 (Message) 🏠Raika🍚: Hey, Miku! Where are you?
+[SkipLog] (Message) Chieri Umezato👑Union Leader: (Stamp)
 (Message) Chieri Umezato👑Union Leader: How dare you ignore Chieri! A subordinate of Chieri's should answer when she calls!😡😡⚡️⚡️
 Miku: (Those idiots...! Why are they still bothering with me...!)
 Miku: (Just deal with your own problem already. What did you think I wrote that song for...)

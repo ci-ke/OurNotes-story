@@ -192,7 +192,7 @@ Arale: Oh! Then let's record "Robo's House" afterward! This way, we'll be follow
 (Transition)
 (Background change)
 Ritsu: ...
-(Message) Ritsu: There's something I want to talk to you about... It's about Viola.
+(Message send) Ritsu: There's something I want to talk to you about... It's about Viola.
 Ritsu: Should I... talk to Arale-chan about it...?
 Ritsu: ?
 (Message) Viola: Have you seen this? <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>

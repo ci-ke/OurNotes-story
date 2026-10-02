@@ -192,7 +192,7 @@ Viola：太好了！
 （转场）
 （背景切换）
 律：……
-（消息）律：我想跟妳聊聊有關Viola的事。
+（消息发送）律：我想跟妳聊聊有關Viola的事。
 律：……該找她商量嗎……
 律：？
 （消息）Viola：這妳看了嗎？ <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>

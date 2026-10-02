@@ -90,7 +90,7 @@
 (Background change)
 そよ: ごきげんよう。また明日ね
 (Message) 立希: ライブ終わって最近たるんでる
-(Message) advchat_soyo_group_01_nosound: そうかな？
+[SkipLog] (Message send) そよ: そうかな？
 (Message) そよ: そうかな？
 (Message) 立希: 絶対そう、次決めないと
 (Message) 愛音: ごめん、ちょっといい？

@@ -222,6 +222,9 @@ Ritsu: ...
 (Background change)
 (Message) Arale: Yuno-san-chaaaaaaaaaaaaaaaaaaaaaaaaan!
 (Message) Arale: You said you're quitting the band. Did you mean MewType!?
+[SkipLog] (Message) Arale: (Stamp)
+[SkipLog] (Message) Arale: (Stamp)
+[SkipLog] (Message) Arale: (Stamp)
 Yuno: ...
 Yuno: *Sigh*...
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000251/data/adv_still_anime_000251/adv_still_anime_000251.webp)
@@ -284,9 +287,9 @@ Nonoka: ...
 (Background change)
 Nonoka: Is Nono-chan shiny? Or smooth...?
 Nonoka: I wonder what kind of flowers are blooming in the flower field...?
-(Message) Nonoka: Is Nono-chan shiny?
-(Message) Nonoka: Or smooth...?
-(Message) Nonoka: I wonder what kind of flowers are blooming in the flower field...?
+[SkipLog] (Message) Nonoka: Is Nono-chan shiny?
+[SkipLog] (Message) Nonoka: Or smooth...?
+[SkipLog] (Message) Nonoka: I wonder what kind of flowers are blooming in the flower field...?
 Nonoka: ...
 (Transition)
 (Background change)
@@ -295,6 +298,7 @@ Miyako: So please, never speak to me again...!
 Miyako: <size=150%>I! I really hate you!!
 (Transition)
 (Background change)
+[SkipLog] (Message send) Nonoka: Is hate the farthest thing from love...?
 (Message) Nonoka: Is hate the farthest thing from love...?
 (Transition)
 Nonoka: Yuno-chan...

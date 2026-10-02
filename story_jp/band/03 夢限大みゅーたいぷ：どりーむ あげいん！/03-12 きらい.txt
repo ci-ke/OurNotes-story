@@ -222,6 +222,9 @@
 (Background change)
 (Message) あられ: ユノさんちゃああああああああああああああああああん
 (Message) あられ: バンドやめるってみゅーたいぷのことですか！？
+[SkipLog] (Message) あられ: (Stamp)
+[SkipLog] (Message) あられ: (Stamp)
+[SkipLog] (Message) あられ: (Stamp)
 ユノ: …………
 ユノ: はぁ……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000251/data/adv_still_anime_000251/adv_still_anime_000251.webp)
@@ -284,9 +287,9 @@
 (Background change)
 ののか: ののちゃんは、ピカピカなのでしょうか。 ツルツル……？
 ののか: 花畑にはどんなお花が咲いているんでしょうか……？
-(Message) ののか: ののちゃんは、ピカピカなのでしょうか。
-(Message) ののか: ツルツル……？
-(Message) ののか: 花畑にはどんなお花が咲いているんでしょうか……？
+[SkipLog] (Message) ののか: ののちゃんは、ピカピカなのでしょうか。
+[SkipLog] (Message) ののか: ツルツル……？
+[SkipLog] (Message) ののか: 花畑にはどんなお花が咲いているんでしょうか……？
 ののか: ……
 (Transition)
 (Background change)
@@ -295,6 +298,7 @@
 都子: <size=150%>私は！ あなたが嫌いなんです！！
 (Transition)
 (Background change)
+[SkipLog] (Message send) ののか: ……嫌いは、好きから一番遠いんでしょうか……？
 (Message) ののか: ……嫌いは、好きから一番遠いんでしょうか……？
 (Transition)
 ののか: ユノちゃん……

@@ -90,7 +90,7 @@ Anon & Tomori: ...
 (Background change)
 Soyo: Goodbye. See you tomorrow.
 (Message) Taki: We've been slacking lately after the live.
-(Message) advchat_soyo_group_01_nosound: Is that so?
+[SkipLog] (Message send) Soyo: Is that so?
 (Message) Soyo: Is that so?
 (Message) Taki: For sure, gotta decide the next one.
 (Message) Anon: Sorry, can I change topics for a bit?

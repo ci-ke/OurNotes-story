@@ -74,11 +74,11 @@ Raika: Oh, really! Everyone's got so much to talk about to you, Miku~!
 Miku: *Sigh*... I'm telling you not to make a ruckus in my room.
 Shizuku: Miku, were you doing something on your phone just now?
 Miku: Well... yeah. But I'm finishing it up now.
-(Message) advchat_miku_01: Mother, I'm sorry for making you worry.
+(Message send) Miku: Mother, I'm sorry for making you worry.
 (Message) Miku: Mother, I'm sorry for making you worry.
-(Message) advchat_miku_01: Life here is busy, but I'm doing fine, so don't worry.
+(Message send) Miku: Life here is busy, but I'm doing fine, so don't worry.
 (Message) Miku: Life here is busy, but I'm doing fine, so don't worry.
-(Message) advchat_miku_01: If I ever need help, I'll come to you first. Thanks always!😊
+(Message send) Miku: If I ever need help, I'll come to you first. Thanks always!😊
 (Message) Miku: If I ever need help, I'll come to you first. Thanks always!😊
 Miku: Phew...
 (Transition)
