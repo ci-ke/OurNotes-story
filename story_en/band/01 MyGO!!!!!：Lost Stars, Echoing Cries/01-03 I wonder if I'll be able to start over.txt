@@ -40,10 +40,10 @@ Anon: (I still don't really get the "whole lives" thing... But it leaves a bad t
 Anon: Morning~ Tomori-chan.
 Tomori: ...! Anon-chan...
 Anon: Oh, you're looking at penguin bandages again, aren't you? What kind of penguin was that again?
-Tomori: What...? This is... a moustache penguin...
-Anon: Oh right, the moustache penguin! It was also on one of the bandages you gave me in the club room.
+Tomori: What...? This is... a bearded penguin...
+Anon: Oh right, the bearded penguin! It was also on one of the bandages you gave me in the club room.
 Tomori: You remembered...?
-Tomori: Um... I'll give this moustache penguin to you, too.
+Tomori: Um... I'll give this bearded penguin to you, too.
 Anon: I'll take it. Thanks~
 (Transition)
 (Background change)
@@ -78,13 +78,13 @@ Soyo: I see. I'm sorry my friend caused you trouble. But I don't think she meant
 Anon: (What? Oh no...! I never imagined that she and the girl from yesterday would know each other...!)
 Anon: Ah... I'm sorry for complaining about a friend of yours...
 Soyo: Hehe, it's all right. Getting spoken to in that tone of voice with no warning, it's only natural to be surprised.
-Soyo: Well, instead of standing around, why don't we have tea together at that café?
+Soyo: Well, instead of standing around, why don't we have tea together at that Café?
 (Transition)
 (Background change)
 
-[RiNG Cafeteria]
+[RiNG - Café]
 
-Saaya: Welcome~ Should I call Taki out here?
+Saaya: Welcome~ Should I call Taki-chan out here?
 Soyo: Thank you. A little later, if you would.
 Anon: Is there anything you recommend?
 Soyo: Maybe the black tea? It's so delicious. It's one of my favorites.
@@ -138,7 +138,7 @@ Soyo: Why are you two fighting?
 Anon: No idea. I was talking with my friend and she showed up out of nowhere. She asked me what I wanted, if I was really her friend...
 Anon: "If I really asked Tomori to be in a band," and then she suddenly snapped... I really don't get it...
 Soyo: ...!
-Soyo: Tomori...? Do you mean Takamatsu Tomori-chan?
+Soyo: Tomori...? Do you mean Tomori Takamatsu-chan ?
 Anon: What? Um, yes... We're in the same class and... Um, do you know her?
 Soyo: She's my friend.
 Soyo: I see. So, she's at Haneoka...
@@ -171,7 +171,7 @@ Anon: I wonder if I'll be able to start over this way.
 Anon: ...
 (Transition)
 (Background change)
-Soyo: Tomori...? Do you mean Takamatsu Tomori-chan?
+Soyo: Tomori...? Do you mean Tomori Takamatsu-chan ?
 (Transition)
 (Background change)
 Anon: I wonder where Tomori-chan and Soyo-san became friends...?

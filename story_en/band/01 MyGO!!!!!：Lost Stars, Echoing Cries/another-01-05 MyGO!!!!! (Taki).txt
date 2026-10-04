@@ -29,10 +29,10 @@ Maki: Taki-chan, are you there?
 Taki: I am, what's up?
 Maki: Is it true that you're applying to Hanasakigawa for high school?
 Taki: (Mom... why would you tell her that...)
-Taki: That has nothing to do with you, Sister.
+Taki: That has nothing to do with you, big sis.
 Maki: Is there a reason? You don't have to go into detail, but if you could just tell me—
 Taki: It's nothing.
-Taki: (After "that incident"... my whole middle school life was awful. I was always being compared to my sister...)
+Taki: (After "that incident"... my whole middle school life was awful. I was always being compared to big sis...)
 Taki: (If I stayed at Haneoka, I already know exactly how things would go. So...)
 Taki: Are we done...?
 Maki: Actually... someone reached out to me. There's a girl from Tsukinomori who says she'd like to talk to you, Taki-chan...
@@ -40,9 +40,9 @@ Taki: Huh...?
 (Transition)
 Taki: ("I want you to join the band I'm putting together as our drummer"... What does that mean...?)
 Taki: (Sakiko Togawa... We don't even go to the same school. What could she possibly want with me...?)
-Taki: (A band... huh. I once went to see a live show by a band called Afterglow.)
+Taki: (A band... huh. I once went to see a live by a band called Afterglow.)
 Taki: (It looked fun... I guess. Like they were free from something. Like nothing was weighing them down...)
-Taki: (And if I join a band, maybe I won't be compared to my sister anymore...)
+Taki: (And if I join a band, maybe I won't be compared to big sis anymore...)
 (Message) Sakiko: I have some ideas for the other members as well! I would very much like for us all to meet. Is there a day that works for you?
 (Transition)
 (Background change)
@@ -67,5 +67,5 @@ Taki: ...
 Taki: (CRYCHIC is already over, but...)
 Taki: (Now, I'm playing in a band again...)
 Taki: (This time, I'll do it properly.)
-Taki: (No more comparisons. Not with my sister. Not with anyone...)
+Taki: (No more comparisons. Not with big sis. Not with anyone...)
 Taki: (A band of my own...)

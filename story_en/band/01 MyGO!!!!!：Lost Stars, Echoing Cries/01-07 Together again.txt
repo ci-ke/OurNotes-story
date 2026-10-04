@@ -59,7 +59,7 @@ Soyo: ......
 (Transition)
 (Background change)
 
-[RiNG Cafeteria]
+[RiNG - Café]
 
 Tomori: Ah...
 Soyo: Tomori-chan.
@@ -135,7 +135,7 @@ Anon: Then, what about until we do a live performance?
 Anon: I don't know about spending a lifetime on this, but to start with, let's try to do a live performance! All of us together! Okay?
 Tomori: Then, staying until our first live performance is non-negotiable.
 Anon: *Sigh*... You really are super serious about every little thing... Oh, I'm just kidding! I'll work really hard!
-Taki: A lifetime is a lifetime, you konw? You sure you want that girl in the band?
+Taki: A lifetime is a lifetime, you know? You sure you want that girl in the band?
 (Transition)
 ??? (Rāna): Lifetime...
 ??? (Rāna): What an interesting woman.
@@ -167,7 +167,7 @@ Umiri: You're in high spirits.
 Taki: ...!? Umiri... I'm not.
 Umiri: Really? I didn't know that nailing your air drums first thing in the morning was part of your routine.
 Taki: Umiri, what bands are you with today?
-Umiri: "Notoria," "Jasmine & Husky," "DISRUPTION."
+Umiri: "Notoria," "Jasmine＆Husky," "DISRUPTION."
 Taki: Even if you tell me the band names, I'm not gonna know them.
 Umiri: You're the one who asked. Taki-san, will you be working?
 Taki: Day off. But I'm still going to RiNG.

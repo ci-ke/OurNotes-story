@@ -169,7 +169,7 @@ Sakiko: You may keep your concern. The weak version of me... has already died.
 Doloris: Doloris. I do not fear sorrow.
 Mortis: Mortis. I do not fear death.
 (Transition)
-Timoris: Timoris. I do not fear being afraid.
+Timoris: Timoris. I do not fear fear.
 Amoris: Amoris. I do not fear love.
 (Transition)
 Oblivionis: Oblivionis. I do not fear forgetting.

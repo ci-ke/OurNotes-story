@@ -41,7 +41,7 @@ Raika: Huh? Granny, you're already leaving with your family?
 Raika's Grandmother: Yeah. We've got a flight this evening. And the contract stuff with "Nest" is all wrapped up too.
 Raika: What about the other grannies? They were staying at an inn, right?
 Raika's Grandmother: Yeah, it's a really nice place. Someone's still sleeping, and someone's soaking in the hot springs until the very last minute.
-Raika's Grandmother: We went around on a bus visiting sake breweries, and even did an impromptu live show. It was so much fun.
+Raika's Grandmother: We went around on a bus visiting sake breweries, and even did an impromptu live. It was so much fun.
 Miku: Wow... You're energetic!
 Raika: That's great! I'm glad you had fun!
 Raika's Grandmother: Oh, I thought you'd be more jealous. Like, "I wish I could've gone too~!" like you used to.
@@ -84,9 +84,9 @@ Raika's Grandmother: Hehe... of course.
 Raika's Grandmother: Alright! Feeling better after Granny's hug, right?
 Raika: Ahaha... It was as powerful as ever, though.
 Raika's Grandmother: What'd you say~? Well, if you've got the nerve to talk back like that, I guess there's nothing to worry about!
-Raika's Grandmother: Next time I come back, I'd love to see a live show of your family, Raika.
+Raika's Grandmother: Next time I come back, I'd love to see a live of your family, Raika.
 Raika: Of course! You have to come see it!
-Raika: We'll put on the best live show.
+Raika: We'll put on the best live.
 Raika's Grandmother: Yeah. I'll look forward to it!
 Raika's Grandmother: Now, you go back to your family. You've seen me off far enough.
 Raika: Yeah... Granny, have a safe trip!
