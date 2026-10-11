@@ -8,7 +8,7 @@
 ののか: ！
 ののか: いえ～い！
 (Transition)
-あられ: 『In my Words』でした。 聴いてくれてありがとうございます
+あられ: 『in my words』でした。 聴いてくれてありがとうございます
 あられ: 次の曲は、 みんなといっしょに歌えたらうれしいです
 (Transition)
 (Background change)
