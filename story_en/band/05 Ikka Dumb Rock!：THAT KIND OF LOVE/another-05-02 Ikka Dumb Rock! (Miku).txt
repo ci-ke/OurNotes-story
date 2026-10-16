@@ -9,6 +9,7 @@ Classmate: You don't seem to mess up like that, Miku-chan. You're good at cookin
 Miku: Hmm, I'm just average. I've messed up pancakes before too...
 Miku: (Oh, notification...)
 (Message) Mother: Miku-chan, you haven't replied. What's going on? When do you think you'll be able to come back?
+(Message title) Mother
 Miku: ...
 Classmate: Miku-chan?
 (Transition)
@@ -37,6 +38,7 @@ Miku: ...
 Miku: (Again...)
 (Message) Mother: Miku, are you busy? You could at least read my messages.
 (Message) Mother: Mama's worried, you know? Miku's a good girl, you understand that, right?
+(Message title) Mother
 Miku: (I understand... I understand, that's why...)
 Chieri: Miku, say something too! Raika and others should make it up to Chieri, shouldn't they!?
 Miku: Huh...? Yeah, I guess?
@@ -52,13 +54,16 @@ Miku: *Sigh*...
 (Message) Mother: Mama's worried, you know? Miku's a good girl, you understand that, right?
 (Message) Mother: Or do you want to make Mama worry?
 (Message) Mother: You're the one who promised to stay in touch properly, Miku, since we live apart.
+(Message title) Mother
 Miku: (The last time I replied was three days ago... I really should reply now.)
 Miku: I wonder how long this will last...
 Miku: Hm... Father?
 (Message) Father-in-law: Are you getting used to dorm life by now? I will transfer next month's living expenses tomorrow.
+(Message title) Father-in-law
 (Message) Father-in-law: If you ever need anything, feel free to contact me anytime.
 Miku: ? He's told me the same thing before, so why...?
 (Message) Father-in-law: Your Mama's really worried about you too. Please get in touch with her.
+(Message title) Father-in-law
 Miku: Oh... I see now.
 Miku: (You're saying I should reassure mother, right?)
 Miku: (If it's about keeping people happy, you're the one who's better at that, aren't you?)
@@ -74,6 +79,7 @@ Raika: Oh, really! Everyone's got so much to talk about to you, Miku~!
 Miku: *Sigh*... I'm telling you not to make a ruckus in my room.
 Shizuku: Miku, were you doing something on your phone just now?
 Miku: Well... yeah. But I'm finishing it up now.
+(Message title) Mother
 (Message send) Miku: Mother, I'm sorry for making you worry.
 (Message) Miku: Mother, I'm sorry for making you worry.
 (Message send) Miku: Life here is busy, but I'm doing fine, so don't worry.

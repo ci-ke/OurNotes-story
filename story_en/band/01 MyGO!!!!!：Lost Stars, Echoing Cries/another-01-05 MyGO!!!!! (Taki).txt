@@ -44,6 +44,7 @@ Taki: (A band... huh. I once went to see a live by a band called Afterglow.)
 Taki: (It looked fun... I guess. Like they were free from something. Like nothing was weighing them down...)
 Taki: (And if I join a band, maybe I won't be compared to big sis anymore...)
 (Message) Sakiko: I have some ideas for the other members as well! I would very much like for us all to meet. Is there a day that works for you?
+(Message title) Sakiko
 (Transition)
 (Background change)
 (Taki): ...

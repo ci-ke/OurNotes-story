@@ -27,6 +27,7 @@ Anon: Hey, Tomorin...! You can't sleep during class...!
 (Transition)
 (Background change)
 Taki: ......
+(Message title) Tomori, Anon, Rāna, Soyo, Taki
 (Message) Anon: The lyrics are done!
 Taki: ...!
 Taki: My stomach hurts, so I'm going home!

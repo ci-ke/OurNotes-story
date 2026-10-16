@@ -35,6 +35,7 @@ Mortis: I need to call!
 Mortis: Hello? Is this the doctor? Hello? Can you hear me?
 Soyo: (This can't go on. But what should I do...?)
 (Message) Anon: Soyorin, are you okay? Can you come tomorrow?
+(Message title) Anon
 Soyo: ...
 Mortis: Hello? Can you hear me? Is this the doctor? Hello? Hello?
 Soyo: Yes, how can I help you?

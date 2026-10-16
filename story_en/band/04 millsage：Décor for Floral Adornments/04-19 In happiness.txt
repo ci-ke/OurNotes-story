@@ -12,6 +12,7 @@
 
 Hotaru: ...
 (Message) Houka Izumi: I'd like to properly apologize for what happened yesterday.
+(Message title) Houka Izumi
 (Message) Houka Izumi: I'll be waiting for you in front of the ticket gates at the nearest station from your home.
 Hotaru: (She mentioned scheming, or whatever she called it...)
 Hotaru: (But I don't have any right to blame her.)
@@ -81,6 +82,7 @@ Hotaru: !
 Hotaru: From Mahoro-san...?
 Natsume: Hah, perfect timing.
 (Message) Mahoro: Everyone, can you come to the garage?
+(Message title) millsage
 (Message) Mahoro: I want us to have a proper talk about what happened yesterday.
 (Transition)
 (Background change)

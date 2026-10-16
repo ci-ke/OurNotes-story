@@ -80,6 +80,7 @@
 
 [長崎家 そよの部屋]
 
+(Message title) 祥ちゃん
 (Message) そよ: せめて会って謝らせてくれないかな？
 (Message) そよ: 私もびっくりしたの、あんなことになるなんて知らなくて…
 (Message) そよ: だからちゃんと説明させてほしいの
@@ -95,7 +96,9 @@
 そよ: …………
 そよ: ……っ！！
 (Message) 愛音: そよさん、体調悪いの？大丈夫？
+(Message title) 愛音
 そよ: …………
+(Message title) 祥ちゃん
 そよ: （既読、つかないな……）
 そよ: …………っ
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000046/data/adv_still_anime_000046/adv_still_anime_000046.webp)

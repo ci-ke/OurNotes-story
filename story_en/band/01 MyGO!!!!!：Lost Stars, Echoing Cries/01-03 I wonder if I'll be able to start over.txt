@@ -164,6 +164,7 @@ Soyo: I see. So, Tomori-chan turned it down. Well, she is a sensitive girl~
 Anon: ...?
 (Transition)
 (Background change)
+(Message title) Soyo-san.
 (Message) Anon: Thank you for today~ It's totally okay with me if you're just a support member. I'm just super happy to get to be in a band with you!
 (Message) Anon: I'm looking forward to everything from here on out!
 Anon: That's a relief... I might be able to build a band.

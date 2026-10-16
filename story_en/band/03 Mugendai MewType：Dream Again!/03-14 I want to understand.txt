@@ -81,6 +81,7 @@ Miyako: (I don't know...)
 Miyako: ...
 (Transition)
 (Background change)
+(Message title) Viola
 (Message) Viola: We're destined for each other.
 Miyako: ...
 Miyako: (I don't want to know...)

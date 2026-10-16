@@ -55,6 +55,7 @@ Soyo: Saki-chan...!
 Soyo: ......
 Soyo: ...? Anon-chan...?
 (Message) Anon: Soyo-san, where are you? Can you come to RiNG?
+(Message title) Anon
 Soyo: ......
 (Transition)
 (Background change)

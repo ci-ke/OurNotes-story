@@ -112,6 +112,7 @@
 燈: …………
 燈: ……？
 (Message) そよ: 今から会えない？　愛音ちゃんが会いたいって
+(Message title) そよ
 燈: …………
 (Transition)
 (Background change)

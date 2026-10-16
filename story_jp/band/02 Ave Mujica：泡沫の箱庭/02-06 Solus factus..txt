@@ -48,6 +48,7 @@
 
 [初華のマンション リビング]
 
+(Message title) Win-Wing-Production
 祥子: ……
 初華: 出なくていいよ。ずっとここにいていいから
 初華: ムジカがなくなっても、一緒にいてくれる？
@@ -213,6 +214,7 @@ MC: あははっ！　そっからか〜！ でも今は動画も配信もなん
 (Message) 初華: 今どこにいるの？
 (Message) 初華: 大丈夫？
 (Message) 初華: 連絡ください
+(Message title) さきちゃん
 (Transition)
 (Background change)
 初華: ……さきちゃん

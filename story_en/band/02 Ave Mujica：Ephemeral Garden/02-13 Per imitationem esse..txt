@@ -70,6 +70,7 @@ Nyamu: ...
 Fukurokoji: Um... Aren't you going to pick up?
 Nyamu: No need.
 Fukurokoji: I see. Ah, there will be another audition. If you stay as proactive as usual, you'll definitely be fine! Opportunities are fleeting. Let's make sure to seize every chance!
+(Message title) Umiko
 Nyamu: Sorry... I need to step away for a moment~
 (Transition)
 Nyamu: I'm busy right now~
@@ -168,6 +169,7 @@ Nyamu: Of course you'd be poor buying that much.
 Nyamu: ...
 (Transition)
 (Background change)
+(Message title) advchat_umiri_nomessage_01
 Umiri: (No one is responding.)
 Umiri: (I didn't expect it to go smoothly, but getting no response at all—)
 Umiri: !
@@ -200,6 +202,7 @@ Uika: ...
 (Transition)
 (Message) Umiri: Would you like to play as Ave Mujica?
 (Background change)
+(Message title) Umiri
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp)
 (Caption): Post 8 Likes Sneaking into Rikki's drum set! The members look completely different from this angle😆 I can't make eye contact with anyone💦 #MyGO #ANON #Drum

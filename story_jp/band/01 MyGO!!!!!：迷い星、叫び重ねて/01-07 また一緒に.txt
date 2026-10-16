@@ -55,6 +55,7 @@
 そよ: …………
 そよ: ……？　愛音ちゃん……？
 (Message) 愛音: そよさん今どこ？　RiNGに来れる？
+(Message title) 愛音
 そよ: …………
 (Transition)
 (Background change)

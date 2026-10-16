@@ -255,10 +255,12 @@
 (Transition)
 (Background change)
 (Message) ビオラ: ビオラク～イズ！ さて、律は何本電車を見送るでしょ～か
+(Message title) ビオラ
 律: え……
 律: どっ、どこから……！？
 律: ！
 (Message) ビオラ: 正解は
+(Message title) ビオラ
 (Transition)
 (Transition)
 ??? (ビオラ): 正解は――

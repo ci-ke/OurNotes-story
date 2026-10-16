@@ -192,10 +192,12 @@ Arale: Oh! Then let's record "Robo's House" afterward! This way, we'll be follow
 (Transition)
 (Background change)
 Ritsu: ...
+(Message title) Arale Nakamachi
 (Message send) Ritsu: There's something I want to talk to you about... It's about Viola.
 Ritsu: Should I... talk to Arale-chan about it...?
 Ritsu: ?
 (Message) Viola: Have you seen this? <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
+(Message title) Viola
 Ritsu: ...?
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp)
 Viola: Let's do "Lion Dance" for our next cover.
@@ -232,6 +234,7 @@ Staff C: We'll have it out today!
 Staff A: Should we send them home for now?
 Staff B: Yes... Let's contact their parents...
 Arale: ...!
+(Message title) Disable Notifications
 Arale: No caller ID...
 Ritsu: !
 Viola: Don't answer it...

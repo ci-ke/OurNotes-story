@@ -133,6 +133,7 @@
 心玖: （静かだな。耳鳴りまで聞こえる）
 心玖: ……そうだ、スマホ……
 心玖: えっ……！？ なんなのよ、この通知の数……！
+(Message title) 一家Dumb Rock!
 [SkipLog] (Message) 🏠らいか🍚: (Stamp)
 (Message) 🏠らいか🍚: 心〜〜玖〜〜〜！！ 電話出てよ〜〜〜！！
 [SkipLog] (Message) 梅里ちえり👑連合トップ: (Stamp)

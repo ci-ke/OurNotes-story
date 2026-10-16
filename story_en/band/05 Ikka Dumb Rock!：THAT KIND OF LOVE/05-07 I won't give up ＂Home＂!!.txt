@@ -171,6 +171,7 @@ Miku: No... there's no problem with the room. It's just... the cohabitants...
 Miku: Yes... It's my fault that I made the decision in a hurry.
 Miku: Thank you very much. I'm sorry to trouble you, but I'd appreciate your help.
 Miku: (Okay, I've contacted the real estate agent. Next is...)
+(Message title) Mother
 (Message) Mother: Miku-chan, are you eating properly? Have you gotten along with the other girls in the dorm?
 Miku: ...
 Classmate: Miku-chan, time to move~
@@ -184,6 +185,7 @@ Miku: Good work~
 Miku: (The soonest I could move would be around summer vacation...)
 (Transition)
 (Background change)
+(Message title) Mother
 (Message) Mother: Miku-chan, are you eating properly? Have you gotten along with the other girls in the dorm?
 (Message) Mother: Will you be able to come home during summer vacation? I'm looking forward to hearing all about what you've been up to, Miku-chan.
 (Transition)

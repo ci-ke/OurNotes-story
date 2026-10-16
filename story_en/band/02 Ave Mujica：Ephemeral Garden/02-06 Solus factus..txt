@@ -48,6 +48,7 @@ Nyamu: ...
 
 [Uika's Mansion - Living Room]
 
+(Message title) Win-Wing-Production
 Sakiko: ...
 Uika: You don't have to answer. You can stay here as long as you want.
 Uika: Even without Mujica, will you stay with me?
@@ -213,6 +214,7 @@ Uika: ...
 (Message) Uika: Where are you?
 (Message) Uika: Are you okay?
 (Message) Uika: Please contact me.
+(Message title) Saki-chan.
 (Transition)
 (Background change)
 Uika: Saki-chan...

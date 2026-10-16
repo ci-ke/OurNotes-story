@@ -255,10 +255,12 @@ Arale: <size=200%>This is... the beeeeeest!!
 (Transition)
 (Background change)
 (Message) Viola: Viola Quiiiz~! How many trains will Ritsu watch go by~?
+(Message title) Viola
 Ritsu: Huh...?
 Ritsu: W-Where is that coming from...?!
 Ritsu: !
 (Message) Viola: The answer is...
+(Message title) Viola
 (Transition)
 (Transition)
 ??? (Viola): The answer is—

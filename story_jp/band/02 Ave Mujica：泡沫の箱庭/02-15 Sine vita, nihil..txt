@@ -16,6 +16,7 @@
 (Transition)
 (Background change)
 (Message) うみこ: 三角さんの参加も決まりました
+(Message title) うみこ
 (Message) うみこ: つきましては週末RiNGに来てください
 (Message) うみこ: 豊川さんのこと話し合います
 (Transition)

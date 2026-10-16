@@ -27,6 +27,7 @@
 (Transition)
 (Background change)
 立希: …………
+(Message title) 燈,愛音,楽奈,そよ,立希
 (Message) 愛音: 歌詞できた！
 立希: ……っ！
 立希: お腹痛いんで帰ります！

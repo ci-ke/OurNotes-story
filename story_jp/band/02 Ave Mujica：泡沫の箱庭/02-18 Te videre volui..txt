@@ -283,6 +283,7 @@
 [SkipLog] (Message) 祥子: (Stamp)
 (Message) 祥子: 今どこにいるんですの？
 (Message) 祥子: 気づいたら連絡をください
+(Message title) 初華
 [SkipLog] (Message) 祥子: (Stamp)
 (Transition)
 祥子: ……初華

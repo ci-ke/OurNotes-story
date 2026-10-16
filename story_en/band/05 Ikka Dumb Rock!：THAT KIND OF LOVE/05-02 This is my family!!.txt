@@ -9,6 +9,7 @@
 Miku: Um... Where am I supposed to pick up the dorm key?
 Miku: I think I pinned it on the map...
 Miku: (Oh... It's from Mother.)
+(Message title) Mother
 (Message) Mother: Miku-chan, have you arrived at the dorm?
 (Message) Mother: Let me know when you arrive. Your father and Hiro-kun will be worried, you know.
 Miku: Worried, huh...

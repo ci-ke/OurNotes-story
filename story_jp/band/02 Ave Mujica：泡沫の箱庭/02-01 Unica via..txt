@@ -206,6 +206,7 @@ CRYCHIC: はぁ……はぁ……
 祥子: （……お父様、どうしたのかしら？）
 (Transition)
 (Background change)
+(Message title) 豊川清告
 (Message) 祥子: お父様いらしてます？
 (Message) 豊川清告: もう一緒には暮らせない
 (Message) 豊川清告: 祥子は幸せになってくれ
@@ -265,7 +266,9 @@ CRYCHIC: はぁ……はぁ……
 祥子: 思ったより早く上がれましたわ。 まだ練習に間に合いますわね
 (Message) そよ: 今日は来れそう？
 [SkipLog] (Message) そよ: 今日は来れそう？
+(Message title) そよ
 (Message send) 祥子: 今まで申し訳ございませんでした。 今日は行けま
+(Message title) 3303-6761-0110
 祥子: ？　一体どなた……？
 祥子: ……はい豊川です。 ……え？
 (Transition)
@@ -274,6 +277,7 @@ CRYCHIC: はぁ……はぁ……
 祥子: どうしてお酒なんか……！
 清告: 祥子……お父さん、がんばるから……
 祥子: お父様………
+(Message title) そよ
 (Message) そよ: みんな待ってるよ
 (Message) そよ: どうしたの？
 (Message) そよ: なにかあったら相談にのるから

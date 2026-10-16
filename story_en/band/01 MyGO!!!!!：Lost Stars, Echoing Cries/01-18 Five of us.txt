@@ -140,6 +140,7 @@ Soyo: Stop that!
 Soyo: Oh, what's wrong with her...
 (Transition)
 (Background change)
+(Message title) Tomori, Anon, Rāna, Soyo, Taki
 (Message) Anon: Haven't we forgotten something important? I came up with a band name.
 (Message) Anon: ANON TOKYO!
 (Message) Anon: Good, right?

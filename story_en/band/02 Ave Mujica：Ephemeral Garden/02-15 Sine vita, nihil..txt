@@ -16,6 +16,7 @@ Nyamu: "I liked it yesterday, but got bored of it today."
 (Transition)
 (Background change)
 (Message) Umiko: Misumi-san has decided to join.
+(Message title) Umiko
 (Message) Umiko: Therefore, please come to RiNG this weekend.
 (Message) Umiko: We will discuss about Togawa-san.
 (Transition)

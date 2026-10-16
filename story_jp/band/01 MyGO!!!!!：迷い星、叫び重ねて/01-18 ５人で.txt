@@ -140,6 +140,7 @@
 そよ: もう、なんなの……
 (Transition)
 (Background change)
+(Message title) 燈,愛音,楽奈,そよ,立希
 (Message) 愛音: みんな大事なこと忘れてない？　 バンド名考えたよ
 (Message) 愛音: ANON TOKYO
 (Message) 愛音: よくない？

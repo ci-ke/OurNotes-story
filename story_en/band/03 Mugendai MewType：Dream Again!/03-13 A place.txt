@@ -50,6 +50,7 @@ Popo: It was so hard to hold back my laughter.
 Viola: ...
 Viola: (DM...?)
 (Message) Yako Fujimi: I'm Miyako Fuji.
+(Message title) Yako Fujimi
 (Message) Yako Fujimi: Would you like to have parfaits together again?
 (Message) Yako Fujimi: I'll be waiting at the place after school.
 Viola: ...
@@ -63,6 +64,7 @@ Guest: It was delicious. I'll come again~
 Staff: Thank you very much~
 Staff: Well, I guess it's about time to close.
 Miyako: ...
+(Message title) Viola
 Miyako: (No reply... after all...)
 Miyako: *Sigh*...
 (Transition)

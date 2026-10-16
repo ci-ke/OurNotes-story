@@ -276,11 +276,13 @@ Ritsu: Sorry, but the setlist had to be cleared in advance, so I can't change it
 Ritsu: "Even just the chorus"... I'm afraid I can't do that either...
 Ritsu: ?
 (Message) Viola: You've already accepted their tip, so you should play it for them.
+(Message title) Viola
 Ritsu: ...!
 (Message) Viola: Ms. Manager isn't watching the stream anyway.
 (Message) Viola: Keeping the fans happy is important ❤️
 Ritsu: All right... Just a little, then...
 (Message) Viola: Good girl♪
+(Message title) Viola
 (Transition)
 (Background change)
 Yuno: ...
@@ -305,6 +307,7 @@ Yuno: No choice... Guess I'm going to Akiba.
 
 Ritsu: ...?
 (Message) Viola: Let's go over yesterday's stream, okay?
+(Message title) Viola
 (Message) Viola: I'll be waiting for you at school~!
 Ritsu: ...
 Ritsu: !

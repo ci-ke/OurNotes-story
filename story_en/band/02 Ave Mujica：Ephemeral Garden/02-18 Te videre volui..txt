@@ -283,6 +283,7 @@ Sakiko: Uika, why aren't you answering?
 [SkipLog] (Message) Sakiko: (Stamp)
 (Message) Sakiko: Where are you right now?
 (Message) Sakiko: Call me if you see this.
+(Message title) Uika
 [SkipLog] (Message) Sakiko: (Stamp)
 (Transition)
 Sakiko: Uika...

@@ -112,6 +112,7 @@ Narration: And that is the end of our programming for today.
 Tomori: ......
 Tomori: ...?
 (Message) Soyo: Can you meet up right now? Anon-chan says she wants to see you.
+(Message title) Soyo
 Tomori: ......
 (Transition)
 (Background change)

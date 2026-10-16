@@ -8,6 +8,7 @@ Viola: Oh, I'm sorry.
 Interviewer: It's okay.
 Popo: Viola's got notifications on? That's rare.
 Bell: We're the ones who always forget it and get yelled at, though~
+(Message title) Yako Fujimi
 (Message) Yako Fujimi: I want to see you.
 (Message) Yako Fujimi: I'll be waiting at that place.
 Viola: ...
@@ -25,6 +26,7 @@ Miyako: If I just wait...
 Miyako: Destiny cannot be severed.
 (Transition)
 (Background change)
+(Message title) Yako Fujimi
 (Message) Yako Fujimi: I'll accelerate time.
 Viola: ...?
 Miyako: Viola-san.

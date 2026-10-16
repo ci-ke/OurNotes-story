@@ -81,6 +81,7 @@
 都子: ……
 (Transition)
 (Background change)
+(Message title) ビオラ
 (Message) ビオラ: 私たち運命ですね
 都子: ……っ
 都子: （わかりたくないです……）

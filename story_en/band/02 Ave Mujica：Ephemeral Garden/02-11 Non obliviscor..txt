@@ -17,6 +17,7 @@ Soyo: ...
 (Transition)
 (Background change)
 (Message) Mutsumi: She's here again.
+(Message title) Mutsumi
 (Message) Mutsumi: Get her away.
 (Message) Mutsumi: Soyo-chan, you're the one who brought her here!
 Anon: Hey, You should just go.
@@ -90,6 +91,7 @@ Soyo: After all, your sister is so famous.
 Taki: *Sigh*...
 Sakiko: ...
 (Message) Anon: The live is today!?
+(Message title) MyGO!!!!!
 (Message) Anon: You need to come before the rehearsal💢💢💢
 Taki: Anon sent a message.
 Soyo: Because we're late for the practice.
@@ -123,6 +125,7 @@ Taki: It's fine! Actually, I'm sorry too!
 Mutsumi: I also want to apologize to Tomori.
 Soyo: Mutsumi-chan, there's nothing you need to apologize for.
 Mutsumi: Eh...
+(Message title) Anon
 Taki: Ah, Anon. Hey.
 Taki: <size=175%>So annoying!
 Anon: <size=150%>"Rehearsal is about to start! Didn't we agree to take the live seriously!?"

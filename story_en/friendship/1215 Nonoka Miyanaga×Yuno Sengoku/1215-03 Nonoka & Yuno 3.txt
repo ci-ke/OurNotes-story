@@ -9,15 +9,19 @@ Yuno: Phew...
 Yuno: Hm? A message from Miyanaga-san...
 Yuno: (A photo... She's doing a bridge on a bridge...)
 (Message) Nonoka: Bridge on a Bridge!
+(Message title) Nonoka Miyanaga
 Yuno: (This again...)
 Yuno: Copy and paste... "Please write a reply that matches this image and caption."
 Yuno: Yeah, this'll do. Now copy and paste it back...
+(Message title) Nonoka Miyanaga
 (Message) Yuno: Doing a bridge on a bridge really does make it look as though another bridge has appeared atop the first. The idea is so unique that it immediately catches my attention, and the playful caption makes it even more memorable.
 Yuno: Okay... Back to work...
 (Message) Nonoka: Which one of us is the flower~?
+(Message title) Nonoka Miyanaga
 Yuno: Ugh, another one...?
 Yuno: Now feed it this one...
 Yuno: Okay... That should do it.
+(Message title) Nonoka Miyanaga
 (Message) Yuno: The charming flower by the riverbank and your gentle smile both have a natural, soft quality. I think they are lovely. The flower on the left looks like a blue toadflax.
 Yuno: Another one... She's definitely not even reading my replies.
 Yuno: Again...

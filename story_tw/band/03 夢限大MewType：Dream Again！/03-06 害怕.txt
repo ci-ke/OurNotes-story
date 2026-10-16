@@ -192,10 +192,12 @@ Viola：太好了！
 （转场）
 （背景切换）
 律：……
+（消息标题）仲町阿拉蕾
 （消息发送）律：我想跟妳聊聊有關Viola的事。
 律：……該找她商量嗎……
 律：？
 （消息）Viola：這妳看了嗎？ <u><color="blue">http://www.MeChube.com/watch???vvv=wU9PCIytBBrTk_tvQ... </color></u>
+（消息标题）Viola
 律：……？
 （插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000230/data/adv_still_anime_000230/adv_still_anime_000230.webp）
 Viola：下次的翻唱系列就唱《獅子舞》嘛。
@@ -232,6 +234,7 @@ A子：「啊～嗯。」
 工作人員A：今天可以請妳先回家嗎？
 工作人員B：好的……我們會聯絡該成員的家長……
 阿拉蕾：……
+（消息标题）未顯示號碼
 阿拉蕾：沒顯示電話號碼……
 律：！
 Viola：掛掉吧……

@@ -268,6 +268,7 @@ Sakiko: And there's nothing certain, nothing unshakeable.
 Sakiko: Are you scared?
 Hatsune: No, not as long as Saki-chan is with me.
 (Message) Umiri: <color=#1877F2>@Sakiko</color> Did you find Misumi-san?
+(Message title) Ave Mujica
 (Message) Umiri: Practice starts at 11
 (Message) Umiri: Please make sure to come today😭
 Sakiko: I forgot. Uh... Now, really...?

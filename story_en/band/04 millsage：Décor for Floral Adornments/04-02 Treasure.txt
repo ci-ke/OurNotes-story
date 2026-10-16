@@ -78,6 +78,7 @@ Hotaru: (Kanata-san isn't coming... I wonder what happened.)
 Hotaru: !
 Hotaru: (A message... It's from Kanata-san.)
 (Message) Kanata: Hotaru
+(Message title) Kanata
 (Message) Kanata: Sorry I flaked on our promise🙇‍♀️
 (Message) Kanata: Some stuff came up, so I might not be able to see you for a while🥺
 (Message) Kanata: You said you wanted to make music like mine, and now I'm making you wait. My bad‼️
@@ -85,6 +86,7 @@ Hotaru: (A message... It's from Kanata-san.)
 (Message) Kanata: If anyone can make that happen, it's you, Hotaru!
 Hotaru: ...!
 Hotaru: (Kanata-san...!)
+(Message title) Kanata
 (Message) Kanata: There's your homework until next time. When we meet again, let me hear it.
 (Message) Kanata: That happy music of yours, Hotaru.👍
 (Message) Kanata: See ya! 👋

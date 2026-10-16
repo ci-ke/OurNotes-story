@@ -35,6 +35,7 @@ Nagi: ...Huh, still sleepy? Even though you were asleep until I came to pick you
 Mahoro: Ah, no, this isn't about not getting enough sleep... Hm?
 Mahoro: It's from Natsume-chan.
 (Message) Natsume-chan: I wrote a new song.
+(Message title) millsage
 (Message) Natsume-chan: I'll let you hear it at practice today.
 Mahoro: A new song...! It's finally here~!
 Nagi: Ah... This is for Comet Rising, right?

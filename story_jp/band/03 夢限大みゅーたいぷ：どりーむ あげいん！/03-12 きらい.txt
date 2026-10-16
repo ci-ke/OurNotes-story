@@ -222,6 +222,7 @@
 (Background change)
 (Message) あられ: ユノさんちゃああああああああああああああああああん
 (Message) あられ: バンドやめるってみゅーたいぷのことですか！？
+(Message title) 仲町あられ
 [SkipLog] (Message) あられ: (Stamp)
 [SkipLog] (Message) あられ: (Stamp)
 [SkipLog] (Message) あられ: (Stamp)
@@ -290,6 +291,7 @@
 [SkipLog] (Message) ののか: ののちゃんは、ピカピカなのでしょうか。
 [SkipLog] (Message) ののか: ツルツル……？
 [SkipLog] (Message) ののか: 花畑にはどんなお花が咲いているんでしょうか……？
+(Message title) ユノちゃん
 ののか: ……
 (Transition)
 (Background change)
@@ -298,6 +300,7 @@
 都子: <size=150%>私は！ あなたが嫌いなんです！！
 (Transition)
 (Background change)
+(Message title) ユノちゃん
 [SkipLog] (Message send) ののか: ……嫌いは、好きから一番遠いんでしょうか……？
 (Message) ののか: ……嫌いは、好きから一番遠いんでしょうか……？
 (Transition)
@@ -309,6 +312,7 @@
 ののか: ……ユノちゃん、どうしてバンドやめちゃったのかなあ……
 (Transition)
 (Background change)
+(Message title) マネージャー
 (Message) マネージャー: もし本当にバンド活動がきついなら、 会社としては楽曲提供に集中してもらっても構いません
 (Message) マネージャー: 今は心を休めて。 歌詞データ送ってあります
 ユノ: （バンドはもうやらない。 だから、仕事として、曲は作らないと……）

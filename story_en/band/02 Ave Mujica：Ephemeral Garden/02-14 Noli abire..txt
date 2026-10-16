@@ -90,6 +90,7 @@ Anon & Tomori: ...
 (Background change)
 Soyo: Goodbye. See you tomorrow.
 (Message) Taki: We've been slacking lately after the live.
+(Message title) MyGO!!!!!
 [SkipLog] (Message send) Soyo: Is that so?
 (Message) Soyo: Is that so?
 (Message) Taki: For sure, gotta decide the next one.
@@ -172,6 +173,7 @@ Candidate A: Don't come here casually just because the band failed.
 Nyamu: <size=175%>...!! ~~~!!
 (Transition)
 (Background change)
+(Message title) Umiko
 (Message) Umiri: Wakaba-san has decided to join.
 (Transition)
 (Background change)

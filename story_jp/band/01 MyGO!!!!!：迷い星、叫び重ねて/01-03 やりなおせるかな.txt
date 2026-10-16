@@ -164,6 +164,7 @@
 愛音: ……？
 (Transition)
 (Background change)
+(Message title) そよさん
 (Message) 愛音: 今日はありがと～ サポートでも全然オッケーだし、 一緒にバンドやれるの、めっちゃ嬉しい！
 (Message) 愛音: これからもよろしくね😊
 愛音: よかった～……バンドできるかも

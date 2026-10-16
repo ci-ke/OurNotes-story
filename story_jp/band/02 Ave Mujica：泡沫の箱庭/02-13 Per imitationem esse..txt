@@ -70,6 +70,7 @@
 袋小路: あの、出なくていいの？
 にゃむ: ……いいです
 袋小路: そう、なんだ。あっ、オーディション次があるから いつもみたいに積極的にいけば大丈夫！ チャンスは一瞬。一回一回を掴んでこう！
+(Message title) うみこ
 にゃむ: ……ちょっと、すみません〜
 (Transition)
 にゃむ: いそがしいんだけど〜
@@ -168,6 +169,7 @@
 にゃむ: ……
 (Transition)
 (Background change)
+(Message title) advchat_umiri_nomessage_01
 海鈴: （……誰からも返事がありませんね）
 海鈴: （トントン拍子にいくとは思ってませんでしたが、 こうも反応がないと——）
 海鈴: ！
@@ -200,6 +202,7 @@
 (Transition)
 (Message) 海鈴: Ave Mujicaをやりませんか
 (Background change)
+(Message title) 海鈴
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000144/data/adv_still_anime_000144/adv_still_anime_000144.webp)
 (Caption): 投稿 ８いいね りっきーのドラムセットに潜入！ いつもと全然メンバーの見え方ちがう😆 誰とも目合わない💦 #MyGO　#ANON　#Drum

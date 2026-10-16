@@ -222,6 +222,7 @@ Ritsu: ...
 (Background change)
 (Message) Arale: Yuno-san-chaaaaaaaaaaaaaaaaaaaaaaaaan!
 (Message) Arale: You said you're quitting the band. Did you mean MewType!?
+(Message title) Arale Nakamachi
 [SkipLog] (Message) Arale: (Stamp)
 [SkipLog] (Message) Arale: (Stamp)
 [SkipLog] (Message) Arale: (Stamp)
@@ -290,6 +291,7 @@ Nonoka: I wonder what kind of flowers are blooming in the flower field...?
 [SkipLog] (Message) Nonoka: Is Nono-chan shiny?
 [SkipLog] (Message) Nonoka: Or smooth...?
 [SkipLog] (Message) Nonoka: I wonder what kind of flowers are blooming in the flower field...?
+(Message title) Yuno-chan
 Nonoka: ...
 (Transition)
 (Background change)
@@ -298,6 +300,7 @@ Miyako: So please, never speak to me again...!
 Miyako: <size=150%>I! I really hate you!!
 (Transition)
 (Background change)
+(Message title) Yuno-chan
 [SkipLog] (Message send) Nonoka: Is hate the farthest thing from love...?
 (Message) Nonoka: Is hate the farthest thing from love...?
 (Transition)
@@ -309,6 +312,7 @@ Nonoka: The former bandmate of Yuno-chan...?
 Nonoka: I wonder why Yuno-chan quit the band...
 (Transition)
 (Background change)
+(Message title) Manager
 (Message) Manager: If the band activities are really tough for you, from the company's side, we're fine with you focusing on providing songs.
 (Message) Manager: Just rest your mind for now. I've sent you the lyrics data.
 Yuno: (I won't be in a band anymore. So I must write songs as my job...)

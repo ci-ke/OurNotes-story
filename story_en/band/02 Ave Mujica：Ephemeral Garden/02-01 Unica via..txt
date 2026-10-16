@@ -206,6 +206,7 @@ Soyo: Taki-chan, it's better to mute than to block.
 Sakiko: (What happened to father?)
 (Transition)
 (Background change)
+(Message title) Kiyotsugu Togawa
 (Message) Sakiko: Father, have you arrived?
 (Message) Kiyotsugu Togawa: We can't live together anymore.
 (Message) Kiyotsugu Togawa: Sakiko... please be happy.
@@ -265,7 +266,9 @@ Sakiko: I have to make this work. I have to... I have to—!
 Sakiko: I finished earlier than expected. I can still make it to practice.
 (Message) Soyo: Can you come today?
 [SkipLog] (Message) Soyo: Can you come today?
+(Message title) Soyo
 (Message send) Sakiko: My sincere apologies. I will make it on...
+(Message title) 3303-6761-0110
 Sakiko: ? Who could that be...?
 Sakiko: Yes... this is Togawa. What...?
 (Transition)
@@ -274,6 +277,7 @@ Sakiko: Yes... this is Togawa. What...?
 Sakiko: Why do you need alcohol...?
 Kiyotsugu: Sakiko... I'll do my best...
 Sakiko: Father...
+(Message title) Soyo
 (Message) Soyo: Everyone's waiting.
 (Message) Soyo: What's wrong?
 (Message) Soyo: If something's wrong, I'll listen.
