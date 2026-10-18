@@ -153,7 +153,7 @@ Mortis：……哼哼。抹茶芭菲好吃吗？
 乐奈：我要弹吉他
 Mortis：哇……好破旧
 （转场）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp）
 乐奈：——♪
 Mortis：哇……！
 （转场）
@@ -167,7 +167,7 @@ Mortis：小睦！ 太好了。我还以为你真的死了
 睦：……
 Mortis：小睦？
 （背景切换）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000189/data/adv_still_anime_000189/adv_still_anime_000189.webp）
 （背景切换）
 睦：！
 Mortis：小睦你一直睡不醒。 我找了医生也叫不醒你，好辛苦的

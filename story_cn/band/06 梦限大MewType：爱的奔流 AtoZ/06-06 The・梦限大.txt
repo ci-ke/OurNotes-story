@@ -71,18 +71,18 @@
 （背景切换）
 由乃：（这些家伙做事，本来就没什么逻辑可言……）
 （转场）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp）
 由乃：（……从那时候起，靠的就不是逻辑……）
 （转场）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp）
 阿拉蕾 & 野乃花：？
 由乃：……啊～
 由乃：那段乐句，你们演奏了之后…… 唱了之后，感觉怎么样……？
@@ -107,7 +107,7 @@
 阿拉蕾：我超喜欢！！！
 （转场）
 （背景切换）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000049/data/adv_still_charaillust_000049/adv_still_charaillust_000049.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000049/data/adv_still_charaillust_000049/adv_still_charaillust_000049.webp）
 由乃：……都被这么一说，不回应一下也说不过去了吧
 由乃：明明以为已经完成了……
 由乃：（真是的，这支乐队全是怪人……）

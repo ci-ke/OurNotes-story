@@ -69,7 +69,7 @@
 燈：……
 （转场）
 （背景切换）
-（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4）
+（播放视频：https://assets.bdon.moe/zh-Hant/Cri/Video/adv/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01/adv_movie_mygo_exstory_03_01.mp4）
 （说明）：MyGOエクストラ　ファミレス（3話）
 （字幕）爽世：……結果最後還是找不到適合的店， 只能來大型連鎖家庭餐廳啊。
 （字幕）立希：也沒什麼不好的。 反正吵著要去高級餐廳的只有愛音而已。
@@ -145,10 +145,10 @@
 愛音：偶爾也辦一下派對嘛～！
 燈：……
 （转场）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp）
+（插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000035/data/adv_still_anime_000035/adv_still_anime_000035.webp）
 燈：……錯誤也好，不是錯誤也好。
 （转场）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp）
+（插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000068/data/adv_still_anime_000068/adv_still_anime_000068.webp）
 燈：雖然現在還搞不清楚……
 （转场）
 燈：但是，我想就這樣……繼續前進。

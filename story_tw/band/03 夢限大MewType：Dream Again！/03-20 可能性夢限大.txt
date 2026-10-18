@@ -12,7 +12,7 @@
 阿拉蕾：下一首歌， 希望大家可以跟我們一起唱。
 （转场）
 （背景切换）
-（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4）
+（播放视频：https://assets.bdon.moe/zh-Hant/Cri/Video/adv/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2/adv_movie_love_impulse_yumemita_13_2.mp4）
 （说明）：夢みた13話　『愛は衝動』ライブシーン
 （字幕）阿拉蕾：愛是衝動！
 （字幕）阿拉蕾：當那些全～部交織在一起時， 就能用歌聲聊天了！
@@ -99,9 +99,9 @@ Viola：我對小蕾的歌──
 律：那麼！ 大家一起來！
 阿拉蕾：夢限大～～～～～～～～～
 （转场）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp）
+（插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/charaillust/adv_still_charaillust_000014/data/adv_still_charaillust_000014/adv_still_charaillust_000014.webp）
 夢限大MewType：MewType──！
 （转场）
 （背景切换）
-（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3.mp4）
+（播放视频：https://assets.bdon.moe/zh-Hant/Cri/Video/adv/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3/adv_movie_fin_yumemita_13_3.mp4）
 （说明）：夢みた13話　完！

@@ -46,7 +46,7 @@
 蕾叶：（不是五个人都幸福的话， 就称不上是和睦的Family）
 蕾叶：（绝不能通过某个人的牺牲 去得到所谓的幸福）
 （转场）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000010/data/adv_still_charaillust_000010/adv_still_charaillust_000010.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/charaillust/adv_still_charaillust_000010/data/adv_still_charaillust_000010/adv_still_charaillust_000010.webp）
 蕾叶：啊，喂，奶奶？
 蕾叶的祖母：『蕾叶～～！！好好吃饭了吗～！？』
 祖母的乐队成员A：『嗯？居然是蕾叶打来的！？喂～～～！！ 我们这边今天有演出哦～～！！』
@@ -135,7 +135,7 @@
 
 （转场）
 （背景切换）
-（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4）
 （说明）：一家Dumb Rock!バンスト1章　心玖を取り戻す朝ごはん
 （字幕）宁月：……这样菜就齐了。不够再加
 （字幕）蕾叶：嗯

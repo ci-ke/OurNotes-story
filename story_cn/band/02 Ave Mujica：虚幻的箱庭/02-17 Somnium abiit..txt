@@ -8,7 +8,7 @@
 （转场）
 （背景切换）
 祥子：……
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp）
 （说明）：哪怕是躲在石头下的我 你也送来了温暖的光芒 太过耀眼 让我曾无法面对 小祥为无法传达之物 赋予了形状 想传达给小祥 却传达不到
 （转场）
 （背景切换）
@@ -30,10 +30,10 @@
 （转场）
 （背景切换）
 祥子：……
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp）
 （说明）：我一定是又做错了 可我不知道正确答案 所以一直在寻找
 祥子：（我必须对自己的言行负责——）
-（插入CG：https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp）
+（插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp）
 （转场）
 （背景切换）
 
@@ -158,9 +158,9 @@ Mortis：（想和小睦一起……活下去）
 （背景切换）
 Mortis：（如果……如果还能来得及的话）
 Mortis：（神啊，如果能再见小睦一面，我愿意付出任何代价。 我只有这一个心愿了）
-（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4）
 （说明）：Imprisoned XII　ライブシーン
-（播放视频：https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4）
+（播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4）
 （说明）：Crucifix X　ライブシーン
 （字幕）Doloris：命运的齿轮重新开始转动
 （字幕）Doloris：欢迎来到AveMujica的世界

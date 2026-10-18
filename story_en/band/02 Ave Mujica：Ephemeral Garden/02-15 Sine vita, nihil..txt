@@ -25,7 +25,7 @@ Nyamu: Ugh...
 (Background change)
 Nyamu: Did I order a delivery? I'm coming...
 (Transition)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000293/data/adv_still_anime_000293/adv_still_anime_000293.webp)
 (Caption): Back Record Zoom Volume Menu Home
 Nyamu: Ugh... It's Umiko. Coming over to my place? So annoying. I'm gonna ignore her...
 Nyamu: <size=175%>COME ON!!!
@@ -106,7 +106,7 @@ Tomori: Yes.
 Tomori: I'm not... sure yet... about CRYCHIC.
 Tomori: So... this.
 (Transition)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000151/data/adv_still_anime_000151/adv_still_anime_000151.webp)
 (Caption): The illuminated world, flickering, so dazzling In the overly vast blue, absolutely impossible to find Even though it should be blooming somewhere But, curling up round and round The reason I refused to look was
 Uika: This is...?
 Tomori: You said a song will reach people.
@@ -129,19 +129,19 @@ Uika: This song isn't it. This isn't CRYCHIC. This song is for MyGO!!!!!, for To
 Mutsumi: Uika, shut up. Tomori, let's reunite CRYCHIC. Saki is happier that way too.
 Mutsumi: <size=150%>So! Once again—
 Uika: <size=175%>!!
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000076/data/adv_still_anime_000076/adv_still_anime_000076.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000187/data/adv_still_anime_000187/adv_still_anime_000187.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000150/data/adv_still_anime_000150/adv_still_anime_000150.webp)
 Uika: <size=175%>Don't take Saki-chan away from me!
 Uika: <size=175%>!!
 Tomori & Mutsumi: ?
 Uika: Sorry... I'll go home first...
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000188/data/adv_still_anime_000188/adv_still_anime_000188.webp)
 Mutsumi: Tomori, please. Let's reunite CRYCHIC again...!
-(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09.mp4)
+(Video: https://assets.bdon.moe/en/Cri/Video/adv/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09.mp4)
 (Caption): 睦　モーティス突き落としシーン
 (Subtitle) Mutsumi: This is mine...
 (Subtitle) Mortis: ! Give it back...!
@@ -198,30 +198,30 @@ Sakiko: Even so, I can't choose Ave Mujica.
 Mortis: ...
 (Transition)
 (Background change)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
 Mortis: My role was to help Mutsumi-chan, but Mutsumi-chan is no longer here... Then I will...
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
 Multiple Mutsumi: Hehe... Hehe...
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
 Mortis: Ugh...
 (Transition)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp)
 (Background change)
 Mortis: I don't want this! I don't want to disappear! I'm never going to disappear!
 (Transition)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
 "Mutsumi": <size=175%>Don't take my role!
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
 Mortis: ...! If Mutsumi-chan isn't here, I can play her role.
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
 Mortis: "I" will...! Play as "Mutsumi Wakaba"...!
 (Transition)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
 (Background change)
 Mortis: ...
 Umiri: Togawa-san, are you going to let Mortis-san die?

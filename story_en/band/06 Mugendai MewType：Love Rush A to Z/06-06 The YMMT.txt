@@ -71,18 +71,18 @@ Yuno: Ah... I see...
 (Background change)
 Yuno: (Nothing these guys do ever makes logical sense anyway...)
 (Transition)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp)
 Yuno: (...Ever since then, it's never been about logic...)
 (Transition)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000300/data/adv_still_anime_000300/adv_still_anime_000300.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000301/data/adv_still_anime_000301/adv_still_anime_000301.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000302/data/adv_still_anime_000302/adv_still_anime_000302.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000303/data/adv_still_anime_000303/adv_still_anime_000303.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000304/data/adv_still_anime_000304/adv_still_anime_000304.webp)
 Arale & Nonoka: ?
 Yuno: ...Ah~
 Yuno: That phrase... how did it feel to play... and sing...?
@@ -107,7 +107,7 @@ Arale: Amazing, of course...!
 Arale: I love it!!!
 (Transition)
 (Background change)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000049/data/adv_still_charaillust_000049/adv_still_charaillust_000049.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/charaillust/adv_still_charaillust_000049/data/adv_still_charaillust_000049/adv_still_charaillust_000049.webp)
 Yuno: ...If they're gonna say things like that, I have to answer that.
 Yuno: And I thought I was finally done...
 Yuno: (Seriously, this band is full of weirdos...)

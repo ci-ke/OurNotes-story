@@ -46,7 +46,7 @@ Raika: (We're a family of five.)
 Raika: (Unless all five of us are happy, we can't call it a peaceful family.)
 Raika: (Happiness that's built on someone's sacrifice... That shouldn't exist.)
 (Transition)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/charaillust/adv_still_charaillust_000010/data/adv_still_charaillust_000010/adv_still_charaillust_000010.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/charaillust/adv_still_charaillust_000010/data/adv_still_charaillust_000010/adv_still_charaillust_000010.webp)
 Raika: Oh. Hello, Granny?
 Raika's Grandmother: "Raika~~! You eating well~!?"
 Grandmother's Band Member A: "Huh, Raika's calling!? Heeey~~~!! We've got a live here today~~!!"
@@ -135,7 +135,7 @@ Raika: About that, actually I have an idea...
 
 (Transition)
 (Background change)
-(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4)
+(Video: https://assets.bdon.moe/en/Cri/Video/adv/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18/adv_movie_meal_regain_miku_kadan_18.mp4)
 (Caption): 一家Dumb Rock!バンスト1章　心玖を取り戻す朝ごはん
 (Subtitle) Shizuku: That's everyone's share. For now.
 (Subtitle) Raika: Yeah.

@@ -8,7 +8,7 @@ I want to give you my whole life. I will...
 (Transition)
 (Background change)
 Sakiko: ...
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000130/data/adv_still_anime_000130/adv_still_anime_000130.webp)
 (Caption): Even to me under the rock You delivered A warm light It was so dazzling I couldn't face it Saki-chan gave shape To the things I couldn't convey I want to reach Saki-chan But I can't
 (Transition)
 (Background change)
@@ -30,10 +30,10 @@ Nyamu: Clearly, the forced soulmate plan was a great success!
 (Transition)
 (Background change)
 Sakiko: ...
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000161/data/adv_still_anime_000161/adv_still_anime_000161.webp)
 (Caption): I'm sure I made A mistake again But I don't know What the right answer is So I keep searching
 Sakiko: (I must take responsibility for my own words and actions...)
-(CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp)
+(CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000162/data/adv_still_anime_000162/adv_still_anime_000162.webp)
 (Transition)
 (Background change)
 
@@ -158,9 +158,9 @@ Mortis: (I wanted to live together with her.)
 (Background change)
 Mortis: (If... if it's not too late...)
 Mortis: (God. If I can meet Mutsumi-chan, I'll give anything. That's all I want.)
-(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4)
+(Video: https://assets.bdon.moe/en/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4)
 (Caption): Imprisoned XII　ライブシーン
-(Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4)
+(Video: https://assets.bdon.moe/en/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4)
 (Caption): Crucifix X　ライブシーン
 (Subtitle) Doloris: The wheel of fate is set in motion once again.
 (Subtitle) Doloris: Welcome to Ave Mujica's world.
