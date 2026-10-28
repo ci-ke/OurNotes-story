@@ -1,0 +1,46 @@
+1 11234:adv_script_home_11234 Member Talk
+
+(Background change)
+Taki: Anyway. I'm absolutely not doing it.
+Anon: Whaaat? But you're dressed up right now!
+Taki: ...This is the shop's policy. I had no choice.
+Anon: Once you've done it once, it's all the same! What about you, Rāna-chan?
+Rāna: Are we doing a live?
+Anon: Huh? Ah... well, maybe that could work?
+Taki: Don't make stuff up!
+
+
+2 11228:adv_script_home_11228 October 2026: Halloween① Anon
+
+(Background change)
+Anon: Let's all dress up in costumes and stuff!
+
+
+3 11229:adv_script_home_11229 October 2026: Halloween① Anon
+
+(Background change)
+Anon: I'll get the costumes ready!
+
+
+4 11230:adv_script_home_11230 October 2026: Halloween① Taki
+
+(Background change)
+Taki: That has nothing to do with the band.
+
+
+5 11231:adv_script_home_11231 October 2026: Halloween① Taki
+
+(Background change)
+Taki: If you've got time for that, go practice.
+
+
+6 11232:adv_script_home_11232 October 2026: Halloween① Rāna
+
+(Background change)
+Rāna: I want snacks.
+
+
+7 11233:adv_script_home_11233 October 2026: Halloween① Rāna
+
+(Background change)
+Rāna: Pumpkin? I'd rather have matcha.

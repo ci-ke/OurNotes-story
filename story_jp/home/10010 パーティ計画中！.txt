@@ -1,0 +1,46 @@
+1 11234:adv_script_home_11234 メンバートーク
+
+(Background change)
+立希: とにかく。絶対やらないから
+愛音: えー？　今も仮装してるじゃん
+立希: ……これは店の方針で仕方なくだから
+愛音: 一回やったら一緒だって！ 楽奈ちゃんはどう？
+楽奈: ライブする？
+愛音: え？　あ〜……まあ、アリかも？
+立希: 適当言わないで！
+
+
+2 11228:adv_script_home_11228 26年10月 Halloween① 愛音
+
+(Background change)
+愛音: みんなで仮装とかしてさ！
+
+
+3 11229:adv_script_home_11229 26年10月 Halloween① 愛音
+
+(Background change)
+愛音: 私が衣装準備するから！
+
+
+4 11230:adv_script_home_11230 26年10月 Halloween① 立希
+
+(Background change)
+立希: バンド関係ないでしょ
+
+
+5 11231:adv_script_home_11231 26年10月 Halloween① 立希
+
+(Background change)
+立希: そんな暇あったら練習
+
+
+6 11232:adv_script_home_11232 26年10月 Halloween① 楽奈
+
+(Background change)
+楽奈: お菓子ほしい
+
+
+7 11233:adv_script_home_11233 26年10月 Halloween① 楽奈
+
+(Background change)
+楽奈: かぼちゃ？　抹茶がいい

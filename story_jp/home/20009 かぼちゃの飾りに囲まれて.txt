@@ -1,0 +1,52 @@
+1 11252:adv_script_home_11252 メンバートーク
+
+(Transition)
+(Background change)
+睦: 今度の雑誌撮影、ハロウィン衣装だって
+にゃむ: え？　マジ？
+睦: 衣装が送られてくるって聞いた
+にゃむ: そんなの絶対サキコNG出るでしょ
+初華: うん、そうだよね……
+初華: 私、さきちゃんに聞いてみるよ
+
+
+2 11246:adv_script_home_11246 26年10月 Halloween① 睦
+
+(Transition)
+(Background change)
+睦: 仮装もライブ衣装も、変わらないと思うけど
+
+
+3 11247:adv_script_home_11247 26年10月 Halloween① 睦
+
+(Transition)
+(Background change)
+睦: かぼちゃは、初心者でも育てやすいよ
+
+
+4 11248:adv_script_home_11248 26年10月 Halloween① 初華
+
+(Transition)
+(Background change)
+初華: いつの間に飾り付けされたんだろ？
+
+
+5 11249:adv_script_home_11249 26年10月 Halloween① 初華
+
+(Transition)
+(Background change)
+初華: 非日常って感じでワクワクするよね
+
+
+6 11250:adv_script_home_11250 26年10月 Halloween① にゃむ
+
+(Transition)
+(Background change)
+にゃむ: 当日、人混みとかやばそ〜
+
+
+7 11251:adv_script_home_11251 26年10月 Halloween① にゃむ
+
+(Transition)
+(Background change)
+にゃむ: 仮装の写真とか撮る？　ファンサで

@@ -1,0 +1,81 @@
+1 11263:adv_script_home_11263 メンバートーク
+
+(Transition)
+(Background change)
+祥子: 先方には丁重にお断りしました
+にゃむ: もったいな〜
+初華: まあでも、Ave Mujicaの 世界観には合わないし……
+海鈴: 三角さんも乗り気に見えましたが
+睦: ずっと衣装持ってた
+初華: そ、それは……まあ、うん……
+祥子: もういいですわね？ 定例会を始めますわよ
+
+
+2 11253:adv_script_home_11253 26年10月 Halloween② 初華
+
+(Transition)
+(Background change)
+初華: でもほら、かっこいいかなって……
+
+
+3 11254:adv_script_home_11254 26年10月 Halloween② 初華
+
+(Transition)
+(Background change)
+初華: ファンの人たちも、喜んでくれるかも
+
+
+4 11255:adv_script_home_11255 26年10月 Halloween② 睦
+
+(Transition)
+(Background change)
+睦: 魔女の帽子？
+
+
+5 11256:adv_script_home_11256 26年10月 Halloween② 睦
+
+(Transition)
+(Background change)
+睦: どれを着ればいい？
+
+
+6 11257:adv_script_home_11257 26年10月 Halloween② 海鈴
+
+(Transition)
+(Background change)
+海鈴: 私にはどれが似合いそうですか？
+
+
+7 11258:adv_script_home_11258 26年10月 Halloween② 海鈴
+
+(Transition)
+(Background change)
+海鈴: 祐天寺さん、楽しんでますね
+
+
+8 11259:adv_script_home_11259 26年10月 Halloween② にゃむ
+
+(Transition)
+(Background change)
+にゃむ: 今着る分にはタダだし〜
+
+
+9 11260:adv_script_home_11260 26年10月 Halloween② にゃむ
+
+(Transition)
+(Background change)
+にゃむ: ムーコはこれとかどうよ？
+
+
+10 11261:adv_script_home_11261 26年10月 Halloween② 祥子
+
+(Transition)
+(Background change)
+祥子: こんな依頼はお受けできません
+
+
+11 11262:adv_script_home_11262 26年10月 Halloween② 祥子
+
+(Transition)
+(Background change)
+祥子: そんな顔をしたってダメですわよ

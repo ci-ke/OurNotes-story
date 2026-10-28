@@ -1,0 +1,52 @@
+1 11252:adv_script_home_11252 Member Talk
+
+(Transition)
+(Background change)
+Mutsumi: Apparently the next magazine shoot is in Halloween costumes.
+Nyamu: Huh? Seriously?
+Mutsumi: I heard they're going to send the costumes.
+Nyamu: There's no way Sakiko's gonna approve that.
+Uika: Yeah... I suppose you're right...
+Uika: I'll try asking Saki-chan.
+
+
+2 11246:adv_script_home_11246 October 2026: Halloween① Mutsumi
+
+(Transition)
+(Background change)
+Mutsumi: I don't think costumes are any different from live outfits.
+
+
+3 11247:adv_script_home_11247 October 2026: Halloween① Mutsumi
+
+(Transition)
+(Background change)
+Mutsumi: Pumpkins are easy to grow, even for beginners.
+
+
+4 11248:adv_script_home_11248 October 2026: Halloween① Uika
+
+(Transition)
+(Background change)
+Uika: I wonder when they put up the decorations.
+
+
+5 11249:adv_script_home_11249 October 2026: Halloween① Uika
+
+(Transition)
+(Background change)
+Uika: It feels like a break from the usual. It's kind of exciting, isn't it?
+
+
+6 11250:adv_script_home_11250 October 2026: Halloween① Nyamu
+
+(Transition)
+(Background change)
+Nyamu: The crowds that day are gonna be insane~
+
+
+7 11251:adv_script_home_11251 October 2026: Halloween① Nyamu
+
+(Transition)
+(Background change)
+Nyamu: Should we take some photos in costume? You know, for fan service.

@@ -1,0 +1,81 @@
+1 11263:adv_script_home_11263 Member Talk
+
+(Transition)
+(Background change)
+Sakiko: I have already politely turned them down.
+Nyamu: What a waste~
+Uika: Well, but it doesn't fit Ave Mujica's worldview, so...
+Umiri: Misumi-san seemed enthusiastic about it too, though.
+Mutsumi: You've had that costume with you this whole time.
+Uika: Th-That's... well, yeah...
+Sakiko: That's settled, then? We will now begin our regular meeting.
+
+
+2 11253:adv_script_home_11253 October 2026: Halloween② Uika
+
+(Transition)
+(Background change)
+Uika: But, you know, I thought it might look cool...
+
+
+3 11254:adv_script_home_11254 October 2026: Halloween② Uika
+
+(Transition)
+(Background change)
+Uika: Maybe the fans would be happy too.
+
+
+4 11255:adv_script_home_11255 October 2026: Halloween② Mutsumi
+
+(Transition)
+(Background change)
+Mutsumi: A witch's hat?
+
+
+5 11256:adv_script_home_11256 October 2026: Halloween② Mutsumi
+
+(Transition)
+(Background change)
+Mutsumi: Which one should I wear?
+
+
+6 11257:adv_script_home_11257 October 2026: Halloween② Umiri
+
+(Transition)
+(Background change)
+Umiri: Which one do you think would suit me?
+
+
+7 11258:adv_script_home_11258 October 2026: Halloween② Umiri
+
+(Transition)
+(Background change)
+Umiri: You're enjoying yourself, Yūtenji-san.
+
+
+8 11259:adv_script_home_11259 October 2026: Halloween② Nyamu
+
+(Transition)
+(Background change)
+Nyamu: We can try them on for free right now, anyway~
+
+
+9 11260:adv_script_home_11260 October 2026: Halloween② Nyamu
+
+(Transition)
+(Background change)
+Nyamu: How about this one, Muuko?
+
+
+10 11261:adv_script_home_11261 October 2026: Halloween② Sakiko
+
+(Transition)
+(Background change)
+Sakiko: I'm afraid we cannot accept this kind of request.
+
+
+11 11262:adv_script_home_11262 October 2026: Halloween② Sakiko
+
+(Transition)
+(Background change)
+Sakiko: Even if you make that face, it won't work.

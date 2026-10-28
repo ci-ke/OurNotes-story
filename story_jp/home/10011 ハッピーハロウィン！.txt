@@ -1,0 +1,70 @@
+1 11245:adv_script_home_11245 メンバートーク
+
+(Background change)
+楽奈: お菓子いっぱい。まんぞく
+愛音: でしょ？　たまにはこういうのも良くない？
+立希: 良くない。二度とやらない
+そよ: そもそも愛音ちゃん、 自分の仮装が一番気合い入ってたよね
+愛音: それはまあ、主催だし？
+燈: 魔法使い、みたい……！
+愛音: えへへ、ありがとともりん。 みんなも楽しかったよね〜！
+
+
+2 11235:adv_script_home_11235 26年10月 Halloween② 楽奈
+
+(Background change)
+楽奈: りりちゃんがお菓子くれた
+
+
+3 11236:adv_script_home_11236 26年10月 Halloween② 楽奈
+
+(Background change)
+楽奈: しっぽ邪魔。とっていい？
+
+
+4 11237:adv_script_home_11237 26年10月 Halloween② 燈
+
+(Background change)
+燈: 衣装……すごいね……！
+
+
+5 11238:adv_script_home_11238 26年10月 Halloween② 燈
+
+(Background change)
+燈: みんな……似合ってる……！
+
+
+6 11239:adv_script_home_11239 26年10月 Halloween② 愛音
+
+(Background change)
+愛音: いいじゃんりっきー！
+
+
+7 11240:adv_script_home_11240 26年10月 Halloween② 愛音
+
+(Background change)
+愛音: がんばって選んだ甲斐があったな〜
+
+
+8 11241:adv_script_home_11241 26年10月 Halloween② 立希
+
+(Background change)
+立希: じろじろ見ないで
+
+
+9 11242:adv_script_home_11242 26年10月 Halloween② 立希
+
+(Background change)
+立希: ほら、期間限定ドリンク
+
+
+10 11243:adv_script_home_11243 26年10月 Halloween② そよ
+
+(Background change)
+そよ: なんで私悪魔なわけ？
+
+
+11 11244:adv_script_home_11244 26年10月 Halloween② そよ
+
+(Background change)
+そよ: ていうか、仮装する意味ある？
