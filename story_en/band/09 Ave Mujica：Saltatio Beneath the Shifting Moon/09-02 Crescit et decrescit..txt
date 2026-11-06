@@ -1,0 +1,145 @@
+10974:adv_script_eventstory_9_02 Crescit et decrescit.
+
+(The moon is a crescent tonight...)
+
+(Transition)
+(Background change)
+(Transition)
+(Background change)
+
+[Haneoka Girls' Academy - Corridor]
+
+Sakiko: (Shakespeare, and a photo collection of stage art... The library had just the right books. How fortunate.)
+Sakiko: (Now then... What kind of play shall I write...?)
+Sakiko: ...
+(Transition)
+(Background change)
+Student A: Ah, morning. You're early today.
+Student B: I woke up early for some reason~ So I made a bento and brought it, too!
+Student A: Whoa, amazing...! Let's trade side dishes!
+Track Team Member: Last lap! Don't slow down~!
+(Transition)
+(Background change)
+Sakiko: (...What a peaceful morning—)
+(Anon): I found a really nice pick over there~
+Sakiko: (...!)
+(Transition)
+Anon: I brought it because I wanted to show it to Tomorin, too. Look at this! It's holographic!
+Tomori: ...
+Anon: I thought it might sparkle and stand out during lives~
+Tomori: ...It's like a stone shining in a river... beautiful...
+Anon: Ehehe, right~? I can't wait to use it at a live~!
+Tomori: ...I want to see it soon, too.
+Anon: Until then, we've gotta practice hard!
+Tomori: Yeah...!
+(Transition)
+Sakiko: ...
+Sakiko: (I need to make progress on the play's concept, too...)
+(Transition)
+(Background change)
+
+[Tsukinomori Girls' Academy - Classroom 1-A]
+
+Classmate A: Ah, it's Mutsumi-chan!
+Classmate B: Did you have work today again?
+Mutsumi: Yeah, I was filming a drama.
+Classmate A: I see...! I'll definitely watch it when it airs!
+Classmate B: Ah, do you need my notes? From the class just now.
+Mutsumi: Are you sure? That would really help! Sorry for always relying on you~
+Classmate B: It's totally fine~! Here you go!
+Mutsumi: Thanks!
+(Transition)
+Soyo: Mutsumi-chan, good work. You're as busy as ever, huh.
+Mutsumi: Yeah. Because Mujica's back, too.
+Mutsumi: ...Ah, I wonder if the bitter melon in the vegetable garden is okay.
+(Transition)
+(Background change)
+Soyo: I'm not sure... I haven't gone recently.
+Mutsumi: ...I'll go check on it later.
+Mutsumi: I want to give it plenty of water, and I was thinking it's about time to fertilize it, too.
+(Transition)
+(Background change)
+Soyo: I see. I hope it grows well.
+Mutsumi: Yeah.
+(Transition)
+(Background change)
+
+[Uika's Mansion - Loft]
+
+Sakiko: ...
+Sakiko: (To draw guests deeper into Ave Mujica, and intoxicate them...)
+Sakiko: (What kind of story should I depict...?)
+Sakiko: ...Phew.
+Sakiko: (I'm starting to get a little stuck... Is there any good material—)
+Sakiko: ...? This article—
+(Transition)
+(Background change)
+(Online Article): "Sudden Disbandment! The Troublemaker Band, Ave Mujica!"
+(Transition)
+(Online Article): "Ave Mujica Holds Comeback Live! Captivating the Audience with a Stunning Performance!"
+Sakiko: (...The reporter who wrote bashing articles is now writing glowing articles...)
+Sakiko: (It's not just the media. Social media, too—)
+(Transition)
+(Background change)
+Account A: "So even the whole disbandment scandal was calculated?"
+Account B: "What do you take fans for? I won't forget you disbanded without playing a single song."
+Account C: "Mujica's masquerade was way too amazing!! I can't think about anything but Mujica!!"
+Account D: "Mujica is my everything. I'll follow you no matter what happens!"
+Sakiko: (Public opinion is so sharply divided...)
+(Transition)
+(Background change)
+Sakiko: ...
+(Transition)
+(Background change)
+Sakiko: (The moon is a crescent tonight...)
+Sakiko: (—Though everything is because of our actions...)
+Sakiko: (Perhaps people can only see what they want to see, in the way they want to see it—)
+Sakiko: Waxing and waning... Just like the moon...
+Sakiko: ...
+Uika: Sa-ki-chan.
+(Background change)
+Sakiko: ...! Uika... When did you get home?
+(Transition)
+Uika: Just now. I said "I'm home," but you were so focused you didn't notice?
+Sakiko: ...Yes.
+Uika: Geez, you shouldn't push yourself too hard, okay? Taking a break sometimes is important, too!
+Uika: So, here, herbal tea. Have some if you'd like.
+Sakiko: ...Thank you. I'll have some.
+(Transition)
+Uika: This herbal tea has a relaxing effect, and they say it helps you sleep well.
+Uika: I'll have a sip, too... Yeah, it's good.
+Sakiko: ...Yes, it's comforting.
+(Transition)
+Sakiko: Uika, how was work?
+Uika: It went well. I did some filming, had lessons, and did an interview...
+Uika: Oh, on the way home, I found some delicious-looking muffins and bought them.
+Sakiko: I see. Shall we eat them tomorrow morning?
+Uika: Yeah! What about you, Saki-chan? How was school?
+Sakiko: Nothing in particular. Just the same peaceful, calm day as always...
+Uika: I see. ...Oh, right. The laundry was left hanging out, so I brought it in earlier.
+Sakiko: ...! I completely forgot... Even though I was the one who got home first...
+Uika: It's fine, don't worry about it! Last time you ironed everything so nicely for me, right? This is my way of paying you back!
+Sakiko: That was because you seemed so busy with work, Uika... Then at least let me fold them—
+Uika: Geez, Saki-chan? You're taking a break right now, aren't you?
+Sakiko: Ah... hehe, that's right.
+Sakiko & Uika: Hehe.
+(Transition)
+(Background change)
+(Transition)
+(Background change)
+
+[Wakaba's Home - Mutsumi's Room]
+
+Mutsumi: "...I couldn't. I just couldn't..."
+Mutsumi: "I didn't want to get in your way... I knew where you wanted to go, how hard you'd been working... Because I knew all of it..."
+Mutsumi: ...
+(Message) Umiri: Good work. Tomorrow's call time has changed. It's been moved up an hour from the original schedule, so—
+(Message title) Umiri
+(Transition)
+(Background change)
+Mutsumi: ...
+Mutsumi: —The moon...
+(Message title) Umiri
+[SkipLog] (Message send) Mutsumi: I see.
+(Message) Mutsumi: I see.
+Mutsumi: ...Good night.
