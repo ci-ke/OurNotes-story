@@ -5,8 +5,8 @@
 (Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000182/data/adv_still_anime_000182/adv_still_anime_000182.webp)
-らーな: かっこいい
-らーな: ギター、やる
+らーな (楽奈): かっこいい
+らーな (楽奈): ギター、やる
 (Transition)
 
 [RiNG カフェ]

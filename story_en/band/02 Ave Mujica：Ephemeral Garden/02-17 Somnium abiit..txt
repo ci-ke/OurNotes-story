@@ -42,7 +42,7 @@ Sakiko: (I must take responsibility for my own words and actions...)
 (Transition)
 (Background change)
 Umiri: Would you like some? CalinrinMate.
-Mortis: ...
+Mortis (Mutsumi): ...
 Umiri: Guess not...
 Umiri: (Since that day...)
 (Transition)
@@ -58,11 +58,11 @@ Sakiko: Could you call everyone over?
 Umiri: Huh? Togawa-san? Why so sudden?
 Sakiko: I mean the members of Ave Mujica.
 Umiri: !
-Mortis: Are you coming back to Ave Mujica?
+Mortis (Mutsumi): Are you coming back to Ave Mujica?
 Sakiko: I'm going to ask you to imitate playing the guitar... "Mutsumi."
-Mortis: Sakiko-chan... I... I can't play guitar...
+Mortis (Mutsumi): Sakiko-chan... I... I can't play guitar...
 Sakiko: But I won't tolerate even a single error. Surely you can do it, can't you?
-Mortis: ...
+Mortis (Mutsumi): ...
 (Transition)
 (Background change)
 Minami: Oh, Nyamu-chan! Why are you coming here now?
@@ -75,7 +75,7 @@ Sakiko: We're all here. I asked everyone to come here for one reason.
 Sakiko: <size=150%>I will revive Ave Mujica.
 Sakiko: I have accepted the lives you entrusted to me. No matter what happens in the future, I'll not allow you to leave.
 (Transition)
-Mortis: ...
+Mortis (Mutsumi): ...
 Nyamu: ...?
 (Transition)
 Sakiko: This is a deal.
@@ -83,7 +83,7 @@ Sakiko: Our destinies are one. Whether in sickness or in health, we will share o
 Uika: Okay!
 Umiri: Okay.
 Nyamu: Okay~
-Mortis: ...
+Mortis (Mutsumi): ...
 Sakiko: Yahata-san, I'd like to perform live next week, so please arrange the schedule.
 Umiri: I will do so.
 (Transition)
@@ -117,19 +117,19 @@ Sakiko: (So heavy...)
 Sakiko: (I can't run away now. I must not run. From now on, I must bear this weight forever.)
 (Transition)
 (Background change)
-Mortis: —♪
+Mortis (Mutsumi): —♪
 Nyamu: She's actually gone. Muuko.
-Mortis: ...!
+Mortis (Mutsumi): ...!
 Nyamu: Are you going to act as Mutsumi Wakaba forever?
-Mortis: I have no choice but to play "Mutsumi-chan."
+Mortis (Mutsumi): I have no choice but to play "Mutsumi-chan."
 Nyamu: I won't let you fool me.
-Mortis: ~~~! I hate you, Nyamu-chan! Don't look at me anymore! Go away!
+Mortis (Mutsumi): ~~~! I hate you, Nyamu-chan! Don't look at me anymore! Go away!
 Nyamu: It's not because I want to look at you. I just can't take my eyes off you... Your acting makes me question myself.
 Nyamu: It's not fair! It's not fair... I'm jealous...
 Nyamu: I love you...
-Mortis: ...
+Mortis (Mutsumi): ...
 Nyamu: "I... had a dream. Even if I love you, I can't love you enough."
-Mortis: I wish you had told this to Mutsumi-chan.
+Mortis (Mutsumi): I wish you had told this to Mutsumi-chan.
 (Transition)
 (Background change)
 (Transition)
@@ -138,32 +138,32 @@ Mortis: I wish you had told this to Mutsumi-chan.
 (Transition)
 (Transition)
 (Transition)
-Mortis: The moonlight illuminates us. The time of awakening—
-Mortis: Doloris, Timoris, Amoris, Oblivionis... The moon is up.
+Mortis (Mutsumi): The moonlight illuminates us. The time of awakening—
+Mortis (Mutsumi): Doloris, Timoris, Amoris, Oblivionis... The moon is up.
 (Transition)
-Doloris: I...
-Oblivionis: This place...
-Timoris: It doesn't seem to be Loft Moon.
-Amoris: ...
-Mortis: Dear moon, light up the sleepyhead. And grant her a new life.
-Amoris: Hm...
-Mortis: Are you awake? Amoris.
-Amoris: I... had a dream...
-Mortis: What kind of dream?
-Amoris: Even if I love you, and love you again, I can't love you enough... I'm not beloved...!
-Mortis: Me too...
-Mortis: (I wanted to be loved by Mutsumi-chan.)
-Mortis: (I wanted to live together with her.)
+Doloris (Uika): I...
+Oblivionis (Sakiko): This place...
+Timoris (Umiri): It doesn't seem to be Loft Moon.
+Amoris (Nyamu): ...
+Mortis (Mutsumi): Dear moon, light up the sleepyhead. And grant her a new life.
+Amoris (Nyamu): Hm...
+Mortis (Mutsumi): Are you awake? Amoris.
+Amoris (Nyamu): I... had a dream...
+Mortis (Mutsumi): What kind of dream?
+Amoris (Nyamu): Even if I love you, and love you again, I can't love you enough... I'm not beloved...!
+Mortis (Mutsumi): Me too...
+Mortis (Mutsumi): (I wanted to be loved by Mutsumi-chan.)
+Mortis (Mutsumi): (I wanted to live together with her.)
 (Transition)
 (Background change)
-Mortis: (If... if it's not too late...)
-Mortis: (God. If I can meet Mutsumi-chan, I'll give anything. That's all I want.)
+Mortis (Mutsumi): (If... if it's not too late...)
+Mortis (Mutsumi): (God. If I can meet Mutsumi-chan, I'll give anything. That's all I want.)
 (Video: https://assets.bdon.moe/en/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4)
 (Caption): Imprisoned XII　ライブシーン
 (Video: https://assets.bdon.moe/en/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4)
 (Caption): Crucifix X　ライブシーン
-(Subtitle) Doloris: The wheel of fate is set in motion once again.
-(Subtitle) Doloris: Welcome to Ave Mujica's world.
+(Subtitle) Doloris (Uika): The wheel of fate is set in motion once again.
+(Subtitle) Doloris (Uika): Welcome to Ave Mujica's world.
 (Transition)
 
 [After the Performance]

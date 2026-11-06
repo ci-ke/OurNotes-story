@@ -8,99 +8,99 @@
 
 [Forest]
 
-Servant: ...Um, Sir Knight. I cannot help feeling we have seen the same withered tree several times now...
-Stern Knight: I know...! What an annoying forest this is... The fog is thickening, too... Let us make haste!
-Servant: Yes...!
-Servant: That day, I had set out with the Stern Knight to seek the trial appointed to him.
-Servant: But the forest ran deeper than we had ever imagined... For days on end, we wandered and could not find our way.
+Servant (Sakiko): ...Um, Sir Knight. I cannot help feeling we have seen the same withered tree several times now...
+Stern Knight (Umiri): I know...! What an annoying forest this is... The fog is thickening, too... Let us make haste!
+Servant (Sakiko): Yes...!
+Servant (Sakiko): That day, I had set out with the Stern Knight to seek the trial appointed to him.
+Servant (Sakiko): But the forest ran deeper than we had ever imagined... For days on end, we wandered and could not find our way.
 (Background change)
-Stern Knight: ...It is dangerous to go any farther... There is no help for it. We shall camp here tonight.
-Servant: Yes.
-Servant: By the way, Sir Knight, if I may ask something rather forward... Why did you propose to the Princess?
-Stern Knight: Is that not obvious...!
-Stern Knight: Her beauty goes without saying, but it was her character that won me over, heart and soul!
-Stern Knight: It was the day I proposed... I stole a march on the other two knights and obtained a chance to meet the Princess—
-(Background change)
-
-[Old Castle in the Woods]
-
-Stern Knight: —Princess, forgive me for calling at this hour! I simply had to see you, if only for a moment...!
-Princess: Oh my... And here I thought a mouse had slipped in.
-Princess: You call yourself a knight, and yet you cannot even muster the patience to wait your turn?
-Stern Knight: ... I have no excuse...! But my love is without a single cloud—
-Princess: ...Without a single cloud? Perhaps you ought to look in a mirror.
-Princess: Then you might come to see that the love you speak of is nothing more than self-indulgence.
-Stern Knight: ...!
-Princess: ...My, that was a joke. No, perhaps I was half in earnest?
-Princess: Either way, whether I accept this so-called "love" of yours... depends entirely on whether you can overcome the trial I set before you.
-Princess: By all means, struggle desperately to entertain me. Hehe.
-Stern Knight: The Princess was truly a mystery, a woman who spoke without mincing words...!
-Stern Knight: And yet so whimsical, with such a mocking, insolent nature! She is precisely my ideal...!
-(Background change)
-Servant: Mocking...? The Princess...?
-Servant: (The Princess I know is merciful to all, and always smiles so gently.)
-Servant: (She is not the sort of person Sir Knight speaks of...)
-Servant: (And yet what Sir Knight told me hardly seems a lie, either—)
-Servant: ...
-
-[A Few Days Later]
-
-Servant: As our journey wore on, the fog in the forest grew ever thicker, until we could no longer be certain even of where we stood.
-Stern Knight: ...! There is a light beyond the fog... Could the magic mirror be there...!?
-Servant: Sir Knight! Please wait! To go on now is—
-Stern Knight: <size=150%>—! Waaah!
-Servant: <size=150%>Sir Knight!!
-Servant: ...Th-That cannot be—
-(Background change)
-Servant: I hurried back to the castle and reported everything to the Princess.
-Princess: ...I see. Understood.
-Servant: (...That is all? Sir Knight has lost his life, and yet...)
-(Background change)
-Servant: Next, I came to travel with the Graceful Knight. When I asked him about the Princess as well—
-Graceful Knight: ...Ah... my beloved Princess...!
-Graceful Knight: So dazzlingly bewitching, so radiant...! And yet so willful, so bold and unrestrained!
-Graceful Knight: A beauty that could topple a kingdom! She is my ideal!
-Servant: (...Nothing at all like the Princess I know. Nor like the figure the Stern Knight described—)
-(Background change)
-
-[A Few Days Later]
-
-Servant: But the Graceful Knight, too—
-Graceful Knight: Ngh...! The wind has risen so suddenly...! I cannot see through the sand...!
-Servant: Sir Knight...! Let us take shelter behind that rock...!
-Graceful Knight: No, wait! There is something shining atop that great tree...! Is that not the crown!?
-Servant: Please wait...! To climb a tree that tall in this wind...! It is far too dangerous!
-Graceful Knight: But I cannot leave it unconfirmed...!
-Servant: Sir Knight, please come back! Sir Knight!!
-Graceful Knight: —There, just a little farther...! If I can but lay my hand on that branch—
-Graceful Knight: ...! Aaah—
-Servant: High in that great tree, one step short of his prize, his hand slipped, and he fell to his death.
-(Background change)
-
-[A Few Days Later]
-
-Servant: And at the very last, I came to travel with the Sincere Knight.
-Servant: The image of the Princess that I heard of on that third journey was unlike the one I knew, and unlike the ones the other two had spoken of as well.
-Sincere Knight: Yes... If I were to put it in a single word, she is a saint...!
-Sincere Knight: Full of loving-kindness, so warm... She forgives everything...! She is truly my ideal!
-Servant: And the Sincere Knight as well—
-(Background change)
-Servant: In pursuit of the item the Princess desired, he was swallowed by the raging waves and perished, one step short of his goal.
+Stern Knight (Umiri): ...It is dangerous to go any farther... There is no help for it. We shall camp here tonight.
+Servant (Sakiko): Yes.
+Servant (Sakiko): By the way, Sir Knight, if I may ask something rather forward... Why did you propose to the Princess?
+Stern Knight (Umiri): Is that not obvious...!
+Stern Knight (Umiri): Her beauty goes without saying, but it was her character that won me over, heart and soul!
+Stern Knight (Umiri): It was the day I proposed... I stole a march on the other two knights and obtained a chance to meet the Princess—
 (Background change)
 
 [Old Castle in the Woods]
 
-Servant: ...Princess. The Sincere Knight has also departed, never to return. Every one of them, one step short of the goal...
-Princess: I see. Thank you for your report.
-Princess: ...
-Servant: ...Why do you look at me with such cold eyes—
-Servant: Princess, is that all? Three knights lost their lives for your sake, and yet...
-Princess: ...
-Servant: ...I do not understand... I do not understand...
-Servant: I no longer understand you at all...!
-Servant: The image of you each knight spoke of was wholly unlike the others... and utterly unlike the Princess I know...!
-Servant: Please answer me, Princess! Which one is the real you!?
-Princess: ...
+Stern Knight (Umiri): —Princess, forgive me for calling at this hour! I simply had to see you, if only for a moment...!
+Princess (Mutsumi): Oh my... And here I thought a mouse had slipped in.
+Princess (Mutsumi): You call yourself a knight, and yet you cannot even muster the patience to wait your turn?
+Stern Knight (Umiri): ... I have no excuse...! But my love is without a single cloud—
+Princess (Mutsumi): ...Without a single cloud? Perhaps you ought to look in a mirror.
+Princess (Mutsumi): Then you might come to see that the love you speak of is nothing more than self-indulgence.
+Stern Knight (Umiri): ...!
+Princess (Mutsumi): ...My, that was a joke. No, perhaps I was half in earnest?
+Princess (Mutsumi): Either way, whether I accept this so-called "love" of yours... depends entirely on whether you can overcome the trial I set before you.
+Princess (Mutsumi): By all means, struggle desperately to entertain me. Hehe.
+Stern Knight (Umiri): The Princess was truly a mystery, a woman who spoke without mincing words...!
+Stern Knight (Umiri): And yet so whimsical, with such a mocking, insolent nature! She is precisely my ideal...!
+(Background change)
+Servant (Sakiko): Mocking...? The Princess...?
+Servant (Sakiko): (The Princess I know is merciful to all, and always smiles so gently.)
+Servant (Sakiko): (She is not the sort of person Sir Knight speaks of...)
+Servant (Sakiko): (And yet what Sir Knight told me hardly seems a lie, either—)
+Servant (Sakiko): ...
+
+[A Few Days Later]
+
+Servant (Sakiko): As our journey wore on, the fog in the forest grew ever thicker, until we could no longer be certain even of where we stood.
+Stern Knight (Umiri): ...! There is a light beyond the fog... Could the magic mirror be there...!?
+Servant (Sakiko): Sir Knight! Please wait! To go on now is—
+Stern Knight (Umiri): <size=150%>—! Waaah!
+Servant (Sakiko): <size=150%>Sir Knight!!
+Servant (Sakiko): ...Th-That cannot be—
+(Background change)
+Servant (Sakiko): I hurried back to the castle and reported everything to the Princess.
+Princess (Mutsumi): ...I see. Understood.
+Servant (Sakiko): (...That is all? Sir Knight has lost his life, and yet...)
+(Background change)
+Servant (Sakiko): Next, I came to travel with the Graceful Knight. When I asked him about the Princess as well—
+Graceful Knight (Nyamu): ...Ah... my beloved Princess...!
+Graceful Knight (Nyamu): So dazzlingly bewitching, so radiant...! And yet so willful, so bold and unrestrained!
+Graceful Knight (Nyamu): A beauty that could topple a kingdom! She is my ideal!
+Servant (Sakiko): (...Nothing at all like the Princess I know. Nor like the figure the Stern Knight described—)
+(Background change)
+
+[A Few Days Later]
+
+Servant (Sakiko): But the Graceful Knight, too—
+Graceful Knight (Nyamu): Ngh...! The wind has risen so suddenly...! I cannot see through the sand...!
+Servant (Sakiko): Sir Knight...! Let us take shelter behind that rock...!
+Graceful Knight (Nyamu): No, wait! There is something shining atop that great tree...! Is that not the crown!?
+Servant (Sakiko): Please wait...! To climb a tree that tall in this wind...! It is far too dangerous!
+Graceful Knight (Nyamu): But I cannot leave it unconfirmed...!
+Servant (Sakiko): Sir Knight, please come back! Sir Knight!!
+Graceful Knight (Nyamu): —There, just a little farther...! If I can but lay my hand on that branch—
+Graceful Knight (Nyamu): ...! Aaah—
+Servant (Sakiko): High in that great tree, one step short of his prize, his hand slipped, and he fell to his death.
+(Background change)
+
+[A Few Days Later]
+
+Servant (Sakiko): And at the very last, I came to travel with the Sincere Knight.
+Servant (Sakiko): The image of the Princess that I heard of on that third journey was unlike the one I knew, and unlike the ones the other two had spoken of as well.
+Sincere Knight (Uika): Yes... If I were to put it in a single word, she is a saint...!
+Sincere Knight (Uika): Full of loving-kindness, so warm... She forgives everything...! She is truly my ideal!
+Servant (Sakiko): And the Sincere Knight as well—
+(Background change)
+Servant (Sakiko): In pursuit of the item the Princess desired, he was swallowed by the raging waves and perished, one step short of his goal.
+(Background change)
+
+[Old Castle in the Woods]
+
+Servant (Sakiko): ...Princess. The Sincere Knight has also departed, never to return. Every one of them, one step short of the goal...
+Princess (Mutsumi): I see. Thank you for your report.
+Princess (Mutsumi): ...
+Servant (Sakiko): ...Why do you look at me with such cold eyes—
+Servant (Sakiko): Princess, is that all? Three knights lost their lives for your sake, and yet...
+Princess (Mutsumi): ...
+Servant (Sakiko): ...I do not understand... I do not understand...
+Servant (Sakiko): I no longer understand you at all...!
+Servant (Sakiko): The image of you each knight spoke of was wholly unlike the others... and utterly unlike the Princess I know...!
+Servant (Sakiko): Please answer me, Princess! Which one is the real you!?
+Princess (Mutsumi): ...
 (Transition)
 (Background change)
 

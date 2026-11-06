@@ -140,86 +140,86 @@
 （转场）
 （背景切换）
 （背景切换）
-Doloris：这里就是乐园吗……
-Timoris：新来的？
-Doloris：我是悲伤骑士Doloris。 我是来侍奉女神Oblivionis的
-Amoris：没想到除了我们，还有别的好事之徒
-Timoris：我们和你一样，Doloris。 我是恐惧骑士Timoris
-Amoris：我是爱之骑士Amoris，至于那个是——
-Amoris：你在干什么呢？
-Mortis：……我在听
-Amoris：听什么啊？
-Mortis：世界毁灭的声音
-Amoris：死亡骑士Mortis，是个怪人
+Doloris（初华）：这里就是乐园吗……
+Timoris（海铃）：新来的？
+Doloris（初华）：我是悲伤骑士Doloris。 我是来侍奉女神Oblivionis的
+Amoris（若麦）：没想到除了我们，还有别的好事之徒
+Timoris（海铃）：我们和你一样，Doloris。 我是恐惧骑士Timoris
+Amoris（若麦）：我是爱之骑士Amoris，至于那个是——
+Amoris（若麦）：你在干什么呢？
+Mortis（睦）：……我在听
+Amoris（若麦）：听什么啊？
+Mortis（睦）：世界毁灭的声音
+Amoris（若麦）：死亡骑士Mortis，是个怪人
 （转场）
-Doloris：……
-Timoris：不必担心。在这里你无需畏惧。 我向你保证
-Amoris：啊哈哈哈哈！净在那胡扯！
-Timoris：你说谁胡扯？
-Amoris：说到底，这里不过是个虚幻的箱庭？
-Amoris：直到世界毁灭为止，只顾欢快起舞与生活的
-Mortis：充斥着欺瞒的乐园
-Mortis：很可惜，Oblivionis不在
-Doloris：诶
-Mortis：据说她已经消失很久了
-Doloris：怎么会这样
-Mortis：我们也一直在祈愿。 祈愿她有朝一日回到乐园，赐予我们忘却
-Mortis：我的生命，立于众多死亡之上。 我从未期望如此……只为了『自己』能够活下去
-Mortis：昨日一人，今日又一人—— 我想全部都忘记
-Amoris：世界毁灭的声音？我听不见—— 为什么，为什么她可以！？
-Amoris：这种令我羡慕、令我憎恨的爱！ 让我忘记它吧！
-Timoris：没有人信任我。都不愿意信任我。 这种恐惧，我多想忘记——！
-Mortis：我们只能如此祈愿
-Doloris：我不要！我已经无法忍受了！
-Doloris：我罪孽深重，存在本身即是罪孽！ 我想忘记一切，获得救赎！
-Amoris：爱不行吗？
-Doloris：不行
-Timoris：恐惧呢？
-Doloris：不是的
-Mortis：予你死亡
-Doloris：我不需要！爱不行，恐惧不行，死亡不行，悲伤也不行！ 唯有忘却，能够救赎我于这份痛苦之中！
-？？？（Oblivionis）：<size=150%>——真的吗？
-Doloris：？这个声音……
-？？？（Oblivionis）：唯有忘却，是你来此的理由吗？
-Doloris：又来了！我总能听见这个声音
-？？？（Oblivionis）：Doloris，你真正的愿望是？
+Doloris（初华）：……
+Timoris（海铃）：不必担心。在这里你无需畏惧。 我向你保证
+Amoris（若麦）：啊哈哈哈哈！净在那胡扯！
+Timoris（海铃）：你说谁胡扯？
+Amoris（若麦）：说到底，这里不过是个虚幻的箱庭？
+Amoris（若麦）：直到世界毁灭为止，只顾欢快起舞与生活的
+Mortis（睦）：充斥着欺瞒的乐园
+Mortis（睦）：很可惜，Oblivionis不在
+Doloris（初华）：诶
+Mortis（睦）：据说她已经消失很久了
+Doloris（初华）：怎么会这样
+Mortis（睦）：我们也一直在祈愿。 祈愿她有朝一日回到乐园，赐予我们忘却
+Mortis（睦）：我的生命，立于众多死亡之上。 我从未期望如此……只为了『自己』能够活下去
+Mortis（睦）：昨日一人，今日又一人—— 我想全部都忘记
+Amoris（若麦）：世界毁灭的声音？我听不见—— 为什么，为什么她可以！？
+Amoris（若麦）：这种令我羡慕、令我憎恨的爱！ 让我忘记它吧！
+Timoris（海铃）：没有人信任我。都不愿意信任我。 这种恐惧，我多想忘记——！
+Mortis（睦）：我们只能如此祈愿
+Doloris（初华）：我不要！我已经无法忍受了！
+Doloris（初华）：我罪孽深重，存在本身即是罪孽！ 我想忘记一切，获得救赎！
+Amoris（若麦）：爱不行吗？
+Doloris（初华）：不行
+Timoris（海铃）：恐惧呢？
+Doloris（初华）：不是的
+Mortis（睦）：予你死亡
+Doloris（初华）：我不需要！爱不行，恐惧不行，死亡不行，悲伤也不行！ 唯有忘却，能够救赎我于这份痛苦之中！
+？？？（Oblivionis（祥子））：<size=150%>——真的吗？
+Doloris（初华）：？这个声音……
+？？？（Oblivionis（祥子））：唯有忘却，是你来此的理由吗？
+Doloris（初华）：又来了！我总能听见这个声音
+？？？（Oblivionis（祥子））：Doloris，你真正的愿望是？
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp）
-Doloris：……！
-Amoris：难道说
+Doloris（初华）：……！
+Amoris（若麦）：难道说
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000169/data/adv_still_anime_000169/adv_still_anime_000169.webp）
-Timoris：Oblivionis， 忘却女神啊，请让我成为你的骑士
+Timoris（海铃）：Oblivionis， 忘却女神啊，请让我成为你的骑士
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000170/data/adv_still_anime_000170/adv_still_anime_000170.webp）
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000171/data/adv_still_anime_000171/adv_still_anime_000171.webp）
-Doloris：等等！让我也成为你的骑士吧！赐予我忘却的福音——
-Oblivionis：你要重复多少次？ 无论我赐你忘却多少次，你都会回到乐园来
-Doloris：你在说什么……我今天是第一次来到这里……
+Doloris（初华）：等等！让我也成为你的骑士吧！赐予我忘却的福音——
+Oblivionis（祥子）：你要重复多少次？ 无论我赐你忘却多少次，你都会回到乐园来
+Doloris（初华）：你在说什么……我今天是第一次来到这里……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000172/data/adv_still_anime_000172/adv_still_anime_000172.webp）
-？？？（Doloris）：真的吗？
-Doloris：<size=175%>！？
-？？？（Doloris）：回想起来，Doloris。你来过这里多少次
+？？？（Doloris（初华））：真的吗？
+Doloris（初华）：<size=175%>！？
+？？？（Doloris（初华））：回想起来，Doloris。你来过这里多少次
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp）
-？？？（Doloris）：为什么你知道Oblivionis的名字？ 为什么你会渴求忘却？
-Doloris：……我只是，想见到她……
+？？？（Doloris（初华））：为什么你知道Oblivionis的名字？ 为什么你会渴求忘却？
+Doloris（初华）：……我只是，想见到她……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp）
-Oblivionis：你并非我的骑士
+Oblivionis（祥子）：你并非我的骑士
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000175/data/adv_still_anime_000175/adv_still_anime_000175.webp）
-Doloris：！我会忘记你的！ 如果这样就能够留在你身边，我愿意忘记一切
+Doloris（初华）：！我会忘记你的！ 如果这样就能够留在你身边，我愿意忘记一切
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000176/data/adv_still_anime_000176/adv_still_anime_000176.webp）
-Doloris：忘记你，甚至忘记这份悲伤
+Doloris（初华）：忘记你，甚至忘记这份悲伤
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000175/data/adv_still_anime_000175/adv_still_anime_000175.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000176/data/adv_still_anime_000176/adv_still_anime_000176.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000177/data/adv_still_anime_000177/adv_still_anime_000177.webp）
-Oblivionis：……那就执剑吧！
+Oblivionis（祥子）：……那就执剑吧！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000178/data/adv_still_anime_000178/adv_still_anime_000178.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000179/data/adv_still_anime_000179/adv_still_anime_000179.webp）
 （转场）
@@ -228,9 +228,9 @@ Oblivionis：……那就执剑吧！
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000179/data/adv_still_anime_000179/adv_still_anime_000179.webp）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000180/data/adv_still_anime_000180/adv_still_anime_000180.webp）
-Oblivionis：即使众人都将忘记，我身为忘却之神也绝不遗忘。 世界终将迎来结束，直到那一刻之前——
+Oblivionis（祥子）：即使众人都将忘记，我身为忘却之神也绝不遗忘。 世界终将迎来结束，直到那一刻之前——
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000181/data/adv_still_anime_000181/adv_still_anime_000181.webp）
-Oblivionis：这座黄昏乐园，由我永恒君临！
+Oblivionis（祥子）：这座黄昏乐园，由我永恒君临！
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000180/data/adv_still_anime_000180/adv_still_anime_000180.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000181/data/adv_still_anime_000181/adv_still_anime_000181.webp）

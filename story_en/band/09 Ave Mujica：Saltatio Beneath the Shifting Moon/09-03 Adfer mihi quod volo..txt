@@ -8,65 +8,65 @@ I do not understand that person... I just do not understand her.
 
 [Church]
 
-Nun: ...Please raise your head. What do you mean by "many faces"?
-Servant: ...That is— ...Ah, Sister...
-Nun: Oh my, you are trembling so much... Come, let's get you inside. I will bring you some warm soup.
-Servant: No, it is all right... More importantly, Sister...
-Servant: I do not understand that person... I just do not understand her.
-Servant: I have served her so closely for so long, and yet... I still cannot understand her.
-Servant: She is like the goddess of the moon, but at times she looks like a demon—
+Nun (Mutsumi): ...Please raise your head. What do you mean by "many faces"?
+Servant (Sakiko): ...That is— ...Ah, Sister...
+Nun (Mutsumi): Oh my, you are trembling so much... Come, let's get you inside. I will bring you some warm soup.
+Servant (Sakiko): No, it is all right... More importantly, Sister...
+Servant (Sakiko): I do not understand that person... I just do not understand her.
+Servant (Sakiko): I have served her so closely for so long, and yet... I still cannot understand her.
+Servant (Sakiko): She is like the goddess of the moon, but at times she looks like a demon—
 (Background change)
 
 [Old Castle in the Woods]
 
-Servant: When I was seven— I began serving a beautiful princess who lived in an old castle.
-Servant: Princess, I have brought your meal... Ah—
-Servant: I-I am so sorry...!
-Princess: It is all right. More importantly, are you hurt?
-Servant: ...N-No.
-Princess: Thank goodness.
-Servant: The young princess smiled kindly even on someone of my lowly station.
-Servant: Even when I accidentally cut a rose she treasured...
-Princess: It is all right. Anyone can make a mistake. Let us grow another one together, shall we?
-Servant: ...Princess—
+Servant (Sakiko): When I was seven— I began serving a beautiful princess who lived in an old castle.
+Servant (Sakiko): Princess, I have brought your meal... Ah—
+Servant (Sakiko): I-I am so sorry...!
+Princess (Mutsumi): It is all right. More importantly, are you hurt?
+Servant (Sakiko): ...N-No.
+Princess (Mutsumi): Thank goodness.
+Servant (Sakiko): The young princess smiled kindly even on someone of my lowly station.
+Servant (Sakiko): Even when I accidentally cut a rose she treasured...
+Princess (Mutsumi): It is all right. Anyone can make a mistake. Let us grow another one together, shall we?
+Servant (Sakiko): ...Princess—
 (Background change)
-Servant: That smile was like a gentle full-moon night.
-Servant: She truly lived up to her reputation as a princess. Thinking that, I served her with all my heart.
-Servant: And she treated me as if we were childhood friends.
-Princess: Hey, come over here! I have an interesting book. Shall we read it together side by side?
-Servant: Between us, there was surely a friendship and affection that transcended class.
-Servant: As I grew up and became adults, the princess's reputation grew day by day.
+Servant (Sakiko): That smile was like a gentle full-moon night.
+Servant (Sakiko): She truly lived up to her reputation as a princess. Thinking that, I served her with all my heart.
+Servant (Sakiko): And she treated me as if we were childhood friends.
+Princess (Mutsumi): Hey, come over here! I have an interesting book. Shall we read it together side by side?
+Servant (Sakiko): Between us, there was surely a friendship and affection that transcended class.
+Servant (Sakiko): As I grew up and became adults, the princess's reputation grew day by day.
 (Background change)
-Servant: Then, one day—
+Servant (Sakiko): Then, one day—
 (Background change)
 
 [Old Castle in the Woods]
 
-Stern Knight: Princess... So that I might become a knight worthy of you, I have honed my swordsmanship without ever allowing myself the slightest compromise.
-Stern Knight: I am prepared to dedicate even this life to you.
-Stern Knight: Please, I ask that you become my princess.
-Princess: ...
-Graceful Knight: Ah, my beloved Princess... Just one smile from you, and my world instantly bursts into vivid color.
-Graceful Knight: To that beautiful figure of yours, let me offer the most exquisite love.
-Graceful Knight: Come, share with me days like a dream that will never fade—
-Princess: ...
-Sincere Knight: From the moment I first saw you, my heart has been yours... If I can stay by your side, I need neither wealth nor fame.
-Sincere Knight: So that you never spend a lonely night, I will stay close to you and never leave your side for even a moment.
-Sincere Knight: Please allow me to love you with all that I am.
-Graceful Knight: Princess, please choose me...!
-Stern Knight: No, choose me!
-Sincere Knight: Choose me...!
-Princess: ...
-Princess: If you all insist that much—
-Servant: It was a smile unlike any I had ever seen.
-Servant: Proclaimed to by three knights, the princess gave each of them a trial of love.
-Servant: "If you can bring me what I desire, then I shall become that person's princess"...
+Stern Knight (Umiri): Princess... So that I might become a knight worthy of you, I have honed my swordsmanship without ever allowing myself the slightest compromise.
+Stern Knight (Umiri): I am prepared to dedicate even this life to you.
+Stern Knight (Umiri): Please, I ask that you become my princess.
+Princess (Mutsumi): ...
+Graceful Knight (Nyamu): Ah, my beloved Princess... Just one smile from you, and my world instantly bursts into vivid color.
+Graceful Knight (Nyamu): To that beautiful figure of yours, let me offer the most exquisite love.
+Graceful Knight (Nyamu): Come, share with me days like a dream that will never fade—
+Princess (Mutsumi): ...
+Sincere Knight (Uika): From the moment I first saw you, my heart has been yours... If I can stay by your side, I need neither wealth nor fame.
+Sincere Knight (Uika): So that you never spend a lonely night, I will stay close to you and never leave your side for even a moment.
+Sincere Knight (Uika): Please allow me to love you with all that I am.
+Graceful Knight (Nyamu): Princess, please choose me...!
+Stern Knight (Umiri): No, choose me!
+Sincere Knight (Uika): Choose me...!
+Princess (Mutsumi): ...
+Princess (Mutsumi): If you all insist that much—
+Servant (Sakiko): It was a smile unlike any I had ever seen.
+Servant (Sakiko): Proclaimed to by three knights, the princess gave each of them a trial of love.
+Servant (Sakiko): "If you can bring me what I desire, then I shall become that person's princess"...
 (Background change)
-Servant: The trial given to the Stern Knight was— "A magic mirror that reflects the back of whoever looks into it."
-Servant: The trial given to the Graceful Knight was— "A crown made of dust and tears."
-Servant: The trial given to the Sincere Knight was— "Fetters woven from angel feathers."
-Servant: I was ordered to accompany each of them on their quests, and so I set out on a journey as well.
-Servant: To think that it would end up like that...
+Servant (Sakiko): The trial given to the Stern Knight was— "A magic mirror that reflects the back of whoever looks into it."
+Servant (Sakiko): The trial given to the Graceful Knight was— "A crown made of dust and tears."
+Servant (Sakiko): The trial given to the Sincere Knight was— "Fetters woven from angel feathers."
+Servant (Sakiko): I was ordered to accompany each of them on their quests, and so I set out on a journey as well.
+Servant (Sakiko): To think that it would end up like that...
 (Transition)
 (Background change)
 

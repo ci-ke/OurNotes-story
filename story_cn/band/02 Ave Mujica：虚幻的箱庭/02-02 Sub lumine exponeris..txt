@@ -166,13 +166,13 @@
 【出道演出当日】
 
 （背景切换）
-Doloris：Doloris。我，毋畏悲伤
-Mortis：Mortis。我，毋畏死亡
+Doloris（初华）：Doloris。我，毋畏悲伤
+Mortis（睦）：Mortis。我，毋畏死亡
 （转场）
-Timoris：Timoris。我，毋畏恐惧
-Amoris：Amoris。我，毋畏爱
+Timoris（海铃）：Timoris。我，毋畏恐惧
+Amoris（若麦）：Amoris。我，毋畏爱
 （转场）
-Oblivionis：Oblivionis。我，毋畏忘却
+Oblivionis（祥子）：Oblivionis。我，毋畏忘却
 （转场）
 祥子：（我，是Oblivionis。 那个软弱的我，已长眠于地下……）
 （背景切换）
@@ -190,31 +190,31 @@ Oblivionis：Oblivionis。我，毋畏忘却
 祥子：……
 （转场）
 （背景切换）
-Oblivionis：——好了，宾客们就快到了
+Oblivionis（祥子）：——好了，宾客们就快到了
 （转场）
-Doloris：是谁要来？
-Oblivionis：Doloris，面向前方
+Doloris（初华）：是谁要来？
+Oblivionis（祥子）：Doloris，面向前方
 （转场）
-Mortis：是朋友要来
-Oblivionis：Mortis，你的头发乱了
+Mortis（睦）：是朋友要来
+Oblivionis（祥子）：Mortis，你的头发乱了
 （转场）
-Timoris：是将要成为我们新主人的贵客们
-Oblivionis：Timoris，领子要捋直
-Amoris：今天一定要让你们找到我～♪
-Oblivionis：Amoris。 你需要的是，完美的仪态与完美的笑容
-Oblivionis：要让宾客们看到最好的你
-Amoris：好的～
+Timoris（海铃）：是将要成为我们新主人的贵客们
+Oblivionis（祥子）：Timoris，领子要捋直
+Amoris（若麦）：今天一定要让你们找到我～♪
+Oblivionis（祥子）：Amoris。 你需要的是，完美的仪态与完美的笑容
+Oblivionis（祥子）：要让宾客们看到最好的你
+Amoris（若麦）：好的～
 （转场）
-Oblivionis：让各位久等了。 欢迎来到Ave Mujica的假面舞会
+Oblivionis（祥子）：让各位久等了。 欢迎来到Ave Mujica的假面舞会
 （转场）
-Oblivionis：今夜我们为各位来宾， 准备了美丽的人偶们
+Oblivionis（祥子）：今夜我们为各位来宾， 准备了美丽的人偶们
 （转场）
-Oblivionis：慈爱的Amoris
-Oblivionis：聪慧的Timoris
-Oblivionis：顺从的Mortis
-Oblivionis：善良的Doloris
-Oblivionis：而我是……高贵的Oblivionis
-Oblivionis：请好好欣赏。这完美的笑容
+Oblivionis（祥子）：慈爱的Amoris
+Oblivionis（祥子）：聪慧的Timoris
+Oblivionis（祥子）：顺从的Mortis
+Oblivionis（祥子）：善良的Doloris
+Oblivionis（祥子）：而我是……高贵的Oblivionis
+Oblivionis（祥子）：请好好欣赏。这完美的笑容
 （转场）
 （背景切换）
 若麦：——完美？

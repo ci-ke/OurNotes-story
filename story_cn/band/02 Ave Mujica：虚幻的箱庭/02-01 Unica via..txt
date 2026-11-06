@@ -11,16 +11,16 @@
 （转场）
 （背景切换）
 （转场）
-Doloris：……
-Oblivionis：Doloris……苏醒之夜已至
-Amoris：需要我帮忙叫醒她吗？
-Timoris：如果强行唤醒，她的灵魂可能会崩溃
-Mortis：姐姐大人
-Oblivionis：放心吧，月光会为我们唤醒她的
-Oblivionis：被阴影吞没的月亮将重获生机， 可怜的人偶，会再度获得暂时的生命……
+Doloris（初华）：……
+Oblivionis（祥子）：Doloris……苏醒之夜已至
+Amoris（若麦）：需要我帮忙叫醒她吗？
+Timoris（海铃）：如果强行唤醒，她的灵魂可能会崩溃
+Mortis（睦）：姐姐大人
+Oblivionis（祥子）：放心吧，月光会为我们唤醒她的
+Oblivionis（祥子）：被阴影吞没的月亮将重获生机， 可怜的人偶，会再度获得暂时的生命……
 （转场）
-Doloris：……！
-Oblivionis：让我们开始吧。今夜的假面舞会！
+Doloris（初华）：……！
+Oblivionis（祥子）：让我们开始吧。今夜的假面舞会！
 （转场）
 （背景切换）
 （播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01/adv_movie_killkiss_mujica_01.mp4）

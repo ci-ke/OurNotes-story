@@ -5,21 +5,21 @@
 （转场）
 （背景切换）
 睦：（不能失敗……沒有重新再來的機會── ……呼……呼……）
-Amoris：把我美麗的臉蛋還給我！ 把那雙可愛的大眼睛，那劃出美麗弧線的嘴巴還給我……！
+Amoris（若麥）：把我美麗的臉蛋還給我！ 把那雙可愛的大眼睛，那劃出美麗弧線的嘴巴還給我……！
 （转场）
 （背景切换）
 睦：<size=175%>唔……！
 睦：（……已經開始了？什麼時候開始的？）
-Amoris：這副模樣根本就不是真正的我！
-Oblivionis：Amoris，這就是妳所期望的。
-Amoris：不對！我是…… 月亮呢？如果是月光的話，一定能讓我閃耀光輝…………！
-Doloris：沒錯，月亮一定能……！
-Timoris：……很遺憾，月亮不會治癒任何人。
-Oblivionis：不僅如此，它還會追趕我們到天涯海角。
+Amoris（若麥）：這副模樣根本就不是真正的我！
+Oblivionis（祥子）：Amoris，這就是妳所期望的。
+Amoris（若麥）：不對！我是…… 月亮呢？如果是月光的話，一定能讓我閃耀光輝…………！
+Doloris（初華）：沒錯，月亮一定能……！
+Timoris（海鈴）：……很遺憾，月亮不會治癒任何人。
+Oblivionis（祥子）：不僅如此，它還會追趕我們到天涯海角。
 （转场）
 （背景切换）
 睦：呼……呼……
-Oblivionis：面具一旦毀壞， 就只能以這張臉活下去了……
+Oblivionis（祥子）：面具一旦毀壞， 就只能以這張臉活下去了……
 睦：……！
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp）
 成群的睦：……
@@ -27,8 +27,8 @@ Oblivionis：面具一旦毀壞， 就只能以這張臉活下去了……
 （背景切换）
 睦：已經……逃不掉了……
 （转场）
-Oblivionis：如果說妳依然渴求慰藉……
-Oblivionis：──就將一切委身於Ave Mujica吧。
+Oblivionis（祥子）：如果說妳依然渴求慰藉……
+Oblivionis（祥子）：──就將一切委身於Ave Mujica吧。
 初華：──♪
 睦：（──不能失敗……）
 睦：（不能失敗不能失敗不能失敗不能失──）
@@ -84,10 +84,10 @@ Oblivionis：──就將一切委身於Ave Mujica吧。
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp）
 睦：……
 （转场）
-Mortis：……小睦？
+Mortis（睦）：……小睦？
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000089/data/adv_still_anime_000089/adv_still_anime_000089.webp）
-Mortis：妳又睡不著了嗎？
+Mortis（睦）：妳又睡不著了嗎？
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000090/data/adv_still_anime_000090/adv_still_anime_000090.webp）
 睦：為什麼我每次都會搞砸…… 把事情弄得一團糟呢？
 （转场）
@@ -96,7 +96,7 @@ Mortis：妳又睡不著了嗎？
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp）
 （说明）：Mortis TV Show
-Mortis：小睦！歡迎妳今天蒞臨本節目！
+Mortis（睦）：小睦！歡迎妳今天蒞臨本節目！
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp）
@@ -109,7 +109,7 @@ Mortis：小睦！歡迎妳今天蒞臨本節目！
 小貓：和妳媽媽一模一樣呢！
 企鵝：以後是不是也會成為像南小姐一樣出色的女演員呢？
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp）
-Mortis：「像媽媽一樣是什麼意思？」
+Mortis（睦）：「像媽媽一樣是什麼意思？」
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000096/data/adv_still_anime_000096/adv_still_anime_000096.webp）
 睦：……
 睦：（該回答什麼才好？ ……我真的不知道。）
@@ -121,7 +121,7 @@ Mortis：「像媽媽一樣是什麼意思？」
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000096/data/adv_still_anime_000096/adv_still_anime_000096.webp）
 （背景切换）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000097/data/adv_still_anime_000097/adv_still_anime_000097.webp）
-Mortis：「如各位所見，小睦從以前就不擅長開口說話。」
+Mortis（睦）：「如各位所見，小睦從以前就不擅長開口說話。」
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000098/data/adv_still_anime_000098/adv_still_anime_000098.webp）
 九官鳥：不擅長開口說話？ 幸好沒像到從嘴巴生出來的爸爸。
 隆文：吵死了，你說誰全身都是嘴啊？（笑）
@@ -132,13 +132,13 @@ Mortis：「如各位所見，小睦從以前就不擅長開口說話。」
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp）
 南：就是說啊，小睦是個可愛的孩子～ 而且還很有才華，我不是在對自己女兒偏心喔。
 睦：……不管得到多少誇獎， 也都是屬小南和小隆的。
-Mortis：「屬於小睦的東西，一個也沒有。」
+Mortis（睦）：「屬於小睦的東西，一個也沒有。」
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000100/data/adv_still_anime_000100/adv_still_anime_000100.webp）
 吉他：～～♪
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp）
 睦：……
-Mortis：「那把吉他，看起來很愉快地在唱著歌。」
+Mortis（睦）：「那把吉他，看起來很愉快地在唱著歌。」
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000100/data/adv_still_anime_000100/adv_still_anime_000100.webp）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp）
@@ -146,9 +146,9 @@ Mortis：「那把吉他，看起來很愉快地在唱著歌。」
 睦：啊……
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000103/data/adv_still_anime_000103/adv_still_anime_000103.webp）
-Mortis：「她每天不斷地彈著吉他，總是形影不離。」
+Mortis（睦）：「她每天不斷地彈著吉他，總是形影不離。」
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000104/data/adv_still_anime_000104/adv_still_anime_000104.webp）
-Mortis：「小睦現在終於得到 『只屬於小睦的東西』了。」
+Mortis（睦）：「小睦現在終於得到 『只屬於小睦的東西』了。」
 吉他：我也好想唱歌喔。
 睦：……咦？
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000103/data/adv_still_anime_000103/adv_still_anime_000103.webp）
@@ -159,7 +159,7 @@ Mortis：「小睦現在終於得到 『只屬於小睦的東西』了。」
 （背景切换）
 （播放视频：https://assets.bdon.moe/zh-Hant/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4）
 （说明）：春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
-Mortis：「但是神明非常壞心， 因為祂沒有賦予讓吉他唱歌的才能。」
+Mortis（睦）：「但是神明非常壞心， 因為祂沒有賦予讓吉他唱歌的才能。」
 吉他：好棒喔，好棒喔。小燈的歌唱得好棒喔。 小希的鼓聲好帥氣喔！
 睦：！
 吉他：小爽的貝斯音色總是那麼溫柔。 然後小祥子她……真的好厲害！
@@ -184,10 +184,10 @@ Mortis：「但是神明非常壞心， 因為祂沒有賦予讓吉他唱歌的�
 睦：我之所以無法感到開心，是因為…… 我不夠好……
 睦：沒辦法讓妳唱歌……
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000108/data/adv_still_anime_000108/adv_still_anime_000108.webp）
-Mortis：「睦呆然佇立著。」
+Mortis（睦）：「睦呆然佇立著。」
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp）
 睦：是我……毀了CRYCHIC。
-Mortis：「她感到絕望，身體縮成一團──」
+Mortis（睦）：「她感到絕望，身體縮成一團──」
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp）
 （插入CG：https://assets.bdon.moe/zh-Hant/Adv/Still/anime/adv_still_anime_000108/data/adv_still_anime_000108/adv_still_anime_000108.webp）
@@ -278,13 +278,13 @@ Mortis：「她感到絕望，身體縮成一團──」
 睦：……
 （转场）
 （背景切换）
-Mortis：我討厭小祥子。
+Mortis（睦）：我討厭小祥子。
 睦：……！
-Mortis：因為小若說得沒錯啊。 就是一直聽小祥子的話，小睦才會這麼痛苦。
-Mortis：對健康不好喔！
+Mortis（睦）：因為小若說得沒錯啊。 就是一直聽小祥子的話，小睦才會這麼痛苦。
+Mortis（睦）：對健康不好喔！
 睦：……我只是不想毀掉這一切。
-Mortis：妳不希望搞砸樂團吧？ 可是再這樣下去，妳會先壞掉的。
-Mortis：……覺得難受的話要說喔，我好擔心妳。
+Mortis（睦）：妳不希望搞砸樂團吧？ 可是再這樣下去，妳會先壞掉的。
+Mortis（睦）：……覺得難受的話要說喔，我好擔心妳。
 睦：……
 （背景切换）
 ？？？（海鈴）：──若葉同學、若葉同學。
@@ -447,23 +447,23 @@ Mortis：……覺得難受的話要說喔，我好擔心妳。
 （背景切换）
 （播放视频：https://assets.bdon.moe/zh-Hant/Cri/Video/adv/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03.mp4）
 （说明）：モーティスウォルドルフ人形捕食シーン
-（字幕）Mortis：妳一定很難受吧？
-（字幕）Mortis：妳一定很痛苦吧？
-（字幕）Mortis：只有我是站在小睦妳這邊的喔。
+（字幕）Mortis（睦）：妳一定很難受吧？
+（字幕）Mortis（睦）：妳一定很痛苦吧？
+（字幕）Mortis（睦）：只有我是站在小睦妳這邊的喔。
 （字幕）睦：Mortis……
 （字幕）睦：咦……？
 （转场）
 （背景切换）
 工作人員A：廣告時間結束！倒數五秒鐘，四、三──
-Mortis：──每次甦醒時都會重獲新生， 而再也不會甦醒的，則是永遠的死。
-Mortis：我願為妳編織搖籃。 用天鵝絨製成，如棺材般的搖籃曲，將妳溫柔包覆。
-Mortis：妳甚至不會察覺自己已陷入沉眠。
+Mortis（睦）：──每次甦醒時都會重獲新生， 而再也不會甦醒的，則是永遠的死。
+Mortis（睦）：我願為妳編織搖籃。 用天鵝絨製成，如棺材般的搖籃曲，將妳溫柔包覆。
+Mortis（睦）：妳甚至不會察覺自己已陷入沉眠。
 海鈴：到底是怎麼回事？
 初華：我、我不知道。
 （转场）
 若麥：……
-Mortis：所以說，已經不會有事了！
+Mortis（睦）：所以說，已經不會有事了！
 祥子：……睦？
-Mortis：晚安，祝妳有個好夢。
+Mortis（睦）：晚安，祝妳有個好夢。
 （转场）
 旁白：不論那是沉睡或死亡，都願她……至少能得到安寧。

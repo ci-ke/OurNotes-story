@@ -140,86 +140,86 @@ Sakiko: Then, let's enjoy it. Ave Mujica.
 (Transition)
 (Background change)
 (Background change)
-Doloris: Is this Paradisus...?
-Timoris: Are you a newcomer?
-Doloris: I am Doloris, the Knight of Sorrow. I have come to serve the goddess, Oblivionis.
-Amoris: Hmm? Didn't know there were others like us out there.
-Timoris: We are the same, Doloris. I am Timoris, the Knight of Fear.
-Amoris: Amoris, the Knight of Love. And there...
-Amoris: Just what are you doing?
-Mortis: I'm listening.
-Amoris: So, what is it?
-Mortis: The sound of the world breaking.
-Amoris: Mortis, the Knight of Death. She's a strange one.
+Doloris (Uika): Is this Paradisus...?
+Timoris (Umiri): Are you a newcomer?
+Doloris (Uika): I am Doloris, the Knight of Sorrow. I have come to serve the goddess, Oblivionis.
+Amoris (Nyamu): Hmm? Didn't know there were others like us out there.
+Timoris (Umiri): We are the same, Doloris. I am Timoris, the Knight of Fear.
+Amoris (Nyamu): Amoris, the Knight of Love. And there...
+Amoris (Nyamu): Just what are you doing?
+Mortis (Mutsumi): I'm listening.
+Amoris (Nyamu): So, what is it?
+Mortis (Mutsumi): The sound of the world breaking.
+Amoris (Nyamu): Mortis, the Knight of Death. She's a strange one.
 (Transition)
-Doloris: ...
-Timoris: Don't worry. As long as you're here, nothing frightening will happen. I, of all people, will promise you.
-Amoris: Ahahahaha! You're just saying random things!
-Timoris: Don't call me random.
-Amoris: In the end, isn't it just a fleeting little world?
-Amoris: Until the moment the world breaks, we just dance and live happily.
-Mortis: A Paradisus filled with deceit.
-Mortis: Oblivionis isn't here, unfortunately.
-Doloris: Huh?
-Mortis: She disappeared a long time ago.
-Doloris: No way...
-Mortis: We've been wishing for it all this time too. The day she returns to paradise and grants us forgetfulness...
-Mortis: My life stands on top of many deaths. I never wished for it... but for me to live on...
-Mortis: One yesterday, one today... I want to forget everything.
-Amoris: The sound of the world breaking? I can't hear it... Why, why can she!?
-Amoris: Please, make me forget this love that fills me with envy and hate!
-Timoris: No one trusts me. No one finds me trustworthy. I want to forget this fear, but I can't...!
-Mortis: All we can do is wish.
-Doloris: No! I just can't bear it!
-Doloris: My sin is deep, my very existence is a sin! I want to forget everything and be saved!
-Amoris: Can't it be love?
-Doloris: It can't be.
-Timoris: How about fear?
-Doloris: It's not.
-Mortis: I offer death.
-Doloris: I don't need any of that! Not love, not fear, not death, not sorrow! Only forgetting can save me from this torment!
-??? (Oblivionis): <size=150%>Really?
-Doloris: ? This voice...
-??? (Oblivionis): Is forgetting the only reason you came to this land?
-Doloris: It's happening again! This voice I always hear!
-??? (Oblivionis): Doloris, your true wish is...
+Doloris (Uika): ...
+Timoris (Umiri): Don't worry. As long as you're here, nothing frightening will happen. I, of all people, will promise you.
+Amoris (Nyamu): Ahahahaha! You're just saying random things!
+Timoris (Umiri): Don't call me random.
+Amoris (Nyamu): In the end, isn't it just a fleeting little world?
+Amoris (Nyamu): Until the moment the world breaks, we just dance and live happily.
+Mortis (Mutsumi): A Paradisus filled with deceit.
+Mortis (Mutsumi): Oblivionis isn't here, unfortunately.
+Doloris (Uika): Huh?
+Mortis (Mutsumi): She disappeared a long time ago.
+Doloris (Uika): No way...
+Mortis (Mutsumi): We've been wishing for it all this time too. The day she returns to paradise and grants us forgetfulness...
+Mortis (Mutsumi): My life stands on top of many deaths. I never wished for it... but for me to live on...
+Mortis (Mutsumi): One yesterday, one today... I want to forget everything.
+Amoris (Nyamu): The sound of the world breaking? I can't hear it... Why, why can she!?
+Amoris (Nyamu): Please, make me forget this love that fills me with envy and hate!
+Timoris (Umiri): No one trusts me. No one finds me trustworthy. I want to forget this fear, but I can't...!
+Mortis (Mutsumi): All we can do is wish.
+Doloris (Uika): No! I just can't bear it!
+Doloris (Uika): My sin is deep, my very existence is a sin! I want to forget everything and be saved!
+Amoris (Nyamu): Can't it be love?
+Doloris (Uika): It can't be.
+Timoris (Umiri): How about fear?
+Doloris (Uika): It's not.
+Mortis (Mutsumi): I offer death.
+Doloris (Uika): I don't need any of that! Not love, not fear, not death, not sorrow! Only forgetting can save me from this torment!
+??? (Oblivionis (Sakiko)): <size=150%>Really?
+Doloris (Uika): ? This voice...
+??? (Oblivionis (Sakiko)): Is forgetting the only reason you came to this land?
+Doloris (Uika): It's happening again! This voice I always hear!
+??? (Oblivionis (Sakiko)): Doloris, your true wish is...
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp)
-Doloris: ...!
-Amoris: No way...
+Doloris (Uika): ...!
+Amoris (Nyamu): No way...
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000169/data/adv_still_anime_000169/adv_still_anime_000169.webp)
-Timoris: Oblivionis. Oh, Goddess of Forgetfulness, please, allow me to become your knight.
+Timoris (Umiri): Oblivionis. Oh, Goddess of Forgetfulness, please, allow me to become your knight.
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000170/data/adv_still_anime_000170/adv_still_anime_000170.webp)
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000171/data/adv_still_anime_000171/adv_still_anime_000171.webp)
-Doloris: Wait! Let me be your knight too! Grant me the gospel of forgetfulness—
-Oblivionis: How many times must I tell you? No matter how many times I grant you forgetfulness, you always return to paradise.
-Doloris: What are you saying...? Today is the first time I've come here...
+Doloris (Uika): Wait! Let me be your knight too! Grant me the gospel of forgetfulness—
+Oblivionis (Sakiko): How many times must I tell you? No matter how many times I grant you forgetfulness, you always return to paradise.
+Doloris (Uika): What are you saying...? Today is the first time I've come here...
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000172/data/adv_still_anime_000172/adv_still_anime_000172.webp)
-??? (Doloris): Really?
-Doloris: <size=175%>!?
-??? (Doloris): Remember, Doloris. How many times have you visited this land?
+??? (Doloris (Uika)): Really?
+Doloris (Uika): <size=175%>!?
+??? (Doloris (Uika)): Remember, Doloris. How many times have you visited this land?
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp)
-??? (Doloris): Why do you know the name of Oblivionis? Why do you seek forgetfulness?
-Doloris: I just want to see her...
+??? (Doloris (Uika)): Why do you know the name of Oblivionis? Why do you seek forgetfulness?
+Doloris (Uika): I just want to see her...
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp)
-Oblivionis: You are no knight of mine.
+Oblivionis (Sakiko): You are no knight of mine.
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000175/data/adv_still_anime_000175/adv_still_anime_000175.webp)
-Doloris: ! I will forget you! If that means I can be by your side, I will forget everything.
+Doloris (Uika): ! I will forget you! If that means I can be by your side, I will forget everything.
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000176/data/adv_still_anime_000176/adv_still_anime_000176.webp)
-Doloris: I will forget you. I will even forget this sorrow.
+Doloris (Uika): I will forget you. I will even forget this sorrow.
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000175/data/adv_still_anime_000175/adv_still_anime_000175.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000176/data/adv_still_anime_000176/adv_still_anime_000176.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000177/data/adv_still_anime_000177/adv_still_anime_000177.webp)
-Oblivionis: Then, take up your sword!
+Oblivionis (Sakiko): Then, take up your sword!
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000178/data/adv_still_anime_000178/adv_still_anime_000178.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000179/data/adv_still_anime_000179/adv_still_anime_000179.webp)
 (Transition)
@@ -228,9 +228,9 @@ Oblivionis: Then, take up your sword!
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000179/data/adv_still_anime_000179/adv_still_anime_000179.webp)
 (Background change)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000180/data/adv_still_anime_000180/adv_still_anime_000180.webp)
-Oblivionis: Even if everyone tries to forget, I, the Goddess of Forgetfulness, will never forget. Until the moment when the world reaches its end...
+Oblivionis (Sakiko): Even if everyone tries to forget, I, the Goddess of Forgetfulness, will never forget. Until the moment when the world reaches its end...
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000181/data/adv_still_anime_000181/adv_still_anime_000181.webp)
-Oblivionis: In this twilight paradise, I will continue to reign!
+Oblivionis (Sakiko): In this twilight paradise, I will continue to reign!
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000180/data/adv_still_anime_000180/adv_still_anime_000180.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000181/data/adv_still_anime_000181/adv_still_anime_000181.webp)

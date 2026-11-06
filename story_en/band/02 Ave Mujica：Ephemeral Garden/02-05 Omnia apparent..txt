@@ -288,12 +288,12 @@ Mutsumi?: Ah, I got it wrong. It's more like she's asleep, as if dead.
 Sakiko: <size=175%>Don't joke around!
 Mutsumi?: I'm serious.
 Sakiko: What do you mean by "asleep"? Explain it to me!
-Mortis: My name is Mortis.
-Mortis: A long time ago, I chatted with Mutsumi-chan, played with dolls, and had lots of fun.
+Mortis (Mutsumi): My name is Mortis.
+Mortis (Mutsumi): A long time ago, I chatted with Mutsumi-chan, played with dolls, and had lots of fun.
 Sakiko: A long... time ago?
-Mortis: After Mutsumi-chan started playing guitar, she joined Sakiko-chan's band, with no idea that would be the start of her suffering.
-Mortis: One day, when Mutsumi-chan couldn't sleep from all the pain, she desperately followed Sakiko-chan, seeking help.
-Mortis: But Sakiko-chan, only thinking of herself, scolded Mutsumi-chan harshly.
+Mortis (Mutsumi): After Mutsumi-chan started playing guitar, she joined Sakiko-chan's band, with no idea that would be the start of her suffering.
+Mortis (Mutsumi): One day, when Mutsumi-chan couldn't sleep from all the pain, she desperately followed Sakiko-chan, seeking help.
+Mortis (Mutsumi): But Sakiko-chan, only thinking of herself, scolded Mutsumi-chan harshly.
 Sakiko: Ah...
 (Transition)
 (Background change)
@@ -302,14 +302,14 @@ Sakiko: Why aren't you on my side!?
 Mutsumi: ...
 (Transition)
 (Background change)
-Mortis: Just like this, with all the wounds on her, Mutsumi-chan sank into a deep, deep slumber.
+Mortis (Mutsumi): Just like this, with all the wounds on her, Mutsumi-chan sank into a deep, deep slumber.
 (Transition)
-Mortis: That's why I hate Sakiko-chan.
+Mortis (Mutsumi): That's why I hate Sakiko-chan.
 Sakiko: ...
-Mortis: Don't worry. I will protect Mutsumi-chan and her favorite band.
-Mortis: But...
+Mortis (Mutsumi): Don't worry. I will protect Mutsumi-chan and her favorite band.
+Mortis (Mutsumi): But...
 (Transition)
-Mortis: If Sakiko-chan keeps being like this, Mutsumi-chan might never be back.
+Mortis (Mutsumi): If Sakiko-chan keeps being like this, Mutsumi-chan might never be back.
 (Transition)
 Sakiko: I...
 Uika: Saki-chan...! You were here.
@@ -320,9 +320,9 @@ Sakiko: That... wasn't Mutsumi...
 Umiri: Wakaba-san said that... That just came out of nowhere.
 Uika: A split personality?
 Sakiko: !!
-Mortis: Were you calling for me? Ah, everyone's here~ What were you talking about?
+Mortis (Mutsumi): Were you calling for me? Ah, everyone's here~ What were you talking about?
 Nyamu: Is it true you have a split personality?
-Mortis: Hmm... So you told everyone about it, Sakiko-chan♪
+Mortis (Mutsumi): Hmm... So you told everyone about it, Sakiko-chan♪
 Sakiko: ...
 Umiri: Let's decide what to do moving forward. We didn't even get to rehearse... Tomorrow's live will have to be canceled, right?
 Sakiko: We can't cancel it...
@@ -331,8 +331,8 @@ Sakiko: We don't have it.
 Umiri: This is the downside of insisting on live performances.
 Uika: Mutsumi-chan's guitar is the core of the songs. I can't handle it all on my own.
 Umiri: If we're going to hold the live, I'll immediately find someone to help.
-Mortis: I can handle it, no matter how many hours it takes!
-Mortis: Whether they're here for a play or the music, I'll make sure my performance satisfies them completely!
+Mortis (Mutsumi): I can handle it, no matter how many hours it takes!
+Mortis (Mutsumi): Whether they're here for a play or the music, I'll make sure my performance satisfies them completely!
 Sakiko: But that... doesn't count as a band anymore...
 Nyamu: You know, I've been holding back for a long time.
 Sakiko: Eh...
@@ -366,7 +366,7 @@ Nyamu: What are you suggesting?
 (Background change)
 Sakiko: I want Mutsumi back.
 Nyamu: You fool! I'll quit.
-Umiri & Uika & Mortis & Sakiko: <size=175%>!!!
+Umiri & Uika & Mortis (Mutsumi) & Sakiko: <size=175%>!!!
 Nyamu: When I saw your clothes at first, I thought you were sloppy, but then I assumed you'd leave your high-society status behind to take this seriously.
 (Background change)
 Nyamu: I really thought we'd climb to the top together.
@@ -376,56 +376,56 @@ Nyamu: What "Give me your life"! I don't have time to play house with a rich gir
 Sakiko: ...
 Nyamu: Uiko, if one person quits, Ave Mujica is over, right?
 Uika: Ah, that's...
-Mortis: Huh? How did it come to this?
+Mortis (Mutsumi): Huh? How did it come to this?
 Uika: Calm down...
 Nyamu: I am calm. She did say it, didn't she?
 Umiri: Yes, you did.
 Uika: If I hadn't said it back then...
-Mortis: Uika-chan, you are always lying. Didn't you say it was because you wanted to stay with Sakiko-chan?
+Mortis (Mutsumi): Uika-chan, you are always lying. Didn't you say it was because you wanted to stay with Sakiko-chan?
 Uika: ...
-Mortis: That's why we don't have to disband!
+Mortis (Mutsumi): That's why we don't have to disband!
 Umiri & Uika & Nyamu & Sakiko: ...
-Mortis: I don't want it! Absolutely not! We absolutely won't disband!
-Mortis: A band is about playing music together and destinies becoming one! Our mission is none other than to give our guests a dream-like experience!
-Mortis: Now is the time to determine the true value of the band! Sakiko-chan, isn't Mujica the only thing you have left in this world?
+Mortis (Mutsumi): I don't want it! Absolutely not! We absolutely won't disband!
+Mortis (Mutsumi): A band is about playing music together and destinies becoming one! Our mission is none other than to give our guests a dream-like experience!
+Mortis (Mutsumi): Now is the time to determine the true value of the band! Sakiko-chan, isn't Mujica the only thing you have left in this world?
 Sakiko: ...
 Umiri: *Sigh*... It's only a matter of time. Not many bands last.
-Mortis: Why? Why are we even talking about disbanding?
-Mortis: How did it come to this? We talked about this already, didn't we? All of us!
-Mortis: Uika-chan! After I told you to "take care of Sakiko-chan," didn't you smile happily?
+Mortis (Mutsumi): Why? Why are we even talking about disbanding?
+Mortis (Mutsumi): How did it come to this? We talked about this already, didn't we? All of us!
+Mortis (Mutsumi): Uika-chan! After I told you to "take care of Sakiko-chan," didn't you smile happily?
 Uika: ...
-Mortis: Nyamu-chan! Didn't we talk about using everyone's strengths to make Mujica even better?
+Mortis (Mutsumi): Nyamu-chan! Didn't we talk about using everyone's strengths to make Mujica even better?
 Nyamu: ...
-Mortis: Even Umiri-chan said, "if Mujica could become a place I can call home, that would be great."
+Mortis (Mutsumi): Even Umiri-chan said, "if Mujica could become a place I can call home, that would be great."
 Umiri: ...
 Nyamu: You've got it wrong.
-Mortis: What "wrong"!?
+Mortis (Mutsumi): What "wrong"!?
 Nyamu: Why are you in Mujica in the first place?
-Mortis: Eh?
+Mortis (Mutsumi): Eh?
 Nyamu: When you acted as a doll, honestly, it scared me to the point of trembling. Even though I knew there were no strings...
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000086/data/adv_still_anime_000086/adv_still_anime_000086.webp)
 Nyamu: I saw the strings pulled tight, then snap.
 Nyamu: Even though I felt frustrated, I realized that this is what true genius looks like...
 (Transition)
 Nyamu: You shouldn't belong here.
-Mortis: Why? Why would you be mean to me? Is it because I can't play the guitar? Say something!
-Mortis: Nobody's leaving, right? We'll stay together as a band, right?
+Mortis (Mutsumi): Why? Why would you be mean to me? Is it because I can't play the guitar? Say something!
+Mortis (Mutsumi): Nobody's leaving, right? We'll stay together as a band, right?
 (Transition)
-Mortis: Sakiko-chan! Uika-chan! Umiri-chan!
-Mortis: How could this happen...
+Mortis (Mutsumi): Sakiko-chan! Uika-chan! Umiri-chan!
+Mortis (Mutsumi): How could this happen...
 (Transition)
 
 [The Performance]
 
 (Background change)
-Oblivionis: The moon sinks into the earth.
-Mortis: Stop!
-Amoris: Our fleeting lives end here.
-Mortis: Why would you say something like that?
-Timoris: The dolls no longer exist.
+Oblivionis (Sakiko): The moon sinks into the earth.
+Mortis (Mutsumi): Stop!
+Amoris (Nyamu): Our fleeting lives end here.
+Mortis (Mutsumi): Why would you say something like that?
+Timoris (Umiri): The dolls no longer exist.
 (Transition)
-Mortis: But I'm still here!
-Doloris: With tonight's masquerade—
-Mortis: Stop! Don't say it!
-Doloris: We announce the curtain call of Ave Mujica.
-Mortis: <size=175%>Nooooooo!
+Mortis (Mutsumi): But I'm still here!
+Doloris (Uika): With tonight's masquerade—
+Mortis (Mutsumi): Stop! Don't say it!
+Doloris (Uika): We announce the curtain call of Ave Mujica.
+Mortis (Mutsumi): <size=175%>Nooooooo!

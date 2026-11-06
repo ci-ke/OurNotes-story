@@ -42,7 +42,7 @@
 （转场）
 （背景切换）
 海铃：你要吃些能量棒吗？
-Mortis：……
+Mortis（睦）：……
 海铃：不需要啊……
 海铃：（自那天起……）
 （转场）
@@ -58,11 +58,11 @@ Mortis：……
 海铃：诶，丰川同学？什么意思？怎么突然这么说
 祥子：我是说Ave Mujica的成员
 海铃：！
-Mortis：……你愿意组Ave Mujica了？
+Mortis（睦）：……你愿意组Ave Mujica了？
 祥子：我要你模仿吉他的弹奏。 ……『睦』
-Mortis：小祥子……我、我不会弹吉他……
+Mortis（睦）：小祥子……我、我不会弹吉他……
 祥子：但是一次错误都不准犯。『你』的话一定能做到吧
-Mortis：……
+Mortis（睦）：……
 （转场）
 （背景切换）
 南：这不是小若麦嘛。事到如今还来做什么呢？
@@ -75,7 +75,7 @@ Mortis：……
 祥子：<size=150%>我要复活Ave Mujica
 祥子：各位的人生，我切实地收下了。 今后无论发生什么事，都不允许退出
 （转场）
-Mortis：……
+Mortis（睦）：……
 若麦：……？
 （转场）
 祥子：这是契约
@@ -83,7 +83,7 @@ Mortis：……
 初华：……好！
 海铃：好的
 若麦：行
-Mortis：……
+Mortis（睦）：……
 祥子：八幡同学，我希望下周就进行演出，麻烦调整日程表
 海铃：明白了
 （转场）
@@ -117,19 +117,19 @@ Mortis：……
 祥子：（……我已经没法逃避了。也不允许我再逃避了。 ……从今往后，我将永远背负着这种沉重走下去）
 （转场）
 （背景切换）
-Mortis：——♪
+Mortis（睦）：——♪
 若麦：睦子真的消失了啊～
-Mortis：……！
+Mortis（睦）：……！
 若麦：接下来你也要一直演若叶睦吗？
-Mortis：………我只有演『小睦』这一个选择
+Mortis（睦）：………我只有演『小睦』这一个选择
 若麦：我可不会乖乖受骗
-Mortis：～～～！小若麦真讨厌！ 别看我了！你走开！
+Mortis（睦）：～～～！小若麦真讨厌！ 别看我了！你走开！
 若麦：不是我想看。只是目光离不开你而已…… 看着你的表演，我就会怀疑自己究竟算什么
 若麦：让人嫉妒。我嫉妒着你，羡慕着你
 若麦：爱怜着你……
-Mortis：……
+Mortis（睦）：……
 若麦：『我……做了个梦。无论我怎么去爱，都无法彻底爱上』
-Mortis：真希望你能对小睦说啊
+Mortis（睦）：真希望你能对小睦说啊
 （转场）
 （背景切换）
 （转场）
@@ -138,32 +138,32 @@ Mortis：真希望你能对小睦说啊
 （转场）
 （转场）
 （转场）
-Mortis：月光正照耀着我们。苏醒的时刻到了——
-Mortis：Doloris、Timoris、Amoris、Oblivionis…… 月亮升起来了
+Mortis（睦）：月光正照耀着我们。苏醒的时刻到了——
+Mortis（睦）：Doloris、Timoris、Amoris、Oblivionis…… 月亮升起来了
 （转场）
-Doloris：……我……
-Oblivionis：这里是
-Timoris：这似乎并非阁楼之月
-Amoris：……
-Mortis：明月啊，请照亮贪睡的孩子。赋予其新的生命
-Amoris：……嗯
-Mortis：你醒了？Amoris
-Amoris：我……做了个梦
-Mortis：什么样的梦？
-Amoris：无论我怎么去爱，都无法彻底爱上…… 都无法得到爱……！
-Mortis：我也是……
-Mortis：（……真希望能被小睦爱着啊）
-Mortis：（想和小睦一起……活下去）
+Doloris（初华）：……我……
+Oblivionis（祥子）：这里是
+Timoris（海铃）：这似乎并非阁楼之月
+Amoris（若麦）：……
+Mortis（睦）：明月啊，请照亮贪睡的孩子。赋予其新的生命
+Amoris（若麦）：……嗯
+Mortis（睦）：你醒了？Amoris
+Amoris（若麦）：我……做了个梦
+Mortis（睦）：什么样的梦？
+Amoris（若麦）：无论我怎么去爱，都无法彻底爱上…… 都无法得到爱……！
+Mortis（睦）：我也是……
+Mortis（睦）：（……真希望能被小睦爱着啊）
+Mortis（睦）：（想和小睦一起……活下去）
 （转场）
 （背景切换）
-Mortis：（如果……如果还能来得及的话）
-Mortis：（神啊，如果能再见小睦一面，我愿意付出任何代价。 我只有这一个心愿了）
+Mortis（睦）：（如果……如果还能来得及的话）
+Mortis（睦）：（神啊，如果能再见小睦一面，我愿意付出任何代价。 我只有这一个心愿了）
 （播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4）
 （说明）：Imprisoned XII　ライブシーン
 （播放视频：https://assets.bdon.moe/zh-Hans/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4）
 （说明）：Crucifix X　ライブシーン
-（字幕）Doloris：命运的齿轮重新开始转动
-（字幕）Doloris：欢迎来到AveMujica的世界
+（字幕）Doloris（初华）：命运的齿轮重新开始转动
+（字幕）Doloris（初华）：欢迎来到AveMujica的世界
 （转场）
 
 【演出结束后】

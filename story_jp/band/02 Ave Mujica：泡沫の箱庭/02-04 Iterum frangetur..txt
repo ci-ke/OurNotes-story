@@ -5,21 +5,21 @@
 (Transition)
 (Background change)
 睦: （失敗はできない……後戻りは許されない—— ……はぁ……はぁ……）
-アモーリス: ねえ、アタシの完璧な顔を返して！ 愛らしくて大きな目を、美しく弧を描く口を返して……！
+アモーリス (にゃむ): ねえ、アタシの完璧な顔を返して！ 愛らしくて大きな目を、美しく弧を描く口を返して……！
 (Transition)
 (Background change)
 睦: <size=175%>……！
 睦: （……始まってる？　いつの間に？）
-アモーリス: こんなの本当のアタシじゃない！
-オブリビオニス: アモーリス、あなたが望んだことです
-アモーリス: 違う！　アタシは…… 月は？　月の光なら、きっとアタシを輝かせてくれる………！
-ドロリス: そうだ、月ならきっと……！
-ティモリス: ……残念ですが、月は誰も癒しはしません
-オブリビオニス: それどころか、どこまでも追い詰める
+アモーリス (にゃむ): こんなの本当のアタシじゃない！
+オブリビオニス (祥子): アモーリス、あなたが望んだことです
+アモーリス (にゃむ): 違う！　アタシは…… 月は？　月の光なら、きっとアタシを輝かせてくれる………！
+ドロリス (初華): そうだ、月ならきっと……！
+ティモリス (海鈴): ……残念ですが、月は誰も癒しはしません
+オブリビオニス (祥子): それどころか、どこまでも追い詰める
 (Transition)
 (Background change)
 睦: はぁ……はぁ………
-オブリビオニス: 一度壊れてしまったら、この顔で 生きていくしかありません……
+オブリビオニス (祥子): 一度壊れてしまったら、この顔で 生きていくしかありません……
 睦: ……！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000083/data/adv_still_anime_000083/adv_still_anime_000083.webp)
 睦たち: ……
@@ -27,8 +27,8 @@
 (Background change)
 睦: もう……逃げられない……
 (Transition)
-オブリビオニス: それでも慰めを求めるなら……
-オブリビオニス: ——すべてをAve Mujicaに委ねなさい
+オブリビオニス (祥子): それでも慰めを求めるなら……
+オブリビオニス (祥子): ——すべてをAve Mujicaに委ねなさい
 初華: ——♪
 睦: （——失敗できない……）
 睦: （失敗できない失敗できない失敗できない失敗できな——）
@@ -84,10 +84,10 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000088/data/adv_still_anime_000088/adv_still_anime_000088.webp)
 睦: ……
 (Transition)
-モーティス: ……睦ちゃん？
+モーティス (睦): ……睦ちゃん？
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000089/data/adv_still_anime_000089/adv_still_anime_000089.webp)
-モーティス: また、眠れないの？
+モーティス (睦): また、眠れないの？
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000090/data/adv_still_anime_000090/adv_still_anime_000090.webp)
 睦: なんで、いつもめちゃくちゃに…… ダメにしちゃうんだろう
 (Transition)
@@ -96,23 +96,23 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp)
 (Caption): モーティスTVショー
-モーティス: 睦ちゃん！　今日はうちの番組にようこそ！
+モーティス (睦): 睦ちゃん！　今日はうちの番組にようこそ！
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000091/data/adv_still_anime_000091/adv_still_anime_000091.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000092/data/adv_still_anime_000092/adv_still_anime_000092.webp)
 (Caption): モーティスTVショー
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp)
-むつみ: あ……！
+むつみ (睦): あ……！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp)
 (Caption): 本日のゲスト むつみちゃん
 クマ: とってもかわいい！
 ネコ: ママそっくり！
 ペンギン: みなみさんみたいに素敵な女優さんになるのかな？
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000095/data/adv_still_anime_000095/adv_still_anime_000095.webp)
-モーティス: 『ママみたいって何？』
+モーティス (睦): 『ママみたいって何？』
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000096/data/adv_still_anime_000096/adv_still_anime_000096.webp)
-むつみ: ……っ
-むつみ: （なんて答えればいいの？　……わからない）
+むつみ (睦): ……っ
+むつみ (睦): （なんて答えればいいの？　……わからない）
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000093/data/adv_still_anime_000093/adv_still_anime_000093.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000094/data/adv_still_anime_000094/adv_still_anime_000094.webp)
@@ -121,7 +121,7 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000096/data/adv_still_anime_000096/adv_still_anime_000096.webp)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000097/data/adv_still_anime_000097/adv_still_anime_000097.webp)
-モーティス: 『このように、睦ちゃんは昔からおしゃべりが苦手でした』
+モーティス (睦): 『このように、睦ちゃんは昔からおしゃべりが苦手でした』
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000098/data/adv_still_anime_000098/adv_still_anime_000098.webp)
 九官鳥: おしゃべり苦手？　 口から生まれたパパに似なくてよかったね
 隆文: うるさいわ、誰が全身口やねん？（笑）
@@ -131,24 +131,24 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000098/data/adv_still_anime_000098/adv_still_anime_000098.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000099/data/adv_still_anime_000099/adv_still_anime_000099.webp)
 みなみ: そうなの、睦ちゃんってばかわいいの〜。 その上才能もあってね。欲目じゃないのよ
-むつみ: ……褒められても、 ぜんぶ、みなみちゃんとたぁくんのもの
-モーティス: 『睦ちゃんのものなんて、何一つなかったのです』
+むつみ (睦): ……褒められても、 ぜんぶ、みなみちゃんとたぁくんのもの
+モーティス (睦): 『睦ちゃんのものなんて、何一つなかったのです』
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000100/data/adv_still_anime_000100/adv_still_anime_000100.webp)
 ギター: 〜〜♪
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp)
-むつみ: ……
-モーティス: 『そのギターは、気持ちよさそうに歌っていました』
+むつみ (睦): ……
+モーティス (睦): 『そのギターは、気持ちよさそうに歌っていました』
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000100/data/adv_still_anime_000100/adv_still_anime_000100.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000101/data/adv_still_anime_000101/adv_still_anime_000101.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000102/data/adv_still_anime_000102/adv_still_anime_000102.webp)
-むつみ: あ……っ
+むつみ (睦): あ……っ
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000103/data/adv_still_anime_000103/adv_still_anime_000103.webp)
-モーティス: 『毎日毎日たくさん弾いて、いつも一緒』
+モーティス (睦): 『毎日毎日たくさん弾いて、いつも一緒』
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000104/data/adv_still_anime_000104/adv_still_anime_000104.webp)
-モーティス: 『睦ちゃんはようやく『睦ちゃんだけのもの』を 手に入れることができました』
+モーティス (睦): 『睦ちゃんはようやく『睦ちゃんだけのもの』を 手に入れることができました』
 ギター: 私もお歌、歌いたいな♪
 睦: ……え？
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000103/data/adv_still_anime_000103/adv_still_anime_000103.webp)
@@ -159,7 +159,7 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03/adv_movie_haruhikage_crychic_mygo_03.mp4)
 (Caption): 春日影　CRYCHICver（MyGOアニメ3話）　ライブシーン
-モーティス: 『だけど神様はいじわるです。 ギターを歌わせる才能はくれないのですから』
+モーティス (睦): 『だけど神様はいじわるです。 ギターを歌わせる才能はくれないのですから』
 ギター: いいな、いいな。燈ちゃんのお歌、すごかった！ 立希ちゃんのドラムかっこいい！
 睦: ！
 ギター: そよちゃんはいっつも優しい音色。 祥子ちゃんは…………本当にすごい！
@@ -184,10 +184,10 @@
 睦: 楽しいと思えなかったのは、私が…… 下手だから……
 睦: 歌わせられないから……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000108/data/adv_still_anime_000108/adv_still_anime_000108.webp)
-モーティス: 『睦、立ち尽くす』
+モーティス (睦): 『睦、立ち尽くす』
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000109/data/adv_still_anime_000109/adv_still_anime_000109.webp)
 睦: 私が……CRYCHICを壊した
-モーティス: 『絶望。その場にうずくまって——』
+モーティス (睦): 『絶望。その場にうずくまって——』
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000107/data/adv_still_anime_000107/adv_still_anime_000107.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000108/data/adv_still_anime_000108/adv_still_anime_000108.webp)
@@ -278,13 +278,13 @@
 睦: ……
 (Transition)
 (Background change)
-モーティス: 私、祥子ちゃんきらい
+モーティス (睦): 私、祥子ちゃんきらい
 睦: ……！
-モーティス: だってにゃむちゃんの言うとおりだもん。 祥子ちゃんの言いなりだから睦ちゃんはくるしい
-モーティス: ケンコーによくない！
+モーティス (睦): だってにゃむちゃんの言うとおりだもん。 祥子ちゃんの言いなりだから睦ちゃんはくるしい
+モーティス (睦): ケンコーによくない！
 睦: ……私は、壊れてほしくないだけ
-モーティス: バンド、壊したくないよね？ でもこのままじゃ睦ちゃんが先に壊れちゃう
-モーティス: ……辛い時は言ってね、睦ちゃんが心配
+モーティス (睦): バンド、壊したくないよね？ でもこのままじゃ睦ちゃんが先に壊れちゃう
+モーティス (睦): ……辛い時は言ってね、睦ちゃんが心配
 睦: ……
 (Background change)
 ??? (海鈴): ——若葉さん、若葉さん
@@ -447,23 +447,23 @@
 (Background change)
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03/adv_movie_mortis_doll_mujica_03.mp4)
 (Caption): モーティスウォルドルフ人形捕食シーン
-(Subtitle) モーティス: 辛かったね
-(Subtitle) モーティス: 苦しかったね
-(Subtitle) モーティス: 私だけは、睦ちゃんの味方
+(Subtitle) モーティス (睦): 辛かったね
+(Subtitle) モーティス (睦): 苦しかったね
+(Subtitle) モーティス (睦): 私だけは、睦ちゃんの味方
 (Subtitle) 睦: モーティス……
 (Subtitle) 睦: えっ……？
 (Transition)
 (Background change)
 スタッフA: CM開けます！　本番５秒前、４、３——
-モーティス: ——目が覚めるたびに生き返る。 目覚めないのは、永遠の死
-モーティス: あなたのために、ゆりかごを編むよ。 天鵞絨で仕立てた、棺みたいな子守唄。くるんであげる
-モーティス: あなたが、眠りにすら気づかないほど
+モーティス (睦): ——目が覚めるたびに生き返る。 目覚めないのは、永遠の死
+モーティス (睦): あなたのために、ゆりかごを編むよ。 天鵞絨で仕立てた、棺みたいな子守唄。くるんであげる
+モーティス (睦): あなたが、眠りにすら気づかないほど
 海鈴: どういうことです？
 初華: わ、わからない
 (Transition)
 にゃむ: ……
-モーティス: だから、もう大丈夫！
+モーティス (睦): だから、もう大丈夫！
 祥子: ……睦？
-モーティス: おやすみなさい、良い夢を
+モーティス (睦): おやすみなさい、良い夢を
 (Transition)
 語り部: それは、眠りか死か。せめて……安らかでありますように

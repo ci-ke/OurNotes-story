@@ -21,10 +21,10 @@ Nyamu: Hope all this sweatin' didn't make me look a downright mess. This is unbe
 (Background change)
 : <b>AveMujica #Mujica Comeback Mutsumi Wakaba Mutsumi-chan #Mortis
 Nyamu: Huh? Muuko?
-Mortis: Even if you want to see her, Sakiko-chan doesn't feel the same way!
+Mortis (Mutsumi): Even if you want to see her, Sakiko-chan doesn't feel the same way!
 (Background change)
 Mutsumi: Because CRYCHIC fell apart, so this time, I want to do my best.
-Mortis: But she hasn't come to see you even once!
+Mortis (Mutsumi): But she hasn't come to see you even once!
 Mutsumi: But Saki... only has Mujica left...!
 (Background change)
 Nyamu: This is...
@@ -35,7 +35,7 @@ Nyamu: This is...
 
 Sakiko: ...
 Student A: Togawa-san, good morning. Hey, have you seen this?
-Mortis: Even if you want to see her, Sakiko-chan doesn't feel the same way!
+Mortis (Mutsumi): Even if you want to see her, Sakiko-chan doesn't feel the same way!
 Mutsumi: Because CRYCHIC fell apart, so this time, I want to do my best.
 Sakiko: !
 Student A: This is Mutsumi-chan... right?
@@ -56,14 +56,14 @@ Sakiko: <size=125%>Mujica is... This world is all I have left!
 Mutsumi: ...
 (Transition)
 (Background change)
-Mortis: Every awakening brings rebirth. Only eternal death will bring no awakening.
-Mortis: Let me weave a cradle for you. A lullaby wrapped in velvety darkness, like a coffin. Gently enclosing you—
-Mortis: Guiding you into dreams unaware.
+Mortis (Mutsumi): Every awakening brings rebirth. Only eternal death will bring no awakening.
+Mortis (Mutsumi): Let me weave a cradle for you. A lullaby wrapped in velvety darkness, like a coffin. Gently enclosing you—
+Mortis (Mutsumi): Guiding you into dreams unaware.
 Sakiko: Mutsumi...?
-Mortis: Goodnight. Sweet dreams.
+Mortis (Mutsumi): Goodnight. Sweet dreams.
 (Transition)
 (Background change)
-Mortis: If Sakiko-chan keeps being like this, Mutsumi-chan might never be back.
+Mortis (Mutsumi): If Sakiko-chan keeps being like this, Mutsumi-chan might never be back.
 (Transition)
 (Background change)
 Sakiko: It was me... I destroyed Mutsumi. If I wasn't here... Mutsumi could...
@@ -95,22 +95,22 @@ Anon: ...
 (Transition)
 (Background change)
 Soyo: How's Mutsumi-chan?
-Mortis: I threw a lot of bad things at her, then locked her away. All she keeps saying is that she wants to see Sakiko-chan.
-Mortis: Even though Sakiko-chan will definitely hurt Mutsumi-chan again.
+Mortis (Mutsumi): I threw a lot of bad things at her, then locked her away. All she keeps saying is that she wants to see Sakiko-chan.
+Mortis (Mutsumi): Even though Sakiko-chan will definitely hurt Mutsumi-chan again.
 Soyo: ...
 Soyo: You know where Saki-chan lives, don't you?
-Mortis: Eh...?
+Mortis (Mutsumi): Eh...?
 Soyo: I'll go and talk to Saki-chan. After hearing all this from Mortis-chan, I can't just stay silent anymore.
-Mortis: ...
+Mortis (Mutsumi): ...
 (Transition)
 (Background change)
 Mutsumi: Why... Why did you tell her?
-Mortis: No! You can't just come out like that!
+Mortis (Mutsumi): No! You can't just come out like that!
 Mutsumi: Stop Soyo. Don't let her go to Saki's house.
-Mortis: Didn't I tell you that you're only allowed out while playing the guitar!? Leave the rest to me!
+Mortis (Mutsumi): Didn't I tell you that you're only allowed out while playing the guitar!? Leave the rest to me!
 Mutsumi: I'm begging you...!
-Mortis: <size=175%>SHUT UP!!
-Mortis: Haa... Haa...! Why... am I even doing this...
+Mortis (Mutsumi): <size=175%>SHUT UP!!
+Mortis (Mutsumi): Haa... Haa...! Why... am I even doing this...
 (Transition)
 (Background change)
 Soyo: (Eh... Saki-chan's home...)

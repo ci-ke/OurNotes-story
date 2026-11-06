@@ -67,7 +67,7 @@ Sakiko: Wait—who are you—!
 
 [Several Hours Later]
 
-Oblivionis: Tonight's masquerade draws to a close. Everyone, may you have a pleasant night...
+Oblivionis (Sakiko): Tonight's masquerade draws to a close. Everyone, may you have a pleasant night...
 Secretary: Oblivionis, please accept this bouquet. It is a token of gratitude from the Togawa Group.
 Nyamu: Whoa, such gorgeous roses!
 Sakiko: (That person is actually... grandfather's secretary.)
@@ -82,9 +82,9 @@ Sadaharu: ...
 Sakiko: (We cannot rely on the Togawa's blessings forever...)
 Sakiko: (We must become independent from the Togawa and make Mujica unshakable. That is my sole purpose.)
 Sakiko: (I will captivate every guest here and turn them all into collaborators for Mujica. Even if they're devils, I will use them.)
-Oblivionis: Thank you. What a beautiful bouquet... On behalf of everyone, I express our gratitude.
-Oblivionis: As long as you desire a sweet feast, Ave Mujica will remain your faithful partners.
-Oblivionis: With that, I bid you a good night.
+Oblivionis (Sakiko): Thank you. What a beautiful bouquet... On behalf of everyone, I express our gratitude.
+Oblivionis (Sakiko): As long as you desire a sweet feast, Ave Mujica will remain your faithful partners.
+Oblivionis (Sakiko): With that, I bid you a good night.
 (Transition)
 (Background change)
 

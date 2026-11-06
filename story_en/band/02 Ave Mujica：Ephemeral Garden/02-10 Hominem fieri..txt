@@ -37,19 +37,19 @@ Anon & Tomori: ?
 (Background change)
 (Transition)
 (Background change)
-Mortis: Get out! Why did you bring her here? Sakiko-chan is a bad kid!
+Mortis (Mutsumi): Get out! Why did you bring her here? Sakiko-chan is a bad kid!
 Soyo: Please, just for a moment.
 Anon & Tomori: ...
 Soyo: Saki-chan, please...
 Sakiko: ...
 (Transition)
-Mortis: Do you even have human blood running through your veins?
+Mortis (Mutsumi): Do you even have human blood running through your veins?
 Sakiko & Soyo: !
-Mortis: <size=140%>You're not human! After all this time, you just show up like nothing happened!
+Mortis (Mutsumi): <size=140%>You're not human! After all this time, you just show up like nothing happened!
 Anon: Eh...?
-Mortis: <size=150%>Get out! I don't want to see you! Get out!
+Mortis (Mutsumi): <size=150%>Get out! I don't want to see you! Get out!
 Soyo: Mortis-chan...
-Mortis: You're a traitor too...! You, and you too! Get out...
+Mortis (Mutsumi): You're a traitor too...! You, and you too! Get out...
 Sakiko: ...
 (Transition)
 (Background change)
@@ -60,7 +60,7 @@ Soyo: So... was that also from...
 Sakiko: ...!
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000129/data/adv_still_anime_000129/adv_still_anime_000129.webp)
-Mortis: Get out! I don't want to see you!
+Mortis (Mutsumi): Get out! I don't want to see you!
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000082/data/adv_still_anime_000082/adv_still_anime_000082.webp)
 Minami in the Movie: "Get out! I don't want to see you!"
@@ -122,30 +122,30 @@ Sakiko: (I want to see Mutsumi... I want to apologize to her.)
 Sakiko: (Mutsumi... I would do anything for you...)
 (Transition)
 (Background change)
-Mortis: ...
+Mortis (Mutsumi): ...
 (Transition)
 (Background change)
 (Transition)
 (Background change)
-Mortis: "She's here again." "Get her away." "Soyo-chan, you're the one who brought her here!"
-Mortis: ~~~! Soyo-chan, why! Don't leave me on read!!!
+Mortis (Mutsumi): "She's here again." "Get her away." "Soyo-chan, you're the one who brought her here!"
+Mortis (Mutsumi): ~~~! Soyo-chan, why! Don't leave me on read!!!
 Mutsumi: Mortis
-Mortis: Mutsumi-chan, you're such a stubborn fool. How many times do I have to explain it for you to understand?
-Mortis: I'm not being mean.
+Mortis (Mutsumi): Mutsumi-chan, you're such a stubborn fool. How many times do I have to explain it for you to understand?
+Mortis (Mutsumi): I'm not being mean.
 Mutsumi: Let me see Saki.
-Mortis: You'll be sad if you see her, you'll get hurt. I'm protecting you.
+Mortis (Mutsumi): You'll be sad if you see her, you'll get hurt. I'm protecting you.
 (Background change)
 Mutsumi: Saki has been standing there all this time.
-Mortis: Isn't it her choice?
+Mortis (Mutsumi): Isn't it her choice?
 (Transition)
 (Background change)
 Mutsumi: Mortis, please.
-Mortis: Please stop talking. All you do is say annoying things. Shut up.
+Mortis (Mutsumi): Please stop talking. All you do is say annoying things. Shut up.
 Mutsumi: But...
-Mortis: Stop talking.
+Mortis (Mutsumi): Stop talking.
 (Transition)
 Mutsumi: I want to see Saki.
-Mortis: <size=175%>! Stop it, stop it, stop it, shut up!!
+Mortis (Mutsumi): <size=175%>! Stop it, stop it, stop it, shut up!!
 (Transition)
 (Background change)
 (Transition)
@@ -154,12 +154,12 @@ Sakiko: ...
 Mutsumi: Haa... Haa... Saki.
 Sakiko: ! Mutsumi!
 Mutsumi: Saki... Saki!
-Mortis: <size=175%>Don't touch me!
+Mortis (Mutsumi): <size=175%>Don't touch me!
 Sakiko: Mutsumi...
-Mortis: ! It's not like that! I'm—
+Mortis (Mutsumi): ! It's not like that! I'm—
 Sakiko: Mutsumi... Thank goodness. I finally... finally...
 Sakiko: As long as you can return to normal, I'll do anything, I... will make sure you...
-Mortis: <size=175%>...! Don't touch me!
-Mortis: <size=175%>Get out! Get out!
+Mortis (Mutsumi): <size=175%>...! Don't touch me!
+Mortis (Mutsumi): <size=175%>Get out! Get out!
 Sakiko: ...
-Mortis: Haa... Haa... Am I... the bad kid here?
+Mortis (Mutsumi): Haa... Haa... Am I... the bad kid here?

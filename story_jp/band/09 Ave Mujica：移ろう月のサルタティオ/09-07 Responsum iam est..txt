@@ -32,7 +32,7 @@
 祥子: …………
 (Transition)
 (Background change)
-姫: ――それでも、私の傍にいてくれる？
+姫 (睦): ――それでも、私の傍にいてくれる？
 (Transition)
 (Background change)
 祥子: …………

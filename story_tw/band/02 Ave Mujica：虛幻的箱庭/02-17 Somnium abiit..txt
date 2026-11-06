@@ -42,7 +42,7 @@
 （转场）
 （背景切换）
 海鈴：要吃嗎？卡路玲能量棒。
-Mortis：……
+Mortis（睦）：……
 海鈴：不想吃嗎……
 海鈴：（自從那天以來……）
 （转场）
@@ -58,11 +58,11 @@ Mortis：……
 海鈴：咦？豐川同學？怎麼這麼突然？
 祥子：我是說Ave Mujica的團員們。
 海鈴：唔！
-Mortis：……妳願意繼續Ave Mujica嗎？
+Mortis（睦）：……妳願意繼續Ave Mujica嗎？
 祥子：我要請妳模仿彈奏吉他的樣子。 ……「睦」。
-Mortis：小祥子……我、我……可是吉他……
+Mortis（睦）：小祥子……我、我……可是吉他……
 祥子：我不允許妳有任何一點失誤，「妳」應該有辦法才對。
-Mortis：……
+Mortis（睦）：……
 （转场）
 （背景切换）
 南：哎呀～小若。事到如今妳還過來做什麼呢？
@@ -75,7 +75,7 @@ Mortis：……
 祥子：<size=150%>我要讓Ave Mujica復活。
 祥子：我已經確實背負起各位的人生了。 今後不論發生什麼事，我都不允許退團。
 （转场）
-Mortis：……
+Mortis（睦）：……
 若麥：……？
 （转场）
 祥子：這是契約。
@@ -83,7 +83,7 @@ Mortis：……
 初華：……是！
 海鈴：是。
 若麥：是～
-Mortis：……
+Mortis（睦）：……
 祥子：八幡同學，我希望下星期能舉行演唱會，麻煩妳調整行程。
 海鈴：我知道了。
 （转场）
@@ -117,19 +117,19 @@ Mortis：……
 祥子：（……我已經無處可逃了，絕不能再逃避。 ……從今以後，我必須永遠背負這份沉重感走下去。）
 （转场）
 （背景切换）
-Mortis：──♪
+Mortis（睦）：──♪
 若麥：原來真的消失了啊～睦子。
-Mortis：……！
+Mortis（睦）：……！
 若麥：今後妳打算一直扮演若葉睦嗎？
-Mortis：……我能做的只有扮演好「小睦」的角色。
+Mortis（睦）：……我能做的只有扮演好「小睦」的角色。
 若麥：我偏不讓妳騙。
-Mortis：唔〜〜〜！我討厭小若！ 別再盯著我了！走開啦！
+Mortis（睦）：唔〜〜〜！我討厭小若！ 別再盯著我了！走開啦！
 若麥：我不是想盯著妳看，只是無法移開視線而已…… 每次看見妳的演技，就讓我覺得自己一無是處。
 若麥：好狡猾。既狡猾，又讓人羨慕。
 若麥：且惹人心愛……
-Mortis：……
+Mortis（睦）：……
 若麥：「我做了……一場夢。 不管我再怎麼去愛，還是愛得不夠。」
-Mortis：好希望妳能對小睦說這些話。
+Mortis（睦）：好希望妳能對小睦說這些話。
 （转场）
 （背景切换）
 （转场）
@@ -138,32 +138,32 @@ Mortis：好希望妳能對小睦說這些話。
 （转场）
 （转场）
 （转场）
-Mortis：月光映照著我們。現在正是甦醒之時──
-Mortis：Doloris、Timoris、Amoris、Oblivionis…… 月亮升起了。
+Mortis（睦）：月光映照著我們。現在正是甦醒之時──
+Mortis（睦）：Doloris、Timoris、Amoris、Oblivionis…… 月亮升起了。
 （转场）
-Doloris：……我……
-Oblivionis：這裡是……
-Timoris：看來這裡並不是閣樓之月。
-Amoris：……
-Mortis：月亮照亮了貪睡的孩子，然後賦予新的生命。
-Amoris：……唔。
-Mortis：妳醒了嗎？Amoris。
-Amoris：我做了……一場夢。
-Mortis：什麼樣的夢？
-Amoris：不管我再怎麼去愛，還是愛得不夠…… 沒有被愛……！
-Mortis：我也一樣……
-Mortis：（……好想得到小睦的愛。）
-Mortis：（好想跟她一起活下去。）
+Doloris（初華）：……我……
+Oblivionis（祥子）：這裡是……
+Timoris（海鈴）：看來這裡並不是閣樓之月。
+Amoris（若麥）：……
+Mortis（睦）：月亮照亮了貪睡的孩子，然後賦予新的生命。
+Amoris（若麥）：……唔。
+Mortis（睦）：妳醒了嗎？Amoris。
+Amoris（若麥）：我做了……一場夢。
+Mortis（睦）：什麼樣的夢？
+Amoris（若麥）：不管我再怎麼去愛，還是愛得不夠…… 沒有被愛……！
+Mortis（睦）：我也一樣……
+Mortis（睦）：（……好想得到小睦的愛。）
+Mortis（睦）：（好想跟她一起活下去。）
 （转场）
 （背景切换）
-Mortis：（如果……如果還來得及的話……）
-Mortis：（神啊，若能讓我見到小睦，我願意付出任何代價。 這是我現在唯一的心願。）
+Mortis（睦）：（如果……如果還來得及的話……）
+Mortis（睦）：（神啊，若能讓我見到小睦，我願意付出任何代價。 這是我現在唯一的心願。）
 （播放视频：https://assets.bdon.moe/zh-Hant/Cri/Video/adv/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10/adv_movie_imprisoned_mujica_10.mp4）
 （说明）：Imprisoned XII　ライブシーン
 （播放视频：https://assets.bdon.moe/zh-Hant/Cri/Video/adv/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10/adv_movie_crucifix_mujica_10.mp4）
 （说明）：Crucifix X　ライブシーン
-（字幕）Doloris：命運的齒輪再次開始轉動。
-（字幕）Doloris：歡迎來到Ave Mujica的世界。
+（字幕）Doloris（初華）：命運的齒輪再次開始轉動。
+（字幕）Doloris（初華）：歡迎來到Ave Mujica的世界。
 （转场）
 
 【演出結束後】

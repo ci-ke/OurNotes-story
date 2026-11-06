@@ -166,13 +166,13 @@
 【出道演唱會當天】
 
 （背景切换）
-Doloris：Doloris。我毋畏悲傷。
-Mortis：Mortis。我毋畏死亡。
+Doloris（初華）：Doloris。我毋畏悲傷。
+Mortis（睦）：Mortis。我毋畏死亡。
 （转场）
-Timoris：Timoris。我毋畏恐懼。
-Amoris：Amoris。我毋畏愛。
+Timoris（海鈴）：Timoris。我毋畏恐懼。
+Amoris（若麥）：Amoris。我毋畏愛。
 （转场）
-Oblivionis：Oblivionis。我毋畏遺忘。
+Oblivionis（祥子）：Oblivionis。我毋畏遺忘。
 （转场）
 祥子：（我是Oblivionis。 過去軟弱的我早已被埋葬……）
 （背景切换）
@@ -190,31 +190,31 @@ Oblivionis：Oblivionis。我毋畏遺忘。
 祥子：……
 （转场）
 （背景切换）
-Oblivionis：──好了，觀眾也差不多快來了。
+Oblivionis（祥子）：──好了，觀眾也差不多快來了。
 （转场）
-Doloris：誰要來了？
-Oblivionis：Doloris，看向前方。
+Doloris（初華）：誰要來了？
+Oblivionis（祥子）：Doloris，看向前方。
 （转场）
-Mortis：是朋友。
-Oblivionis：Mortis，妳的頭髮都亂了。
+Mortis（睦）：是朋友。
+Oblivionis（祥子）：Mortis，妳的頭髮都亂了。
 （转场）
-Timoris：是即將成為新主人的人。
-Oblivionis：Timoris，衣領要整理好。
-Amoris：今天一定要讓新主人找到我～♪
-Oblivionis：Amoris。 妳現在需要的，是完美的儀容舉止與完美的笑容。
-Oblivionis：妳必須向觀眾們展現出最出色的自己。
-Amoris：好～
+Timoris（海鈴）：是即將成為新主人的人。
+Oblivionis（祥子）：Timoris，衣領要整理好。
+Amoris（若麥）：今天一定要讓新主人找到我～♪
+Oblivionis（祥子）：Amoris。 妳現在需要的，是完美的儀容舉止與完美的笑容。
+Oblivionis（祥子）：妳必須向觀眾們展現出最出色的自己。
+Amoris（若麥）：好～
 （转场）
-Oblivionis：讓各位觀眾久候多時了。 歡迎來到Ave Mujica的假面舞會。
+Oblivionis（祥子）：讓各位觀眾久候多時了。 歡迎來到Ave Mujica的假面舞會。
 （转场）
-Oblivionis：今晚我們為各位觀眾 準備了美麗的人偶們。
+Oblivionis（祥子）：今晚我們為各位觀眾 準備了美麗的人偶們。
 （转场）
-Oblivionis：慈愛的Amoris。
-Oblivionis：聰敏的Timoris。
-Oblivionis：順從的Mortis。
-Oblivionis：溫柔的Doloris。
-Oblivionis：以及我，高貴的Oblivionis。
-Oblivionis：好好注視這完美的笑容吧。
+Oblivionis（祥子）：慈愛的Amoris。
+Oblivionis（祥子）：聰敏的Timoris。
+Oblivionis（祥子）：順從的Mortis。
+Oblivionis（祥子）：溫柔的Doloris。
+Oblivionis（祥子）：以及我，高貴的Oblivionis。
+Oblivionis（祥子）：好好注視這完美的笑容吧。
 （转场）
 （背景切换）
 若麥：──完美？

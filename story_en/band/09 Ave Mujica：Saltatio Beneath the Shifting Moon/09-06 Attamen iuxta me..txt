@@ -4,7 +4,7 @@
 
 (Transition)
 (Background change)
-Princess: —Even so, will you stay by my side?
+Princess (Mutsumi): —Even so, will you stay by my side?
 (Background change)
 Sakiko: (—!)
 (Transition)
@@ -33,83 +33,83 @@ Umiri: (...A rare sight indeed.)
 Uika: (Saki-chan...!)
 (Transition)
 (Background change)
-Princess: ...It is all right.
-Princess: Whatever answer you choose... I will be right here.
+Princess (Mutsumi): ...It is all right.
+Princess (Mutsumi): Whatever answer you choose... I will be right here.
 Sakiko: ...
-Servant: I... I......
+Servant (Sakiko): I... I......
 (Transition)
 (Background change)
 Umiri: (So she managed to bridge it, somehow... A narrow escape, Togawa-san.)
 Nyamu: (Well, for Muuko, this much ad-libbing is a given.)
 (Transition)
 (Background change)
-Princess: ...
-Servant: ...
-Servant: *Pant*... *Pant*... *Pant*...
-Servant: —Ah...!
+Princess (Mutsumi): ...
+Servant (Sakiko): ...
+Servant (Sakiko): *Pant*... *Pant*... *Pant*...
+Servant (Sakiko): —Ah...!
 (Background change)
-Servant: ...Ngh... ugh...
+Servant (Sakiko): ...Ngh... ugh...
 (Background change)
-Servant: —Even so... "Even so, I will stay by your side"... Should I have answered like that...?
-Servant: No, that is not it... She was no longer the Princess I know—
+Servant (Sakiko): —Even so... "Even so, I will stay by your side"... Should I have answered like that...?
+Servant (Sakiko): No, that is not it... She was no longer the Princess I know—
 (Background change)
-Servant: —Ah, my beloved Princess... So kind... so merciful... so warm...
+Servant (Sakiko): —Ah, my beloved Princess... So kind... so merciful... so warm...
 (Background change)
-Servant: That I would serve her all my life, for her sake... I had sworn it in my heart, and yet...
+Servant (Sakiko): That I would serve her all my life, for her sake... I had sworn it in my heart, and yet...
 (Background change)
-Servant: Now there is only— I am afraid of her... so afraid I can scarcely bear it...
+Servant (Sakiko): Now there is only— I am afraid of her... so afraid I can scarcely bear it...
 (Background change)
-Servant: I... I... I no longer understand... not my own feelings, not anything at all...!
-Servant: If I stay beside her like this, even I will be driven mad...! I will no longer be myself...!
+Servant (Sakiko): I... I... I no longer understand... not my own feelings, not anything at all...!
+Servant (Sakiko): If I stay beside her like this, even I will be driven mad...! I will no longer be myself...!
 (Background change)
-Servant: —I have no choice but to leave... to leave this country...!
+Servant (Sakiko): —I have no choice but to leave... to leave this country...!
 (Background change)
-Servant: *Pant*... *Pant*... I have crossed the hill as well... Now, at last—
+Servant (Sakiko): *Pant*... *Pant*... I have crossed the hill as well... Now, at last—
 (Background change)
-Servant: ...? —There is a dreadful commotion from the castle...
-Servant: Has something happened...?
-Servant: —It cannot be... Something has happened to the Princess...
+Servant (Sakiko): ...? —There is a dreadful commotion from the castle...
+Servant (Sakiko): Has something happened...?
+Servant (Sakiko): —It cannot be... Something has happened to the Princess...
 (Background change)
-Servant: <size=150%>—Princess...!!
+Servant (Sakiko): <size=150%>—Princess...!!
 (Background change)
 
 [Town Square - Scaffold]
 
 Townsperson A: Hurry up and get her on the scaffold! Kill that witch!
 Townsperson B: She'll atone for her sins with death!
-Servant: ...! The scaffold...!? Why is the Princess...?
+Servant (Sakiko): ...! The scaffold...!? Why is the Princess...?
 Executioner: Hey, she's bound! Haul her up!
-Servant: W-Wait...!
-Servant: What on earth has happened!? Why is the Princess...!?
+Servant (Sakiko): W-Wait...!
+Servant (Sakiko): What on earth has happened!? Why is the Princess...!?
 Townsperson A: Huh? You didn't know?
 Townsperson A: That woman's a witch who seduced and murdered several knights from the neighboring kingdom. She's to be judged by arrows.
-Servant: No... Please wait! Excuse me, let me through...! Please, let me through!
-Servant: Princess...! Princess...!!
+Servant (Sakiko): No... Please wait! Excuse me, let me through...! Please, let me through!
+Servant (Sakiko): Princess...! Princess...!!
 Townsperson C: What's this? Is this one with the witch too!?
 Townsperson D: Why, you...! Struggle and we'll take you in!
-Servant: Let me go...! Let go of me...!! Princess!! Princess...!!
+Servant (Sakiko): Let me go...! Let go of me...!! Princess!! Princess...!!
 (CG insert: https://assets.bdon.moe/en/Adv/Still/charaillust/adv_still_charaillust_000046/data/adv_still_charaillust_000046/adv_still_charaillust_000046.webp)
-Princess: ...
-Princess: —Who are you?
-Servant: ...!
-Servant: (What...? She does not know me...?)
-Servant: (Was that an act? Or the words I wished for somewhere deep in my heart...)
-Servant: (Or else a kind lie born of your concern for me—)
-Princess: ...
-Servant: ...
-Servant: (I no longer... understand...!)
+Princess (Mutsumi): ...
+Princess (Mutsumi): —Who are you?
+Servant (Sakiko): ...!
+Servant (Sakiko): (What...? She does not know me...?)
+Servant (Sakiko): (Was that an act? Or the words I wished for somewhere deep in my heart...)
+Servant (Sakiko): (Or else a kind lie born of your concern for me—)
+Princess (Mutsumi): ...
+Servant (Sakiko): ...
+Servant (Sakiko): (I no longer... understand...!)
 Executioner: Bows ready!
 (Background change)
 Executioner: Loose—!!
 (Background change)
-Servant: ...
-Servant: (Her beautiful hair, her lips, her eyes... Though pierced through by many arrows, nothing about her trembles.)
-Servant: (She has nothing left to perform at all now... Perhaps—)
-Servant: (Perhaps she is at peace in this eternal final act.)
+Servant (Sakiko): ...
+Servant (Sakiko): (Her beautiful hair, her lips, her eyes... Though pierced through by many arrows, nothing about her trembles.)
+Servant (Sakiko): (She has nothing left to perform at all now... Perhaps—)
+Servant (Sakiko): (Perhaps she is at peace in this eternal final act.)
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/charaillust/adv_still_charaillust_000047/data/adv_still_charaillust_000047/adv_still_charaillust_000047.webp)
-Servant: —O moon! Silver light that rules the <r=Shijima>hush</r> of night!
-Servant: To this pitiful princess pierced by countless arrows, grant at least your merciful radiance...!
+Servant (Sakiko): —O moon! Silver light that rules the <r=Shijima>hush</r> of night!
+Servant (Sakiko): To this pitiful princess pierced by countless arrows, grant at least your merciful radiance...!
 (Transition)
 (Background change)
 (Transition)

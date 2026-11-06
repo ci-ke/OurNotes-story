@@ -7,17 +7,17 @@ Now everyone is captive to Ave Mujica. Are you happy, now that your wish came tr
 Umiri: Yūtenji-san... you were here.
 Nyamu: Are you acting as Muuko? That's like her. How perfect! Disgusts me to the core.
 Umiri: Acting?
-Mortis: It doesn't have to be CRYCHIC. As long as I can be in a band with you, that's enough...
-Mortis: It doesn't have to be CRYCHIC. As long as I can be in a band with you, that's enough!
-Mortis: It doesn't have to be CRYCHIC... As long as I can be in a band with you... that's enough...?
-Mortis: Huh? Which one is it?
+Mortis (Mutsumi): It doesn't have to be CRYCHIC. As long as I can be in a band with you, that's enough...
+Mortis (Mutsumi): It doesn't have to be CRYCHIC. As long as I can be in a band with you, that's enough!
+Mortis (Mutsumi): It doesn't have to be CRYCHIC... As long as I can be in a band with you... that's enough...?
+Mortis (Mutsumi): Huh? Which one is it?
 Sakiko: ...!? No way... are you Mortis?
 Sakiko: Mutsumi... What happened to Mutsumi? Mortis, where's Mutsumi?
-Mortis: It's not my fault! She fell off by herself!
+Mortis (Mutsumi): It's not my fault! She fell off by herself!
 Nyamu: What do you mean?
-Mortis: I swear... it wasn't on purpose... Ugh... Waaahhh~~~
+Mortis (Mutsumi): I swear... it wasn't on purpose... Ugh... Waaahhh~~~
 Soyo: It's okay, don't cry.
-Mortis: <size=150%>Waaaaah...
+Mortis (Mutsumi): <size=150%>Waaaaah...
 Soyo: Let's go together. It's okay. Let's go home.
 (Transition)
 Anon: How about you, Rāna-chan?
@@ -59,26 +59,26 @@ Uika: I don't want to be separated... I don't want to let her go...
 (Transition)
 (Background change)
 Sakiko: Mortis. What do you mean by "Mutsumi fell"? Please explain.
-Mortis: Sakiko-chan...
-Mortis: I... I didn't do it on purpose. I just... just... wanted to protect Mutsumi-chan...!
-Mortis: No matter how hard I tried, even if I said it's for Mutsumi-chan! Mutsumi-chan didn't even look at me...
+Mortis (Mutsumi): Sakiko-chan...
+Mortis (Mutsumi): I... I didn't do it on purpose. I just... just... wanted to protect Mutsumi-chan...!
+Mortis (Mutsumi): No matter how hard I tried, even if I said it's for Mutsumi-chan! Mutsumi-chan didn't even look at me...
 Sakiko: Mutsumi... What happened to Mutsumi?
-Mortis: <size=150%>Don't make me say it again! She's dead! I'm really the only one left!
+Mortis (Mutsumi): <size=150%>Don't make me say it again! She's dead! I'm really the only one left!
 Sakiko: !
-Mortis: So! I thought I could become "Mutsumi Wakaba"... But, I couldn't...
-Mortis: Mutsumi-chan... I'm sorry...!
+Mortis (Mutsumi): So! I thought I could become "Mutsumi Wakaba"... But, I couldn't...
+Mortis (Mutsumi): Mutsumi-chan... I'm sorry...!
 Sakiko: ...
 Sakiko: So... Mutsumi has truly gone...
 Sakiko: Ugh...! *Sniff*...!
 (Background change)
-Mortis: <size=175%>*Sniff*... Waaahhh...!!
+Mortis (Mutsumi): <size=175%>*Sniff*... Waaahhh...!!
 (Transition)
 (Background change)
-Mortis: Zzz... zzz...
+Mortis (Mutsumi): Zzz... zzz...
 (Transition)
 Sakiko: This is my sin... I must bear it...
-Mortis: ...
-Mortis: I am also guilty.
+Mortis (Mutsumi): ...
+Mortis (Mutsumi): I am also guilty.
 (Transition)
 (Background change)
 Sakiko: (For my own desires, I altered not only Mutsumi's fate but also Mortis's...)
@@ -89,7 +89,7 @@ Sakiko: (In a world without Mutsumi, what can I do...)
 Nyamu: That lame performance... that wasn't a monster.
 (Transition)
 (Background change)
-Mortis: It doesn't have to be CRYCHIC. As long as I can be in a band with you, that's enough...
+Mortis (Mutsumi): It doesn't have to be CRYCHIC. As long as I can be in a band with you, that's enough...
 (Transition)
 (Background change)
 Nyamu: ...! My name "Nyamu" means young wheat! Wheat only grows stronger after bein' trampled on!

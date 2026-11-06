@@ -140,86 +140,86 @@
 (Transition)
 (Background change)
 (Background change)
-ドロリス: ここが、パラディースス……
-ティモリス: 新入りかい？
-ドロリス: 僕は、悲しみの騎士ドロリス。 女神オブリビオニスに仕えるためにきた
-アモーリス: ふぅ〜ん、そんな物好き俺たち以外にもいたんだ
-ティモリス: 我々も同じだドロリス。 私は恐れの騎士ティモリス
-アモーリス: 愛の騎士アモーリス、そんであっちは——
-アモーリス: なにしてんの？
-モーティス: ……聴いてる
-アモーリス: だぁから、なにを？
-モーティス: 世界が壊れる音
-アモーリス: 死の騎士モーティス、変なヤツ
+ドロリス (初華): ここが、パラディースス……
+ティモリス (海鈴): 新入りかい？
+ドロリス (初華): 僕は、悲しみの騎士ドロリス。 女神オブリビオニスに仕えるためにきた
+アモーリス (にゃむ): ふぅ〜ん、そんな物好き俺たち以外にもいたんだ
+ティモリス (海鈴): 我々も同じだドロリス。 私は恐れの騎士ティモリス
+アモーリス (にゃむ): 愛の騎士アモーリス、そんであっちは——
+アモーリス (にゃむ): なにしてんの？
+モーティス (睦): ……聴いてる
+アモーリス (にゃむ): だぁから、なにを？
+モーティス (睦): 世界が壊れる音
+アモーリス (にゃむ): 死の騎士モーティス、変なヤツ
 (Transition)
-ドロリス: ……
-ティモリス: 心配しなくていい。ここにいれば恐ろしいことはない。 この私が約束しよう
-アモーリス: あっはははは！　テキトーなことばっか！
-ティモリス: 誰が適当だって？
-アモーリス: 所詮泡沫の箱庭だろ？
-アモーリス: 世界が壊れるその時まで、楽しく踊って暮らすだけの
-モーティス: 欺瞞に満ちたパラディースス
-モーティス: オブリビオニスはいない。残念だけど
-ドロリス: えっ
-モーティス: ずっと前に消えてしまったって
-ドロリス: そんな
-モーティス: 僕たちもずっと願ってる。 いつか彼女が楽園に戻り、忘却を与えてくれるその日を
-モーティス: 僕の命はたくさんの死の上に立ってる。 望みもしないのに……ただ『僕』が生きるため
-モーティス: 昨日もひとつ、今日もひとつ—— ぜんぶ忘れてしまいたい
-アモーリス: 世界が壊れる音？　俺には聞こえない—— なんで、なんであいつには！？
-アモーリス: 羨み、憎んでしまうほどの愛なんて！ 忘れさせてくれよ！
-ティモリス: 誰も私を信じない。信じてくれない。 こんな恐ろしさ、忘れたいのに——！
-モーティス: ただ願うことしかできない
-ドロリス: いやだ！　僕はもう耐えられない！
-ドロリス: 罪深い我が身、存在そのものが罪なんだ！ すべて忘れて救われたいっ！
-アモーリス: 愛じゃダメ？
-ドロリス: だめだ
-ティモリス: 恐れでは？
-ドロリス: ちがう
-モーティス: 死をあげる
-ドロリス: いらないっ！　愛でも恐れでも死でも悲しみでもなく！ 忘却だけが僕をこの苦しみから救ってくれる！
-??? (オブリビオニス): <size=150%>——本当に？
-ドロリス: ？　この声……
-??? (オブリビオニス): 忘却だけがこの地にきた理由？
-ドロリス: まただ！　いつも聞こえてくるこの声
-??? (オブリビオニス): ドロリス、お前の本当の願いは？
+ドロリス (初華): ……
+ティモリス (海鈴): 心配しなくていい。ここにいれば恐ろしいことはない。 この私が約束しよう
+アモーリス (にゃむ): あっはははは！　テキトーなことばっか！
+ティモリス (海鈴): 誰が適当だって？
+アモーリス (にゃむ): 所詮泡沫の箱庭だろ？
+アモーリス (にゃむ): 世界が壊れるその時まで、楽しく踊って暮らすだけの
+モーティス (睦): 欺瞞に満ちたパラディースス
+モーティス (睦): オブリビオニスはいない。残念だけど
+ドロリス (初華): えっ
+モーティス (睦): ずっと前に消えてしまったって
+ドロリス (初華): そんな
+モーティス (睦): 僕たちもずっと願ってる。 いつか彼女が楽園に戻り、忘却を与えてくれるその日を
+モーティス (睦): 僕の命はたくさんの死の上に立ってる。 望みもしないのに……ただ『僕』が生きるため
+モーティス (睦): 昨日もひとつ、今日もひとつ—— ぜんぶ忘れてしまいたい
+アモーリス (にゃむ): 世界が壊れる音？　俺には聞こえない—— なんで、なんであいつには！？
+アモーリス (にゃむ): 羨み、憎んでしまうほどの愛なんて！ 忘れさせてくれよ！
+ティモリス (海鈴): 誰も私を信じない。信じてくれない。 こんな恐ろしさ、忘れたいのに——！
+モーティス (睦): ただ願うことしかできない
+ドロリス (初華): いやだ！　僕はもう耐えられない！
+ドロリス (初華): 罪深い我が身、存在そのものが罪なんだ！ すべて忘れて救われたいっ！
+アモーリス (にゃむ): 愛じゃダメ？
+ドロリス (初華): だめだ
+ティモリス (海鈴): 恐れでは？
+ドロリス (初華): ちがう
+モーティス (睦): 死をあげる
+ドロリス (初華): いらないっ！　愛でも恐れでも死でも悲しみでもなく！ 忘却だけが僕をこの苦しみから救ってくれる！
+??? (オブリビオニス (祥子)): <size=150%>——本当に？
+ドロリス (初華): ？　この声……
+??? (オブリビオニス (祥子)): 忘却だけがこの地にきた理由？
+ドロリス (初華): まただ！　いつも聞こえてくるこの声
+??? (オブリビオニス (祥子)): ドロリス、お前の本当の願いは？
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp)
-ドロリス: ……っ！
-アモーリス: まさか
+ドロリス (初華): ……っ！
+アモーリス (にゃむ): まさか
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000167/data/adv_still_anime_000167/adv_still_anime_000167.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000168/data/adv_still_anime_000168/adv_still_anime_000168.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000169/data/adv_still_anime_000169/adv_still_anime_000169.webp)
-ティモリス: オブリビオニス。 忘却の女神よ、どうか私をあなたの騎士に
+ティモリス (海鈴): オブリビオニス。 忘却の女神よ、どうか私をあなたの騎士に
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000170/data/adv_still_anime_000170/adv_still_anime_000170.webp)
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000171/data/adv_still_anime_000171/adv_still_anime_000171.webp)
-ドロリス: 待って！　僕もあなたの騎士に！　忘却の福音を——
-オブリビオニス: 幾度繰り返すのです？ 幾度忘却を与えても、あなたは楽園に戻ってくる
-ドロリス: 何を言って……ここに来たのは今日が初めてで……
+ドロリス (初華): 待って！　僕もあなたの騎士に！　忘却の福音を——
+オブリビオニス (祥子): 幾度繰り返すのです？ 幾度忘却を与えても、あなたは楽園に戻ってくる
+ドロリス (初華): 何を言って……ここに来たのは今日が初めてで……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000172/data/adv_still_anime_000172/adv_still_anime_000172.webp)
-??? (ドロリス): 本当に？
-ドロリス: <size=175%>！？
-??? (ドロリス): 思い出せ、ドロリス。何度この地を訪れた
+??? (ドロリス (初華)): 本当に？
+ドロリス (初華): <size=175%>！？
+??? (ドロリス (初華)): 思い出せ、ドロリス。何度この地を訪れた
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp)
-??? (ドロリス): なぜオブリビオニスの名を知っている？ なぜお前は忘却を求める？
-ドロリス: ……ただ、会いたくて……
+??? (ドロリス (初華)): なぜオブリビオニスの名を知っている？ なぜお前は忘却を求める？
+ドロリス (初華): ……ただ、会いたくて……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp)
-オブリビオニス: あなたはわたくしの騎士ではない
+オブリビオニス (祥子): あなたはわたくしの騎士ではない
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000173/data/adv_still_anime_000173/adv_still_anime_000173.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000174/data/adv_still_anime_000174/adv_still_anime_000174.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000175/data/adv_still_anime_000175/adv_still_anime_000175.webp)
-ドロリス: ！　あなたを忘れる！ それでそばにいられるなら、すべて忘れます
+ドロリス (初華): ！　あなたを忘れる！ それでそばにいられるなら、すべて忘れます
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000176/data/adv_still_anime_000176/adv_still_anime_000176.webp)
-ドロリス: あなたを忘れる、この悲しみすら忘れる
+ドロリス (初華): あなたを忘れる、この悲しみすら忘れる
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000175/data/adv_still_anime_000175/adv_still_anime_000175.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000176/data/adv_still_anime_000176/adv_still_anime_000176.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000177/data/adv_still_anime_000177/adv_still_anime_000177.webp)
-オブリビオニス: ……ならば、剣を手に！
+オブリビオニス (祥子): ……ならば、剣を手に！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000178/data/adv_still_anime_000178/adv_still_anime_000178.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000179/data/adv_still_anime_000179/adv_still_anime_000179.webp)
 (Transition)
@@ -228,9 +228,9 @@
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000179/data/adv_still_anime_000179/adv_still_anime_000179.webp)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000180/data/adv_still_anime_000180/adv_still_anime_000180.webp)
-オブリビオニス: みなが忘れようと、忘却の神たるわたくしだけは忘れない。 やがて世界が終焉を迎えるその時まで——
+オブリビオニス (祥子): みなが忘れようと、忘却の神たるわたくしだけは忘れない。 やがて世界が終焉を迎えるその時まで——
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000181/data/adv_still_anime_000181/adv_still_anime_000181.webp)
-オブリビオニス: この黄昏の楽園に、わたくしは君臨し続ける！
+オブリビオニス (祥子): この黄昏の楽園に、わたくしは君臨し続ける！
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000180/data/adv_still_anime_000180/adv_still_anime_000180.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000181/data/adv_still_anime_000181/adv_still_anime_000181.webp)

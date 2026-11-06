@@ -35,66 +35,66 @@ Sakiko: ...Yes.
 [The Performance]
 
 (Background change)
-Servant: ...I do not understand... I do not understand...
-Servant: I no longer understand you at all...!
+Servant (Sakiko): ...I do not understand... I do not understand...
+Servant (Sakiko): I no longer understand you at all...!
 (Background change)
-Servant: The image of you each knight spoke of was wholly unlike the others... and utterly unlike the Princess I know...!
-Servant: Please answer me, Princess! Which one is the real you!?
+Servant (Sakiko): The image of you each knight spoke of was wholly unlike the others... and utterly unlike the Princess I know...!
+Servant (Sakiko): Please answer me, Princess! Which one is the real you!?
 (Background change)
-Princess: ...
-Servant: And so the Princess stood before the window and began to dance, twirling round and round.
-Princess: —♪
-Servant: ...!?
-Servant: The crescent moon peering in through the window swelled dizzily as the Princess danced,
-Servant: turned to a half moon, and then—
+Princess (Mutsumi): ...
+Servant (Sakiko): And so the Princess stood before the window and began to dance, twirling round and round.
+Princess (Mutsumi): —♪
+Servant (Sakiko): ...!?
+Servant (Sakiko): The crescent moon peering in through the window swelled dizzily as the Princess danced,
+Servant (Sakiko): turned to a half moon, and then—
 (Background change)
-Servant: changed into a full moon.
-Servant: ...!
-Servant: —You are just like the moon...
-Servant: You change your shape with each passing hour...
-Servant: And whoever looks upon you sees you however they wish to see you.
-Servant: ...Perhaps you have never had a true self of your own at all!?
-Princess: ...Hehe.
-Servant: Then... then you...!
-Servant: Are you saying you only ever did it because someone asked it of you, each and every time!?
-Servant: Then why did you set those trials at all!? Was that not your own will?
-Servant: Do you mean to tell me that even that was only what they wished for...!?
+Servant (Sakiko): changed into a full moon.
+Servant (Sakiko): ...!
+Servant (Sakiko): —You are just like the moon...
+Servant (Sakiko): You change your shape with each passing hour...
+Servant (Sakiko): And whoever looks upon you sees you however they wish to see you.
+Servant (Sakiko): ...Perhaps you have never had a true self of your own at all!?
+Princess (Mutsumi): ...Hehe.
+Servant (Sakiko): Then... then you...!
+Servant (Sakiko): Are you saying you only ever did it because someone asked it of you, each and every time!?
+Servant (Sakiko): Then why did you set those trials at all!? Was that not your own will?
+Servant (Sakiko): Do you mean to tell me that even that was only what they wished for...!?
 (Background change)
-Graceful Knight: Princess, please choose me...!
-Stern Knight: No, choose me!
-Sincere Knight: Choose me...!
+Graceful Knight (Nyamu): Princess, please choose me...!
+Stern Knight (Umiri): No, choose me!
+Sincere Knight (Uika): Choose me...!
 (Background change)
-Servant: It is true that they wished to outdo the others, to win and claim you for themselves...!
-Servant: Even so, they lost their lives! And still you feel nothing!?
-Servant: Where has your own grief gone!?
-Princess: ...I have no heart anymore.
-Princess: I had one once, but it was worn away until nothing remained.
-Princess: If you wish for me to grieve... then that is simply what I do.
-Servant: ...!
-Servant: Surely not... Has she truly granted even the wishes of a servant like me...?
-Servant: Ah... ah... How loathsome—!
+Servant (Sakiko): It is true that they wished to outdo the others, to win and claim you for themselves...!
+Servant (Sakiko): Even so, they lost their lives! And still you feel nothing!?
+Servant (Sakiko): Where has your own grief gone!?
+Princess (Mutsumi): ...I have no heart anymore.
+Princess (Mutsumi): I had one once, but it was worn away until nothing remained.
+Princess (Mutsumi): If you wish for me to grieve... then that is simply what I do.
+Servant (Sakiko): ...!
+Servant (Sakiko): Surely not... Has she truly granted even the wishes of a servant like me...?
+Servant (Sakiko): Ah... ah... How loathsome—!
 (Transition)
 (Background change)
 
 [Church]
 
-Servant: ...Sister. And so it is that I ran away and came here.
+Servant (Sakiko): ...Sister. And so it is that I ran away and came here.
 (Background change)
-Servant: The one I thought of as the Princess, the one I grew up with like a childhood friend... I no longer know who she was.
-Servant: Ah, how terrifying...
-Servant: She is terrifying... this woman who seemed never to have possessed a heart of her own from the very beginning.
+Servant (Sakiko): The one I thought of as the Princess, the one I grew up with like a childhood friend... I no longer know who she was.
+Servant (Sakiko): Ah, how terrifying...
+Servant (Sakiko): She is terrifying... this woman who seemed never to have possessed a heart of her own from the very beginning.
 (Background change)
-Nun: ...
-Servant: But... the truly loathsome one is... me...
-Servant: If the Princess has granted even my wishes... then the one who wished for the knights' deaths... was me...
-Servant: I do not mourn their deaths in the least...
+Nun (Mutsumi): ...
+Servant (Sakiko): But... the truly loathsome one is... me...
+Servant (Sakiko): If the Princess has granted even my wishes... then the one who wished for the knights' deaths... was me...
+Servant (Sakiko): I do not mourn their deaths in the least...
 (Background change)
-Servant: Rather, I could not bear the thought of the Princess belonging to anyone, and I even wished them dead...
-Servant: And the ugliness of my own heart is what frightens me most...
+Servant (Sakiko): Rather, I could not bear the thought of the Princess belonging to anyone, and I even wished them dead...
+Servant (Sakiko): And the ugliness of my own heart is what frightens me most...
 (Background change)
-Nun: ...Please lift your head.
-Nun: I understand well what you mean to say. Now, then—
-Servant: ...?
-Servant: ...! You are...!
-Princess: —Now then... What is it you wish to do from here?
-Princess: Even knowing the truth... will you still stay by my side?
+Nun (Mutsumi): ...Please lift your head.
+Nun (Mutsumi): I understand well what you mean to say. Now, then—
+Servant (Sakiko): ...?
+Servant (Sakiko): ...! You are...!
+Princess (Mutsumi): —Now then... What is it you wish to do from here?
+Princess (Mutsumi): Even knowing the truth... will you still stay by my side?

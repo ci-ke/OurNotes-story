@@ -25,21 +25,21 @@ Mana: Ui-chan? Are you okay?
 Uika: Eh? Yes...
 (Transition)
 (Background change)
-Mortis: —♪ Play from the beginning again...
+Mortis (Mutsumi): —♪ Play from the beginning again...
 Mutsumi: Please stop...
-Mortis: I won't stop. Could you not distract me when I'm trying to stay focused?
+Mortis (Mutsumi): I won't stop. Could you not distract me when I'm trying to stay focused?
 Mutsumi: Give me my guitar back. Stop pretending to play.
-Mortis: Then play as Ave Mujica. If Mutsumi-chan is going to play guitar, you can have it back.
+Mortis (Mutsumi): Then play as Ave Mujica. If Mutsumi-chan is going to play guitar, you can have it back.
 Mutsumi: I told you, I... want to try to reunite CRYCHIC once again...
-Mortis: ...! I told you! CRYCHIC is over! Don't make me say it again!
+Mortis (Mutsumi): ...! I told you! CRYCHIC is over! Don't make me say it again!
 Mutsumi: Saki in CRYCHIC always seemed happy. However, the Saki in Ave Mujica... always seemed in pain...
-Mortis: So, do you mean I should disappear?
+Mortis (Mutsumi): So, do you mean I should disappear?
 Mutsumi: ...
-Mortis: ...! Mutsumi-chan and Sakiko-chan, you don't understand anything! You will be in trouble without me, Mutsumi-chan!
+Mortis (Mutsumi): ...! Mutsumi-chan and Sakiko-chan, you don't understand anything! You will be in trouble without me, Mutsumi-chan!
 Mutsumi: Mortis, listen to me.
-Mortis: <size=175%>NO!
+Mortis (Mutsumi): <size=175%>NO!
 (Background change)
-Mortis: Haa... Haa... I will not listen to you...
+Mortis (Mutsumi): Haa... Haa... I will not listen to you...
 (Transition)
 (Background change)
 Sakiko: (Mortis wants Mutsumi to continue playing as Ave Mujica.)

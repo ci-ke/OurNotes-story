@@ -50,25 +50,25 @@ Nyamu: <size=175%>Get out now!
 Nyamu: ...
 (Transition)
 (Background change)
-Mortis: —♪
+Mortis (Mutsumi): —♪
 Umiri: ...
 Umiri: (I'm still not trusted...)
 Umiri: (Though I'm putting so much effort into reviving Mujica...)
-Mortis: How's that? Perfect, right?
+Mortis (Mutsumi): How's that? Perfect, right?
 Umiri: That's good. All three songs are excellent.
-Mortis: Eheheh.
+Mortis (Mutsumi): Eheheh.
 Umiri: However, it subtly does not match the sound. Please act more convincingly.
-Mortis: Mmm...!
+Mortis (Mutsumi): Mmm...!
 Umiri: Okay, that's all for today. I already told you, I have a practice session with DISRUPTION.
-Mortis: I'm serious about this.
+Mortis (Mutsumi): I'm serious about this.
 Umiri: Eh...!
 Umiri: ...
 (Transition)
 (Background change)
 Passenger A: Hey, is that...? No way, that's Mutsumi-chan~!
 Passenger B: She has a guitar! So cute~
-Mortis: No... I'm not...
-Mortis: Zzz... zzz...
+Mortis (Mutsumi): No... I'm not...
+Mortis (Mutsumi): Zzz... zzz...
 Train Announcement: Now arriving at Kyodo, Kyodo—
 Mutsumi: I have to get off.
 (Transition)
@@ -96,7 +96,7 @@ Uika: Wait! Are you two reuniting CRYCHIC?
 Mutsumi: Eh...
 (Transition)
 (Background change)
-Mortis: What did she just...
+Mortis (Mutsumi): What did she just...
 Uika: I heard that Saki-chan wants to revive CRYCHIC.
 (Transition)
 (Background change)
@@ -144,24 +144,24 @@ Mutsumi: Tomori, please. Let's reunite CRYCHIC again...!
 (Video: https://assets.bdon.moe/en/Cri/Video/adv/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09.mp4)
 (Caption): 睦　モーティス突き落としシーン
 (Subtitle) Mutsumi: This is mine...
-(Subtitle) Mortis: ! Give it back...!
+(Subtitle) Mortis (Mutsumi): ! Give it back...!
 (Subtitle) Mutsumi: Didn't I tell you already? Saki will reunite CRYCHIC!
-(Subtitle) Mortis: I don't want it! I'm going to reunite Ave Mujica!
-(Subtitle) Mortis: I practiced guitar so much—!
+(Subtitle) Mortis (Mutsumi): I don't want it! I'm going to reunite Ave Mujica!
+(Subtitle) Mortis (Mutsumi): I practiced guitar so much—!
 (Subtitle) Mutsumi: ! Don't take my role!
-(Subtitle) Mortis: Ah...
-(Subtitle) Mortis: Eh...
+(Subtitle) Mortis (Mutsumi): Ah...
+(Subtitle) Mortis (Mutsumi): Eh...
 (Subtitle) Multiple Mutsumi: Ohhh~~~!
 Tomori: Mutsumi-chan...?
-Mortis: Huh! Haa... Haa...!
+Mortis (Mutsumi): Huh! Haa... Haa...!
 Tomori: Ah...
 (Transition)
 (Background change)
 (Transition)
 (Background change)
-Mortis: Mutsumi-chan is dead! She's dead! She's dead!
-Mortis: Hello? Hello! Is this the doctor?
-Mortis: Geez!
+Mortis (Mutsumi): Mutsumi-chan is dead! She's dead! She's dead!
+Mortis (Mutsumi): Hello? Hello! Is this the doctor?
+Mortis (Mutsumi): Geez!
 (Transition)
 
 [The Next Day]
@@ -184,57 +184,57 @@ Soyo: Will that really make Mutsumi-chan happy? What did Mortis-chan say?
 Sakiko: Mortis is...
 Umiri: I knew you were going back to your ex.
 Sakiko: Mortis... Your wish will make Mutsumi suffer.
-Mortis: ...
+Mortis (Mutsumi): ...
 Umiri: What do you mean?
 Sakiko: Mortis was born to help the suffering Mutsumi. That's why she wants to revive Ave Mujica, since it's the place where Mutsumi will continue to suffer.
 Sakiko: To keep herself from disappearing.
-Mortis: ...
+Mortis (Mutsumi): ...
 Sakiko: I would never make a choice that would make Mutsumi suffer. I have to make her happy.
 Umiri: Do we have to be happy?
 Uika: !
 Umiri: Once you're satisfied, it's over. If we reunite Ave Mujica, Mortis-san can continue to live.
 Umiri: They can both live on. You can't be happy if you aren't even alive!
 Sakiko: Even so, I can't choose Ave Mujica.
-Mortis: ...
+Mortis (Mutsumi): ...
 (Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
-Mortis: My role was to help Mutsumi-chan, but Mutsumi-chan is no longer here... Then I will...
+Mortis (Mutsumi): My role was to help Mutsumi-chan, but Mutsumi-chan is no longer here... Then I will...
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
 Multiple Mutsumi: Hehe... Hehe...
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
-Mortis: Ugh...
+Mortis (Mutsumi): Ugh...
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp)
 (Background change)
-Mortis: I don't want this! I don't want to disappear! I'm never going to disappear!
+Mortis (Mutsumi): I don't want this! I don't want to disappear! I'm never going to disappear!
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
 "Mutsumi": <size=175%>Don't take my role!
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
-Mortis: ...! If Mutsumi-chan isn't here, I can play her role.
+Mortis (Mutsumi): ...! If Mutsumi-chan isn't here, I can play her role.
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
-Mortis: "I" will...! Play as "Mutsumi Wakaba"...!
+Mortis (Mutsumi): "I" will...! Play as "Mutsumi Wakaba"...!
 (Transition)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
 (CG insert: https://assets.bdon.moe/en/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
 (Background change)
-Mortis: ...
+Mortis (Mutsumi): ...
 Umiri: Togawa-san, are you going to let Mortis-san die?
 Sakiko: I'm determined.
 Umiri: I'm determined too! I have quit all the bands I was playing in.
 Taki: !
 Umiri: Am I still not trustworthy? I mean it, too. I want to reunite Ave Mujica!
 Umiri: I want to believe in each other! Ugh...
-Mortis: Saki... Mortis doesn't want to disappear.
+Mortis (Mutsumi): Saki... Mortis doesn't want to disappear.
 Sakiko: Eh...
-Mortis: I too, don't want to see you suffer for choosing me. As much as you are thinking of me, I'm thinking of you too.
+Mortis (Mutsumi): I too, don't want to see you suffer for choosing me. As much as you are thinking of me, I'm thinking of you too.
 Uika: ...
-Mortis: It doesn't have to be CRYCHIC. As long as I can be in a band with you, that's enough...
+Mortis (Mutsumi): It doesn't have to be CRYCHIC. As long as I can be in a band with you, that's enough...
 (Transition)
 Rāna: Heh... An interesting girl.
 (Transition)

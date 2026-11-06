@@ -50,25 +50,25 @@
 にゃむ: ……
 (Transition)
 (Background change)
-モーティス: ——♪
+モーティス (睦): ——♪
 海鈴: ……
 海鈴: （まだ信用されませんか……）
 海鈴: （ムジカ復活のために、こんなにも尽力しているというのに……）
-モーティス: どうっ？　もう完璧でしょ？
+モーティス (睦): どうっ？　もう完璧でしょ？
 海鈴: いいですね。３曲すべていい出来です
-モーティス: えへへっ
+モーティス (睦): えへへっ
 海鈴: ですが、微妙に音と合っていません。 もっと迫真の演技をお願いします
-モーティス: む〜……！
+モーティス (睦): む〜……！
 海鈴: では今日はこれで解散ですね。 お伝えしましたが、このあとディスラプションの練習があるので
-モーティス: 私、本気でやってんのに
+モーティス (睦): 私、本気でやってんのに
 海鈴: えっ……！
 海鈴: ……
 (Transition)
 (Background change)
 乗客A: ねえ、あれさ。やっぱそうだよね睦ちゃんだ〜！
 乗客B: ギター持ってる。かわいい〜
-モーティス: ちがうもん……私は……
-モーティス: ……すぅ……すぅ
+モーティス (睦): ちがうもん……私は……
+モーティス (睦): ……すぅ……すぅ
 電車アナウンス: まもなく経堂、経堂です——
 睦: ……降りなきゃ
 (Transition)
@@ -96,7 +96,7 @@
 睦: えっ……
 (Transition)
 (Background change)
-モーティス: いま、なんて……？
+モーティス (睦): いま、なんて……？
 初華: さきちゃんが、CRYCHIC復活させたいって聞いて
 (Transition)
 (Background change)
@@ -144,24 +144,24 @@
 (Video: https://assets.bdon.moe/ja/Cri/Video/adv/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09/adv_movie_mortis_fall_mujica_09.mp4)
 (Caption): 睦　モーティス突き落としシーン
 (Subtitle) 睦: 私の……
-(Subtitle) モーティス: ！　返してっ……！
+(Subtitle) モーティス (睦): ！　返してっ……！
 (Subtitle) 睦: 言ったでしょ、祥はCRYCHICをやってくれるって！
-(Subtitle) モーティス: やだやだ、Ave Mujicaやるんだもん！
-(Subtitle) モーティス: ギターの練習だってこんなに――！
+(Subtitle) モーティス (睦): やだやだ、Ave Mujicaやるんだもん！
+(Subtitle) モーティス (睦): ギターの練習だってこんなに――！
 (Subtitle) 睦: っ！　私の役取らないで！
-(Subtitle) モーティス: あ……
-(Subtitle) モーティス: え……
+(Subtitle) モーティス (睦): あ……
+(Subtitle) モーティス (睦): え……
 (Subtitle) 睦たち: おお〜〜〜っ！
 燈: ……睦ちゃん………？
-モーティス: はっ！　……はぁ……はぁ……！
+モーティス (睦): はっ！　……はぁ……はぁ……！
 燈: ……あ
 (Transition)
 (Background change)
 (Transition)
 (Background change)
-モーティス: 睦ちゃんがしんじゃった！　しんじゃった！ しんじゃった！
-モーティス: もしもし。もしもしっ！　お医者さんですか？
-モーティス: ……もうっ！
+モーティス (睦): 睦ちゃんがしんじゃった！　しんじゃった！ しんじゃった！
+モーティス (睦): もしもし。もしもしっ！　お医者さんですか？
+モーティス (睦): ……もうっ！
 (Transition)
 
 [翌日]
@@ -184,57 +184,57 @@
 祥子: モーティスは……
 海鈴: やっぱり元サヤするんですね
 祥子: モーティス…… あなたの願いは睦を苦しめることですわ
-モーティス: ……っ
+モーティス (睦): ……っ
 海鈴: どういうことですか
 祥子: モーティスは苦しむ睦を助けるために生まれた。 だから睦が苦しみ続けることになるAve Mujicaの 復活を望んでいるのです
 祥子: ——自分が消えないために
-モーティス: ……
+モーティス (睦): ……
 祥子: わたくしは睦を苦しめる選択など絶対にしない。 幸せにしなくては
 海鈴: 幸せである必要あるんですか？
 初華: ！
 海鈴: 満たされたら終わりじゃないですか。 Ave Mujicaをすればモーティスさんは生きられる
 海鈴: ふたりとも生き続けられる。 生きていないとしあわせにだってなれないんですよ
 祥子: それでもわたくしに、Ave Mujicaは選べませんわ
-モーティス: ……
+モーティス (睦): ……
 (Transition)
 (Background change)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
-モーティス: 私は睦ちゃんを助ける役で、でも睦ちゃんはいなくて…… そしたら私は……
+モーティス (睦): 私は睦ちゃんを助ける役で、でも睦ちゃんはいなくて…… そしたら私は……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
 睦たち: くすくす……くすくす……
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
-モーティス: うっ……
+モーティス (睦): うっ……
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000152/data/adv_still_anime_000152/adv_still_anime_000152.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000153/data/adv_still_anime_000153/adv_still_anime_000153.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000154/data/adv_still_anime_000154/adv_still_anime_000154.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000155/data/adv_still_anime_000155/adv_still_anime_000155.webp)
 (Background change)
-モーティス: やだやだ、消えたくないっ！　ぜったいに消えないもん！
+モーティス (睦): やだやだ、消えたくないっ！　ぜったいに消えないもん！
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
 『睦』: <size=175%>私の役、取らないで！
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
-モーティス: ……！　 睦ちゃんがいないなら、私がその役をやればいい
+モーティス (睦): ……！　 睦ちゃんがいないなら、私がその役をやればいい
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
-モーティス: 『私』が……！　『若葉睦』を！
+モーティス (睦): 『私』が……！　『若葉睦』を！
 (Transition)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000156/data/adv_still_anime_000156/adv_still_anime_000156.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000157/data/adv_still_anime_000157/adv_still_anime_000157.webp)
 (CG insert: https://assets.bdon.moe/ja/Adv/Still/anime/adv_still_anime_000158/data/adv_still_anime_000158/adv_still_anime_000158.webp)
 (Background change)
-モーティス: ……
+モーティス (睦): ……
 海鈴: 豊川さんはモーティスさんを見殺しにするんですか？
 祥子: 覚悟の上ですわ
 海鈴: 覚悟なら私だって！ ……掛け持ちしていたバンド、すべて辞めてきました
 立希: っ！
 海鈴: これでも信用できませんか？　私だって本気なんです。 ……Ave Mujicaをやりたいんです！
 海鈴: 信じ合いたいんです！　うぅ……
-モーティス: 祥……モーティス消えたくないって
+モーティス (睦): 祥……モーティス消えたくないって
 祥子: え……
-モーティス: 私も、祥が私を選んで苦しむ姿を見たくない。 祥が思ってくれてるように私も祥を思ってるから
+モーティス (睦): 私も、祥が私を選んで苦しむ姿を見たくない。 祥が思ってくれてるように私も祥を思ってるから
 初華: ……っ
-モーティス: CRYCHICじゃなくてもいい。 祥とバンドができれば、それで……
+モーティス (睦): CRYCHICじゃなくてもいい。 祥とバンドができれば、それで……
 (Transition)
 楽奈: ふっ……おもしれー女の子
 (Transition)

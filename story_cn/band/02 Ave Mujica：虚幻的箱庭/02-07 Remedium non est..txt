@@ -186,13 +186,13 @@
 【若叶家 睦的房间】
 
 爽世：小睦……？你在吗？ ……我进来了哦
-Mortis：——好的，好的……
+Mortis（睦）：——好的，好的……
 爽世：（在和谁打电话吗……？）
 （转场）
-Mortis：是这样………不，她一直沉睡着
-Mortis：喂，是医生吗？ 是的………是的，小睦一直没醒
+Mortis（睦）：是这样………不，她一直沉睡着
+Mortis（睦）：喂，是医生吗？ 是的………是的，小睦一直没醒
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000123/data/adv_still_anime_000123/adv_still_anime_000123.webp）
-Mortis：是的，是的……她一直沉睡着
+Mortis（睦）：是的，是的……她一直沉睡着
 爽世：小睦？
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000124/data/adv_still_anime_000124/adv_still_anime_000124.webp）
@@ -201,11 +201,11 @@ Mortis：是的，是的……她一直沉睡着
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp）
 爽世：<size=175%>！？
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp）
-Mortis：……
+Mortis（睦）：……
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000125/data/adv_still_anime_000125/adv_still_anime_000125.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000126/data/adv_still_anime_000126/adv_still_anime_000126.webp）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000127/data/adv_still_anime_000127/adv_still_anime_000127.webp）
 爽世：噫……
 （转场）
 （插入CG：https://assets.bdon.moe/zh-Hans/Adv/Still/anime/adv_still_anime_000128/data/adv_still_anime_000128/adv_still_anime_000128.webp）
-Mortis：小爽世…… 小爽世，快让小睦醒过来……
+Mortis（睦）：小爽世…… 小爽世，快让小睦醒过来……
